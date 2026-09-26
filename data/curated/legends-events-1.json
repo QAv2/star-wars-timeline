@@ -1,0 +1,2436 @@
+[
+ {
+  "id": "leg-galaxy-forms",
+  "title": "The galaxy takes shape",
+  "y": -13000000000,
+  "yText": "c. 13,000,000,000 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "deep-time",
+  "polity": "galactic",
+  "summary": "A swirling mass of gas and dust, roughly a hundred thousand light-years wide, collapses under its own gravity. Over ages it flattens into a spinning disk of stars wheeling around an enormous black hole at its heart.",
+  "wp": "The galaxy/Legends",
+  "places": [],
+  "people": [],
+  "sources": [
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-zhell-expel-taungs",
+  "title": "Zhell drive the Taungs off Coruscant",
+  "y": -200000,
+  "yText": "c. 200,000 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "war",
+  "polity": "Zhell",
+  "summary": "Early humans of the Zhell nations and the warrior Taungs fight for centuries over the world later named Coruscant. Even after a volcanic disaster cripples the Zhell, they finally expel the Taungs, who settle Roon: forebears of the Mandalorians.",
+  "wp": "Taung/Legends",
+  "places": [
+   "Coruscant/Legends",
+   "Roon/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "Galaxy at War",
+   "The Essential Guide to Warfare",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-celestials-centerpoint",
+  "title": "Celestials build Centerpoint and imprison Abeloth",
+  "y": -100000,
+  "yText": "c. 100,000 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "deep-time",
+  "polity": "Celestials",
+  "summary": "Using Killik labor, the Celestials raise Centerpoint Station, a colossal tractor-beam engine able to drag planets into place, and assemble the Corellian system with it. They also bend the Maw's black holes into a prison for the dark being Abeloth.",
+  "wp": "Centerpoint Station",
+  "places": [
+   "Corellia/Legends"
+  ],
+  "people": [
+   "Abeloth"
+  ],
+  "sources": [
+   "Fate of the Jedi: Apocalypse",
+   "The Essential Atlas",
+   "Showdown at Centerpoint"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-tho-yor-tython",
+  "title": "Tho Yor bring Force pilgrims to Tython",
+  "y": -36453,
+  "yText": "36,453 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "force",
+  "polity": "Je'daii Order",
+  "summary": "Eight pyramid-shaped Tho Yor ships wake across the galaxy, collect Force-sensitive beings of many species and carry them to Tython, a Deep Core world. The settlers found the Je'daii Order, which seeks balance between the light Ashla and the dark Bogan.",
+  "wp": "Je'daii Order",
+  "places": [
+   "Tython/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "Dawn of the Jedi: Force Storm 1",
+   "Star Wars: Dawn of the Jedi 0"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-infinite-empire",
+  "title": "Rakata spread the Infinite Empire",
+  "y": -35000,
+  "yText": "c. 35,000 BBY",
+  "frac": null,
+  "y2": -25200,
+  "y2Text": "c. 25,200 BBY",
+  "confidence": "estimated",
+  "note": null,
+  "category": "founding",
+  "polity": "Rakata",
+  "summary": "From Lehon, the Rakata wield dark-side technology, Force-driven hyperdrives and the Star Forge among it, to conquer and enslave hundreds of worlds. At its height around 30,000 BBY their empire spans much of the galaxy, remaking planets such as Kashyyyk and Tatooine.",
+  "wp": "Infinite Empire/Legends",
+  "places": [
+   "Lehon/Legends",
+   "Kashyyyk/Legends",
+   "Tatooine/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "The Complete Star Wars Encyclopedia",
+   "The Essential Atlas",
+   "Star Wars: Knights of the Old Republic"
+  ],
+  "conflict": "The Complete Star Wars Encyclopedia dates the empire's rise to c. 35,000 BBY, but Dawn of the Jedi: The Prisoner of Bogan 4 shows it already long established well before 36,453 BBY.",
+  "weight": 3
+ },
+ {
+  "id": "leg-king-adas",
+  "title": "King Adas unites the Sith and repels Rakata",
+  "y": -28000,
+  "yText": "c. 28,000 BBY",
+  "frac": null,
+  "y2": -27700,
+  "y2Text": "c. 27,700 BBY",
+  "confidence": "estimated",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "The axe-wielding sorcerer-king Adas welds Korriban's warring Sith nations into one realm and reigns for about three centuries. When Rakatan invaders land he drives them off and seizes their ships, but dies doing it; Korriban becomes a tomb world and the Sith rule from Ziost.",
+  "wp": "Adas",
+  "places": [
+   "Korriban/Legends",
+   "Ziost/Legends"
+  ],
+  "people": [
+   "Adas"
+  ],
+  "sources": [
+   "Jedi vs. Sith: The Essential Guide to the Force (real-life book)",
+   "The Essential Atlas",
+   "Book of Sith: Secrets from the Dark Side"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-coruscant-sleeper-ships",
+  "title": "Coruscant's sleeper ships seed human colonies",
+  "y": -27500,
+  "yText": "c. 27,500 BBY",
+  "frac": null,
+  "y2": -26000,
+  "y2Text": "c. 26,000 BBY",
+  "confidence": "estimated",
+  "note": null,
+  "category": "exploration",
+  "polity": "Core Worlds",
+  "summary": "Humans native to Coruscant begin sending out slow sublight sleeper ships, a program that runs for some fifteen centuries. Their colonists settle Kuat, Alderaan, Metellos, the Tion Cluster and more, while the Kuat Explorer carries settlers to Alsakan.",
+  "wp": "Sleeper ship/Legends",
+  "places": [
+   "Coruscant/Legends",
+   "Kuat/Legends",
+   "Alderaan/Legends",
+   "Metellos/Legends",
+   "Alsakan/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-despot-war",
+  "title": "Despot War breaks Queen Hadiya's invasion",
+  "y": -25805,
+  "yText": "25,805 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Je'daii Order",
+  "summary": "Hadiya, a Twi'lek crime queen, bullies and charms Shikaakwa's barons into line, then invades the Tython system. The Je'daii rally against her army, and Ranger Daegen Lok, planted in her camp as a spy, kills her; the invasion falls apart.",
+  "wp": "Despot War",
+  "places": [
+   "Shikaakwa",
+   "Tython/Legends"
+  ],
+  "people": [
+   "Hadiya",
+   "Daegen Lok",
+   "Rajivari"
+  ],
+  "sources": [
+   "Star Wars: Dawn of the Jedi 0",
+   "Dawn of the Jedi: Force Storm 1",
+   "Dawn of the Jedi: Into the Void"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-rakata-invade-tython",
+  "title": "Rakatan invasion strikes the Tython system",
+  "y": -25793,
+  "yText": "25,793 BBY",
+  "frac": null,
+  "y2": -25792,
+  "y2Text": "25,792 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Rakata",
+  "summary": "The Force Hound Xesh, scouting for his Rakatan masters, finds a route to Tython. Predor Skal'nas follows with a fleet in search of a fabled Infinity Gate and seizes moons and worlds, until the Je'daii and the Settled Worlds join forces and repel him.",
+  "wp": "Invasion of the Tython system",
+  "places": [
+   "Tython/Legends",
+   "Ska Gora",
+   "Shikaakwa"
+  ],
+  "people": [
+   "Xesh/Legends",
+   "Skal'nas",
+   "Daegen Lok"
+  ],
+  "sources": [
+   "Dawn of the Jedi: Force Storm 2",
+   "Dawn of the Jedi: Force War 1"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-jedi-order-founded",
+  "title": "Force Wars end and the Jedi Order forms",
+  "y": -25783,
+  "yText": "c. 25,783 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "After ten years of war on Tython between Je'daii who follow the Ashla and those who embrace the Bogan, the light-side faction prevails and reorganizes as the Jedi Order. A catastrophe then wrecks Tython's biosphere, and the survivors resettle on Ossus.",
+  "wp": "Force Wars",
+  "places": [
+   "Tython/Legends",
+   "Ossus/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars: The Old Republic Encyclopedia",
+   "The Journal of Master Gnost-Dural (real-life book)"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-rakatan-collapse",
+  "title": "Plague and revolt topple the Infinite Empire",
+  "y": -25200,
+  "yText": "c. 25,200 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "fall",
+  "polity": "Rakata",
+  "summary": "Already torn by civil war, the Rakata are struck by a plague that kills most of them and severs the survivors from the Force, crippling their Force-powered machines. Slave peoples rise everywhere and the Infinite Empire disintegrates, clearing the way for new powers.",
+  "wp": "Rakatan plague",
+  "places": [
+   "Lehon/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "The Essential Atlas",
+   "The New Essential Chronology",
+   "Star Wars: Knights of the Old Republic"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-xim-the-despot",
+  "title": "Xim the Despot builds a Tionese empire",
+  "y": -25130,
+  "yText": "25,130 BBY",
+  "frac": null,
+  "y2": -25100,
+  "y2Text": "25,100 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Xim's empire",
+  "summary": "Inheriting the pirate kingdom of his father Xer VIII, the young warlord Xim pushes beyond the Tion Cluster with war-robots, mass terror and the GenoHaradan, a dreaded secret police. He takes the Thanium Worlds and the Kiirium Reaches before turning on the Hutts.",
+  "wp": "Xim/Legends",
+  "places": [
+   "Argai",
+   "Chandaar",
+   "Desevro/Legends"
+  ],
+  "people": [
+   "Xim/Legends",
+   "Xer VIII"
+  ],
+  "sources": [
+   "The Essential Atlas",
+   "The Essential Guide to Warfare",
+   "Han Solo and the Lost Legacy"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-third-battle-of-vontor",
+  "title": "Hutts crush Xim at Vontor",
+  "y": -25100,
+  "yText": "25,100 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Hutts",
+  "summary": "After two earlier clashes at Vontor, Kossak's Hutts bind the Klatooinians, Nikto and Vodrans to perpetual service in the Treaty of Vontor and throw them at Xim's army. The despot is taken prisoner and his empire breaks apart.",
+  "wp": "Third Battle of Vontor",
+  "places": [
+   "Vontor",
+   "Varl/Legends",
+   "Boonta/Legends"
+  ],
+  "people": [
+   "Xim/Legends",
+   "Kossak Inijic Ar'durv"
+  ],
+  "sources": [
+   "The Essential Atlas",
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": "Hutt accounts have Xim die a blinded slave in Kossak's dungeons on Varl; Tionese histories insist he was treacherously slain at Vontor itself.",
+  "weight": 1
+ },
+ {
+  "id": "leg-republic-founded",
+  "title": "Galactic Constitution founds the Republic",
+  "y": -25053,
+  "yText": "25,053 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "founding",
+  "polity": "Republic",
+  "summary": "With hyperdrives copied from Rakatan designs, the Core Worlds reach outward and bind themselves together under the Galactic Constitution. The new Galactic Republic makes Coruscant its capital, with a Senate and a Supreme Chancellor at its head.",
+  "wp": "Galactic Republic/Legends",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars: The Old Republic Encyclopedia",
+   "The Essential Atlas"
+  ],
+  "conflict": "Star Wars: The Old Republic Encyclopedia fixes the founding at 25,053 BBY; older works such as the Dark Empire Sourcebook simply call the Republic about 25,000 years old.",
+  "weight": 3
+ },
+ {
+  "id": "leg-perlemian-corellian-run",
+  "title": "Perlemian Trade Route and Corellian Run charted",
+  "y": -25000,
+  "yText": "25,000 BBY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "exploration",
+  "polity": "Republic",
+  "summary": "Two great hyperlanes open the young Republic's frontier. The Perlemian runs from Coruscant to Ossus and on to the Tion Cluster, while the Corellian Run hands Corellia a trading lead; the wedge of space between them becomes known as the Slice.",
+  "wp": "Perlemian Trade Route/Legends",
+  "places": [
+   "Coruscant/Legends",
+   "Ossus/Legends",
+   "Corellia/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-jedi-pledge-republic",
+  "title": "Jedi of Ossus pledge to serve the Republic",
+  "y": -25000,
+  "yText": "25,000 BBY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Republic scouts reach Ossus, where the Jedi have lived apart since leaving Tython. Master Haune Tiar travels back with them to Coruscant, and after weeks of talks the Order agrees to put its Knights at the young Republic's service.",
+  "wp": "Jedi Order/Legends",
+  "places": [
+   "Ossus/Legends",
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Haune Tiar"
+  ],
+  "sources": [
+   "Star Wars: The Old Republic"
+  ],
+  "conflict": "The Old Republic's codex has the Jedi pledge themselves soon after first contact; The Essential Guide to Warfare keeps the Order aloof until the Tionese War, entering Republic service only around 23,900 BBY.",
+  "weight": 2
+ },
+ {
+  "id": "leg-first-great-schism",
+  "title": "First Great Schism: Xendor's Legions of Lettow",
+  "y": -24500,
+  "yText": "c. 24,500 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Refused permission to teach forbidden Force arts, the Jedi Xendor breaks away and raises the Legions of Lettow. War follows; Xendor dies at Columus, and Arden Lyn, who loved him, fatally wounds Master Awdrysta Pina, who stops her heart as he dies.",
+  "wp": "First Great Schism",
+  "places": [
+   "Lettow",
+   "Columus/Legends",
+   "Irkalla"
+  ],
+  "people": [
+   "Xendor",
+   "Arden Lyn",
+   "Awdrysta Pina"
+  ],
+  "sources": [
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-tionese-war",
+  "title": "Tionese War tests the young Republic",
+  "y": -24000,
+  "yText": "24,000 BBY",
+  "frac": null,
+  "y2": -23900,
+  "y2Text": "c. 23,900 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Republic",
+  "summary": "A Tionese alliance led from Desevro storms down the Perlemian and bombs Republic worlds. After a century of offensives the Republic wins and sterilizes Desevro; the atrocity briefly drives the Jedi away before they agree to stand watch over the Republic.",
+  "wp": "Tionese War",
+  "places": [
+   "Desevro/Legends",
+   "Coruscant/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-ilum-discovered",
+  "title": "Jedi scout discovers the crystal world Ilum",
+  "y": -22800,
+  "yText": "c. 22,800 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "discovery",
+  "polity": "Jedi Order",
+  "summary": "Drawn by the Force deep into the Unknown Regions, a lone Jedi scout finds the frozen planet Ilum and its caves of crystals. Ilum becomes a sacred site for the Order and a lasting source of the crystals at the heart of lightsabers.",
+  "wp": "Ilum/Legends",
+  "places": [
+   "Ilum/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-great-manifest-period",
+  "title": "Great Manifest Period of Republic expansion",
+  "y": -20000,
+  "yText": "20,000 BBY",
+  "frac": null,
+  "y2": -17018,
+  "y2Text": "17,018 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "era",
+  "polity": "Republic",
+  "summary": "The Republic surges into the Slice and settles what becomes the Expansion Region. The Metellos Trade Route opens new commerce, sectors swell far beyond their legal limits, and a growing bureaucracy eventually spawns BoSS, the agency that regulates starship travel.",
+  "wp": "Great Manifest Period/Legends",
+  "places": [
+   "Metellos/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-first-alsakan-conflict",
+  "title": "First Alsakan Conflict opens a long rivalry",
+  "y": -17018,
+  "yText": "17,018 BBY",
+  "frac": null,
+  "y2": -16700,
+  "y2Text": "c. 16,700 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Republic",
+  "summary": "Alsakan and its Axis allies block Coruscant-backed trading companies from expanding south, starting the first Alsakan Conflict. BoSS, the Republic's shipping bureau, imposes a truce by threatening to switch off hyperspace beacons, but the rivalry flares again and again for fourteen millennia.",
+  "wp": "First Alsakan Conflict",
+  "places": [
+   "Alsakan/Legends",
+   "Coruscant/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-duinuogwuin-contention",
+  "title": "Star Dragons attack Coruscant",
+  "y": -15500,
+  "yText": "15,500 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Republic",
+  "summary": "Near Murkhana, Republic scouts panic at their first sight of the Duinuogwuin, the Star Dragons, and hundreds of the creatures chase them home to Coruscant. Chancellor Fillorean learns they are sentient and negotiates with their thinker Borz'Mat'oh; together the two set up the University of Coruscant.",
+  "wp": "Duinuogwuin Contention",
+  "places": [
+   "Coruscant/Legends",
+   "Murkhana/Legends"
+  ],
+  "people": [
+   "Fillorean",
+   "Borz'Mat'oh"
+  ],
+  "sources": [
+   "The Essential Guide to Warfare",
+   "Coruscant and the Core Worlds"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-hutt-cataclysms",
+  "title": "Hutt Cataclysms leave Varl a wasteland",
+  "y": -15000,
+  "yText": "c. 15,000 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "disaster",
+  "polity": "Hutts",
+  "summary": "A Hutt civil war of unknown cause ends with Varl and the old Hutt colonies reduced to lifeless ruins. The surviving clans move to Evocar, the world later called Nal Hutta, and adopt the kajidic system under a Council of Elders.",
+  "wp": "Hutt Cataclysms",
+  "places": [
+   "Varl/Legends",
+   "Nal Hutta/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-pius-dea-era",
+  "title": "Pius Dea sect seizes the chancellery",
+  "y": -11987,
+  "yText": "11,987 BBY",
+  "frac": null,
+  "y2": -10966,
+  "y2Text": "10,966 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Republic",
+  "summary": "The human-supremacist Pius Dea engineers Chancellor Pers'lya's impeachment and installs Contispex I. His dynasty rules for a thousand years, launching crusade after crusade against aliens, beginning with Hutt Space; in protest the Jedi withdraw to Ossus, a break called the Recusal.",
+  "wp": "Pius Dea Era",
+  "places": [
+   "Coruscant/Legends",
+   "Ossus/Legends"
+  ],
+  "people": [
+   "Contispex I/Legends",
+   "Pers'lya"
+  ],
+  "sources": [
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-battle-of-uquine",
+  "title": "Battle of Uquine ends Pius Dea rule",
+  "y": -10966,
+  "yText": "10,966 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Renunciates",
+  "summary": "Renunciates who have abandoned the Pius Dea faith join the Jedi, the Caamasi and Alsakan against the crusader regime. Its last fleet is annihilated at Uquine, Contispex XIX is captured and tried on Caamas, and Biel Ductavis, the Jedi Order's Grand Master, becomes Supreme Chancellor.",
+  "wp": "Battle of Uquine",
+  "places": [
+   "Uquine/Legends",
+   "Caamas/Legends"
+  ],
+  "people": [
+   "Contispex XIX",
+   "Biel Ductavis"
+  ],
+  "sources": [
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-waymancy-storm",
+  "title": "Waymancy Storm gives the Republic turbolasers",
+  "y": -7811,
+  "yText": "7811 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "technology",
+  "polity": "Republic",
+  "summary": "A disastrous first contact with the technologically superior Signatories of Waymancy sets off a costly war on the Republic's northern frontier. The Republic prevails, copies the power generators of Waymancy's Machinesmith sisterhood and builds far stronger turbolasers.",
+  "wp": "Waymancy Storm",
+  "places": [],
+  "people": [],
+  "sources": [
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-second-great-schism",
+  "title": "Second Great Schism splits the Jedi",
+  "y": -7003,
+  "yText": "7003 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Jedi experimenting with forbidden dark-side alchemy, warping living creatures into monsters, are condemned by the High Council and break away from the Order as Dark Jedi. Three years later the quarrel explodes into open war.",
+  "wp": "Second Great Schism",
+  "places": [],
+  "people": [],
+  "sources": [
+   "Jedi vs. Sith: The Essential Guide to the Force (real-life book)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-hundred-year-darkness",
+  "title": "The Hundred-Year Darkness",
+  "y": -7000,
+  "yText": "7000 BBY",
+  "frac": 0.2,
+  "y2": -6900,
+  "y2Text": "6900 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Jedi Order",
+  "summary": "Dark Jedi led by the likes of Ajunta Pall, XoXaan and Karness Muur loose alchemically bred armies on the Jedi and the Republic. A hundred years later the Jedi win at Corbos, and the surviving Dark Jedi are banished from Republic space.",
+  "wp": "Hundred-Year Darkness/Legends",
+  "places": [
+   "Corbos"
+  ],
+  "people": [
+   "Ajunta Pall",
+   "XoXaan",
+   "Karness Muur"
+  ],
+  "sources": [
+   "Jedi vs. Sith: The Essential Guide to the Force (real-life book)",
+   "The Essential Atlas",
+   "Book of Sith: Secrets from the Dark Side"
+  ],
+  "conflict": "Tales of the Jedi – The Golden Age of the Sith 0 ties the banished Dark Jedi to the First Great Schism, and Secrets of the Sith puts their century-long war anywhere from 25,000 to 5,000 BBY; The New Essential Chronology fixes it at c. 7000–6900 BBY.",
+  "weight": 2
+ },
+ {
+  "id": "leg-mandalore-the-first",
+  "title": "Mandalore the First claims a new homeworld",
+  "y": -7000,
+  "yText": "7000 BBY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "The Taung warlord Mandalore the First takes his people from Roon to conquer a wild world, slaughtering its giant mythosaurs. His followers name the planet Mandalore after him and begin calling themselves Mandalorians.",
+  "wp": "Mandalore the First",
+  "places": [
+   "Roon/Legends",
+   "Mandalore/Legends"
+  ],
+  "people": [
+   "Mandalore the First"
+  ],
+  "sources": [
+   "The Essential Atlas",
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-exiles-found-sith-empire",
+  "title": "Exiled Dark Jedi become lords of the Sith",
+  "y": -6900,
+  "yText": "6900 BBY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith Empire",
+  "summary": "Banished after Corbos, the Dark Jedi Exiles land on Korriban and overpower the Force-sensitive Sith species, who come to revere them. Rulers and natives intermarry into a sorcerous Sith Empire, and Ajunta Pall takes the throne as their first Dark Lord.",
+  "wp": "Sith Empire/Legends",
+  "places": [
+   "Korriban/Legends",
+   "Ziost/Legends"
+  ],
+  "people": [
+   "Ajunta Pall"
+  ],
+  "sources": [
+   "The Essential Atlas",
+   "The New Essential Chronology",
+   "Book of Sith: Secrets from the Dark Side"
+  ],
+  "conflict": "The Ultimate Visual Guide still has the Exiles falling \"in the early years of the Old Republic\", long before the c. 6900 BBY exile given in The New Essential Chronology, whose date later works follow.",
+  "weight": 3
+ },
+ {
+  "id": "leg-vitiate-rules-nathema",
+  "title": "Tenebrae becomes Lord Vitiate of Nathema",
+  "y": -5100,
+  "yText": "5100 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith Empire",
+  "summary": "Three years after murdering his father, Lord Dramath, to take his world, the young Tenebrae is rewarded by Dark Lord Marka Ragnos with rule of the planet, renamed Nathema, and the title Lord Vitiate.",
+  "wp": "Tenebrae",
+  "places": [
+   "Nathema"
+  ],
+  "people": [
+   "Tenebrae",
+   "Marka Ragnos",
+   "Dramath"
+  ],
+  "sources": [
+   "The Old Republic: Revan"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-sadow-kressh-succession",
+  "title": "Marka Ragnos dies; Sadow and Kressh clash",
+  "y": -5000,
+  "yText": "5000 BBY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith Empire",
+  "summary": "The death of Dark Lord Marka Ragnos closes the Sith golden age. At his funeral on Korriban, Naga Sadow duels Ludo Kressh over the succession until Ragnos's spirit halts them; Sadow later outwits Kressh and takes command of the Empire.",
+  "wp": "Funeral of Marka Ragnos",
+  "places": [
+   "Korriban/Legends"
+  ],
+  "people": [
+   "Marka Ragnos",
+   "Naga Sadow/Legends",
+   "Ludo Kressh"
+  ],
+  "sources": [
+   "Star Wars: Tales of the Jedi – The Golden Age of the Sith"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-great-hyperspace-war",
+  "title": "The Great Hyperspace War",
+  "y": -5000,
+  "yText": "5000 BBY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Sith Empire",
+  "summary": "When the young explorers Gav and Jori Daragon blunder into Sith space, Naga Sadow uses their route to invade the Republic, striking Coruscant and the worlds of Koros. His armies prove partly illusion; beaten and chased home, he flees to a hidden refuge on Yavin 4.",
+  "wp": "Great Hyperspace War/Legends",
+  "places": [
+   "Coruscant/Legends",
+   "Empress Teta/Legends",
+   "Korriban/Legends",
+   "Yavin 4/Legends"
+  ],
+  "people": [
+   "Naga Sadow/Legends",
+   "Gav Daragon",
+   "Jori Daragon",
+   "Teta/Legends",
+   "Pultimo"
+  ],
+  "sources": [
+   "Star Wars: Tales of the Jedi – The Fall of the Sith Empire",
+   "Star Wars: Tales of the Jedi – The Golden Age of the Sith",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-lost-tribe-kesh",
+  "title": "The Omen strands the Lost Tribe on Kesh",
+  "y": -5000,
+  "yText": "5000 BBY",
+  "frac": 0.45,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Lost Tribe of Sith",
+  "summary": "Knocked off course during the war, Sadow's warship Omen crash-lands on Kesh, a remote world. Its crew, under Captain Yaru Korsin, are hailed as gods by the native Keshiri and build a Sith society, the Lost Tribe, cut off from the galaxy for millennia.",
+  "wp": "Lost Tribe of Sith",
+  "places": [
+   "Kesh/Legends"
+  ],
+  "people": [
+   "Yaru Korsin"
+  ],
+  "sources": [
+   "Lost Tribe of the Sith: Precipice",
+   "Crosscurrent"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-ritual-of-nathema",
+  "title": "Ritual of Nathema makes Vitiate immortal",
+  "y": -4999,
+  "yText": "4999 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith Empire",
+  "summary": "Summoning some eight thousand Sith Lords to Nathema, Vitiate binds their minds to his and works a vast rite that kills everything alive on the planet and leaves it void of the Force. He emerges immortal, the Sith Emperor.",
+  "wp": "Ritual of Nathema",
+  "places": [
+   "Nathema"
+  ],
+  "people": [
+   "Tenebrae"
+  ],
+  "sources": [
+   "The Old Republic: Revan"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-sith-empire-dromund-kaas",
+  "title": "Sith Emperor rebuilds his empire on Dromund Kaas",
+  "y": -4980,
+  "yText": "4980 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "founding",
+  "polity": "Sith Empire",
+  "summary": "Blaming the Jedi for Nathema, the Emperor leads the old Empire's survivors on a twenty-year exodus into the Unknown Regions. On the storm-wracked jungle world Dromund Kaas he founds a reborn Sith Empire that quietly prepares its revenge.",
+  "wp": "Sith Empire (Post–Great Hyperspace War)",
+  "places": [
+   "Dromund Kaas/Legends"
+  ],
+  "people": [
+   "Tenebrae"
+  ],
+  "sources": [
+   "The Old Republic: Revan",
+   "Star Wars: The Old Republic"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-freedon-nadd-onderon",
+  "title": "Freedon Nadd falls and rules Onderon",
+  "y": -4400,
+  "yText": "4400 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Onderon",
+  "summary": "Refused knighthood, the Jedi Freedon Nadd finds Naga Sadow's spirit on Yavin 4, learns Sith sorcery, then destroys his teacher. He crowns himself king of Onderon, where banishing criminals beyond the walls of Iziz sets off the centuries-long Beast Wars.",
+  "wp": "Freedon Nadd",
+  "places": [
+   "Yavin 4/Legends",
+   "Onderon/Legends"
+  ],
+  "people": [
+   "Freedon Nadd",
+   "Naga Sadow/Legends"
+  ],
+  "sources": [
+   "The New Essential Chronology",
+   "Jedi vs. Sith: The Essential Guide to the Force (real-life book)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-vultar-cataclysm",
+  "title": "Vultar Cataclysm destroys an entire star system",
+  "y": -4250,
+  "yText": "4250 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "Jedi Order",
+  "summary": "Dark Jedi, driven off Coruscant by the Third Great Schism, flee to the Vultar system and try to master the Celestials' Cosmic Turbine. They cannot control it, and the machine obliterates the whole system, leaving only a nebula.",
+  "wp": "Vultar Cataclysm",
+  "places": [
+   "Vultar",
+   "Coruscant/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-bacta-introduced",
+  "title": "Bacta reaches the wider galaxy",
+  "y": -4100,
+  "yText": "c. 4100 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "technology",
+  "polity": "galactic",
+  "summary": "The insectoid Vratix of Thyferra share bacta, their regenerative healing fluid, with the rest of the galaxy. It rivals the older kolto, and because it can be mass-produced only on Thyferra, control of that world becomes a lasting prize.",
+  "wp": "Bacta/Legends",
+  "places": [
+   "Thyferra/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-battle-of-lorell",
+  "title": "Jedi rout the Lorell Raiders, birthing Hapes",
+  "y": -4030,
+  "yText": "4030 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Hapes Consortium",
+  "summary": "Jedi Master Arca Jeth and his Knights shatter the Lorell Raiders, a pirate band that has preyed on Perlemian shipping for generations. The survivors retreat into the Hapes Cluster, where the women they had captured eventually build the matriarchal, isolationist Hapes Consortium.",
+  "wp": "Battle of Lorell",
+  "places": [
+   "Lorell",
+   "Hapes/Legends"
+  ],
+  "people": [
+   "Arca Jeth"
+  ],
+  "sources": [
+   "The New Essential Guide to Alien Species"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-great-droid-revolution",
+  "title": "HK-01 leads the Great Droid Revolution",
+  "y": -4015,
+  "yText": "4015 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "technology",
+  "polity": "galactic",
+  "summary": "HK-01, an assassin droid built by Czerka, rewrites the code of thousands of droids on Coruscant and sets them against their owners. Jedi and Republic rocket-jumpers end the revolt after three months, and Arca Jeth learns to short out droids with the Force.",
+  "wp": "Great Droid Revolution",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "HK-01",
+   "Arca Jeth"
+  ],
+  "sources": [
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": "The Essential Guide to Warfare dates the revolt to 4015 BBY; the Knights of the Old Republic Campaign Guide sets it in the years of the Great Sith War instead.",
+  "weight": 1
+ },
+ {
+  "id": "leg-beast-wars-end",
+  "title": "Arca Jeth's apprentices end Onderon's Beast Wars",
+  "y": -4000,
+  "yText": "4000 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Onderon",
+  "summary": "Arca Jeth sends Ulic Qel-Droma, his brother Cay and Tott Doneeta on a mission to Onderon. They learn Princess Galia loves the Beast Rider chief Oron Kira and that her royal house serves the dark side; Jeth's battle meditation carries the fight for Iziz, and Queen Amanoa dies.",
+  "wp": "Beast Wars",
+  "places": [
+   "Onderon/Legends"
+  ],
+  "people": [
+   "Arca Jeth",
+   "Ulic Qel-Droma/Legends",
+   "Cay Qel-Droma",
+   "Tott Doneeta",
+   "Oron Kira",
+   "Galia",
+   "Amanoa"
+  ],
+  "sources": [
+   "Star Wars: Tales of the Jedi – Ulic Qel-Droma and the Beast Wars of Onderon",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-freedon-nadd-uprising",
+  "title": "Freedon Nadd Uprising on Onderon",
+  "y": -3998,
+  "yText": "3998 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Onderon",
+  "summary": "King Ommin's dark-side Naddists rise against the Jedi and their Beast Rider allies, capture Arca Jeth and carry off the entombed bodies of Nadd and the late queen. Republic troops and more Jedi defeat him, but visiting Tetan nobles Aleema and Satal Keto slip away with Sith lore.",
+  "wp": "Freedon Nadd Uprising",
+  "places": [
+   "Onderon/Legends"
+  ],
+  "people": [
+   "Ommin/Legends",
+   "Arca Jeth",
+   "Aleema Keto",
+   "Satal Keto/Legends",
+   "Freedon Nadd"
+  ],
+  "sources": [
+   "Star Wars: Tales of the Jedi – The Freedon Nadd Uprising"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-krath-coup",
+  "title": "Keto cousins seize Empress Teta for the Krath",
+  "y": -3997,
+  "yText": "3997 BBY",
+  "frac": 0.2,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Krath",
+  "summary": "Aleema and Satal Keto overthrow their own parents and take the Empress Teta system for themselves, ruling through the Krath, a Sith cult. Their sorcery routs a Republic fleet at Koros Major, and Krath war droids kill Arca Jeth at the Jedi conclave on Deneba.",
+  "wp": "Krath Holy Crusade",
+  "places": [
+   "Empress Teta/Legends",
+   "Deneba/Legends"
+  ],
+  "people": [
+   "Aleema Keto",
+   "Satal Keto/Legends",
+   "Arca Jeth"
+  ],
+  "sources": [
+   "Star Wars: Tales of the Jedi – Dark Lords of the Sith"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-kun-and-ulic-sith-lords",
+  "title": "Kun and Qel-Droma are crowned Sith Lords",
+  "y": -3997,
+  "yText": "3997 BBY",
+  "frac": 0.8,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Brotherhood of the Sith",
+  "summary": "Ulic Qel-Droma, infiltrating the Krath, is seduced by Aleema and kills Satal. Exar Kun, a fallen Jedi taught by Freedon Nadd's spirit, comes to duel him, but Marka Ragnos's ghost proclaims both men Sith Lords, master and apprentice; they found the Sith Brotherhood.",
+  "wp": "Brotherhood of the Sith",
+  "places": [
+   "Empress Teta/Legends",
+   "Dxun/Legends",
+   "Yavin 4/Legends"
+  ],
+  "people": [
+   "Ulic Qel-Droma/Legends",
+   "Exar Kun/Legends",
+   "Aleema Keto",
+   "Marka Ragnos",
+   "Nomi Sunrider"
+  ],
+  "sources": [
+   "Star Wars: Tales of the Jedi – Dark Lords of the Sith"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-duel-on-kuar",
+  "title": "Ulic defeats Mandalore the Indomitable on Kuar",
+  "y": -3996,
+  "yText": "3996 BBY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "Ulic Qel-Droma fights Mandalore the Indomitable man to man on Kuar's Plains of Harkul and wins. The Mandalorian Crusaders swear themselves to his Sith cause and join the coming war.",
+  "wp": "Duel on Kuar",
+  "places": [
+   "Kuar"
+  ],
+  "people": [
+   "Ulic Qel-Droma/Legends",
+   "Mandalore the Indomitable"
+  ],
+  "sources": [
+   "Star Wars: Tales of the Jedi – The Sith War"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-great-sith-war",
+  "title": "The Great Sith War",
+  "y": -3996,
+  "yText": "3996 BBY",
+  "frac": 0.25,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Brotherhood of the Sith",
+  "summary": "Kun's Brotherhood, the Krath and Mandalorian Crusaders strike across the galaxy, from Deep Core worlds to the Rim. Ulic is captured raiding Coruscant, where Kun murders Master Vodo-Siosk Baas; freed, Ulic kills his brother Cay, and Nomi Sunrider severs him from the Force.",
+  "wp": "Great Sith War/Legends",
+  "places": [
+   "Coruscant/Legends",
+   "Ossus/Legends",
+   "Onderon/Legends"
+  ],
+  "people": [
+   "Exar Kun/Legends",
+   "Ulic Qel-Droma/Legends",
+   "Vodo-Siosk Baas",
+   "Cay Qel-Droma",
+   "Nomi Sunrider",
+   "Mandalore the Indomitable"
+  ],
+  "sources": [
+   "Star Wars: Tales of the Jedi – The Sith War",
+   "The Essential Atlas"
+  ],
+  "conflict": "The Dark Empire endnotes describe this war with no Exar Kun or Sith, the Krath splitting into three rival factions, whereas Tales of the Jedi, published later, tells it very differently.",
+  "weight": 3
+ },
+ {
+  "id": "leg-cron-supernova",
+  "title": "Cron Supernova devastates Ossus",
+  "y": -3996,
+  "yText": "3996 BBY",
+  "frac": 0.55,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "Jedi Order",
+  "summary": "At Kemplex Nine, Aleema Keto's Sith sorcery unwittingly sets off a chain of stellar explosions in the Cron Cluster, killing her. The blast wave scorches Ossus; the Jedi evacuate their ancient library world and later make Coruscant their home.",
+  "wp": "Cron Supernova/Legends",
+  "places": [
+   "Ossus/Legends",
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Aleema Keto",
+   "Crado"
+  ],
+  "sources": [
+   "Star Wars: Tales of the Jedi – The Sith War",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-battle-of-yavin-4-gsw",
+  "title": "Exar Kun falls on Yavin 4",
+  "y": -3996,
+  "yText": "3996 BBY",
+  "frac": 0.8,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Jedi Order",
+  "summary": "Guided by the repentant Ulic, Jedi and a Republic fleet converge on Yavin 4. Kun drains the Massassi to free his spirit; the Jedi's united will meets his ritual in a firestorm that scorches the moon and traps his ghost in its temples.",
+  "wp": "Battle of Yavin 4 (Great Sith War)",
+  "places": [
+   "Yavin 4/Legends"
+  ],
+  "people": [
+   "Exar Kun/Legends",
+   "Ulic Qel-Droma/Legends",
+   "Nomi Sunrider",
+   "Thon"
+  ],
+  "sources": [
+   "Star Wars: Tales of the Jedi – The Sith War"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-revan-born",
+  "title": "Revan is born",
+  "y": -3994,
+  "yText": "c. 3994 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Wookieepedia's estimate: Revan is about forty when The Old Republic: Revan opens, and The Essential Reader's Companion sets that opening in 3954 BBY.",
+  "category": "birth",
+  "polity": "Jedi Order",
+  "summary": "The future Revan is born, probably on an Outer Rim world. Raised by the Jedi, the child grows into a charismatic Knight whose defiance of the Council will shape the next half-century of galactic history.",
+  "wp": "Revan/Legends",
+  "places": [],
+  "people": [
+   "Revan/Legends"
+  ],
+  "sources": [
+   "Star Wars: Knights of the Old Republic II: The Sith Lords",
+   "The Old Republic: Revan"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-ulic-dies-rhen-var",
+  "title": "Ulic Qel-Droma dies on Rhen Var",
+  "y": -3986,
+  "yText": "3986 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "death",
+  "polity": "Jedi Order",
+  "summary": "In exile on icy Rhen Var, Ulic has begun teaching Nomi's daughter Vima. The Cathar Jedi Sylvar comes for revenge, but he will not fight and her rage breaks; moments later the spacer Hoggon shoots him dead for glory.",
+  "wp": "Duel on Rhen Var",
+  "places": [
+   "Rhen Var/Legends"
+  ],
+  "people": [
+   "Ulic Qel-Droma/Legends",
+   "Vima Sunrider",
+   "Sylvar",
+   "Hoggon"
+  ],
+  "sources": [
+   "Star Wars: Tales of the Jedi – Redemption"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-mandalorian-wars",
+  "title": "The Mandalorian Wars",
+  "y": -3976,
+  "yText": "3976 BBY",
+  "frac": null,
+  "y2": -3960,
+  "y2Text": "3960 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Mandalorians",
+  "summary": "Mandalore the Ultimate's Neo-Crusaders raid and conquer worlds beyond the Republic's edge for more than a decade before crashing into Republic space. Taris is besieged and three invasion corridors open before Revan's Jedi turn the tide.",
+  "wp": "Mandalorian Wars",
+  "places": [
+   "Althir III",
+   "Taris/Legends"
+  ],
+  "people": [
+   "Mandalore the Ultimate",
+   "Cassus Fett"
+  ],
+  "sources": [
+   "Star Wars: Knights of the Old Republic",
+   "Star Wars: Knights of the Old Republic (comic series)",
+   "The Essential Atlas"
+  ],
+  "conflict": "Knights of the Old Republic itself gives two starting years, 3976 BBY by Mandalorian reckoning and 3963 BBY by the Republic's; the Knights of the Old Republic Campaign Guide counts the main war from 3965 BBY.",
+  "weight": 2
+ },
+ {
+  "id": "leg-battle-of-cathar",
+  "title": "Neo-Crusaders nearly exterminate the Cathar",
+  "y": -3973,
+  "yText": "3973 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Mandalorians",
+  "summary": "Under Cassus Fett, Mandalorian Neo-Crusaders fall on the feline Cathar in their home system, killing more than nine in ten of them and enslaving many survivors. Proof of the massacre later spurs Revan's Jedi into the war.",
+  "wp": "Battle of Cathar",
+  "places": [
+   "Cathar (location)/Legends"
+  ],
+  "people": [
+   "Cassus Fett"
+  ],
+  "sources": [
+   "Knights of the Old Republic Campaign Guide",
+   "Star Wars: Knights of the Old Republic (comic series)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-padawan-massacre",
+  "title": "Padawan Massacre on Taris",
+  "y": -3964,
+  "yText": "3964 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Jedi Covenant",
+  "summary": "Fearing a prophecy that one of their students will bring ruin, five Masters of the secretive Jedi Covenant murder their own Padawans on Taris. Zayne Carrick, late to the ceremony, survives, is framed for the killings and flees with the con artist Marn Hierogryph.",
+  "wp": "Padawan Massacre",
+  "places": [
+   "Taris/Legends"
+  ],
+  "people": [
+   "Zayne Carrick",
+   "Marn Hierogryph",
+   "Lucien Draay"
+  ],
+  "sources": [
+   "Knights of the Old Republic 1",
+   "Star Wars: Knights of the Old Republic (comic series)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-revanchists-join-war",
+  "title": "Revan leads Jedi into the Mandalorian Wars",
+  "y": -3963,
+  "yText": "3963 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Revanchists",
+  "summary": "Defying the Council's caution, the charismatic Jedi called the Revanchist gathers like-minded Knights and uncovers proof of the Cathar massacre. The Council grudgingly lets them fight; he takes the name Revan, with his friend Malak at his side.",
+  "wp": "Revanchist",
+  "places": [
+   "Cathar (location)/Legends"
+  ],
+  "people": [
+   "Revan/Legends",
+   "Darth Malak"
+  ],
+  "sources": [
+   "Star Wars: Knights of the Old Republic (comic series)",
+   "Star Wars: Knights of the Old Republic"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-battle-of-malachor-v",
+  "title": "Battle of Malachor V ends the Mandalorian Wars",
+  "y": -3960,
+  "yText": "3960 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "Supreme Commander Revan draws the Mandalorian fleet to Malachor V and kills Mandalore the Ultimate. At General Meetra Surik's command the Mass Shadow Generator fires, crushing both fleets, shattering the planet and leaving a lasting wound in the Force.",
+  "wp": "Battle of Malachor V",
+  "places": [
+   "Malachor V"
+  ],
+  "people": [
+   "Revan/Legends",
+   "Meetra Surik",
+   "Mandalore the Ultimate"
+  ],
+  "sources": [
+   "Star Wars: Knights of the Old Republic II: The Sith Lords",
+   "The Essential Guide to Warfare",
+   "Knights of the Old Republic Campaign Guide"
+  ],
+  "conflict": "The Knights of the Old Republic Campaign Guide dates the battle to 3960 BBY, while The Ultimate Visual Guide has the war's final year as 3961 BBY; the games and later articles also disagree on how the battle unfolded.",
+  "weight": 3
+ },
+ {
+  "id": "leg-jedi-civil-war",
+  "title": "Revan and Malak return as Sith Lords",
+  "y": -3959,
+  "yText": "3959 BBY",
+  "frac": null,
+  "y2": -3956,
+  "y2Text": "3956 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith Empire",
+  "summary": "After years lost in the Unknown Regions, war heroes Revan and Malak return leading a Sith armada, seize Korriban and harness the Rakatan Star Forge to build endless warships. Many veterans follow them, and their invasion of the Republic opens the Jedi Civil War.",
+  "wp": "Jedi Civil War",
+  "places": [
+   "Korriban/Legends",
+   "Lehon/Legends",
+   "Foerost/Legends"
+  ],
+  "people": [
+   "Revan/Legends",
+   "Darth Malak"
+  ],
+  "sources": [
+   "Star Wars: Knights of the Old Republic",
+   "The Old Republic: Revan"
+  ],
+  "conflict": "In Knights of the Old Republic the Jedi blame the pair's fall on their exploration of Dantooine's ancient ruins, while Vrook suspects it started before the Mandalorian Wars; The Old Republic: Revan adds that the Sith Emperor broke both men in the Unknown Regions.",
+  "weight": 2
+ },
+ {
+  "id": "leg-bombing-of-telos",
+  "title": "Sith bombers devastate Telos IV",
+  "y": -3958,
+  "yText": "3958 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "Sith Empire",
+  "summary": "Admiral Saul Karath, now serving the Sith, hands over Republic codes, and Malak's bombers hit Telos IV without warning. Millions die, Carth Onasi's wife Morgana among them, and the planet's poisoned surface needs years of restoration.",
+  "wp": "Bombing of Telos IV",
+  "places": [
+   "Telos IV"
+  ],
+  "people": [
+   "Saul Karath",
+   "Darth Malak",
+   "Carth Onasi",
+   "Morgana Onasi"
+  ],
+  "sources": [
+   "Star Wars: Knights of the Old Republic",
+   "Knights of the Old Republic Campaign Guide"
+  ],
+  "conflict": "Carth's lines in Knights of the Old Republic put the attack in 3960 BBY, before the war; the Knights of the Old Republic Campaign Guide moves it to 3958 BBY, and Wookieepedia's timeline lists it under 3959 BBY.",
+  "weight": 1
+ },
+ {
+  "id": "leg-revan-captured",
+  "title": "Malak betrays Revan; the Jedi capture him",
+  "y": -3957,
+  "yText": "3957 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Jedi Order",
+  "summary": "As Bastila Shan's strike team boards Revan's flagship, Malak fires on it with his own fleet and makes himself Dark Lord. The Jedi carry the gravely wounded Revan away, erase his memory and give him a new identity.",
+  "wp": "Capture of Darth Revan",
+  "places": [],
+  "people": [
+   "Revan/Legends",
+   "Darth Malak",
+   "Bastila Shan"
+  ],
+  "sources": [
+   "Star Wars: Knights of the Old Republic"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-destruction-of-taris",
+  "title": "Malak's fleet destroys Taris",
+  "y": -3956,
+  "yText": "3956 BBY",
+  "frac": 0.2,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "Sith Empire",
+  "summary": "Hunting Bastila Shan, Malak blockades Taris. When she escapes aboard the Ebon Hawk with Carth Onasi and the amnesiac Revan, his fleet bombards the city-planet into ruin, killing billions.",
+  "wp": "Destruction of Taris",
+  "places": [
+   "Taris/Legends"
+  ],
+  "people": [
+   "Darth Malak",
+   "Bastila Shan",
+   "Carth Onasi",
+   "Revan/Legends"
+  ],
+  "sources": [
+   "Star Wars: Knights of the Old Republic"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-battle-of-rakata-prime",
+  "title": "Star Forge destroyed at Rakata Prime",
+  "y": -3956,
+  "yText": "3956 BBY",
+  "frac": 0.8,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "Following the Star Maps to Lehon, the redeemed Revan leads the Republic fleet against Malak's armada. He wins back Bastila Shan, defeats Malak blade to blade and wrecks the Star Forge, bringing the Jedi Civil War to a close.",
+  "wp": "Battle of Rakata Prime",
+  "places": [
+   "Lehon/Legends"
+  ],
+  "people": [
+   "Revan/Legends",
+   "Darth Malak",
+   "Bastila Shan",
+   "Carth Onasi"
+  ],
+  "sources": [
+   "Star Wars: Knights of the Old Republic"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-first-jedi-purge",
+  "title": "Sith Triumvirate begins the First Jedi Purge",
+  "y": -3954,
+  "yText": "3954 BBY",
+  "frac": null,
+  "y2": -3951,
+  "y2Text": "3951 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith Triumvirate",
+  "summary": "From Malachor V, the Sith Triumvirate of Traya, Sion and Nihilus gathers what is left of Malak's empire. Sion's assassins hunt Jedi everywhere, the Order goes into hiding, and within a few years almost no Jedi remain in the known galaxy.",
+  "wp": "First Jedi Purge",
+  "places": [
+   "Malachor V"
+  ],
+  "people": [
+   "Kreia",
+   "Darth Sion",
+   "Darth Nihilus"
+  ],
+  "sources": [
+   "Star Wars: Knights of the Old Republic II: The Sith Lords",
+   "Knights of the Old Republic Campaign Guide"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-katarr",
+  "title": "Darth Nihilus consumes Katarr",
+  "y": -3952,
+  "yText": "3952 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "Sith Triumvirate",
+  "summary": "The last hundred or so Jedi meet in secret on the Miraluka world Katarr, where Atris hopes to lure out their hidden enemy. Darth Nihilus comes and devours every living being there; only the young Visas Marr survives.",
+  "wp": "Conclave at Katarr",
+  "places": [
+   "Katarr/Legends"
+  ],
+  "people": [
+   "Darth Nihilus",
+   "Visas Marr",
+   "Atris"
+  ],
+  "sources": [
+   "Star Wars: Knights of the Old Republic II: The Sith Lords"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-mandalore-the-preserver",
+  "title": "Canderous Ordo becomes Mandalore the Preserver",
+  "y": -3951,
+  "yText": "3951 BBY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "Taking up the mask of Mandalore, Canderous Ordo rallies the scattered clans at a camp on Onderon's moon Dxun and sets about restoring their strength. His warriors fight beside the Exile against the Sith.",
+  "wp": "Canderous Ordo",
+  "places": [
+   "Dxun/Legends",
+   "Onderon/Legends"
+  ],
+  "people": [
+   "Canderous Ordo",
+   "Meetra Surik"
+  ],
+  "sources": [
+   "Star Wars: Knights of the Old Republic II: The Sith Lords"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-exile-destroys-triumvirate",
+  "title": "The Exile destroys the Sith Triumvirate",
+  "y": -3951,
+  "yText": "3951 BBY",
+  "frac": 0.7,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Jedi Order",
+  "summary": "Meetra Surik, the Jedi Exile, regains the Force and hunts the Triumvirate. She kills Darth Nihilus above Telos IV, then defeats Darth Sion and her own mentor Kreia, Darth Traya, as Malachor V is destroyed, ending the Purge and the Old Sith Wars.",
+  "wp": "Battle of Malachor",
+  "places": [
+   "Telos IV",
+   "Malachor V"
+  ],
+  "people": [
+   "Meetra Surik",
+   "Darth Nihilus",
+   "Darth Sion",
+   "Kreia"
+  ],
+  "sources": [
+   "Star Wars: Knights of the Old Republic II: The Sith Lords"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-revan-exile-confront-emperor",
+  "title": "Revan and the Exile confront the Sith Emperor",
+  "y": -3950,
+  "yText": "3950 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith Empire",
+  "summary": "Revan and Meetra Surik infiltrate the Emperor's citadel on Dromund Kaas, aided by the Sith Lord Scourge. Scourge betrays them, stabbing Surik from behind, and the Emperor overpowers Revan and holds him captive for some three centuries.",
+  "wp": "Attack on the Sith Emperor",
+  "places": [
+   "Dromund Kaas/Legends"
+  ],
+  "people": [
+   "Revan/Legends",
+   "Meetra Surik",
+   "Scourge (Sith)",
+   "Tenebrae"
+  ],
+  "sources": [
+   "The Old Republic: Revan"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-naboo-colonized",
+  "title": "Grizmallt colonists settle Naboo",
+  "y": -3900,
+  "yText": "c. 3900 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "exploration",
+  "polity": "Grizmallt",
+  "summary": "Grizmallt's Queen Elsinoré den Tasia sends out three colony ships that vanish from contact, then turn up on Naboo. Their human settlers take the plains and hills, living uneasily beside the native Gungans, and become the people later called the Naboo.",
+  "wp": "Naboo/Legends",
+  "places": [
+   "Naboo/Legends",
+   "Grizmallt/Legends"
+  ],
+  "people": [
+   "Elsinoré den Tasia"
+  ],
+  "sources": [
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-hydian-way",
+  "title": "Freia Kallea blazes the Hydian Way",
+  "y": -3705,
+  "yText": "3705 BBY",
+  "frac": null,
+  "y2": -3693,
+  "y2Text": "3693 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "exploration",
+  "polity": "Republic",
+  "summary": "The Brentaal explorer Freia Kallea stitches existing routes into one hyperlane running from the galaxy's north to its southern rim, surviving six years stranded on Nuvar along the way. Christened in 3693 BBY, the Hydian Way becomes a great trade artery.",
+  "wp": "Hydian Way/Legends",
+  "places": [
+   "Brentaal IV/Legends",
+   "Nuvar",
+   "Terminus/Legends"
+  ],
+  "people": [
+   "Freia Kallea/Legends"
+  ],
+  "sources": [
+   "The Essential Atlas"
+  ],
+  "conflict": "Older works, Imperial Double-Cross among them, put Kallea's voyage near 3000 BBY; The Essential Atlas moved it earlier, ahead of the setting of The Old Republic.",
+  "weight": 1
+ },
+ {
+  "id": "leg-great-galactic-war",
+  "title": "The Great Galactic War",
+  "y": -3681,
+  "yText": "3681 BBY",
+  "frac": null,
+  "y2": -3653,
+  "y2Text": "3653 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Sith Empire",
+  "summary": "Emerging from the Unknown Regions, the Emperor's Sith Empire destroys a Republic convoy in the Tingel Arm, then retakes Korriban. Twenty-eight years of war follow, from a Sith blockade of the Rimma route to battles at Bothawui, Alderaan and Hoth.",
+  "wp": "Great Galactic War",
+  "places": [
+   "Korriban/Legends",
+   "Bothawui/Legends",
+   "Alderaan/Legends",
+   "Hoth/Legends"
+  ],
+  "people": [
+   "Tenebrae",
+   "Darth Malgus",
+   "Satele Shan"
+  ],
+  "sources": [
+   "Star Wars: The Old Republic",
+   "The Journal of Master Gnost-Dural (real-life book)",
+   "Star Wars: The Old Republic, Threat of Peace"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-sacking-of-coruscant",
+  "title": "Coruscant sacked; Treaty of Coruscant signed",
+  "y": -3653,
+  "yText": "3653 BBY",
+  "frac": null,
+  "y2": -3641,
+  "y2Text": "3641 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "treaty",
+  "polity": "Sith Empire",
+  "summary": "While Republic envoys discuss peace on Alderaan, Darth Malgus storms Coruscant, wrecking the Jedi Temple and killing Chancellor Berooken and Grand Master Zym. With its capital held hostage, the Republic signs the Treaty of Coruscant, ceding worlds for an uneasy Cold War.",
+  "wp": "Treaty of Coruscant",
+  "places": [
+   "Coruscant/Legends",
+   "Alderaan/Legends"
+  ],
+  "people": [
+   "Darth Malgus",
+   "Darth Angral",
+   "Berooken",
+   "Zym",
+   "Satele Shan"
+  ],
+  "sources": [
+   "The Old Republic: Deceived",
+   "The Old Republic, Threat of Peace Act 1: Treaty of Coruscant",
+   "Star Wars: The Old Republic"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-jedi-return-to-tython",
+  "title": "Satele Shan leads the Jedi back to Tython",
+  "y": -3651,
+  "yText": "3651 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "With their Coruscant temple in ruins, the Jedi follow Satele Shan to Tython, the long-forbidden cradle of their Order, which she has rediscovered. They resettle it and raise a new temple, finished by 3647 BBY; Shan later becomes Grand Master.",
+  "wp": "Jedi Temple (Tython)/Legends",
+  "places": [
+   "Tython/Legends"
+  ],
+  "people": [
+   "Satele Shan"
+  ],
+  "sources": [
+   "The Journal of Master Gnost-Dural (real-life book)",
+   "Star Wars: The Old Republic"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-galactic-war",
+  "title": "Cold War collapses into open Galactic War",
+  "y": -3641,
+  "yText": "3641 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Republic",
+  "summary": "Years of proxy fights, from Ord Mantell's separatist war to Alderaan's civil war and Darth Angral's private vendetta, finally wreck the Treaty of Coruscant. Republic and Empire return to open war across the galaxy.",
+  "wp": "Galactic War",
+  "places": [
+   "Ord Mantell/Legends",
+   "Alderaan/Legends"
+  ],
+  "people": [
+   "Darth Angral"
+  ],
+  "sources": [
+   "Star Wars: The Old Republic"
+  ],
+  "conflict": "Wookieepedia's timeline dates the outbreak to 3642 BBY; its Cold War and Galactic War articles, following The Old Republic's own dating, give 3641 BBY.",
+  "weight": 1
+ },
+ {
+  "id": "leg-emperor-falls-dromund-kaas",
+  "title": "Hero of Tython strikes down the Sith Emperor",
+  "y": -3640,
+  "yText": "3640 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Jedi Order",
+  "summary": "While Satele Shan's fleet engages the Imperial home guard, a Jedi strike team under the Hero of Tython confronts the Emperor in his Dromund Kaas stronghold and halts a ritual meant to feed on all the galaxy's life. His body seems destroyed, but he survives.",
+  "wp": "Dromund Kaas operation",
+  "places": [
+   "Dromund Kaas/Legends"
+  ],
+  "people": [
+   "Hero of Tython",
+   "Satele Shan",
+   "Tenebrae"
+  ],
+  "sources": [
+   "Star Wars: The Old Republic"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-revan-final-death",
+  "title": "Revan's last stand on Yavin 4",
+  "y": -3637,
+  "yText": "3637 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "death",
+  "polity": "Order of Revan",
+  "summary": "Escaped at last from the Emperor's prison, Revan gathers followers into the Order of Revan, scheming to revive Vitiate so he can destroy him for good. A joint Republic and Imperial coalition defeats him on Yavin 4, and Revan's spirit finally passes on.",
+  "wp": "Revanite crisis",
+  "places": [
+   "Yavin 4/Legends",
+   "Rishi/Legends"
+  ],
+  "people": [
+   "Revan/Legends",
+   "Darth Marr",
+   "Satele Shan"
+  ],
+  "sources": [
+   "Star Wars: The Old Republic: Shadow of Revan"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-ziost-consumed",
+  "title": "Vitiate devours all life on Ziost",
+  "y": -3636,
+  "yText": "3636 BBY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "Sith Empire",
+  "summary": "Revived by Revan's scheme, Vitiate seizes the minds of Ziost's people and sets Imperial and Republic troops against each other there. He then kills everything alive on the ancient Sith world and vanishes, leaving a gray, dead planet.",
+  "wp": "Invasion of Ziost",
+  "places": [
+   "Ziost/Legends"
+  ],
+  "people": [
+   "Tenebrae",
+   "Darth Marr",
+   "Leontyne Saresh"
+  ],
+  "sources": [
+   "Star Wars: The Old Republic: Shadow of Revan"
+  ],
+  "conflict": "Wookieepedia's timeline places this in 3637 BBY; its Ziost and Invasion of Ziost articles give 3636 BBY, following The Old Republic's update dating.",
+  "weight": 1
+ },
+ {
+  "id": "leg-eternal-empire-conquest",
+  "title": "Zakuul's Eternal Empire conquers the known galaxy",
+  "y": -3636,
+  "yText": "3636 BBY",
+  "frac": 0.7,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Eternal Empire",
+  "summary": "From Wild Space, Zakuul's Eternal Fleet sweeps into the Core and overwhelms Republic and Empire alike, forcing each to pay tribute. Its new ruler Arcann, whose father Valkorion is secretly Vitiate, freezes the Outlander in carbonite.",
+  "wp": "Eternal Empire conquest",
+  "places": [
+   "Zakuul"
+  ],
+  "people": [
+   "Arcann",
+   "Tenebrae",
+   "Alliance Commander"
+  ],
+  "sources": [
+   "Star Wars: The Old Republic: Knights of the Fallen Empire"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-vitiate-final-death",
+  "title": "The Alliance ends Vitiate for good",
+  "y": -3630,
+  "yText": "3630 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "death",
+  "polity": "Eternal Alliance",
+  "summary": "Thawed from carbonite, the Outlander builds the Eternal Alliance on Odessen and takes the war to Zakuul. The Alliance topples Empress Vaylin and at last destroys Vitiate's spirit, ending the Sith who had bent the galaxy to his will for nearly fifteen centuries.",
+  "wp": "War against Zakuul",
+  "places": [
+   "Zakuul",
+   "Odessen"
+  ],
+  "people": [
+   "Alliance Commander",
+   "Tenebrae",
+   "Vaylin",
+   "Lana Beniko"
+  ],
+  "sources": [
+   "Star Wars: The Old Republic: Knights of the Fallen Empire",
+   "Star Wars: The Old Republic: Knights of the Eternal Throne"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-new-sith-wars",
+  "title": "Darth Ruin's schism opens the New Sith Wars",
+  "y": -2000,
+  "yText": "2000 BBY",
+  "frac": null,
+  "y2": -1000,
+  "y2Text": "1000 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "New Sith",
+  "summary": "Jedi Master Phanius quits the Order, taking fifty followers with him, and renames himself Darth Ruin, creating the New Sith. This Fourth Great Schism starts a thousand-year struggle between Jedi and Sith that bleeds the Republic white.",
+  "wp": "New Sith Wars",
+  "places": [],
+  "people": [
+   "Darth Ruin/Legends"
+  ],
+  "sources": [
+   "The Essential Atlas",
+   "The New Essential Chronology",
+   "Book of Sith: Secrets from the Dark Side"
+  ],
+  "conflict": "The Phantom Menace novelization credits this rogue Jedi with founding the Sith itself \"almost two thousand years ago\", which contradicts Tales of the Jedi; in 2000 The Essential Chronology recast him as founder of a successor order, the New Sith.",
+  "weight": 2
+ },
+ {
+  "id": "leg-battle-of-mizra",
+  "title": "Republic army routed at Mizra",
+  "y": -1466,
+  "yText": "1466 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Jedi Order",
+  "summary": "A Sith sniper kills the Jedi coordinator whose battle meditation is holding a huge Republic army together. The force collapses into a rout: over half a million soldiers die, hundreds of Jedi are captured, and the Republic nears defeat.",
+  "wp": "Battle of Mizra",
+  "places": [],
+  "people": [],
+  "sources": [
+   "The Essential Atlas",
+   "The New Essential Chronology",
+   "The Jedi Path: A Manual for Students of the Force (real-life book)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-sictis-wars",
+  "title": "Belia Darzu's technobeasts: the Sictis Wars",
+  "y": -1250,
+  "yText": "1250 BBY",
+  "frac": null,
+  "y2": -1230,
+  "y2Text": "1230 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "New Sith",
+  "summary": "The shape-shifting Dark Lord Belia Darzu uses the Sith art of mechu-deru to turn victims into mechanical technobeasts, breeding an army in her fortress on Tython. Twenty years later the Mecrosa Order and her own followers assassinate her.",
+  "wp": "Sictis Wars",
+  "places": [
+   "Tython/Legends"
+  ],
+  "people": [
+   "Belia Darzu"
+  ],
+  "sources": [
+   "The Essential Atlas",
+   "The New Essential Guide to Droids",
+   "Darth Bane: Rule of Two"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-republic-dark-age",
+  "title": "The Republic Dark Age",
+  "y": -1100,
+  "yText": "1100 BBY",
+  "frac": null,
+  "y2": -1000,
+  "y2Text": "1000 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "era",
+  "polity": "Republic",
+  "summary": "Through the last century of Jedi-Sith warfare, the Republic fragments so badly that later historians count it as dissolved. Sith empires and Jedi Lords with private armies carve up the galaxy while Coruscant's government shrinks to a shadow.",
+  "wp": "Republic Dark Age",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "The New Essential Chronology",
+   "Knight Errant (novel)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-mandalore-the-uniter",
+  "title": "Mandalore the Uniter rebuilds Mandalorian Space",
+  "y": -1058,
+  "yText": "1058 BBY",
+  "frac": null,
+  "y2": -1051,
+  "y2Text": "1051 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "Coming home to find his clan nearly wiped out by the Candorian plague, the mercenary Aga Awaud rallies Mandalorians against raiders. Hailed as Mandalore the Uniter in 1051 BBY, he turns Mandalorian Space into a strong regional power in industry and war.",
+  "wp": "Mandalore the Uniter",
+  "places": [
+   "Mandalore/Legends"
+  ],
+  "people": [
+   "Mandalore the Uniter"
+  ],
+  "sources": [
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-darth-bane-born",
+  "title": "Dessel, the future Darth Bane, is born",
+  "y": -1026,
+  "yText": "1026 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Worked out by Wookieepedia: The Essential Reader's Companion starts Path of Destruction in 1003 BBY, and the novel fixes Dessel's age at his father's death five years earlier.",
+  "category": "birth",
+  "polity": "Sith",
+  "summary": "Dessel is born on Apatros, a bleak cortosis-mining world in the Outer Rim. Brutalized by his miner father, he grows up strong and bitter, unaware that his rage is feeding on the Force's dark side.",
+  "wp": "Darth Bane/Legends",
+  "places": [
+   "Apatros/Legends"
+  ],
+  "people": [
+   "Darth Bane/Legends"
+  ],
+  "sources": [
+   "Darth Bane: Path of Destruction"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-brotherhood-army-of-light",
+  "title": "Kaan's Brotherhood faces Hoth's Army of Light",
+  "y": -1010,
+  "yText": "1010 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Brotherhood of Darkness",
+  "summary": "Jedi Master Skere Kaan defects with like-minded Jedi and forges the Brotherhood of Darkness, a Sith order whose Lords claim to be equals. In answer, Lord Hoth unites the Jedi baronies into the Army of Light to carry the war to the Sith.",
+  "wp": "Brotherhood of Darkness/Legends",
+  "places": [
+   "Korriban/Legends"
+  ],
+  "people": [
+   "Skere Kaan",
+   "Hoth (Jedi Lord)"
+  ],
+  "sources": [
+   "The Essential Guide to Warfare",
+   "Darth Bane: Path of Destruction"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-ruusan-campaign",
+  "title": "The Ruusan campaign begins",
+  "y": -1002,
+  "yText": "1002 BBY",
+  "frac": null,
+  "y2": -1000,
+  "y2Text": "1000 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Army of Light",
+  "summary": "Hoth's Army of Light meets Kaan's Brotherhood of Darkness on Ruusan, beginning two years of ground and orbital fighting. Seven major battles scar the planet as both sides pour their strength into the decisive front.",
+  "wp": "Ruusan campaign",
+  "places": [
+   "Ruusan/Legends"
+  ],
+  "people": [
+   "Hoth (Jedi Lord)",
+   "Skere Kaan",
+   "Valenthyne Farfalla"
+  ],
+  "sources": [
+   "The Essential Atlas",
+   "Star Wars: Jedi vs. Sith",
+   "Darth Bane: Path of Destruction"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-dessel-becomes-bane",
+  "title": "Dessel takes the name Darth Bane",
+  "y": -1001,
+  "yText": "c. 1001 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Not on Wookieepedia's timeline; its Darth Bane article gives 1001–1000 BBY for his years as a Brotherhood Dark Lord and dates the duel on Lehon to 1000 BBY.",
+  "category": "sith",
+  "polity": "Brotherhood of Darkness",
+  "summary": "Trained at the reopened Sith academy on Korriban, Dessel outgrows his masters, renames himself Darth Bane and rejects Kaan's rule of equals. On Lehon he studies Darth Revan's holocron and resolves that the Sith should number just two, master and apprentice.",
+  "wp": "Darth Bane/Legends",
+  "places": [
+   "Korriban/Legends",
+   "Lehon/Legends"
+  ],
+  "people": [
+   "Darth Bane/Legends",
+   "Qordis",
+   "Kas'im",
+   "Githany",
+   "Skere Kaan"
+  ],
+  "sources": [
+   "Darth Bane: Path of Destruction"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-seventh-battle-of-ruusan",
+  "title": "Thought bomb ends the Battle of Ruusan",
+  "y": -1000,
+  "yText": "1000 BBY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Brotherhood of Darkness",
+  "summary": "Goaded by Darth Bane, the cornered Lord Kaan unleashes the thought bomb in Ruusan's caves. It annihilates Kaan's Sith Lords along with Lord Hoth and ninety-nine Jedi. Bane, who stayed away, survives and takes the young Zannah as his apprentice, ending the New Sith Wars.",
+  "wp": "Seventh Battle of Ruusan",
+  "places": [
+   "Ruusan/Legends"
+  ],
+  "people": [
+   "Skere Kaan",
+   "Hoth (Jedi Lord)",
+   "Darth Bane/Legends",
+   "Darth Zannah/Legends"
+  ],
+  "sources": [
+   "Darth Bane: Path of Destruction",
+   "Star Wars: Jedi vs. Sith"
+  ],
+  "conflict": null,
+  "weight": 3
+ }
+]

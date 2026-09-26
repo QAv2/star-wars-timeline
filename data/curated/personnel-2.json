@@ -1,0 +1,5585 @@
+[
+ {
+  "wp": "Reva Sevander",
+  "name": "Reva Sevander",
+  "short": "Reva",
+  "aliases": [
+   "Third Sister",
+   "Grand Inquisitor"
+  ],
+  "species": "Human",
+  "homeworld": null,
+  "affiliation": "Jedi Order → Galactic Empire (Inquisitorius)",
+  "born": {
+   "y": -31,
+   "yText": "c. 31 BBY",
+   "confidence": "estimated"
+  },
+  "died": null,
+  "summary": "A Jedi youngling who lives through Anakin Skywalker's attack on the Temple by hiding among the dead, Reva becomes the Third Sister to get close enough to kill Darth Vader. Her reckless hunt for Obi-Wan Kenobi wins and loses her the Grand Inquisitor's rank; on Tatooine she spares young Luke and lays down her saber.",
+  "posts": [
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Jedi Initiate; survives Vader's massacre in the Temple"
+   },
+   {
+    "from": -19,
+    "to": -9,
+    "fromText": "after 19 BBY",
+    "toText": "9 BBY",
+    "text": "Third Sister of the Inquisitorius, hunting Jedi survivors"
+   },
+   {
+    "from": -9,
+    "to": -9,
+    "fromText": "9 BBY",
+    "toText": "9 BBY",
+    "text": "Leads the chase for Obi-Wan Kenobi and Leia Organa"
+   },
+   {
+    "from": -9,
+    "to": -9,
+    "fromText": "9 BBY",
+    "toText": "9 BBY",
+    "text": "Named Grand Inquisitor; Vader stabs her on Jabiim"
+   },
+   {
+    "from": -9,
+    "to": -9,
+    "fromText": "9 BBY",
+    "toText": "9 BBY",
+    "text": "Spares Luke Skywalker on Tatooine and quits the Empire"
+   }
+  ],
+  "sources": [
+   "Part I",
+   "Part II",
+   "Part V",
+   "Part VI",
+   "Star Wars: Dawn of Rebellion: The Visual Guide"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "The Grand Inquisitor",
+  "name": "The Grand Inquisitor",
+  "short": "the Grand Inquisitor",
+  "aliases": [],
+  "species": "Pau'an",
+  "homeworld": "Utapau",
+  "affiliation": "Jedi Order (Temple Guard) → Galactic Empire (Inquisitorius)",
+  "born": {
+   "y": -47,
+   "yText": "before 47 BBY",
+   "confidence": "inferred"
+  },
+  "died": {
+   "y": -4,
+   "yText": "4 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A Pau'an Temple Guard who resents the Jedi for keeping their deepest lore from him, he accepts the Emperor's offer to lead the Inquisitorius after Order 66. For fifteen years he hunts survivors under Vader, outlasts the Third Sister's blade in his gut, and dies choosing a fiery fall over failure against the Lothal rebels.",
+  "posts": [
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Jedi Temple Guard; escorts Ahsoka Tano and Barriss Offee"
+   },
+   {
+    "from": -19,
+    "to": -9,
+    "fromText": "19 BBY",
+    "toText": "9 BBY",
+    "text": "Grand Inquisitor, training Jedi hunters under Darth Vader"
+   },
+   {
+    "from": -9,
+    "to": -9,
+    "fromText": "9 BBY",
+    "toText": "9 BBY",
+    "text": "Stabbed by the Third Sister on Daiyu; reclaims his rank on Jabiim"
+   },
+   {
+    "from": -5,
+    "to": -4,
+    "fromText": "5 BBY",
+    "toText": "4 BBY",
+    "text": "Hunts Ezra Bridger and his master Kanan around Lothal"
+   },
+   {
+    "from": -4,
+    "to": -4,
+    "fromText": "4 BBY",
+    "toText": "4 BBY",
+    "text": "Dies in the Sovereign's fall above Mustafar"
+   },
+   {
+    "from": -4,
+    "to": 3,
+    "fromText": "after 4 BBY",
+    "toText": "3 ABY",
+    "text": "His spirit, bound by Vader, guards a ruined outpost on Tempes"
+   }
+  ],
+  "sources": [
+   "The Wrong Jedi",
+   "Devoted",
+   "Part I",
+   "Part VI",
+   "Star Wars Rebels: Spark of Rebellion",
+   "Fire Across the Galaxy"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Fifth Brother",
+  "name": "Fifth Brother",
+  "short": "the Fifth Brother",
+  "aliases": [],
+  "species": "Unidentified humanoid",
+  "homeworld": "Artemesium",
+  "affiliation": "Jedi Order → Galactic Empire (Inquisitorius)",
+  "born": null,
+  "died": {
+   "y": -3,
+   "yText": "3 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "Taken from Artemesium and brought up by the Jedi, he comes to see the Order as a tool of corrupt senators and joins the Inquisitorius once Order 66 falls. Blunt and hard-hitting, he chases Obi-Wan Kenobi on Tatooine and later the Lothal rebels, until Maul cuts him down in the Sith temple on Malachor.",
+  "posts": [
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "before 19 BBY",
+    "toText": "before 19 BBY",
+    "text": "Brought up as a Jedi in the Coruscant Temple"
+   },
+   {
+    "from": -19,
+    "to": -9,
+    "fromText": "after 19 BBY",
+    "toText": "9 BBY",
+    "text": "Joins the Inquisitorius after Order 66"
+   },
+   {
+    "from": -9,
+    "to": -9,
+    "fromText": "9 BBY",
+    "toText": "9 BBY",
+    "text": "Hunts Nari and Obi-Wan Kenobi with the Grand Inquisitor"
+   },
+   {
+    "from": -4,
+    "to": -3,
+    "fromText": "4 BBY",
+    "toText": "3 BBY",
+    "text": "Pursues the Spectres and Ahsoka Tano with the Seventh Sister"
+   },
+   {
+    "from": -3,
+    "to": -3,
+    "fromText": "3 BBY",
+    "toText": "3 BBY",
+    "text": "Killed by Maul on Malachor"
+   }
+  ],
+  "sources": [
+   "Part I",
+   "Part IV",
+   "Relics of the Old Republic",
+   "The Future of the Force",
+   "Twilight of the Apprentice"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Seventh Sister",
+  "name": "Seventh Sister",
+  "short": "the Seventh Sister",
+  "aliases": [],
+  "species": "Mirialan",
+  "homeworld": "Mirial",
+  "affiliation": "Jedi Order → Galactic Empire (Inquisitorius)",
+  "born": null,
+  "died": {
+   "y": -3,
+   "yText": "3 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A Mirialan who trained under Yoda and Aayla Secura, she survives Order 66 only to be broken and remade as an Inquisitor. Sly and mocking, she stalks Ahsoka Tano and the two Lothal Jedi with seeker droids and angles to replace the Grand Inquisitor, until Maul kills her on Malachor.",
+  "posts": [
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "before 19 BBY",
+    "toText": "before 19 BBY",
+    "text": "Jedi trainee taught by Yoda and Aayla Secura"
+   },
+   {
+    "from": -19,
+    "to": -4,
+    "fromText": "after 19 BBY",
+    "toText": "4 BBY",
+    "text": "Broken by the Empire and made an Inquisitor"
+   },
+   {
+    "from": -4,
+    "to": -3,
+    "fromText": "4 BBY",
+    "toText": "3 BBY",
+    "text": "Hunts Ahsoka Tano and the Lothal Jedi"
+   },
+   {
+    "from": -3,
+    "to": -3,
+    "fromText": "3 BBY",
+    "toText": "3 BBY",
+    "text": "Seizes Force-sensitive children with the Fifth Brother"
+   },
+   {
+    "from": -3,
+    "to": -3,
+    "fromText": "3 BBY",
+    "toText": "3 BBY",
+    "text": "Slain by Maul while seeking a Sith holocron on Malachor"
+   }
+  ],
+  "sources": [
+   "Always Two There Are",
+   "The Future of the Force",
+   "Legacy (episode)",
+   "Shroud of Darkness",
+   "Twilight of the Apprentice"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Gar Saxon",
+  "name": "Gar Saxon",
+  "short": "Saxon",
+  "aliases": [
+   "Viceroy of Mandalore",
+   "Governor of Mandalore"
+  ],
+  "species": "Human",
+  "homeworld": "Mandalore",
+  "affiliation": "Death Watch → Shadow Collective → Galactic Empire (Imperial Super Commandos)",
+  "born": null,
+  "died": {
+   "y": -2,
+   "yText": "2 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A Mandalorian who serves whoever holds power: Pre Vizsla's Death Watch, then Maul's super commandos, then the Empire, which pardons him and names him Viceroy of Mandalore. He wipes out the Protectors on Concord Dawn and hunts Sabine Wren, and dies on Krownest when Ursa Wren shoots him to save her daughter.",
+  "posts": [
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "by 19 BBY",
+    "toText": "by 19 BBY",
+    "text": "Death Watch warrior under Pre Vizsla"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Commander of Maul's Mandalorian super commandos"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Holds Sundari for Maul; captured by the Republic"
+   },
+   {
+    "from": -6,
+    "to": -2,
+    "fromText": "c. 6 BBY",
+    "toText": "2 BBY",
+    "text": "Imperial Viceroy of Mandalore, leading the Imperial Super Commandos"
+   },
+   {
+    "from": -2,
+    "to": -2,
+    "fromText": "2 BBY",
+    "toText": "2 BBY",
+    "text": "Massacres the Protectors and hunts Sabine Wren"
+   },
+   {
+    "from": -2,
+    "to": -2,
+    "fromText": "2 BBY",
+    "toText": "2 BBY",
+    "text": "Shot dead by Ursa Wren on Krownest"
+   }
+  ],
+  "sources": [
+   "Old Friends Not Forgotten",
+   "Shattered",
+   "Imperial Supercommandos",
+   "Legacy of Mandalore"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Barriss Offee",
+  "name": "Barriss Offee",
+  "short": "Barriss",
+  "aliases": [
+   "the healer",
+   "wise mother"
+  ],
+  "species": "Mirialan",
+  "homeworld": "Mirial",
+  "affiliation": "Jedi Order → Galactic Empire (Inquisitorius) → independent healer",
+  "born": null,
+  "died": null,
+  "summary": "A Mirialan Padawan of Luminara Unduli and a gifted healer, Barriss loses faith in a warring Jedi Order, bombs the Temple and frames her friend Ahsoka Tano. Freed from prison into the Inquisitorius, she turns on it to shield a dying Jedi, then tends travelers from a camp on an icy world until the Fourth Sister wounds her.",
+  "posts": [
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "by 22 BBY",
+    "toText": "19 BBY",
+    "text": "Padawan and healer under Luminara Unduli"
+   },
+   {
+    "from": -21,
+    "to": -21,
+    "fromText": "21 BBY",
+    "toText": "21 BBY",
+    "text": "Fights beside Ahsoka Tano in the return to Geonosis"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Bombs the Jedi Temple, frames Ahsoka, and is imprisoned"
+   },
+   {
+    "from": -19,
+    "to": -18,
+    "fromText": "19 BBY",
+    "toText": "18 BBY",
+    "text": "Recruited from her cell into the Inquisitorius"
+   },
+   {
+    "from": -18,
+    "to": -18,
+    "fromText": "18 BBY",
+    "toText": "18 BBY",
+    "text": "Turns on the Fourth Sister and deserts the Empire"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "c. 1 BBY",
+    "toText": "c. 1 BBY",
+    "text": "Known as the healer; gravely wounded by the Fourth Sister"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Weapons Factory",
+   "The Wrong Jedi",
+   "Devoted",
+   "Realization",
+   "The Way Out"
+  ],
+  "conflict": "Her fate after \"The Way Out\" is unsettled: the Darth Vader magazine (issues 68 and 78) says she dies there, while Star Wars Insider calls her seriously wounded, and the Lucasfilm Story Group has asked that her death not be stated."
+ },
+ {
+  "wp": "Plo Koon",
+  "name": "Plo Koon",
+  "short": "Plo",
+  "aliases": [],
+  "species": "Kel Dor",
+  "homeworld": "Dorin",
+  "affiliation": "Jedi Order (High Council) → Galactic Republic (104th Battalion)",
+  "born": null,
+  "died": {
+   "y": -19,
+   "yText": "19 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "Plo Koon, a Kel Dor who breathes through a mask and goggles, sits on the Jedi Council from before the Naboo crisis. He brings a three-year-old Ahsoka Tano to the Temple and stays her friend for life. He leads the Wolfpack clones through the Clone Wars and dies when his own pilots shoot him down over Cato Neimoidia.",
+  "posts": [
+   {
+    "from": -50,
+    "to": -33,
+    "fromText": "by c. 50 BBY",
+    "toText": "33 BBY",
+    "text": "Jedi of the Order, trained by Master Tyvokka"
+   },
+   {
+    "from": -33,
+    "to": -19,
+    "fromText": "by 33 BBY",
+    "toText": "19 BBY",
+    "text": "Sits on the Jedi Council as a Master"
+   },
+   {
+    "from": -33,
+    "to": -33,
+    "fromText": "33 BBY",
+    "toText": "33 BBY",
+    "text": "Finds the young Ahsoka Tano on Shili"
+   },
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "22 BBY",
+    "toText": "19 BBY",
+    "text": "Jedi General leading the 104th Battalion's Wolfpack"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "22 BBY",
+    "toText": "22 BBY",
+    "text": "Survives the Malevolence's ion-cannon ambush"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Shot down by clone pilots over Cato Neimoidia"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Rising Malevolence",
+   "The Lost One",
+   "Star Wars: Episode III Revenge of the Sith",
+   "Ahsoka (novel)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Kit Fisto",
+  "name": "Kit Fisto",
+  "short": "Fisto",
+  "aliases": [],
+  "species": "Nautolan",
+  "homeworld": "Glee Anselm",
+  "affiliation": "Jedi Order (High Council) → Galactic Republic",
+  "born": null,
+  "died": {
+   "y": -19,
+   "yText": "19 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A grinning Nautolan Jedi Master and one of the Order's finest swordsmen, Kit Fisto fights in the Geonosis arena, watches Grievous kill his old apprentice, Nahdar Vebb, and wins a Council seat as the Clone Wars drag on. He goes with Mace Windu to arrest Palpatine, and Sidious cuts him down in the Chancellor's office.",
+  "posts": [
+   {
+    "from": -34,
+    "to": -34,
+    "fromText": "34 BBY",
+    "toText": "34 BBY",
+    "text": "Helps Mace Windu free child soldiers on Oosalon"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "before 22 BBY",
+    "toText": "before 22 BBY",
+    "text": "Trains the Mon Calamari Padawan Nahdar Vebb"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "22 BBY",
+    "toText": "22 BBY",
+    "text": "Fights in the Geonosis arena"
+   },
+   {
+    "from": -21,
+    "to": -21,
+    "fromText": "21 BBY",
+    "toText": "21 BBY",
+    "text": "Sees Grievous kill Vebb in the general's lair on Vassek"
+   },
+   {
+    "from": -20,
+    "to": -20,
+    "fromText": "20 BBY",
+    "toText": "20 BBY",
+    "text": "Leads Republic forces in the Mon Cala campaign"
+   },
+   {
+    "from": -20,
+    "to": -19,
+    "fromText": "during the war",
+    "toText": "19 BBY",
+    "text": "Sits on the Jedi High Council"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Killed by Sidious during Windu's arrest attempt"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Lair of Grievous",
+   "Water War",
+   "Star Wars: Episode III Revenge of the Sith"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Ki-Adi-Mundi",
+  "name": "Ki-Adi-Mundi",
+  "short": "Mundi",
+  "aliases": [],
+  "species": "Cerean",
+  "homeworld": "Cerea",
+  "affiliation": "Jedi Order (High Council) → Galactic Republic",
+  "born": null,
+  "died": {
+   "y": -19,
+   "yText": "19 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A tall-browed Cerean who is already a new Jedi Master in 132 BBY, Ki-Adi-Mundi lives long enough to sit on the Council that scoffs at Qui-Gon Jinn's warning of the Sith. A blunt general in the Clone Wars, he leads the return to Geonosis, and his own marines gun him down on a Mygeeto bridge when Order 66 comes.",
+  "posts": [
+   {
+    "from": -132,
+    "to": -132,
+    "fromText": "132 BBY",
+    "toText": "132 BBY",
+    "text": "Newly made Jedi Master; weighs the threat posed by Mae"
+   },
+   {
+    "from": -33,
+    "to": -19,
+    "fromText": "by 33 BBY",
+    "toText": "19 BBY",
+    "text": "Sits on the Jedi Council"
+   },
+   {
+    "from": -32,
+    "to": -32,
+    "fromText": "32 BBY",
+    "toText": "32 BBY",
+    "text": "Dismisses Qui-Gon Jinn's report of a returned Sith"
+   },
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "22 BBY",
+    "toText": "19 BBY",
+    "text": "Jedi General in the Clone Wars"
+   },
+   {
+    "from": -21,
+    "to": -21,
+    "fromText": "21 BBY",
+    "toText": "21 BBY",
+    "text": "Leads the landing at Point Rain on Geonosis"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Killed by Commander Bacara's marines on Mygeeto"
+   }
+  ],
+  "sources": [
+   "Day (episode)",
+   "Star Wars: Episode I The Phantom Menace",
+   "Landing at Point Rain",
+   "Star Wars: Episode III Revenge of the Sith"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Luminara Unduli",
+  "name": "Luminara Unduli",
+  "short": "Luminara",
+  "aliases": [],
+  "species": "Mirialan",
+  "homeworld": "Mirial",
+  "affiliation": "Jedi Order → Galactic Republic (41st Elite Corps)",
+  "born": null,
+  "died": {
+   "y": -19,
+   "yText": "between 19 and 18 BBY",
+   "confidence": "inferred"
+  },
+  "summary": "A composed Mirialan Jedi Master and the teacher of Barriss Offee, Luminara fights at Geonosis, holds off Asajj Ventress, and commands the 41st Elite Corps. When Order 66 strikes on Kashyyyk she is taken alive, later put to death in the Spire, and the Empire keeps her remains as bait for surviving Jedi.",
+  "posts": [
+   {
+    "from": -41,
+    "to": -41,
+    "fromText": "c. 41 BBY",
+    "toText": "c. 41 BBY",
+    "text": "Battles Daa security troops on Ontotho"
+   },
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "by 22 BBY",
+    "toText": "19 BBY",
+    "text": "Master of the Padawan Barriss Offee"
+   },
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "22 BBY",
+    "toText": "19 BBY",
+    "text": "Jedi General commanding the 41st Elite Corps"
+   },
+   {
+    "from": -21,
+    "to": -21,
+    "fromText": "21 BBY",
+    "toText": "21 BBY",
+    "text": "Escorts a captive Nute Gunray; clashes with Asajj Ventress"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Taken prisoner on Kashyyyk during Order 66"
+   },
+   {
+    "from": -19,
+    "to": -18,
+    "fromText": "19–18 BBY",
+    "toText": "19–18 BBY",
+    "text": "Executed in the Spire, the Empire's prison on Stygeon Prime"
+   },
+   {
+    "from": -5,
+    "to": -5,
+    "fromText": "5 BBY",
+    "toText": "5 BBY",
+    "text": "Her remains bait a trap for Kanan Jarrus"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Cloak of Darkness",
+   "Weapons Factory",
+   "Star Wars: Episode III Revenge of the Sith",
+   "Rise of the Old Masters"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Aayla Secura",
+  "name": "Aayla Secura",
+  "short": "Aayla",
+  "aliases": [],
+  "species": "Twi'lek (Rutian)",
+  "homeworld": "Ryloth",
+  "affiliation": "Jedi Order → Galactic Republic (327th Star Corps)",
+  "born": null,
+  "died": {
+   "y": -19,
+   "yText": "19 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A Rutian Twi'lek plucked from a rough corner of Ryloth by Quinlan Vos, who trains her, Aayla becomes a Jedi General leading the 327th Star Corps beside Commander Bly. She survives Geonosis, crashes on Maridun and counsels Ahsoka Tano about letting go, then falls to her own troopers' fire on Felucia.",
+  "posts": [
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "before 22 BBY",
+    "toText": "before 22 BBY",
+    "text": "Padawan of Quinlan Vos, then a Jedi Knight"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "22 BBY",
+    "toText": "22 BBY",
+    "text": "Fights in the Geonosis arena"
+   },
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "22 BBY",
+    "toText": "19 BBY",
+    "text": "Jedi General over the 327th Star Corps"
+   },
+   {
+    "from": -21,
+    "to": -21,
+    "fromText": "21 BBY",
+    "toText": "21 BBY",
+    "text": "Stranded on Maridun with Ahsoka Tano and Bly"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Shot down by Bly's troopers on Felucia"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Jedi Crash",
+   "Defenders of Peace",
+   "Star Wars: Episode III Revenge of the Sith"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Shmi Skywalker Lars",
+  "name": "Shmi Skywalker",
+  "short": "Shmi",
+  "aliases": [
+   "Shmi Skywalker Lars"
+  ],
+  "species": "Human",
+  "homeworld": "Tatooine",
+  "affiliation": "White Suns (slave liberation movement)",
+  "born": {
+   "y": -66,
+   "yText": "before 66 BBY",
+   "confidence": "inferred"
+  },
+  "died": {
+   "y": -22,
+   "yText": "22 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "Seized by pirates as a young girl and sold into bondage, Shmi grows up enslaved on Tatooine and in 41 BBY bears a son, Anakin, who has no father. She lets him go with Qui-Gon Jinn to become a Jedi, is later freed and married by the farmer Cliegg Lars, and dies in Anakin's arms after Tusken Raiders take her.",
+  "posts": [
+   {
+    "from": -66,
+    "to": -66,
+    "fromText": "66 BBY",
+    "toText": "66 BBY",
+    "text": "Taken by pirates and sold into slavery as a girl"
+   },
+   {
+    "from": -41,
+    "to": -41,
+    "fromText": "41 BBY",
+    "toText": "41 BBY",
+    "text": "Gives birth to Anakin while enslaved on Tatooine"
+   },
+   {
+    "from": -32,
+    "to": -32,
+    "fromText": "by 32 BBY",
+    "toText": "by 32 BBY",
+    "text": "Watto's slave in Mos Espa; lets Anakin leave with Qui-Gon Jinn"
+   },
+   {
+    "from": -27,
+    "to": -22,
+    "fromText": "c. 27 BBY",
+    "toText": "22 BBY",
+    "text": "Freed and married by Cliegg Lars"
+   },
+   {
+    "from": -27,
+    "to": -22,
+    "fromText": "c. 27 BBY",
+    "toText": "22 BBY",
+    "text": "Helps the White Suns cut tracking chips from slaves"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "22 BBY",
+    "toText": "22 BBY",
+    "text": "Abducted by Tusken Raiders; dies in Anakin's arms"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Star Wars: Episode II Attack of the Clones",
+   "Overlords",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Owen Lars",
+  "name": "Owen Lars",
+  "short": "Owen",
+  "aliases": [
+   "Uncle Owen"
+  ],
+  "species": "Human",
+  "homeworld": "Tatooine",
+  "affiliation": "Lars homestead (moisture farmers); White Suns",
+  "born": null,
+  "died": {
+   "y": -1,
+   "yText": "1 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A stubborn Tatooine moisture farmer, Owen becomes Anakin Skywalker's stepbrother when his father frees and marries Shmi. After Shmi's death he weds Beru, and in 19 BBY the pair take in Anakin's infant son, Luke, raising him on the farm and fearing he will follow his father. Stormtroopers hunting two droids burn the homestead and kill them both.",
+  "posts": [
+   {
+    "from": -27,
+    "to": -22,
+    "fromText": "c. 27 BBY",
+    "toText": "22 BBY",
+    "text": "Gains a stepmother when Cliegg Lars frees Shmi"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "22 BBY",
+    "toText": "22 BBY",
+    "text": "Meets his stepbrother Anakin after Shmi's abduction"
+   },
+   {
+    "from": -19,
+    "to": -1,
+    "fromText": "by 19 BBY",
+    "toText": "1 BBY",
+    "text": "Married to Beru; raises the infant Luke Skywalker"
+   },
+   {
+    "from": -9,
+    "to": -9,
+    "fromText": "9 BBY",
+    "toText": "9 BBY",
+    "text": "Fends off the Third Sister's attack on the farm"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Killed by stormtroopers searching for R2-D2 and C-3PO"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Star Wars: Episode III Revenge of the Sith",
+   "Part I",
+   "Part VI",
+   "Star Wars: Episode IV A New Hope"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Beru Whitesun Lars",
+  "name": "Beru Whitesun Lars",
+  "short": "Beru",
+  "aliases": [
+   "Aunt Beru",
+   "Beru Whitesun"
+  ],
+  "species": "Human",
+  "homeworld": "Tatooine",
+  "affiliation": "Lars homestead (moisture farmers); White Suns",
+  "born": null,
+  "died": {
+   "y": -1,
+   "yText": "1 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A farm girl from near Anchorhead who once hoped to run a café, Beru helps Shmi Skywalker free Tatooine's slaves and marries Owen Lars. From 19 BBY she raises Luke as her own son, holds off a vengeful Inquisitor to buy him time, and argues he should be free to leave. Stormtroopers kill her when they come for two droids.",
+  "posts": [
+   {
+    "from": -27,
+    "to": -22,
+    "fromText": "c. 27 BBY",
+    "toText": "22 BBY",
+    "text": "Helps Shmi disable the tracking chips of freed slaves"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "22 BBY",
+    "toText": "22 BBY",
+    "text": "Meets Anakin Skywalker at the Lars homestead"
+   },
+   {
+    "from": -19,
+    "to": -1,
+    "fromText": "by 19 BBY",
+    "toText": "1 BBY",
+    "text": "Raises Luke Skywalker with her husband Owen"
+   },
+   {
+    "from": -9,
+    "to": -9,
+    "fromText": "9 BBY",
+    "toText": "9 BBY",
+    "text": "Holds off the Third Sister so Luke can run"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Killed by stormtroopers at the homestead"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Star Wars: Episode III Revenge of the Sith",
+   "Part I",
+   "Part VI",
+   "Twin Suns (episode)",
+   "Star Wars: Episode IV A New Hope"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Wedge Antilles",
+  "name": "Wedge Antilles",
+  "short": "Wedge",
+  "aliases": [
+   "TIE SS-2-5",
+   "Red Two",
+   "Red Leader"
+  ],
+  "species": "Human (Corellian)",
+  "homeworld": "Corellia",
+  "affiliation": "Galactic Empire (Skystrike Academy) → Alliance to Restore the Republic → New Republic → Resistance",
+  "born": null,
+  "died": null,
+  "summary": "A Corellian flyer trained as a TIE pilot at Skystrike Academy, Wedge defects to the rebels in 2 BBY and becomes one of the Alliance's great aces, surviving the Death Star battle at Yavin, flying at Hoth, and helping destroy the second battle station at Endor. Decades after retiring with Norra Wexley, he mans the Falcon's guns at Exegol.",
+  "posts": [
+   {
+    "from": -2,
+    "to": -2,
+    "fromText": "until 2 BBY",
+    "toText": "until 2 BBY",
+    "text": "Imperial TIE cadet at Skystrike Academy"
+   },
+   {
+    "from": -2,
+    "to": -1,
+    "fromText": "2 BBY",
+    "toText": "1 BBY",
+    "text": "Defects to the Phoenix rebels with Sabine Wren's help"
+   },
+   {
+    "from": 0,
+    "to": 0,
+    "fromText": "0 ABY",
+    "toText": "0 ABY",
+    "text": "Flies with Red Squadron against the Death Star at Yavin"
+   },
+   {
+    "from": 3,
+    "to": 3,
+    "fromText": "3 ABY",
+    "toText": "3 ABY",
+    "text": "Rogue Squadron pilot in the defense of Hoth"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "4 ABY",
+    "toText": "4 ABY",
+    "text": "Leads Red Squadron into the second Death Star at Endor"
+   },
+   {
+    "from": 5,
+    "to": 5,
+    "fromText": "5 ABY",
+    "toText": "5 ABY",
+    "text": "New Republic captain in the war's closing campaigns"
+   },
+   {
+    "from": 5,
+    "to": 34,
+    "fromText": "after 5 ABY",
+    "toText": "34 ABY",
+    "text": "Retires to Akiva with his wife, Norra Wexley"
+   },
+   {
+    "from": 34,
+    "to": 35,
+    "fromText": "34 ABY",
+    "toText": "35 ABY",
+    "text": "Rejoins the fight; mans the Falcon's guns at Exegol"
+   }
+  ],
+  "sources": [
+   "The Antilles Extraction",
+   "Star Wars: Episode IV A New Hope",
+   "Star Wars: Episode V The Empire Strikes Back",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Aftermath: Empire's End"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Jabba Desilijic Tiure",
+  "name": "Jabba the Hutt",
+  "short": "Jabba",
+  "aliases": [
+   "Jabba Desilijic Tiure",
+   "Eminence of Tatooine"
+  ],
+  "species": "Hutt",
+  "homeworld": "Nal Hutta (ruled from Tatooine)",
+  "affiliation": "Hutt Clan (Grand Hutt Council) → Jabba's criminal empire",
+  "born": {
+   "y": -600,
+   "yText": "600 BBY",
+   "confidence": "explicit"
+  },
+  "died": {
+   "y": 4,
+   "yText": "4 ABY",
+   "confidence": "explicit"
+  },
+  "summary": "A Hutt gangster born six centuries before Yavin, Jabba runs slaving, smuggling and piracy across Tatooine from his desert palace. He hosts the race Anakin wins, deals with the Republic after Jedi save his son, and hangs a frozen Han Solo on his wall, until Leia Organa chokes him with the chain he bound her in.",
+  "posts": [
+   {
+    "from": -32,
+    "to": 4,
+    "fromText": "by 32 BBY",
+    "toText": "4 ABY",
+    "text": "Crime lord ruling Tatooine from his palace"
+   },
+   {
+    "from": -32,
+    "to": -32,
+    "fromText": "32 BBY",
+    "toText": "32 BBY",
+    "text": "Hosts the Boonta Eve race in Mos Espa"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "22 BBY",
+    "toText": "22 BBY",
+    "text": "Allies with the Republic after the Jedi rescue Rotta"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Forced into Maul's Shadow Collective"
+   },
+   {
+    "from": -1,
+    "to": 3,
+    "fromText": "1 BBY",
+    "toText": "3 ABY",
+    "text": "Puts a price on Han Solo's head"
+   },
+   {
+    "from": 3,
+    "to": 4,
+    "fromText": "3 ABY",
+    "toText": "4 ABY",
+    "text": "Displays Han Solo frozen in carbonite in his court"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "4 ABY",
+    "toText": "4 ABY",
+    "text": "Strangled by Leia Organa aboard the Khetanna"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Star Wars: The Clone Wars (film)",
+   "Eminence (episode)",
+   "Star Wars: Episode IV A New Hope",
+   "Star Wars: Episode VI Return of the Jedi"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Bib Fortuna",
+  "name": "Bib Fortuna",
+  "short": "Bib",
+  "aliases": [],
+  "species": "Twi'lek",
+  "homeworld": "Ryloth",
+  "affiliation": "Hutt Clan (Jabba's criminal empire)",
+  "born": null,
+  "died": {
+   "y": 9,
+   "yText": "9 ABY",
+   "confidence": "explicit"
+  },
+  "summary": "A pallid Twi'lek who manages Jabba the Hutt's palace for more than three decades, Bib Fortuna quietly loathes his master and longs to take his place. He lives through the sail barge's destruction, claims Jabba's throne and grows bloated on it, and is shot dead the moment Boba Fett walks into the throne room.",
+  "posts": [
+   {
+    "from": -32,
+    "to": 4,
+    "fromText": "by 32 BBY",
+    "toText": "4 ABY",
+    "text": "Jabba's majordomo at the palace"
+   },
+   {
+    "from": -32,
+    "to": -32,
+    "fromText": "32 BBY",
+    "toText": "32 BBY",
+    "text": "Attends the Boonta Eve Classic beside Jabba"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Hires Cid to recover a young rancor from Zygerrians"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "4 ABY",
+    "toText": "4 ABY",
+    "text": "Mind-tricked by Luke Skywalker at the palace"
+   },
+   {
+    "from": 4,
+    "to": 9,
+    "fromText": "4 ABY",
+    "toText": "9 ABY",
+    "text": "Survives the Khetanna's blast and seizes Jabba's palace"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Shot by Boba Fett, who takes the throne"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Rampage (episode)",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Chapter 16: The Rescue"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Nala Se",
+  "name": "Nala Se",
+  "short": "Nala Se",
+  "aliases": [],
+  "species": "Kaminoan",
+  "homeworld": "Kamino",
+  "affiliation": "Kaminoan government → Galactic Republic → Galactic Empire (Advanced Science Division)",
+  "born": null,
+  "died": {
+   "y": -18,
+   "yText": "during or after 18 BBY",
+   "confidence": "inferred"
+  },
+  "summary": "The leading Kaminoan geneticist, Nala Se helps design the clone army and quietly fits the inhibitor chips that make Order 66 possible. She calls clones property, yet cares for the young clone Omega. When the Empire razes Kamino she is taken to Mount Tantiss, and she dies there keeping her work out of Rampart's hands.",
+  "posts": [
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "by 22 BBY",
+    "toText": "19 BBY",
+    "text": "Chief medical scientist overseeing the clones"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "before 22 BBY",
+    "toText": "before 22 BBY",
+    "text": "Implants inhibitor chips at Tyranus's order"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Keeps the inhibitor-chip plot hidden from the Jedi"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Raises Omega; seized by the Empire on Kamino"
+   },
+   {
+    "from": -19,
+    "to": -18,
+    "fromText": "19 BBY",
+    "toText": "18 BBY",
+    "text": "Prisoner of the Empire at Mount Tantiss"
+   },
+   {
+    "from": -18,
+    "to": -18,
+    "fromText": "18 BBY",
+    "toText": "18 BBY",
+    "text": "Shot by Rampart while wiping her research"
+   }
+  ],
+  "sources": [
+   "Shadow of Malevolence",
+   "Orders (episode)",
+   "Aftermath (episode)",
+   "Kamino Lost",
+   "The Cavalry Has Arrived"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Lama Su",
+  "name": "Lama Su",
+  "short": "Lama Su",
+  "aliases": [],
+  "species": "Kaminoan",
+  "homeworld": "Kamino",
+  "affiliation": "Kaminoan Ruling Council → Galactic Republic (cloning contract) → Galactic Empire",
+  "born": null,
+  "died": null,
+  "summary": "Kamino's head of government, Lama Su takes a Jedi's secret order for a clone army and proudly shows the troops to Obi-Wan Kenobi a decade later. The Empire has no use for a politician: Rampart arrests him before Kamino is razed, and he buys his release by helping the Empire trap the clone girl Omega.",
+  "posts": [
+   {
+    "from": -32,
+    "to": -19,
+    "fromText": "by 32 BBY",
+    "toText": "19 BBY",
+    "text": "Prime Minister of Kamino"
+   },
+   {
+    "from": -32,
+    "to": -32,
+    "fromText": "32 BBY",
+    "toText": "32 BBY",
+    "text": "Takes Sifo-Dyas's secret order for a clone army"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "22 BBY",
+    "toText": "22 BBY",
+    "text": "Presents the finished army to Obi-Wan Kenobi"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Pleads with the new Empire to keep buying clones"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Arrested by Rampart before Kamino's destruction"
+   },
+   {
+    "from": -18,
+    "to": -18,
+    "fromText": "18 BBY",
+    "toText": "18 BBY",
+    "text": "Helps Hemlock trap Omega in return for release"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Aftermath (episode)",
+   "War-Mantle",
+   "Metamorphosis (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Kai Brightstar",
+  "name": "Kai Brightstar",
+  "short": "Kai",
+  "aliases": [],
+  "species": "Human",
+  "homeworld": "Hosnian Prime",
+  "affiliation": "Jedi Order (Tenoo Jedi Temple); Team Crimson Bolt",
+  "born": {
+   "y": -241,
+   "yText": "c. 241 BBY",
+   "confidence": "estimated"
+  },
+  "died": null,
+  "summary": "A cheerful youngling from Hosnian Prime, Kai leaves the Coruscant Temple at about eight to train on the frontier world of Tenoo with his best friends Lys Solay and Nubs. With the young pilot Nash Durango he helps villagers, runs errands for Yoda and keeps foiling Taborr Val Dorn's pirates. Years later he is a Padawan fighting with two blades.",
+  "posts": [
+   {
+    "from": -233,
+    "to": -233,
+    "fromText": "before 233 BBY",
+    "toText": "before 233 BBY",
+    "text": "Youngling at the Coruscant Temple under Yoda and Zia Zanna"
+   },
+   {
+    "from": -233,
+    "to": -232,
+    "fromText": "c. 233 BBY",
+    "toText": "232 BBY",
+    "text": "Moves to Tenoo's temple with Lys and Nubs"
+   },
+   {
+    "from": -233,
+    "to": -233,
+    "fromText": "233 BBY",
+    "toText": "233 BBY",
+    "text": "Runs missions for Master Yoda aboard the Crimson Firehawk"
+   },
+   {
+    "from": -233,
+    "to": -232,
+    "fromText": "233 BBY",
+    "toText": "232 BBY",
+    "text": "Keeps thwarting Taborr Val Dorn's pirate gang"
+   },
+   {
+    "from": -232,
+    "to": -232,
+    "fromText": "232 BBY",
+    "toText": "232 BBY",
+    "text": "Wears down Rek Minuu's dueling droid, Apexx"
+   },
+   {
+    "from": -232,
+    "to": null,
+    "fromText": "years after 232 BBY",
+    "toText": null,
+    "text": "Teenage Padawan dueling droids beside Bell Zettifar"
+   }
+  ],
+  "sources": [
+   "The Young Jedi",
+   "Yoda's Mission",
+   "Taborr's Pirate Showdown",
+   "Apexx Awakens",
+   "Making Friends"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Wicket Wystri Warrick",
+  "name": "Wicket W. Warrick",
+  "short": "Wicket",
+  "aliases": [
+   "Wicket Wystri Warrick"
+  ],
+  "species": "Ewok",
+  "homeworld": "Endor (forest moon)",
+  "affiliation": "Bright Tree tribe → Alliance to Restore the Republic",
+  "born": {
+   "y": -7,
+   "yText": "7 BBY",
+   "confidence": "explicit"
+  },
+  "died": null,
+  "summary": "A small, brave Ewok scout from Bright Tree Village, Wicket finds a stranded Leia Organa after a speeder crash and brings her home to his tribe. His knowledge of the forest helps the Rebel strike team bring down the Empire's shield generator on Endor. Decades later he watches with his son Pommet as the galaxy rises against the Final Order.",
+  "posts": [
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "by 4 ABY",
+    "toText": "by 4 ABY",
+    "text": "Scout and warrior of the Bright Tree tribe"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "4 ABY",
+    "toText": "4 ABY",
+    "text": "Finds and shelters Leia Organa in the forest"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "4 ABY",
+    "toText": "4 ABY",
+    "text": "Fights the Empire in the Battle of Endor"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "4 ABY",
+    "toText": "4 ABY",
+    "text": "Joins a strike on an Imperial holdout base"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Watches the fall of the Final Order with Pommet"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode VI Return of the Jedi",
+   "Ewok Escape",
+   "Traps and Tribulations",
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Nute Gunray",
+  "name": "Nute Gunray",
+  "short": "Gunray",
+  "aliases": [
+   "Viceroy of the Trade Federation"
+  ],
+  "species": "Neimoidian",
+  "homeworld": "Neimoidia",
+  "affiliation": "Trade Federation → Confederacy of Independent Systems (Separatist Council)",
+  "born": null,
+  "died": {
+   "y": -19,
+   "yText": "19 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A grasping Neimoidian executive who takes charge of the Trade Federation as its Viceroy, Nute Gunray blockades and invades Naboo on Darth Sidious's orders. Years of court cases never convict him, and he helps lead Dooku's Separatists while nursing a grudge against Padmé Amidala. When the war ends, Sidious discards him: Darth Vader kills him on Mustafar.",
+  "posts": [
+   {
+    "from": -34,
+    "to": -19,
+    "fromText": "by 34 BBY",
+    "toText": "19 BBY",
+    "text": "Viceroy leading the Trade Federation"
+   },
+   {
+    "from": -32,
+    "to": -32,
+    "fromText": "32 BBY",
+    "toText": "32 BBY",
+    "text": "Blockades and invades Naboo for Darth Sidious"
+   },
+   {
+    "from": -32,
+    "to": -28,
+    "fromText": "32 BBY",
+    "toText": "28 BBY",
+    "text": "Faces four years of Supreme Court trials"
+   },
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "22 BBY",
+    "toText": "19 BBY",
+    "text": "Sits on the Separatist Council under Count Dooku"
+   },
+   {
+    "from": -22,
+    "to": -21,
+    "fromText": "22 BBY",
+    "toText": "21 BBY",
+    "text": "Captured on Rodia; freed by Asajj Ventress"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Killed by Darth Vader on Mustafar"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Star Wars: Episode II Attack of the Clones",
+   "Bombad Jedi",
+   "Cloak of Darkness",
+   "Star Wars: Episode III Revenge of the Sith"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Gial Ackbar",
+  "name": "Gial Ackbar",
+  "short": "Ackbar",
+  "aliases": [
+   "Admiral Ackbar"
+  ],
+  "species": "Mon Calamari",
+  "homeworld": "Mon Cala",
+  "affiliation": "Mon Calamari Guard → Alliance to Restore the Republic → New Republic → Resistance",
+  "born": {
+   "y": -56,
+   "yText": "between c. 61 and c. 52 BBY",
+   "confidence": "inferred"
+  },
+  "died": {
+   "y": 34,
+   "yText": "34 ABY",
+   "confidence": "explicit"
+  },
+  "summary": "A Mon Calamari soldier who first guards his young prince in the Clone Wars, Ackbar becomes the rebellion's great fleet commander, directing the assault at Endor and the final victory at Jakku. Decades later he serves again in Leia Organa's Resistance and dies when the First Order blasts the Raddus's bridge.",
+  "posts": [
+   {
+    "from": -20,
+    "to": -20,
+    "fromText": "by 20 BBY",
+    "toText": "by 20 BBY",
+    "text": "Guard captain protecting Prince Lee-Char of Mon Cala"
+   },
+   {
+    "from": -20,
+    "to": -20,
+    "fromText": "20 BBY",
+    "toText": "20 BBY",
+    "text": "Defends Mon Cala against the Quarren and Separatists"
+   },
+   {
+    "from": -18,
+    "to": -18,
+    "fromText": "18 BBY",
+    "toText": "18 BBY",
+    "text": "Security chief for King Lee-Char as the Empire moves in"
+   },
+   {
+    "from": -1,
+    "to": 4,
+    "fromText": "1 BBY",
+    "toText": "4 ABY",
+    "text": "Supreme commander of the rebel fleet after Raddus dies"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "4 ABY",
+    "toText": "4 ABY",
+    "text": "Commands the rebel fleet at the Battle of Endor"
+   },
+   {
+    "from": 5,
+    "to": 5,
+    "fromText": "5 ABY",
+    "toText": "5 ABY",
+    "text": "Fleet Admiral leading the New Republic to victory at Jakku"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Admiral serving Leia Organa's Resistance"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Killed when First Order fighters strike the Raddus"
+   }
+  ],
+  "sources": [
+   "Water War",
+   "Prisoners",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Star Wars: Episode VII The Force Awakens",
+   "Star Wars: Episode VIII The Last Jedi",
+   "Aftermath: Empire's End"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Sifo-Dyas",
+  "name": "Sifo-Dyas",
+  "short": "Sifo-Dyas",
+  "aliases": [],
+  "species": "Human",
+  "homeworld": "Minashee",
+  "affiliation": "Jedi Order (High Council)",
+  "born": {
+   "y": -102,
+   "yText": "102 BBY",
+   "confidence": "explicit"
+  },
+  "died": {
+   "y": -32,
+   "yText": "32 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A fisherman's son from Minashee who grows up beside Dooku in the Hawk-Bat Clan, Sifo-Dyas is tormented by visions of war. From his Council seat he secretly orders a clone army from Kamino; within a year his old friend, now serving Sidious, pays the Pykes to blast his ship out of the sky over Oba Diah's moon.",
+  "posts": [
+   {
+    "from": -90,
+    "to": -86,
+    "fromText": "by 90 BBY",
+    "toText": "86 BBY",
+    "text": "Youngling in the Hawk-Bat Clan, Dooku's close friend"
+   },
+   {
+    "from": -86,
+    "to": -42,
+    "fromText": "86 BBY",
+    "toText": "42 BBY",
+    "text": "Padawan, then partner, of Lene Kostana"
+   },
+   {
+    "from": -39,
+    "to": -32,
+    "fromText": "39 BBY",
+    "toText": "32 BBY",
+    "text": "Jedi Master on the High Council"
+   },
+   {
+    "from": -33,
+    "to": -33,
+    "fromText": "33 BBY",
+    "toText": "33 BBY",
+    "text": "Secretly commissions a clone army from Kamino"
+   },
+   {
+    "from": -32,
+    "to": -32,
+    "fromText": "32 BBY",
+    "toText": "32 BBY",
+    "text": "Killed by the Pykes on Dooku's orders"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "The Lost One",
+   "Voices",
+   "Dooku: Jedi Lost"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Jocasta Nu",
+  "name": "Jocasta Nu",
+  "short": "Jocasta",
+  "aliases": [],
+  "species": "Human (Coruscanti)",
+  "homeworld": "Coruscant",
+  "affiliation": "Jedi Order (Archives, High Council)",
+  "born": null,
+  "died": {
+   "y": -19,
+   "yText": "19 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A Coruscant-born Jedi Master who keeps the Temple Archives for half a century, Jocasta Nu trusts her records so fully that she tells Obi-Wan Kenobi a missing planet cannot exist. After Order 66 she creeps back into the gutted Temple to recover the Order's register of gifted children, fights the Grand Inquisitor, and dies at Vader's hands.",
+  "posts": [
+   {
+    "from": -68,
+    "to": -19,
+    "fromText": "68 BBY",
+    "toText": "19 BBY",
+    "text": "Head librarian of the Temple Archives"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "22 BBY",
+    "toText": "22 BBY",
+    "text": "Helps Obi-Wan Kenobi hunt for the lost Kamino"
+   },
+   {
+    "from": -21,
+    "to": -21,
+    "fromText": "21 BBY",
+    "toText": "21 BBY",
+    "text": "Supervises Ahsoka Tano's Archive guard duty during Cad Bane's heist"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Survives Order 66 and hides, recording holocrons"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Captured and killed by Vader after raiding the Archives"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Holocron Heist",
+   "The Lost One",
+   "Darth Vader (2017) 10"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Cobb Vanth",
+  "name": "Cobb Vanth",
+  "short": "Vanth",
+  "aliases": [
+   "the Marshal"
+  ],
+  "species": "Human",
+  "homeworld": "Tatooine",
+  "affiliation": "Freetown (Mos Pelgo) marshal's office",
+  "born": null,
+  "died": null,
+  "summary": "A former slave turned lawman, Cobb Vanth swaps crystals with Jawas for Boba Fett's lost armor and uses it to drive raiders out of Mos Pelgo, renamed Freetown. He trades the armor to Din Djarin for help killing a krayt dragon, then refuses a Pyke bribe and is shot by Cad Bane, recovering in bacta.",
+  "posts": [
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "by 4 ABY",
+    "toText": "by 4 ABY",
+    "text": "Freed slave serving as sheriff of Mos Pelgo"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "4 ABY",
+    "toText": "4 ABY",
+    "text": "Buys Boba Fett's salvaged armor from Jawas"
+   },
+   {
+    "from": 5,
+    "to": 9,
+    "fromText": "by 5 ABY",
+    "toText": "9 ABY",
+    "text": "Marshal and mayor of Freetown"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Helps Din Djarin kill a krayt dragon; yields the armor"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Shot by Cad Bane after spurning the Pykes"
+   }
+  ],
+  "sources": [
+   "Chapter 9: The Marshal",
+   "Chapter 6: From the Desert Comes a Stranger",
+   "Chapter 7: In the Name of Honor",
+   "Aftermath (novel)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Peli Motto",
+  "name": "Peli Motto",
+  "short": "Peli",
+  "aliases": [],
+  "species": "Human",
+  "homeworld": "Tatooine",
+  "affiliation": "Hangar 3-5, Mos Eisley spaceport",
+  "born": null,
+  "died": null,
+  "summary": "A blunt, warm mechanic who runs a Mos Eisley docking bay, Hangar 3-5, with a crew of pit droids and has never left Tatooine, Peli Motto patches up the Razor Crest, dotes on Grogu, and points Din Djarin toward another Mandalorian. She later rebuilds a vintage N-1 starfighter for him and minds the child whenever he turns up.",
+  "posts": [
+   {
+    "from": 9,
+    "to": null,
+    "fromText": "by 9 ABY",
+    "toText": null,
+    "text": "Keeps Mos Eisley's docking bay 3-5"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Repairs the Razor Crest and babysits Grogu"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Sends Din Djarin to the marshal of Mos Pelgo"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Rebuilds an N-1 starfighter for Djarin"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Takes in Grogu when R2-D2 brings him to Tatooine"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Lends R5-D4 to Djarin for the trip to Mandalore"
+   }
+  ],
+  "sources": [
+   "Chapter 5: The Gunslinger",
+   "Chapter 9: The Marshal",
+   "Chapter 5: Return of the Mandalorian",
+   "Chapter 7: In the Name of Honor",
+   "Chapter 18: The Mines of Mandalore"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "The Armorer",
+  "name": "The Armorer",
+  "short": "the Armorer",
+  "aliases": [],
+  "species": "Human",
+  "homeworld": "Mandalore",
+  "affiliation": "Mandalorians (Children of the Watch)",
+  "born": null,
+  "died": null,
+  "summary": "The masked smith who leads a covert of Watch zealots, the Armorer forges Din Djarin's beskar armor on Nevarro and sends him to find Grogu's people. She outlasts the covert's destruction, casts Din out for removing his helmet, then welcomes Bo-Katan Kryze and leads her people home to retake Mandalore and relight its Great Forge.",
+  "posts": [
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "between 4 and 5 ABY",
+    "toText": "between 4 and 5 ABY",
+    "text": "Survives the Great Purge on the moon Concordia"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "by 9 ABY",
+    "toText": "by 9 ABY",
+    "text": "Leads the Tribe's hidden covert on Nevarro"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Forges Din Djarin's beskar armor"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Outlives the Imperial raid; charges Din to protect Grogu"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Declares Din an apostate for removing his helmet"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Leads the Tribe's return to reclaim Mandalore"
+   }
+  ],
+  "sources": [
+   "Chapter 1: The Mandalorian",
+   "Chapter 3: The Sin",
+   "Chapter 8: Redemption",
+   "Chapter 5: Return of the Mandalorian",
+   "Chapter 24: The Return"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "IG-11",
+  "name": "IG-11",
+  "short": "IG-11",
+  "aliases": [
+   "Eyegee-Eleven",
+   "IG-12"
+  ],
+  "species": "IG-series assassin droid",
+  "homeworld": null,
+  "affiliation": "Bounty Hunters' Guild → Din Djarin's allies → New Republic (Marshal of Nevarro)",
+  "born": null,
+  "died": null,
+  "summary": "An IG assassin droid hired by the Bounty Hunters' Guild to kill the infant Grogu, IG-11 is shot apart by Din Djarin. Kuiil rebuilds him as a nurse and protector, and he blows himself up to save Grogu on Nevarro. His frame later becomes a walking suit for the child, and he is rebuilt once more as Nevarro's marshal.",
+  "posts": [
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Guild assassin sent to kill Grogu on Arvala-7"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Destroyed by Din Djarin; rebuilt by Kuiil as a nurse"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Self-destructs to save his friends on Nevarro"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Stripped into the IG-12 mech that Grogu pilots"
+   },
+   {
+    "from": 9,
+    "to": null,
+    "fromText": "9 ABY",
+    "toText": null,
+    "text": "Rebuilt as the new Marshal of Nevarro"
+   }
+  ],
+  "sources": [
+   "Chapter 1: The Mandalorian",
+   "Chapter 7: The Reckoning",
+   "Chapter 8: Redemption",
+   "Chapter 17: The Apostate",
+   "Chapter 24: The Return"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Kuiil",
+  "name": "Kuiil",
+  "short": "Kuiil",
+  "aliases": [],
+  "species": "Ugnaught",
+  "homeworld": "Arvala-7 (settled)",
+  "affiliation": "Galactic Empire (indentured) → Kuiil's moisture farm",
+  "born": null,
+  "died": {
+   "y": 9,
+   "yText": "9 ABY",
+   "confidence": "explicit"
+  },
+  "summary": "An Ugnaught who spends three human lifetimes working off his indenture to the Empire, Kuiil settles on Arvala-7 as a vapor farmer. He guides Din Djarin to the infant Grogu, helps rebuild the Razor Crest after Jawas strip it, and patiently reprograms IG-11 as a caretaker. Racing Grogu to safety on Nevarro, he is shot down by scout troopers.",
+  "posts": [
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "before 9 ABY",
+    "toText": "before 9 ABY",
+    "text": "Buys his freedom after long Imperial servitude"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Vapor farmer living alone on Arvala-7"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Guides Din Djarin to Grogu; helps restore the Razor Crest"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Reprograms IG-11 as a caretaker droid"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Killed by scout troopers while carrying Grogu"
+   }
+  ],
+  "sources": [
+   "Chapter 1: The Mandalorian",
+   "Chapter 2: The Child",
+   "Chapter 7: The Reckoning"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Paz Vizsla",
+  "name": "Paz Vizsla",
+  "short": "Paz",
+  "aliases": [],
+  "species": "Human",
+  "homeworld": "Mandalore",
+  "affiliation": "Mandalorians (Children of the Watch, House Vizsla)",
+  "born": null,
+  "died": {
+   "y": 9,
+   "yText": "9 ABY",
+   "confidence": "explicit"
+  },
+  "summary": "A hulking Mandalorian zealot of the Watch who hauls a heavy repeating blaster, Paz Vizsla distrusts anyone who deals with the Empire and resents Din Djarin for holding the Darksaber his ancestor forged. He duels Din for it and loses, later helps retake Mandalore, and dies alone holding off Moff Gideon's Praetorian Guards so his people can escape.",
+  "posts": [
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "by 9 ABY",
+    "toText": "by 9 ABY",
+    "text": "Heavy infantry warrior of the Nevarro covert"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Helps rescue Din Djarin from the Guild on Nevarro"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Challenges Din for the Darksaber and loses"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Raises his foundling son Ragnar in the Tribe"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Dies covering the Mandalorians' retreat on Mandalore"
+   }
+  ],
+  "sources": [
+   "Chapter 3: The Sin",
+   "Chapter 5: Return of the Mandalorian",
+   "Chapter 20: The Foundling",
+   "Chapter 23: The Spies"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Rush Clovis",
+  "name": "Rush Clovis",
+  "short": "Clovis",
+  "aliases": [],
+  "species": "Human",
+  "homeworld": "Scipio",
+  "affiliation": "InterGalactic Banking Clan → Galactic Senate → Confederacy of Independent Systems (secretly)",
+  "born": null,
+  "died": {
+   "y": -19,
+   "yText": "19 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "Raised among Muun bankers on Scipio, Rush Clovis wants the Banking Clan to be honest but gets tangled in Separatist money and is thrown out of the Senate when Padmé Amidala exposes him. He resurfaces to root out corruption, is installed at the head of the banks as a pawn, and falls to his death when Dooku's forces storm Scipio.",
+  "posts": [
+   {
+    "from": -28,
+    "to": -21,
+    "fromText": "28 BBY",
+    "toText": "21 BBY",
+    "text": "Senator representing Scipio, then the banks"
+   },
+   {
+    "from": -21,
+    "to": -21,
+    "fromText": "21 BBY",
+    "toText": "21 BBY",
+    "text": "Exposed dealing with the Separatists; loses his seat"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Returns to expose crooked leaders of the banks"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Installed as the Banking Clan's new head"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Lets go of Anakin's grip and falls on Scipio"
+   }
+  ],
+  "sources": [
+   "Senate Spy",
+   "An Old Friend",
+   "The Rise of Clovis",
+   "Crisis at the Heart"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Marrok",
+  "name": "Marrok",
+  "short": "Marrok",
+  "aliases": [
+   "First Brother"
+  ],
+  "species": "Humanoid",
+  "homeworld": null,
+  "affiliation": "Jedi Order → Galactic Empire (Inquisitorius) → Morgan Elsbeth's mercenaries",
+  "born": null,
+  "died": {
+   "y": 9,
+   "yText": "9 ABY",
+   "confidence": "explicit"
+  },
+  "summary": "A Jedi turned Inquisitor, the masked First Brother kneels to Vader at the fortress on Nur and later joins the hunt for Maul on Janix. Years after the Empire falls he resurfaces as a hired blade for Morgan Elsbeth, until Ahsoka Tano cuts through his armor on Seatos and he dissolves into green mist.",
+  "posts": [
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "before 19 BBY",
+    "toText": "before 19 BBY",
+    "text": "Trained as a Jedi before the purge"
+   },
+   {
+    "from": -19,
+    "to": -17,
+    "fromText": "19 BBY",
+    "toText": "17 BBY",
+    "text": "First Brother of the Inquisitorius, sworn to Darth Vader"
+   },
+   {
+    "from": -17,
+    "to": -17,
+    "fromText": "17 BBY",
+    "toText": "17 BBY",
+    "text": "Hunts Maul on Janix beside the Eleventh Brother"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Mercenary for Morgan Elsbeth, hunting the map to Peridea"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Killed by Ahsoka Tano on Seatos"
+   }
+  ],
+  "sources": [
+   "Devoted",
+   "Chapter 5: Inquisition",
+   "Chapter 10: The Dark Lord",
+   "Part One: Master and Apprentice",
+   "Part Four: Fallen Jedi"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Indara",
+  "name": "Indara",
+  "short": "Indara",
+  "aliases": [],
+  "species": "Human",
+  "homeworld": "Coruscant",
+  "affiliation": "Jedi Order (Brendok four)",
+  "born": {
+   "y": -186,
+   "yText": "c. 186 BBY",
+   "confidence": "estimated"
+  },
+  "died": {
+   "y": -132,
+   "yText": "132 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A composed Jedi Master, Indara survives a harsh apprenticeship and a mining disaster, regains her nerve traveling with Vernestra Rwoh, and takes Torbin as her Padawan. In 148 BBY she leads the Jedi who confront a coven of witches on Brendok, a clash that ends in fire and death. Sixteen years later the surviving twin, Mae, kills her on Ueda.",
+  "posts": [
+   {
+    "from": -161,
+    "to": -161,
+    "fromText": "c. 161 BBY",
+    "toText": "c. 161 BBY",
+    "text": "Knighted after a strained apprenticeship"
+   },
+   {
+    "from": -161,
+    "to": -160,
+    "fromText": "c. 161 BBY",
+    "toText": "160 BBY",
+    "text": "Survives the Farlingan Collapse; retreats to the Archives"
+   },
+   {
+    "from": -160,
+    "to": -160,
+    "fromText": "c. 160 BBY",
+    "toText": "c. 160 BBY",
+    "text": "Travels with Vernestra Rwoh chasing lightsaber nullifiers"
+   },
+   {
+    "from": -158,
+    "to": -147,
+    "fromText": "c. 158 BBY",
+    "toText": "147 BBY",
+    "text": "Jedi Master teaching the Padawan Torbin"
+   },
+   {
+    "from": -148,
+    "to": -148,
+    "fromText": "148 BBY",
+    "toText": "148 BBY",
+    "text": "Leads the Jedi mission to Brendok"
+   },
+   {
+    "from": -134,
+    "to": -132,
+    "fromText": "c. 134 BBY",
+    "toText": "132 BBY",
+    "text": "Keeps the peace from Point Ueda"
+   },
+   {
+    "from": -132,
+    "to": -132,
+    "fromText": "132 BBY",
+    "toText": "132 BBY",
+    "text": "Killed by Mae Aniseya in a noodle shop on Ueda"
+   }
+  ],
+  "sources": [
+   "Lost / Found",
+   "Destiny (The Acolyte)",
+   "Choice",
+   "The Acolyte: Wayseeker"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Jecki Lon",
+  "name": "Jecki Lon",
+  "short": "Jecki",
+  "aliases": [],
+  "species": "Theelin-human hybrid",
+  "homeworld": null,
+  "affiliation": "Jedi Order (Khofar Jedi task force)",
+  "born": {
+   "y": -153,
+   "yText": "c. 153 BBY",
+   "confidence": "estimated"
+  },
+  "died": {
+   "y": -132,
+   "yText": "132 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A serious, self-possessed Padawan of Master Sol, part Theelin and part human, Jecki joins his team hunting the killer of Jedi Master Indara, helps catch the fugitive Osha and cracks the apothecary that sold the poison used on Torbin. On Khofar she duels the masked Sith Qimir and holds her own for a time before he kills her.",
+  "posts": [
+   {
+    "from": -134,
+    "to": -132,
+    "fromText": "by 134 BBY",
+    "toText": "132 BBY",
+    "text": "Apprentice to Master Sol"
+   },
+   {
+    "from": -134,
+    "to": -134,
+    "fromText": "134 BBY",
+    "toText": "134 BBY",
+    "text": "Travels with Sol and Elishe on a mission to Siline"
+   },
+   {
+    "from": -132,
+    "to": -132,
+    "fromText": "132 BBY",
+    "toText": "132 BBY",
+    "text": "Joins Sol's hunt for Indara's killer"
+   },
+   {
+    "from": -132,
+    "to": -132,
+    "fromText": "132 BBY",
+    "toText": "132 BBY",
+    "text": "Unmasks the Olega apothecary behind Torbin's poison"
+   },
+   {
+    "from": -132,
+    "to": -132,
+    "fromText": "132 BBY",
+    "toText": "132 BBY",
+    "text": "Killed by Qimir after dueling him on Khofar"
+   }
+  ],
+  "sources": [
+   "Lost / Found",
+   "Revenge / Justice",
+   "Day (episode)",
+   "Night"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Yord Fandar",
+  "name": "Yord Fandar",
+  "short": "Yord",
+  "aliases": [],
+  "species": "Human (Alderaanian)",
+  "homeworld": "Alderaan",
+  "affiliation": "Jedi Order (Khofar Jedi task force)",
+  "born": {
+   "y": -157,
+   "yText": "c. 157 BBY",
+   "confidence": "estimated"
+  },
+  "died": {
+   "y": -132,
+   "yText": "132 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "An earnest, rule-minded Jedi from Alderaan, Yord earns his knighthood after a long apprenticeship and is sent to arrest his old friend Osha when Master Indara is murdered. He stands by her as the truth comes out, joins Sol's hunt on Khofar, and turns back to fight the masked Sith Qimir, who breaks his neck.",
+  "posts": [
+   {
+    "from": -134,
+    "to": -134,
+    "fromText": "by 134 BBY",
+    "toText": "by 134 BBY",
+    "text": "Padawan of the Pantoran Master Elishe"
+   },
+   {
+    "from": -134,
+    "to": -132,
+    "fromText": "134 BBY",
+    "toText": "132 BBY",
+    "text": "Knighted; takes Tasi Lowa as his Padawan"
+   },
+   {
+    "from": -132,
+    "to": -132,
+    "fromText": "132 BBY",
+    "toText": "132 BBY",
+    "text": "Arrests Osha Aniseya for Indara's murder"
+   },
+   {
+    "from": -132,
+    "to": -132,
+    "fromText": "132 BBY",
+    "toText": "132 BBY",
+    "text": "Briefs and guides the Jedi team on Khofar"
+   },
+   {
+    "from": -132,
+    "to": -132,
+    "fromText": "132 BBY",
+    "toText": "132 BBY",
+    "text": "Killed by Qimir on Khofar"
+   }
+  ],
+  "sources": [
+   "Lost / Found",
+   "Revenge / Justice",
+   "Day (episode)",
+   "Night"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Torbin",
+  "name": "Torbin",
+  "short": "Torbin",
+  "aliases": [],
+  "species": "Human",
+  "homeworld": "Bonadan",
+  "affiliation": "Jedi Order (Brendok four)",
+  "born": {
+   "y": -173,
+   "yText": "c. 173 BBY",
+   "confidence": "estimated"
+  },
+  "died": {
+   "y": -132,
+   "yText": "132 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A boy from Bonadan handed to the Jedi by his poor parents, Torbin becomes Indara's restless Padawan and is on Brendok when the Jedi clash with a coven of witches. Haunted by that day, he reaches the rank of Master, then takes a vow of silence on Olega. When Mae finds him years later, he accepts her poison as atonement.",
+  "posts": [
+   {
+    "from": -170,
+    "to": -158,
+    "fromText": "c. 170 BBY",
+    "toText": "158 BBY",
+    "text": "Given to the Jedi Order as a child"
+   },
+   {
+    "from": -158,
+    "to": -147,
+    "fromText": "c. 158 BBY",
+    "toText": "147 BBY",
+    "text": "Apprentice to Master Indara"
+   },
+   {
+    "from": -148,
+    "to": -148,
+    "fromText": "148 BBY",
+    "toText": "148 BBY",
+    "text": "Impatient member of the Jedi team on Brendok"
+   },
+   {
+    "from": -147,
+    "to": -142,
+    "fromText": "c. 147 BBY",
+    "toText": "142 BBY",
+    "text": "Knighted, then raised to Jedi Master"
+   },
+   {
+    "from": -142,
+    "to": -132,
+    "fromText": "c. 142 BBY",
+    "toText": "132 BBY",
+    "text": "Keeps the Barash Vow in the Olega temple"
+   },
+   {
+    "from": -132,
+    "to": -132,
+    "fromText": "132 BBY",
+    "toText": "132 BBY",
+    "text": "Drinks the poison Mae brings him"
+   }
+  ],
+  "sources": [
+   "Revenge / Justice",
+   "Destiny (The Acolyte)",
+   "Choice"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Kelnacca",
+  "name": "Kelnacca",
+  "short": "Kelnacca",
+  "aliases": [],
+  "species": "Wookiee",
+  "homeworld": "Kashyyyk",
+  "affiliation": "Jedi Order (Brendok four)",
+  "born": {
+   "y": -380,
+   "yText": "c. 380 BBY",
+   "confidence": "estimated"
+  },
+  "died": {
+   "y": -132,
+   "yText": "132 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A Wookiee Jedi Master whose life spans more than two centuries of the Order, Kelnacca takes on a Padawan after Starlight Beacon falls, fights the Nihil and helps shield Kashyyyk's sacred trees from the blight. After the disaster on Brendok he turns inward and withdraws into Khofar's forests, where Mae's Sith master, Qimir, kills him.",
+  "posts": [
+   {
+    "from": -230,
+    "to": -230,
+    "fromText": "230 BBY",
+    "toText": "230 BBY",
+    "text": "Takes Yarzion Vell as his Padawan after Starlight Beacon falls"
+   },
+   {
+    "from": -228,
+    "to": -228,
+    "fromText": "228 BBY",
+    "toText": "228 BBY",
+    "text": "Helps guard Kashyyyk's sacred trees from the blight"
+   },
+   {
+    "from": -149,
+    "to": -148,
+    "fromText": "c. 149 BBY",
+    "toText": "148 BBY",
+    "text": "Finishes the training of Vell's Padawan, Ordea"
+   },
+   {
+    "from": -148,
+    "to": -148,
+    "fromText": "148 BBY",
+    "toText": "148 BBY",
+    "text": "Member of the Jedi team on Brendok"
+   },
+   {
+    "from": -137,
+    "to": -132,
+    "fromText": "c. 137 BBY",
+    "toText": "132 BBY",
+    "text": "Posted to Khofar; retreats into its forests"
+   },
+   {
+    "from": -132,
+    "to": -132,
+    "fromText": "132 BBY",
+    "toText": "132 BBY",
+    "text": "Killed on Khofar by Qimir"
+   }
+  ],
+  "sources": [
+   "Revenge / Justice",
+   "Day (episode)",
+   "Destiny (The Acolyte)",
+   "Choice",
+   "The High Republic: Into the Light"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Neeku Vozo",
+  "name": "Neeku Vozo",
+  "short": "Neeku",
+  "aliases": [],
+  "species": "Nikto (Kadas'sa'Nikto)",
+  "homeworld": "Kintan",
+  "affiliation": "Team Fireball → Resistance (Team Colossus)",
+  "born": null,
+  "died": null,
+  "summary": "A literal-minded Kadas'sa'Nikto from a family of bantha herders, Neeku works as a mechanic in Jarek Yeager's shop on the Colossus and becomes the first friend of the undercover spy Kaz Xiono. He adopts a baby sea monster, helps drive the First Order off the station, serves as its chief engineer in flight, and forgives Tam when she comes home.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Mechanic in Jarek Yeager's repair shop"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Befriends the undercover spy Kaz Xiono"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Adopts Bibo, a baby rokkna"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Floods the station's halls to sweep out stormtroopers"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Chief engineer as the Colossus flees the First Order"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Helps win the fight with the Thunderer; forgives Tam"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "Bibo (episode)",
+   "No Escape: Part 2",
+   "The Engineer",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Torra Doza",
+  "name": "Torra Doza",
+  "short": "Torra",
+  "aliases": [],
+  "species": "Human",
+  "homeworld": "Castilon",
+  "affiliation": "Ace Squadron → Resistance (Team Colossus) → Citizens' Fleet",
+  "born": {
+   "y": 18,
+   "yText": "18 ABY",
+   "confidence": "explicit"
+  },
+  "died": null,
+  "summary": "The daughter of the Colossus's captain and a rebel pilot mother, Torra is the youngest and boldest of the station's Ace pilots. Kidnapped by pirates in a First Order scheme, she turns on the occupiers, helps Kaz free her father and the station, and defends the Colossus through its flight. At Exegol she flies her racer with the citizen fleet.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Youngest Ace Squadron pilot, flying the Blue Ace"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Races and then befriends the newcomer Kaz Xiono"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Kidnapped by pirates in a First Order ploy"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Helps free her father and retake the Colossus"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Flies missions as the station hides from the First Order"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Fights the Thunderer over Barabesh"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Flies her racer at the Battle of Exegol"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "The Doza Dilemma",
+   "No Escape: Part 2",
+   "The Relic Raiders",
+   "The Escape (episode)",
+   "Star Wars: Fascinating Facts"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Jarek Yeager",
+  "name": "Jarek Yeager",
+  "short": "Yeager",
+  "aliases": [],
+  "species": "Human",
+  "homeworld": "Castilon",
+  "affiliation": "Alliance to Restore the Republic → Team Fireball → Resistance (Team Colossus) → Citizens' Fleet",
+  "born": null,
+  "died": null,
+  "summary": "A rebel pilot turned star racer, Jarek Yeager quits racing after his brother's reckless crash kills his wife and daughter, and settles on the Colossus fixing starships. Poe Dameron leaves the spy Kaz Xiono in his care, and the gruff mechanic becomes a father figure to Team Fireball, leads the station's resistance to the First Order, and flies at Exegol.",
+  "posts": [
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "4 ABY",
+    "toText": "4 ABY",
+    "text": "Rebel pilot sent to probe the Iron Blockade"
+   },
+   {
+    "from": 24,
+    "to": 24,
+    "fromText": "c. 24 ABY",
+    "toText": "c. 24 ABY",
+    "text": "Racer whose wife and daughter die in his brother's crash"
+   },
+   {
+    "from": 24,
+    "to": 34,
+    "fromText": "after 24 ABY",
+    "toText": "34 ABY",
+    "text": "Opens a Colossus garage and forms Team Fireball"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Shelters the Resistance spy Kaz Xiono"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Leads the station's uprising against the First Order"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Trains the Aces and rescues Tam from the Thunderer"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Flies his racer at the Battle of Exegol"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "The Platform Classic",
+   "No Escape: Part 1",
+   "The Escape (episode)",
+   "Star Wars: Fascinating Facts"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Big Bongo",
+  "name": "Big Bongo",
+  "short": "Big Bongo",
+  "aliases": [],
+  "species": "Joopa",
+  "homeworld": "Seelos",
+  "affiliation": null,
+  "born": null,
+  "died": {
+   "y": -4,
+   "yText": "4 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A huge joopa lurking beneath the salt crust of Seelos, Big Bongo is the obsession of the retired clone Gregor. When the Spectres visit, Gregor uses Zeb Orrelios as bait; the beast swallows the Lasat whole before Rex kills it with the walker's cannon. The clones haul its carcass on their AT-TE, and Zeb later wears its image.",
+  "posts": [
+   {
+    "from": -4,
+    "to": -4,
+    "fromText": "before 4 BBY",
+    "toText": "before 4 BBY",
+    "text": "Giant joopa beneath the salt flats of Seelos"
+   },
+   {
+    "from": -4,
+    "to": -4,
+    "fromText": "4 BBY",
+    "toText": "4 BBY",
+    "text": "Swallows Zeb Orrelios during Gregor's hunt"
+   },
+   {
+    "from": -4,
+    "to": -4,
+    "fromText": "4 BBY",
+    "toText": "4 BBY",
+    "text": "Killed by the cannon of Rex's AT-TE"
+   },
+   {
+    "from": -4,
+    "to": -4,
+    "fromText": "4 BBY",
+    "toText": "4 BBY",
+    "text": "Carcass carried on the clones' walker until the Imperial assault"
+   },
+   {
+    "from": -2,
+    "to": -1,
+    "fromText": "2 BBY",
+    "toText": "1 BBY",
+    "text": "Its image decorates Zeb's flight suit"
+   }
+  ],
+  "sources": [
+   "The Lost Commanders",
+   "Relics of the Old Republic",
+   "Steps Into Shadow",
+   "Star Wars Rebels: Visual Guide: Epic Battles"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Imanuel Doza",
+  "name": "Imanuel Doza",
+  "short": "Doza",
+  "aliases": [
+   "Captain Doza"
+  ],
+  "species": "Human",
+  "homeworld": null,
+  "affiliation": "Galactic Empire → Colossus (station operator) → Resistance (Team Colossus) → Citizens' Fleet",
+  "born": null,
+  "died": null,
+  "summary": "An Imperial captain who deserts near the Battle of Endor at the urging of the rebel pilot he later marries, Imanuel Doza runs the Colossus refueling station and guards his daughter Torra fiercely. He lets the First Order in for protection, then defies them and is jailed; once freed, he steers the fugitive station into the Resistance's fight.",
+  "posts": [
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "4 ABY",
+    "toText": "4 ABY",
+    "text": "Imperial captain who deserts around the Battle of Endor"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Captain and operator of the Colossus"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Accepts First Order protection after Torra's kidnapping"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Jailed by Commander Pyre; freed by Kaz and Torra"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Leads the fugitive Colossus into the Resistance"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Rallies the station against the Thunderer"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Joins the citizen fleet at the Battle of Exegol"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "The Doza Dilemma",
+   "The First Order Occupation",
+   "No Escape: Part 2",
+   "The Escape (episode)",
+   "Star Wars: Fascinating Facts"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Tamara Ryvora",
+  "name": "Tamara Ryvora",
+  "short": "Tam",
+  "aliases": [
+   "Tam",
+   "DT-533"
+  ],
+  "species": "Human",
+  "homeworld": "Kuat",
+  "affiliation": "Team Fireball → First Order (TIE squadron) → Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "A racer's daughter from Kuat who loses her ship and ends up a mechanic in Jarek Yeager's garage, Tam is prickly, proud and hardworking. Feeling betrayed by the secrets Kaz and Yeager keep, she joins the First Order and becomes a TIE pilot, but its bombardment of Aeos Prime turns her back, and she escapes home to the Colossus.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "before 34 ABY",
+    "toText": "before 34 ABY",
+    "text": "Racer who loses her ship and turns mechanic"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Team Fireball mechanic rebuilding the racer Fireball"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Leaves with the First Order, angry at her friends' lies"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "TIE pilot DT-533, promoted to squadron commander"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Defects after the massacre on Aeos Prime"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Returns to the Colossus and is forgiven"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "No Escape: Part 2",
+   "Live Fire",
+   "Rebuilding the Resistance",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "R1-J5",
+  "name": "R1-J5",
+  "short": "Bucket",
+  "aliases": [
+   "Bucket"
+  ],
+  "species": "R-series astromech droid",
+  "homeworld": null,
+  "affiliation": "Alliance to Restore the Republic → Team Fireball → Resistance (Team Colossus)",
+  "born": {
+   "y": -76,
+   "yText": "by 76 BBY",
+   "confidence": "inferred"
+  },
+  "died": null,
+  "summary": "An old R1-series astromech nicknamed Bucket, R1-J5 rides as Jarek Yeager's co-pilot through his racing years and follows him into retirement on the Colossus. He grumbles his way through Team Fireball's repairs, puts up with the newcomer Kaz, stands with the station against the First Order, and pilots the Fireball alone when the station takes on the Thunderer.",
+  "posts": [
+   {
+    "from": 24,
+    "to": 24,
+    "fromText": "until c. 24 ABY",
+    "toText": "until c. 24 ABY",
+    "text": "Co-pilot on Jarek Yeager's racer"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Team Fireball droid in Yeager's Colossus garage"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Keeps a wary eye on newcomer Kaz Xiono"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Joins the station's resistance to the First Order"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Flies the Fireball solo against the Thunderer"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "The Triple Dark",
+   "No Escape: Part 2",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Freya Fenris",
+  "name": "Freya Fenris",
+  "short": "Freya",
+  "aliases": [
+   "Red Ace"
+  ],
+  "species": "Human",
+  "homeworld": "Yir Tangee",
+  "affiliation": "Ace Squadron → Team Colossus → Citizens' Fleet",
+  "born": null,
+  "died": null,
+  "summary": "A proud, sharp-tongued racer from Yir Tangee, Freya Fenris flies the Red Ace in the Colossus's Ace Squadron, racing for sport and defending the station from pirates. Grounded by the First Order occupation, she flies again once the Colossus escapes, is briefly captured by First Order Raiders on Ashas Ree, and later joins the citizen fleet at Exegol.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Ace Squadron pilot flying the Red Ace"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Defends the Colossus from Warbird pirate raids"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Grounded during the First Order occupation"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Escorts the station as it breaks away from Castilon"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Captured by First Order Raiders on Ashas Ree"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Flies with the citizen fleet over Exegol"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "The Triple Dark",
+   "No Escape: Part 2",
+   "The Relic Raiders",
+   "Star Wars: Fascinating Facts"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Wullf Yularen",
+  "name": "Wullf Yularen",
+  "short": "Yularen",
+  "aliases": [],
+  "species": "Human",
+  "homeworld": "Coruscant (raised on Anaxes)",
+  "affiliation": "Galactic Republic (Navy) → Galactic Empire (Imperial Security Bureau)",
+  "born": null,
+  "died": {
+   "y": 0,
+   "yText": "0 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A stiff, rule-bound officer who returns from retirement when the Clone Wars begin, Wullf Yularen commands Anakin Skywalker's fleet from the Malevolence hunt to Ryloth and learns to trust the reckless Jedi. Under the Empire he trades his admiral's stripes for a colonel's post in Imperial security, chasing rebels, and dies aboard the Death Star at Yavin.",
+  "posts": [
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "before 22 BBY",
+    "toText": "before 22 BBY",
+    "text": "Former Judicial fleet officer and Senate intelligence agent"
+   },
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "22 BBY",
+    "toText": "19 BBY",
+    "text": "Admiral commanding Anakin Skywalker's fleet"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Survives the Separatist plot against Carida's Valor starbase"
+   },
+   {
+    "from": -19,
+    "to": -14,
+    "fromText": "after 19 BBY",
+    "toText": "14 BBY",
+    "text": "Imperial admiral, then an ISB colonel"
+   },
+   {
+    "from": -14,
+    "to": -5,
+    "fromText": "by 14 BBY",
+    "toText": "5 BBY",
+    "text": "ISB liaison to Naval Intelligence"
+   },
+   {
+    "from": -5,
+    "to": -5,
+    "fromText": "5 BBY",
+    "toText": "5 BBY",
+    "text": "Senior ISB officer facing the Aldhani heist"
+   },
+   {
+    "from": -2,
+    "to": -2,
+    "fromText": "2 BBY",
+    "toText": "2 BBY",
+    "text": "Helps Thrawn hunt the rebel spy Fulcrum"
+   },
+   {
+    "from": 0,
+    "to": 0,
+    "fromText": "0 ABY",
+    "toText": "0 ABY",
+    "text": "Dies aboard the Death Star at Yavin"
+   }
+  ],
+  "sources": [
+   "Star Wars: The Clone Wars (film)",
+   "Rising Malevolence",
+   "Announcement",
+   "Through Imperial Eyes",
+   "Star Wars: Episode IV A New Hope"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Hype Fazon",
+  "name": "Hype Fazon",
+  "short": "Hype",
+  "aliases": [
+   "Ace One"
+  ],
+  "species": "Rodian",
+  "homeworld": "Rodia",
+  "affiliation": "Ace Squadron → Team Colossus → Citizens' Fleet",
+  "born": {
+   "y": 5,
+   "yText": "by 5 ABY",
+   "confidence": "inferred"
+  },
+  "died": null,
+  "summary": "A showboating Rodian racer trained on a Hutt's track, Hype Fazon leads the Colossus's Ace Squadron as Ace One in the flashy Green Ace and rarely loses. Behind the swagger he takes defense seriously. Jailed by the First Order, he flies the stolen transport that frees Aunt Z's group, returns for the station's escape, and later flies at Exegol.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Leader of Ace Squadron, flying the Green Ace"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Reigning champion of the Colossus races"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Leads the Aces against pirates and the rokkna"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Flies a stolen transport out with Aunt Z's group"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Returns to help the Colossus escape Castilon"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Joins the citizen fleet at the Battle of Exegol"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "Bibo (episode)",
+   "The Disappeared",
+   "No Escape: Part 2",
+   "Star Wars: Fascinating Facts"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Griff Halloran",
+  "name": "Griff Halloran",
+  "short": "Griff",
+  "aliases": [
+   "Black Ace"
+  ],
+  "species": "Human",
+  "homeworld": null,
+  "affiliation": "Galactic Empire (Imperial Starfighter Corps) → Ace Squadron → Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "A former Imperial TIE pilot who deserts with his commander Imanuel Doza around the time of Endor, Griff Halloran repays that loyalty by flying defense for Doza's Colossus in Ace Squadron. Gruff and old-school, he still flies Imperial colors on his cobbled-together Black Ace, guarding the station against pirates and, later, the First Order.",
+  "posts": [
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "before 4 ABY",
+    "toText": "before 4 ABY",
+    "text": "Imperial pilot serving under Imanuel Doza"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "4 ABY",
+    "toText": "4 ABY",
+    "text": "Deserts the Empire alongside Doza"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Ace Squadron pilot flying the Black Ace"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Defends the Colossus from pirates and the rokkna"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Flies again once the station escapes the First Order"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "Bibo (episode)",
+   "No Escape: Part 2",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Bo Keevil",
+  "name": "Bo Keevil",
+  "short": "Bo",
+  "aliases": [
+   "Yellow Ace"
+  ],
+  "species": "Kel Dor",
+  "homeworld": "Dorin",
+  "affiliation": "Ace Squadron → Team Colossus → Citizens' Fleet",
+  "born": null,
+  "died": null,
+  "summary": "A Kel Dor who flies the Yellow Ace in the Colossus's Ace Squadron, Bo Keevil races, escorts shipments and defends the station from Kragan Gorr's pirates. A sea monster's tentacle knocks him out of the sky during the Bibo incident. Grounded under the First Order, he helps the station escape into hyperspace, and later flies at Exegol.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Ace Squadron pilot flying the Yellow Ace"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Fights off Kragan Gorr's pirate raids"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Crashes when the rokkna strikes his racer"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Grounded during the First Order occupation"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Escorts the Colossus as it jumps to hyperspace"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Joins the citizen fleet at the Battle of Exegol"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "The Triple Dark",
+   "Bibo (episode)",
+   "No Escape: Part 2",
+   "Star Wars: Fascinating Facts"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Dasha Sigweed",
+  "name": "Dasha Sigweed",
+  "short": "Dasha Sigweed",
+  "aliases": [],
+  "species": null,
+  "homeworld": null,
+  "affiliation": null,
+  "born": null,
+  "died": null,
+  "summary": "A performer known only from a run of Aurebesh posters, Dasha Sigweed is advertised across Coruscant's lower levels during the Clone Wars, from a slum massage parlor to the latrine of the clones' bar, 79's. Fifteen years later the same poster hangs aboard the rebel ship Ghost. The name nods to the real DJs Sasha and John Digweed.",
+  "posts": [
+   {
+    "from": -21,
+    "to": -19,
+    "fromText": "21 BBY",
+    "toText": "19 BBY",
+    "text": "Advertised on posters across Coruscant's underworld"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Poster hangs in the 79's cantina"
+   },
+   {
+    "from": -5,
+    "to": -1,
+    "fromText": "5 BBY",
+    "toText": "1 BBY",
+    "text": "The same poster hangs aboard the Ghost"
+   }
+  ],
+  "sources": [
+   "Lightsaber Lost",
+   "Lethal Trackdown",
+   "Orders (episode)",
+   "Star Wars Rebels: Spark of Rebellion"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Rangthang",
+  "name": "Rangthang",
+  "short": "Rangthang",
+  "aliases": [
+   "DJ Rangthang"
+  ],
+  "species": "Vonomi",
+  "homeworld": null,
+  "affiliation": "Hutt Clan",
+  "born": null,
+  "died": null,
+  "summary": "A four-armed Vonomi DJ who works for the Hutt Clan, Rangthang is at the decks when Obi-Wan Kenobi and Quinlan Vos come hunting Ziro the Hutt. His 'DJ Rangthang' poster turns up across the Clone Wars galaxy, from Trueping's cantina on Coruscant to Abafar, and fifteen years on it decorates the walls of the rebel ship Ghost.",
+  "posts": [
+   {
+    "from": -21,
+    "to": -21,
+    "fromText": "by 21 BBY",
+    "toText": "by 21 BBY",
+    "text": "DJ serving the Hutt Clan"
+   },
+   {
+    "from": -21,
+    "to": -21,
+    "fromText": "21 BBY",
+    "toText": "21 BBY",
+    "text": "Plays as Kenobi and Vos search for Ziro"
+   },
+   {
+    "from": -20,
+    "to": -19,
+    "fromText": "20 BBY",
+    "toText": "19 BBY",
+    "text": "His poster hangs from Coruscant to Abafar"
+   },
+   {
+    "from": -5,
+    "to": -1,
+    "fromText": "5 BBY",
+    "toText": "1 BBY",
+    "text": "The poster adorns the Ghost fifteen years later"
+   }
+  ],
+  "sources": [
+   "Hunt for Ziro",
+   "Deception",
+   "Missing in Action",
+   "Star Wars Rebels: Spark of Rebellion"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "CB-23",
+  "name": "CB-23",
+  "short": "CB-23",
+  "aliases": [],
+  "species": "BB-series astromech droid",
+  "homeworld": null,
+  "affiliation": "Resistance → Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "A red-and-blue BB-series astromech in the Resistance, CB-23 flies with Poe Dameron in BB-8's absence, then takes BB-8's place beside the spy Kaz Xiono on the Colossus. She helps free the station's leaders from the First Order, keeps Kaz company through the flight, and knocks out the Thunderer's shields in the final battle, surviving a beating from Pyre.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Resistance astromech flying with Poe Dameron"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Locates Synara San aboard a derelict freighter"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Takes BB-8's place at Kaz Xiono's side"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Helps free Yeager and Doza and retake the station"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Disables the Thunderer's shields in the final battle"
+   }
+  ],
+  "sources": [
+   "Signal from Sector Six",
+   "Station Theta Black (episode)",
+   "No Escape: Part 2",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Saesee Tiin",
+  "name": "Saesee Tiin",
+  "short": "Tiin",
+  "aliases": [],
+  "species": "Iktotchi",
+  "homeworld": "Iktotch",
+  "affiliation": "Jedi Order (High Council) → Galactic Republic",
+  "born": null,
+  "died": {
+   "y": -19,
+   "yText": "19 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "An Iktotchi Jedi Master and ace pilot who admits he was a stubborn Padawan under Omo Bouri, Saesee Tiin holds a Council seat by 40 BBY and loves tinkering with the Order's ships. He fights at Geonosis and Lola Sayu, then joins Mace Windu's attempt to arrest Palpatine and is among the first Jedi Sidious kills.",
+  "posts": [
+   {
+    "from": -40,
+    "to": -19,
+    "fromText": "by 40 BBY",
+    "toText": "19 BBY",
+    "text": "Jedi Master on the High Council"
+   },
+   {
+    "from": -33,
+    "to": -33,
+    "fromText": "33 BBY",
+    "toText": "33 BBY",
+    "text": "Oversees work on the Order's ships and vehicles"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "22 BBY",
+    "toText": "22 BBY",
+    "text": "Fights at Geonosis in the war's opening battle"
+   },
+   {
+    "from": -20,
+    "to": -20,
+    "fromText": "20 BBY",
+    "toText": "20 BBY",
+    "text": "Flies in the mission to free Even Piell"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Killed by Sidious in the Chancellor's office"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Star Wars: Episode II Attack of the Clones",
+   "Citadel Rescue",
+   "Star Wars: Episode III Revenge of the Sith",
+   "The Living Force"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "R4-G77",
+  "name": "R4-G77",
+  "short": "R4",
+  "aliases": [],
+  "species": "Astromech droid",
+  "homeworld": null,
+  "affiliation": "Ace Squadron → Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "A floating astromech plastered with sponsor logos, R4-G77 rides as co-pilot in Hype Fazon's Green Ace and shares in nearly all of his race wins. Taken in for a motivator check at Flix and Orka's salvage shop, he fights off the owners and wrecks the place. He stays in the cockpit through the Colossus's flight from the First Order.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Hype Fazon's co-pilot in the Green Ace"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Shares in nearly every Colossus race win"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Trashes the Office of Acquisitions during a checkup"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Flies with the Aces as the Colossus flees"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "Unmotivated",
+   "The Platform Classic",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Gonky (Clone Force 99)",
+  "name": "Gonky",
+  "short": "Gonky",
+  "aliases": [],
+  "species": "GNK-series power droid",
+  "homeworld": null,
+  "affiliation": "Clone Force 99 → Alliance to Restore the Republic",
+  "born": null,
+  "died": null,
+  "summary": "A faulty GNK power droid that never fully charges, Gonky serves the Bad Batch on their ship as game table, gym weight and the young clone Omega's bed; she assures him they are all defective. Wrecker saves him when the Marauder is blown apart on Pabu, and years later he leaves with a grown Omega to join the Rebellion.",
+  "posts": [
+   {
+    "from": -19,
+    "to": -18,
+    "fromText": "19 BBY",
+    "toText": "18 BBY",
+    "text": "Power droid serving the Bad Batch on the Marauder"
+   },
+   {
+    "from": -19,
+    "to": -18,
+    "fromText": "19 BBY",
+    "toText": "18 BBY",
+    "text": "Wrecker's lifting weight and Omega's makeshift cot"
+   },
+   {
+    "from": -18,
+    "to": -18,
+    "fromText": "18 BBY",
+    "toText": "18 BBY",
+    "text": "His signal leads the Batch to their stolen ship"
+   },
+   {
+    "from": -18,
+    "to": -18,
+    "fromText": "18 BBY",
+    "toText": "18 BBY",
+    "text": "Saved by Wrecker as CX-2 destroys the Marauder on Pabu"
+   },
+   {
+    "from": -2,
+    "to": null,
+    "fromText": "between 2 BBY and 4 ABY",
+    "toText": null,
+    "text": "Leaves Pabu with Omega to join the Rebel Alliance"
+   }
+  ],
+  "sources": [
+   "A Distant Echo",
+   "Cut and Run",
+   "Retrieval (episode)",
+   "Point of No Return (The Bad Batch)",
+   "The Cavalry Has Arrived"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Unidentified mouthless alien",
+  "name": "Mouthless alien",
+  "short": "the mouthless alien",
+  "aliases": [],
+  "species": "Unidentified mouthless species",
+  "homeworld": null,
+  "affiliation": "Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "An unnamed resident of the Colossus from a species with no mouths, this green-skinned regular lives inside a suit that feeds him nutrients and spends much of his time lounging in Aunt Z's bar. A familiar background face, he rides out the station's pirate raids and occupation and stays aboard through its flight across the galaxy.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Colossus resident sustained by a feeding suit"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Fixture at Aunt Z's Tavern"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Lives through the First Order occupation"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Stays aboard as the Colossus flees and settles on Aeos Prime"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "The Disappeared",
+   "The New World",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Maximilian Rebo",
+  "name": "Max Rebo",
+  "short": "Max",
+  "aliases": [
+   "Maximilian Rebo",
+   "Max Reebo"
+  ],
+  "species": "Ortolan",
+  "homeworld": "Orto",
+  "affiliation": "Max Rebo Band (Jabba's court) → Garsa Fwip's Sanctuary",
+  "born": null,
+  "died": null,
+  "summary": "A blue Ortolan who plays his red ball jett organ with his feet, Max Rebo leads his band through years of gigs for Jabba the Hutt. He walks away from the sail barge's explosion over the Carkoon pit and, years later, from the Pyke bombing of Garsa Fwip's Sanctuary in Mos Espa, where he is the house musician.",
+  "posts": [
+   {
+    "from": -21,
+    "to": -2,
+    "fromText": "21 BBY",
+    "toText": "2 BBY",
+    "text": "His name, spelled Max Reebo, appears on gig posters"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "by 4 ABY",
+    "toText": "by 4 ABY",
+    "text": "Leads the Max Rebo Band in Jabba's palace"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "4 ABY",
+    "toText": "4 ABY",
+    "text": "Survives the Khetanna's destruction at Carkoon"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "by 9 ABY",
+    "toText": "by 9 ABY",
+    "text": "Plays at Garsa Fwip's Sanctuary in Mos Espa"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Survives the Pyke bombing of the Sanctuary"
+   }
+  ],
+  "sources": [
+   "Lightsaber Lost",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Chapter 1: Stranger in a Strange Land",
+   "Chapter 4: The Gathering Storm"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "R23-X9",
+  "name": "R23-X9",
+  "short": "R23-X9",
+  "aliases": [],
+  "species": "Astromech droid (custom-built)",
+  "homeworld": null,
+  "affiliation": "Ace Squadron → Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "A custom astromech built for Torra Doza and painted to match her advanced Blue Ace racer, R23-X9 looks like an R-series unit but is far more specialized. It rides with Torra through races, pirate fights and patrols, and stays with her as the Colossus breaks away from Castilon and flees across the galaxy.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Custom co-pilot droid in Torra Doza's Blue Ace"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Rides through the Colossus races and pirate fights"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Flies in the escape from Castilon"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Serves with the Aces during the station's flight"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "The Platform Classic",
+   "No Escape: Part 2",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "4D-M1N",
+  "name": "4D-M1N",
+  "short": "4D",
+  "aliases": [
+   "4D"
+  ],
+  "species": "Command bridge droid",
+  "homeworld": null,
+  "affiliation": "Colossus (Doza Tower) → Resistance (Team Colossus)",
+  "born": null,
+  "died": null,
+  "summary": "A prim command droid who runs Captain Imanuel Doza's office in Doza Tower, 4D-M1N greets visitors, relays orders and keeps an eye on the captain's daughter, Torra. When Commander Pyre arrests Doza, she reveals hidden blasters and fights back until Pyre shoots her down. Rebuilt after the escape, she runs the station's bridge in flight.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Assistant to Captain Doza in Doza Tower"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Minds Torra during the First Order's visits"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Shot down by Pyre while defending Doza"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Rebuilt to serve on the command deck"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Tries to raise the Resistance at D'Qar"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "The Doza Dilemma",
+   "No Escape: Part 1",
+   "Into the Unknown"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Mas Amedda",
+  "name": "Mas Amedda",
+  "short": "Amedda",
+  "aliases": [
+   "Grand Vizier",
+   "Vice Chair"
+  ],
+  "species": "Chagrian",
+  "homeworld": "Champala",
+  "affiliation": "Galactic Republic (Senate) → Galactic Empire (Grand Vizier) → Coruscant provisional government",
+  "born": null,
+  "died": null,
+  "summary": "A horned Chagrian who runs Senate sessions as Vice Chair, Mas Amedda backs whoever holds power and learns Palpatine's Sith secret. As the Emperor's Grand Vizier he runs the imperial bureaucracy for two decades. After Endor he is left a powerless figurehead on Coruscant, signs the Empire's surrender, and is kept on to front a provisional government.",
+  "posts": [
+   {
+    "from": -32,
+    "to": -19,
+    "fromText": "by 32 BBY",
+    "toText": "19 BBY",
+    "text": "Vice Chair, running sessions of the Senate"
+   },
+   {
+    "from": -32,
+    "to": -32,
+    "fromText": "32 BBY",
+    "toText": "32 BBY",
+    "text": "Switches his loyalty from Valorum to Palpatine"
+   },
+   {
+    "from": -19,
+    "to": 4,
+    "fromText": "19 BBY",
+    "toText": "4 ABY",
+    "text": "The Emperor's Grand Vizier"
+   },
+   {
+    "from": 4,
+    "to": 5,
+    "fromText": "4 ABY",
+    "toText": "5 ABY",
+    "text": "Figurehead leader of the Empire on Coruscant"
+   },
+   {
+    "from": 5,
+    "to": 5,
+    "fromText": "5 ABY",
+    "toText": "5 ABY",
+    "text": "Signs the Galactic Concordance ending the war"
+   },
+   {
+    "from": 5,
+    "to": null,
+    "fromText": "5 ABY",
+    "toText": null,
+    "text": "Heads Coruscant's provisional government under Republic watch"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Star Wars: Episode III Revenge of the Sith",
+   "The Clone Conspiracy",
+   "Aftermath: Empire's End"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "SC-X2",
+  "name": "SC-X2",
+  "short": "SC-X2",
+  "aliases": [],
+  "species": "Astromech droid",
+  "homeworld": null,
+  "affiliation": "Ace Squadron → Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "A heavily reinforced astromech that rolls on a track, SC-X2 belongs to the Kel Dor pilot Bo Keevil and works out the figures whenever the Yellow Ace reshapes its wings. It carries spare breath-mask parts for its pilot's needs and stays aboard through the Colossus's races, fights and flight.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Bo Keevil's co-pilot in the Yellow Ace"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Calculates the racer's wing reconfigurations"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Carries emergency breath-mask parts for Keevil"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Flies with the Aces as the Colossus escapes"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "The Platform Classic",
+   "No Escape: Part 2",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "T3-K10",
+  "name": "T3-K10",
+  "short": "T3-K10",
+  "aliases": [],
+  "species": "Astromech droid",
+  "homeworld": null,
+  "affiliation": "Ace Squadron → Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "An astromech from Duwani Mechanical Products whose modern shell revives an old maintenance-droid look, T3-K10 co-pilots Freya Fenris's customized Red Ace and handles rapid navigation. It rides with Freya through the Colossus races and fights, and is captured alongside her by First Order Raiders on Ashas Ree.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Freya Fenris's co-pilot in the Red Ace"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Navigates for Freya in races and pirate fights"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Flies in the escape from Castilon"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Captured with Freya on Ashas Ree"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "No Escape: Part 2",
+   "The Relic Raiders"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Z'Vk'Thkrkza",
+  "name": "Aunt Z",
+  "short": "Aunt Z",
+  "aliases": [
+   "Z'Vk'Thkrkza"
+  ],
+  "species": "Gilliand",
+  "homeworld": "Crul",
+  "affiliation": "Aunt Z's Tavern → Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "A tough Gilliand from Crul who runs the busiest tavern on the Colossus and its betting book, Aunt Z hands out drinks, odds and advice. Jailed for speaking against the First Order, she breaks out with Kaz's help and returns for the station's escape. When the First Order comes again, her speech rallies the residents, who become Team Colossus.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Owner of Aunt Z's Tavern and the race betting pool"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Jailed for defying the First Order; breaks out"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Returns from Takodana to aid the escape"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Nearly quits the station when supplies run dry"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Rallies the residents to fight; names Team Colossus"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "The Disappeared",
+   "Hunt on Celsor 3",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Glem",
+  "name": "Glem",
+  "short": "Glem",
+  "aliases": [],
+  "species": "Rodian",
+  "homeworld": null,
+  "affiliation": "Colossus (loading docks)",
+  "born": null,
+  "died": null,
+  "summary": "A Rodian dockworker on the Colossus, Glem hauls cargo, bets on the races and gets swept into more than one tavern brawl. He tips off Kaz about pirates striking during triple-dark storms, unknowingly dumps a crate with Kaz inside into the sea, and is nearly arrested by stormtroopers over missing papers. He stays with the station when it escapes.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Loading-dock worker on the Colossus"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Warns Kaz about pirates and the triple dark"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Unwittingly drops a crate holding Kaz into the sea"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Stopped by stormtroopers over his missing ID"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Rides with the Colossus after its escape"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "The Triple Dark",
+   "The First Order Occupation",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Al",
+  "name": "Big Al",
+  "short": "Al",
+  "aliases": [
+   "Big Al"
+  ],
+  "species": "Human",
+  "homeworld": "Castilon",
+  "affiliation": "Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "A gray-haired, heavily mustached fixture of Aunt Z's bar, Big Al is a fixture of Colossus life who would rather drink than brawl: when a holo-darts dispute turns into a bar fight, he keeps drinking. He bets fifty credits that Kaz will fall off Doza Tower, and sticks with the station through its occupation and flight.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Fixture of Aunt Z's bar"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Sits out the holo-darts brawl, still drinking"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Bets that Kaz will fall from Doza Tower"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Stays aboard as the Colossus flees Castilon"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "The High Tower",
+   "Into the Unknown",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Garma",
+  "name": "Garma",
+  "short": "Garma",
+  "aliases": [],
+  "species": "Arcona",
+  "homeworld": null,
+  "affiliation": "Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "A blue-skinned, yellow-eyed Arcona, Garma is one of the familiar faces around the Colossus's market and Aunt Z's tavern. She lives through the pirate raids and the First Order occupation and travels with the station when it breaks free. In an unused cut of the first season's finale, Kaz was to shove her clear of a wall of floodwater.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Arcona resident of the Colossus"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Lives through the pirate raids and the occupation"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Travels with the station into exile"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Aboard for the pirates' mutiny and the final battle"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "The First Order Occupation",
+   "The Mutiny",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Narb",
+  "name": "Narb",
+  "short": "Narb",
+  "aliases": [],
+  "species": "Snivvian",
+  "homeworld": null,
+  "affiliation": "Grevel's betting ring; Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "A Snivvian heavy who works for the Aleena bookie Grevel, Narb spends his days beside his brother Nod in the tavern, the market and the race crowds. He brawls, chases Kaz over unpaid debts, and tries to hold up Flix and Orka's salvage shop, only to drop through their trapdoor. He is still aboard when the station flees.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Muscle for the Aleena bookie Grevel"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Joins the brawl at Aunt Z's Tavern"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Chases Kaz through the market with Nod"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Drops through a trapdoor while robbing a salvage shop"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Stays aboard as the Colossus flees"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "Secrets and Holograms",
+   "When Thieves Drop By",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "R5-G9",
+  "name": "R5-G9",
+  "short": "R5-G9",
+  "aliases": [],
+  "species": "Astromech droid (modified)",
+  "homeworld": null,
+  "affiliation": "Ace Squadron → Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "Like the Black Ace it rides in, R5-G9 is assembled from retired Imperial droid parts and scrap, among them a worn R2 unit. It serves as co-pilot to the former TIE pilot Griff Halloran through Ace Squadron's races and patrols, and stays with him as the Colossus escapes Castilon and flees the First Order.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Griff Halloran's co-pilot in the Black Ace"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Flies Ace Squadron's races and patrols"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Rides in the escape from Castilon"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Serves with the Aces during the station's flight"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "The Platform Classic",
+   "No Escape: Part 2",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Pyre",
+  "name": "Pyre",
+  "short": "Pyre",
+  "aliases": [
+   "Commander Pyre"
+  ],
+  "species": "Human",
+  "homeworld": null,
+  "affiliation": "First Order (Stormtrooper Corps)",
+  "born": null,
+  "died": {
+   "y": 34,
+   "yText": "34 ABY",
+   "confidence": "explicit"
+  },
+  "summary": "A chrome-armored stormtrooper commander, Pyre schemes with pirates to frighten Captain Doza into accepting First Order protection, then runs the occupation of the Colossus with an iron grip. After the station slips away he hunts it across the galaxy with Agent Tierny, and dies when Team Colossus destroys the Thunderer over Barabesh.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Stormtrooper commander of the First Order"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Plots with pirates to pressure Captain Doza"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Hunts two runaway children from Tehar"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Commands the occupation of the Colossus"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Chases the fleeing station with Agent Tierny"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Killed as the Thunderer explodes at Barabesh"
+   }
+  ],
+  "sources": [
+   "The Children from Tehar",
+   "The First Order Occupation",
+   "No Escape: Part 2",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Synara San",
+  "name": "Synara San",
+  "short": "Synara",
+  "aliases": [],
+  "species": "Mirialan",
+  "homeworld": "Mirial",
+  "affiliation": "Warbird gang → Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "A Mirialan street kid rescued by the pirate Kragan Gorr, Synara joins his Warbird gang and is planted on the Colossus as a spy posing as a salvager. Friendship with Tam and Kaz pulls her the other way: she helps the station escape, sides with it when the pirates mutiny, and flies Gorr's shuttle against the Thunderer.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Warbird pirate raised by Kragan Gorr"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Poses as a rescued salvager to spy on the Colossus"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Flees the occupation by escape pod"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Returns with the Warbirds to help the station escape"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Sides with the Colossus when the pirates mutiny"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Flies Gorr's shuttle against the Thunderer"
+   }
+  ],
+  "sources": [
+   "Signal from Sector Six",
+   "Synara's Score",
+   "The First Order Occupation",
+   "The Mutiny",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Orn Free Taa",
+  "name": "Orn Free Taa",
+  "short": "Taa",
+  "aliases": [],
+  "species": "Twi'lek (Rutian)",
+  "homeworld": "Ryloth",
+  "affiliation": "Galactic Republic (Loyalist Committee) → Galactic Empire (Imperial Senate)",
+  "born": null,
+  "died": null,
+  "summary": "A corpulent Rutian Twi'lek who represents Ryloth in the Senate while living in luxury on Coruscant, Orn Free Taa is scorned back home. He backs Palpatine's rise, grudgingly partners with Cham Syndulla to free Ryloth in the Clone Wars, and stays on as the Empire's pliant senator, surviving a sniper's shot from Crosshair and a Force choke from Vader.",
+  "posts": [
+   {
+    "from": -32,
+    "to": -19,
+    "fromText": "by 32 BBY",
+    "toText": "19 BBY",
+    "text": "Ryloth's senator on Coruscant"
+   },
+   {
+    "from": -32,
+    "to": -32,
+    "fromText": "32 BBY",
+    "toText": "32 BBY",
+    "text": "Supports the no-confidence vote that ousts Valorum"
+   },
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "by 22 BBY",
+    "toText": "19 BBY",
+    "text": "Loyalist Committee member backing Palpatine"
+   },
+   {
+    "from": -21,
+    "to": -21,
+    "fromText": "21 BBY",
+    "toText": "21 BBY",
+    "text": "Works with Cham Syndulla to liberate Ryloth"
+   },
+   {
+    "from": -19,
+    "to": -14,
+    "fromText": "19 BBY",
+    "toText": "14 BBY",
+    "text": "Imperial senator; survives a staged shooting by Crosshair"
+   },
+   {
+    "from": -14,
+    "to": -14,
+    "fromText": "c. 14 BBY",
+    "toText": "c. 14 BBY",
+    "text": "Escorts the Emperor and Vader to rebellious Ryloth"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Star Wars: Episode II Attack of the Clones",
+   "Liberty on Ryloth",
+   "Devil's Deal",
+   "Lords of the Sith"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Shaak Ti",
+  "name": "Shaak Ti",
+  "short": "Shaak Ti",
+  "aliases": [],
+  "species": "Togruta",
+  "homeworld": "Shili",
+  "affiliation": "Jedi Order (High Council) → Galactic Republic (Kamino garrison)",
+  "born": null,
+  "died": {
+   "y": -19,
+   "yText": "19 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A Togruta Jedi Master prized as a teacher, Shaak Ti joins the Council after the Naboo crisis and spends much of the Clone Wars on Kamino, shaping clone cadets. She tries to protect Fives when he warns of a plot hidden in the clones, and during Order 66 she meditates in the Temple until Vader kills her.",
+  "posts": [
+   {
+    "from": -32,
+    "to": -22,
+    "fromText": "after 32 BBY",
+    "toText": "22 BBY",
+    "text": "Joins the Jedi High Council"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "22 BBY",
+    "toText": "22 BBY",
+    "text": "Fights in the Geonosis arena"
+   },
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "22 BBY",
+    "toText": "19 BBY",
+    "text": "Oversees clone training and security on Kamino"
+   },
+   {
+    "from": -21,
+    "to": -21,
+    "fromText": "21 BBY",
+    "toText": "21 BBY",
+    "text": "Defends Tipoca City from the Separatist assault"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Tries to shield Fives as he exposes the chips"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Slain by Vader in the Temple during Order 66"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Clone Cadets",
+   "ARC Troopers (episode)",
+   "Orders (episode)",
+   "Star Wars: Women of the Galaxy"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Wolffe",
+  "name": "Wolffe",
+  "short": "Wolffe",
+  "aliases": [
+   "CC-3636"
+  ],
+  "species": "Human (clone)",
+  "homeworld": "Kamino",
+  "affiliation": "Galactic Republic (104th Battalion) → Galactic Empire → Alliance to Restore the Republic",
+  "born": {
+   "y": -32,
+   "yText": "c. 32 BBY",
+   "confidence": "estimated"
+  },
+  "died": null,
+  "summary": "Commander of Plo Koon's Wolfpack, Wolffe is a gruff clone who loses most of his men to the Malevolence and an eye to Asajj Ventress. He serves the early Empire, hunting the clone girl Omega, then removes his chip and retires to Seelos with Rex and Gregor. Wary of Jedi, he still joins the rebels to free Lothal.",
+  "posts": [
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "22 BBY",
+    "toText": "19 BBY",
+    "text": "Commander of the 104th Battalion's Wolfpack"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "22 BBY",
+    "toText": "22 BBY",
+    "text": "Survives the Malevolence's attack at Abregado"
+   },
+   {
+    "from": -18,
+    "to": -18,
+    "fromText": "18 BBY",
+    "toText": "18 BBY",
+    "text": "Leads an Imperial strike team hunting Omega on Teth"
+   },
+   {
+    "from": -18,
+    "to": -4,
+    "fromText": "after 18 BBY",
+    "toText": "4 BBY",
+    "text": "Retires to Seelos with Rex and Gregor"
+   },
+   {
+    "from": -4,
+    "to": -4,
+    "fromText": "4 BBY",
+    "toText": "4 BBY",
+    "text": "Tips off the Empire, then helps the Spectres escape"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Fights in the liberation of Lothal"
+   }
+  ],
+  "sources": [
+   "Rising Malevolence",
+   "The Lost One",
+   "Extraction",
+   "The Lost Commanders",
+   "Family Reunion – and Farewell"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Kassius Konstantine",
+  "name": "Kassius Konstantine",
+  "short": "Konstantine",
+  "aliases": [],
+  "species": "Human (Coruscanti)",
+  "homeworld": "Coruscant",
+  "affiliation": "Galactic Empire (Imperial Navy, Lothal sector fleet)",
+  "born": null,
+  "died": {
+   "y": -2,
+   "yText": "2 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A Coruscanti officer from the Imperial Navy's first generation of graduates, Kassius Konstantine commands the Lothal sector fleet and spends years failing to catch the Ghost and its rebels. Proud and scornful of talk about Jedi, he chafes under Grand Admiral Thrawn, breaks formation at Atollon chasing glory, and dies when Jun Sato rams his Interdictor.",
+  "posts": [
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "after 19 BBY",
+    "toText": "after 19 BBY",
+    "text": "Graduates from Anaxes War College into the Imperial Navy"
+   },
+   {
+    "from": -4,
+    "to": -2,
+    "fromText": "by 4 BBY",
+    "toText": "2 BBY",
+    "text": "Admiral of the Lothal sector fleet"
+   },
+   {
+    "from": -4,
+    "to": -4,
+    "fromText": "4 BBY",
+    "toText": "4 BBY",
+    "text": "Chases the Ghost alongside the Grand Inquisitor"
+   },
+   {
+    "from": -4,
+    "to": -3,
+    "fromText": "4 BBY",
+    "toText": "3 BBY",
+    "text": "Hunts Phoenix Squadron with Kallus and the Fifth Brother"
+   },
+   {
+    "from": -2,
+    "to": -2,
+    "fromText": "2 BBY",
+    "toText": "2 BBY",
+    "text": "Serves in Grand Admiral Thrawn's Seventh Fleet"
+   },
+   {
+    "from": -2,
+    "to": -2,
+    "fromText": "2 BBY",
+    "toText": "2 BBY",
+    "text": "Killed when Jun Sato rams his Interdictor at Atollon"
+   }
+  ],
+  "sources": [
+   "Gathering Forces",
+   "Fire Across the Galaxy",
+   "The Honorable Ones",
+   "Through Imperial Eyes",
+   "Zero Hour"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Egdir",
+  "name": "Egdir",
+  "short": "Egdir",
+  "aliases": [],
+  "species": "Ithorian",
+  "homeworld": null,
+  "affiliation": "Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "A brown-skinned Ithorian who lives on the Colossus, Egdir is a background regular through the station's troubles: pirate raids, a rampaging sea monster and the First Order occupation. He travels with the platform after it escapes Castilon, sees it settle briefly on Aeos Prime, and is aboard when its people turn to fight the Thunderer.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Ithorian resident of the Colossus"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Lives through pirate raids and the Bibo attack"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Endures the First Order occupation"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Travels with the station to Aeos Prime"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Aboard for the battle with the Thunderer"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "The First Order Occupation",
+   "The New World",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Nod",
+  "name": "Nod",
+  "short": "Nod",
+  "aliases": [],
+  "species": "Snivvian",
+  "homeworld": null,
+  "affiliation": "Colossus (small-time crook)",
+  "born": null,
+  "died": null,
+  "summary": "Narb's Snivvian brother and fellow small-time crook, Nod hangs around Aunt Z's tavern and the Colossus races, joining brawls and chasing Kaz over debts. He falls for Flix and Orka's trapdoor while hunting for Narb, is jailed by the First Order alongside Aunt Z and escapes with her, and later loots the deserted market while the station sinks.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Petty criminal on the Colossus"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Brawls and chases Kaz with his brother Narb"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Drops through the Office of Acquisitions trapdoor"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Jailed with Aunt Z; escapes the First Order"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Loots the empty market during the uprising"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Travels with the station to Aeos Prime"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "When Thieves Drop By",
+   "The Disappeared",
+   "The New World"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Opeepit",
+  "name": "Opeepit",
+  "short": "Opeepit",
+  "aliases": [],
+  "species": "Frigosian",
+  "homeworld": "Castilon",
+  "affiliation": "Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "A Frigosian with mechanical hands, Opeepit is the Colossus's lone janitor, forever sweeping its halls and grumbling in his own language. He chases a pirate with his floor sweeper, sulks when stormtroopers confiscate it, and scrubs by hand through the occupation. When the First Order boards the station again, he trips two troopers with his sweeper.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "The Colossus's only janitor"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Chases a pirate off with his floor sweeper"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Loses his sweeper to stormtroopers"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Cleans by hand through the occupation"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Trips boarding stormtroopers in the final fight"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "Synara's Score",
+   "The Disappeared",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Eeth Koth",
+  "name": "Eeth Koth",
+  "short": "Koth",
+  "aliases": [],
+  "species": "Zabrak (Iridonian)",
+  "homeworld": "Iridonia",
+  "affiliation": "Jedi Order (High Council) → Church of the Ganthic Enlightenment",
+  "born": null,
+  "died": {
+   "y": -14,
+   "yText": "14 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "An Iridonian Zabrak who sits on the High Council from before 41 BBY, Eeth Koth is captured and tortured by Grievous early in the Clone Wars and leaves the Order near its end. Hiding as a priest with a wife and newborn daughter, he is found by Darth Vader in 14 BBY and dies fighting to keep his child.",
+  "posts": [
+   {
+    "from": -41,
+    "to": -19,
+    "fromText": "by 41 BBY",
+    "toText": "19 BBY",
+    "text": "Sits on the Jedi Council"
+   },
+   {
+    "from": -21,
+    "to": -21,
+    "fromText": "21 BBY",
+    "toText": "21 BBY",
+    "text": "Captured by Grievous; freed over Saleucami"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Steps down from the Council and quits the Order"
+   },
+   {
+    "from": -14,
+    "to": -14,
+    "fromText": "by 14 BBY",
+    "toText": "by 14 BBY",
+    "text": "Hides as a priest of the Ganthic Enlightenment faith"
+   },
+   {
+    "from": -14,
+    "to": -14,
+    "fromText": "14 BBY",
+    "toText": "14 BBY",
+    "text": "Killed by Vader while defending his family"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Grievous Intrigue",
+   "The Deserter",
+   "Darth Vader (2017) 19"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Riyo Chuchi",
+  "name": "Riyo Chuchi",
+  "short": "Chuchi",
+  "aliases": [],
+  "species": "Pantoran",
+  "homeworld": "Pantora",
+  "affiliation": "Galactic Republic (Senate) → Galactic Empire (Imperial Senate); Clone Underground",
+  "born": null,
+  "died": null,
+  "summary": "A young Pantoran senator who begins her career timid and unsure, Riyo Chuchi grows into one of the Senate's steadiest voices, brokering peace with the Talz and standing firm when Cad Bane holds senators hostage. Under the Empire she fights to protect cast-off clone veterans and quietly works with Rex's Clone Underground.",
+  "posts": [
+   {
+    "from": -21,
+    "to": -18,
+    "fromText": "by 21 BBY",
+    "toText": "18 BBY",
+    "text": "Pantora's senator, first to the Republic, then the Empire"
+   },
+   {
+    "from": -21,
+    "to": -21,
+    "fromText": "21 BBY",
+    "toText": "21 BBY",
+    "text": "Negotiates peace with the Talz on Orto Plutonia"
+   },
+   {
+    "from": -21,
+    "to": -21,
+    "fromText": "21 BBY",
+    "toText": "21 BBY",
+    "text": "Held hostage by Cad Bane in the Senate Building"
+   },
+   {
+    "from": -18,
+    "to": -18,
+    "fromText": "18 BBY",
+    "toText": "18 BBY",
+    "text": "Imperial senator championing the rights of discarded clones"
+   },
+   {
+    "from": -18,
+    "to": null,
+    "fromText": "18 BBY",
+    "toText": null,
+    "text": "Secret ally of Rex's Clone Underground"
+   }
+  ],
+  "sources": [
+   "Trespass",
+   "Hostage Crisis",
+   "The Clone Conspiracy",
+   "Truth and Consequences",
+   "Tipping Point"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Kleya Marki",
+  "name": "Kleya Marki",
+  "short": "Kleya",
+  "aliases": [],
+  "species": "Human",
+  "homeworld": null,
+  "affiliation": "Axis network (Luthen Rael's rebel cell) → Alliance to Restore the Republic",
+  "born": null,
+  "died": null,
+  "summary": "Pulled as a girl from an Imperial massacre by a disillusioned soldier, Kleya grows up as Luthen Rael's partner, running his Coruscant antiquities gallery as cover for a secret rebel network. She manages its agents and secrets for years, ends Luthen's life when the ISB closes in, and escapes to Yavin 4 with his warning about the Death Star.",
+  "posts": [
+   {
+    "from": -18,
+    "to": -18,
+    "fromText": "c. 18 BBY",
+    "toText": "c. 18 BBY",
+    "text": "Escapes an Imperial slaughter on her world; saved by Lear"
+   },
+   {
+    "from": -18,
+    "to": -1,
+    "fromText": "18 BBY",
+    "toText": "1 BBY",
+    "text": "Luthen Rael's partner in building a covert rebellion"
+   },
+   {
+    "from": -5,
+    "to": -1,
+    "fromText": "5 BBY",
+    "toText": "1 BBY",
+    "text": "Keeps his Coruscant antiquities gallery as their cover"
+   },
+   {
+    "from": -2,
+    "to": -2,
+    "fromText": "2 BBY",
+    "toText": "2 BBY",
+    "text": "Plans Mon Mothma's escape from Coruscant"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Ends Luthen's life before the ISB can question him"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Flees Coruscant with Cassian Andor for Yavin 4"
+   }
+  ],
+  "sources": [
+   "Announcement",
+   "Welcome to the Rebellion",
+   "Make It Stop",
+   "Who Else Knows?",
+   "Jedha, Kyber, Erso"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Lio Partagaz",
+  "name": "Lio Partagaz",
+  "short": "Partagaz",
+  "aliases": [],
+  "species": "Human (Coruscanti)",
+  "homeworld": "Coruscant",
+  "affiliation": "Galactic Empire (Imperial Security Bureau)",
+  "born": null,
+  "died": {
+   "y": -1,
+   "yText": "1 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A soft-spoken Imperial Security Bureau officer who likens his work to medicine, Lio Partagaz rises from a green lieutenant to the major who chairs the ISB board on Coruscant. He oversees the hunt for Axis and the scheme that ends in the Ghorman massacre, but the rebellion keeps spreading; when stormtroopers come to arrest him, he takes his own life.",
+  "posts": [
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Young ISB lieutenant on Coruscant"
+   },
+   {
+    "from": -5,
+    "to": -1,
+    "fromText": "by 5 BBY",
+    "toText": "1 BBY",
+    "text": "Major chairing the ISB board of supervisors"
+   },
+   {
+    "from": -4,
+    "to": -4,
+    "fromText": "4 BBY",
+    "toText": "4 BBY",
+    "text": "Joins a secret conference on Ghorman's fate"
+   },
+   {
+    "from": -3,
+    "to": -2,
+    "fromText": "3 BBY",
+    "toText": "2 BBY",
+    "text": "Directs the infiltration and takeover of Ghorman"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Shoots himself as stormtroopers arrive to arrest him"
+   }
+  ],
+  "sources": [
+   "Aldhani (episode)",
+   "Announcement",
+   "Ever Been to Ghorman?",
+   "Messenger (episode)",
+   "Jedha, Kyber, Erso"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Flix",
+  "name": "Flix",
+  "short": "Flix",
+  "aliases": [],
+  "species": "Gozzo",
+  "homeworld": "Drahgor III",
+  "affiliation": "Office of Acquisitions → Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "A feathered Gozzo who left his flock's fuel refinery on Drahgor III dreaming of singing in cantinas, Flix instead runs the Office of Acquisitions, a Colossus salvage shop, with his partner Orka. The pair haggle, drop robbers through a trapdoor and flee with the station, and Flix's reluctant homecoming wins it badly needed fuel.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "before 34 ABY",
+    "toText": "before 34 ABY",
+    "text": "Leaves Drahgor III hoping to be a cantina singer"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Runs the Office of Acquisitions with Orka"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Traps the robber Narb and his brother"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Flees with the Colossus into deep space"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Returns to Drahgor III; makes peace with his cousin"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Backs the vote to fight the Thunderer"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "When Thieves Drop By",
+   "G-LN (episode)",
+   "From Beneath",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "G1-7CH",
+  "name": "G1-7CH",
+  "short": "Glitch",
+  "aliases": [
+   "Glitch"
+  ],
+  "species": "Hospitality droid",
+  "homeworld": null,
+  "affiliation": "Aunt Z's Tavern → Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "A rusting green hospitality droid known as Glitch, G1-7CH works the tables in Aunt Z's bar on the Colossus and crunches the odds for her race betting. He is sent spinning in Kaz's first bar brawl and runs odds on Kaz falling off Doza Tower. When stormtroopers board the station, he fights back with four blasters at once.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Serving droid at Aunt Z's Tavern"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Figures the odds for Aunt Z's race betting"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Sent spinning in Kaz's first bar brawl"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Fights the boarding stormtroopers with four blasters"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "The High Tower",
+   "The Platform Classic",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Bolza Grool",
+  "name": "Bolza Grool",
+  "short": "Grool",
+  "aliases": [],
+  "species": "Klatooinian",
+  "homeworld": "Klatooine",
+  "affiliation": "Bolza Grool's gorg stand; Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "A burly Klatooinian who sells gorgs in the Colossus market, Bolza Grool enforces his own rules, tossing racers who dodge their debts head first into the ocean. He brawls with Kaz after a stray holo-dart hits his back, later trades him a gorg for logo space on his racer, and stays a fixture of the station after it flees.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Gorg vendor in the Colossus marketplace"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Throws welshing racers off the platform"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Brawls with Kaz after a stray holo-dart"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Trades Kaz a gorg for logo space on his racer"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Stays with the station after it escapes"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "The Triple Dark",
+   "The Children from Tehar",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Orka",
+  "name": "Orka",
+  "short": "Orka",
+  "aliases": [],
+  "species": "Chadra-Fan",
+  "homeworld": "Chad",
+  "affiliation": "Office of Acquisitions → Team Colossus",
+  "born": null,
+  "died": null,
+  "summary": "A small Chadra-Fan who does the bargaining at the Office of Acquisitions, the Colossus salvage shop he runs with his partner Flix, Orka loves a joke and a good lunch. He trades Kaz spare parts for a gorg, drops a robber through the shop's trapdoor, and on Drahgor III stands up to Flix's family until they share their fuel.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "by 34 ABY",
+    "text": "Co-owner of the Office of Acquisitions"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Trades Kaz spare parts for a gorg lunch"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Drops the robber Narb through the trapdoor"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Flees with the Colossus into space"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Wins fuel from Flix's family on Drahgor III"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Votes with the station to fight the Thunderer"
+   }
+  ],
+  "sources": [
+   "The Recruit",
+   "When Thieves Drop By",
+   "Treasure Chest",
+   "From Beneath",
+   "The Escape (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Sistros Nevet",
+  "name": "Sistros Nevet",
+  "short": "Sistros",
+  "aliases": [
+   "Sistros"
+  ],
+  "species": null,
+  "homeworld": "Dwartii",
+  "affiliation": "Four Sages of Dwartii; Galactic Republic",
+  "born": null,
+  "died": null,
+  "summary": "One of Dwartii's four famed Sages, Sistros Nevet is a cold, calculating minister and lawmaker who helps write the constitution of the modern Republic and is accused of shaping it for her own ends. A thousand years later Palpatine admires her: her statue stands in his office, hides his lightsabers, and follows him into the Imperial Palace.",
+  "posts": [
+   {
+    "from": -1032,
+    "to": -1032,
+    "fromText": "c. 1032 BBY",
+    "toText": "c. 1032 BBY",
+    "text": "Lawgiver and minister, one of Dwartii's Sages"
+   },
+   {
+    "from": -1032,
+    "to": -1032,
+    "fromText": "c. 1032 BBY",
+    "toText": "c. 1032 BBY",
+    "text": "Helps frame the modern Republic's constitution"
+   },
+   {
+    "from": -32,
+    "to": -32,
+    "fromText": "by 32 BBY",
+    "toText": "by 32 BBY",
+    "text": "Her image chosen for Valorum's millennial invitations"
+   },
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "22 BBY",
+    "toText": "19 BBY",
+    "text": "Her bronzium statue stands in Palpatine's office"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Her statue conceals Palpatine's hidden lightsabers"
+   },
+   {
+    "from": -19,
+    "to": 4,
+    "fromText": "19 BBY",
+    "toText": "4 ABY",
+    "text": "Statue moves with the Emperor to the Imperial Palace"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Statuettes of the Sages sold at Dok-Ondar's on Batuu"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Star Wars: Episode III Revenge of the Sith",
+   "The Lost One",
+   "Star Wars Propaganda: A History of Persuasive Art in the Galaxy",
+   "Tarkin (novel)"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Fives",
+  "name": "Fives",
+  "short": "Fives",
+  "aliases": [
+   "CT-27-5555",
+   "ARC-5555"
+  ],
+  "species": "Human (clone)",
+  "homeworld": "Kamino",
+  "affiliation": "Galactic Republic (Domino Squad, 501st Legion)",
+  "born": null,
+  "died": {
+   "y": -19,
+   "yText": "19 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A clone from Domino Squad who scrapes through training on Kamino, Fives lives through the raid on Rishi Station, joins the 501st Legion and earns ARC trooper rank. After his friend Tup kills a Jedi on command, he digs out the secret of the inhibitor chips, and Commander Fox shoots him before anyone will listen.",
+  "posts": [
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "22 BBY",
+    "toText": "22 BBY",
+    "text": "Clone cadet in Domino Squad on Kamino"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "22 BBY",
+    "toText": "22 BBY",
+    "text": "One of two survivors of the Rishi Station attack"
+   },
+   {
+    "from": -21,
+    "to": -19,
+    "fromText": "21 BBY",
+    "toText": "19 BBY",
+    "text": "ARC trooper in the 501st Legion"
+   },
+   {
+    "from": -20,
+    "to": -20,
+    "fromText": "20 BBY",
+    "toText": "20 BBY",
+    "text": "Fights on Umbara against the traitor Pong Krell"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Uncovers the inhibitor chips after Tup kills a Jedi"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Shot by Commander Fox on Coruscant"
+   }
+  ],
+  "sources": [
+   "Clone Cadets",
+   "Rookies (episode)",
+   "ARC Troopers (episode)",
+   "Carnage of Krell",
+   "Fugitive",
+   "Orders (episode)"
+  ],
+  "conflict": null
+ }
+]
