@@ -1,0 +1,2925 @@
+[
+ {
+  "id": "ben-solo-born",
+  "title": "Ben Solo is born on Chandrila",
+  "y": 5,
+  "yText": "5 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "New Republic",
+  "summary": "Leia Organa goes into labor at the Galactic Concordance ceremony on Chandrila, and Han hurries her off to a hospital, where she delivers their son, Ben Solo. The son of two war heroes will one day call himself Kylo Ren.",
+  "wp": "Ben Solo",
+  "places": [
+   "Chandrila"
+  ],
+  "people": [
+   "Ben Solo",
+   "Leia Skywalker Organa Solo",
+   "Han Solo"
+  ],
+  "sources": [
+   "Aftermath: Empire's End",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "concordance-disarmament",
+  "title": "Republic and Empire stand down their militaries",
+  "y": 5,
+  "yText": "5 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Follows the Galactic Concordance, dated 5 ABY; the Republic's own Military Disarmament Act passed c. 4 ABY.",
+  "category": "politics",
+  "polity": "New Republic",
+  "summary": "With the war formally over, the New Republic and what is left of the Empire halt hostilities and begin disarming. Mon Mothma's Republic keeps only a small defense force, a choice that leaves it exposed when a new Imperial threat rises.",
+  "wp": "Military Disarmament Act",
+  "places": [],
+  "people": [
+   "Mon Mothma"
+  ],
+  "sources": [
+   "Star Wars: The Force Awakens: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "inner-imperial-remnant-collapses",
+  "title": "Inner systems' Imperial remnant falls apart",
+  "y": 5,
+  "yText": "c. 5 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "fall",
+  "polity": "Imperial Remnant",
+  "summary": "The Concordance lets loyalist Core and Inner Rim worlds such as Commenor, Rendili and Denon form an Imperial rump state, but it collapses almost at once in bickering. Many of its worlds later drift into the Senate's Centrist bloc.",
+  "wp": "Inner systems' Imperial remnant",
+  "places": [
+   "Commenor",
+   "Rendili",
+   "Denon"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars: Battles that Changed the Galaxy"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "imperial-exodus-unknown-regions",
+  "title": "Imperial holdouts regroup in the Unknown Regions",
+  "y": 5,
+  "yText": "5 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "founding",
+  "polity": "Imperial Remnant",
+  "summary": "After a flight of several months, Rae Sloane and Brendol Hux reach the late Emperor's dreadnought Eclipse and link up with other Imperials who escaped into uncharted space. The hidden remnant grows strong and starts turning the ice world Ilum into a superweapon.",
+  "wp": "Unknown Regions Imperial remnant",
+  "places": [
+   "Ilum"
+  ],
+  "people": [
+   "Rae Sloane",
+   "Brendol Hux",
+   "Armitage Hux"
+  ],
+  "sources": [
+   "Aftermath: Empire's End",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "luke-seeks-jedi-lore",
+  "title": "Luke begins hunting lost Jedi lore",
+  "y": 5,
+  "yText": "5 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Dated 29 years before the Starkiller Incident (34 ABY) by The Rise of Skywalker: The Visual Dictionary.",
+  "category": "jedi",
+  "polity": "Jedi",
+  "summary": "With the Empire beaten, Luke Skywalker starts combing the galaxy for scraps of Jedi knowledge the Empire tried to erase, gathering texts and relics he hopes will let him rebuild the order.",
+  "wp": null,
+  "places": [],
+  "people": [
+   "Luke Skywalker"
+  ],
+  "sources": [
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "cosmic-force-falls-quiet",
+  "title": "The Cosmic Force falls quiet",
+  "y": 5,
+  "yText": "c. 5 ABY",
+  "frac": null,
+  "y2": 34,
+  "y2Text": "34 ABY",
+  "confidence": "estimated",
+  "note": "The span runs until the Force stirs again around the Starkiller Incident.",
+  "category": "force",
+  "polity": "galactic",
+  "summary": "Once the Galactic Civil War ends, the Cosmic Force lies dormant, barely sensed even by those attuned to it. It stirs again in 34 ABY, when latent gifts such as Rey's and Finn's begin to wake.",
+  "wp": "Cosmic Force",
+  "places": [],
+  "people": [
+   "Rey Skywalker",
+   "Finn"
+  ],
+  "sources": [
+   "Star Wars: The Force Awakens: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "jocasta-nu-cache-found",
+  "title": "Luke uncovers Jocasta Nu's hidden school",
+  "y": 6,
+  "yText": "c. 6 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "discovery",
+  "polity": "Jedi",
+  "summary": "Luke finds the buried refuge where Jedi archivist Jocasta Nu, after Order 66, stored holocrons of her teachings on a remote world. Its recovered knowledge feeds his effort to revive the Jedi.",
+  "wp": "Jocasta Nu's cache",
+  "places": [],
+  "people": [
+   "Luke Skywalker",
+   "Jocasta Nu"
+  ],
+  "sources": [
+   "The Rise of Kylo Ren 2",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "fenril-crisis-begins",
+  "title": "Fenril sector breaks with the New Republic",
+  "y": 6,
+  "yText": "c. 6 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Marvel's Star Wars (2025) is set about two years after Return of the Jedi.",
+  "category": "politics",
+  "polity": "New Republic",
+  "summary": "Pirates gut Republic convoys near Sullust, and Kezrin Almovar, Prime Minister of Pirros, throws the New Republic out of a trade summit, cutting the Fenril sector off. Behind the crisis stands the Anzati mystic Reyna Oskure.",
+  "wp": "Fenril crisis",
+  "places": [
+   "Sullust"
+  ],
+  "people": [
+   "Kezrin Almovar",
+   "Leia Skywalker Organa Solo",
+   "Mon Mothma",
+   "Reyna Oskure"
+  ],
+  "sources": [
+   "Star Wars (2025) 1",
+   "Star Wars (2025) 4"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "nagai-free-nagi",
+  "title": "Nagai revolt frees Nagi",
+  "y": 6,
+  "yText": "c. 6 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "rebellion",
+  "polity": "New Republic",
+  "summary": "Enslaved Nagai rise up on Kaltrais with help from Luke Skywalker, Han Solo and Rynn Zenat, seize ships, and carry the fight home to Nagi. The crisis ends with Nagi free and its people allied to the New Republic.",
+  "wp": "Battle of Nagi",
+  "places": [
+   "Kaltrais",
+   "Nagi"
+  ],
+  "people": [
+   "Jesrit",
+   "Luke Skywalker",
+   "Han Solo",
+   "Rynn Zenat",
+   "Reyna Oskure"
+  ],
+  "sources": [
+   "Star Wars (2025) 6",
+   "Star Wars (2025) 9",
+   "Star Wars (2025) 10"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "phylanx-transmitter-destroyed",
+  "title": "Han and Lando stop a droid-revolt plot",
+  "y": 7,
+  "yText": "7 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "technology",
+  "polity": "galactic",
+  "summary": "Han and Lando Calrissian race to find a device called the Phylanx Redux Transmitter, which can make droids murder organics, before its maker Fyzen Gor unleashes it on Cloud City. Han kills Gor and the transmitter is destroyed.",
+  "wp": "Search for the Phylanx Redux Transmitter",
+  "places": [
+   "Bespin"
+  ],
+  "people": [
+   "Han Solo",
+   "Landonis Balthazar Calrissian",
+   "Fyzen Gor"
+  ],
+  "sources": [
+   "Last Shot"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "nadura-killed-on-corvus",
+  "title": "Morgan Elsbeth has a Republic envoy killed",
+  "y": 8,
+  "yText": "between 7 and 9 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Falls during Elsbeth's rule of Calodan, which began no earlier than 7 ABY and ended with its liberation in 9 ABY; placed mid-range.",
+  "category": "politics",
+  "polity": "New Republic",
+  "summary": "New Republic ambassador Nadura comes to Calodan on Corvus to bring the world into the Republic. Magistrate Morgan Elsbeth refuses, her guards cut down the escort, and the fleeing envoy dies when her ship is blown apart.",
+  "wp": "Skirmish in Calodan",
+  "places": [
+   "Corvus"
+  ],
+  "people": [
+   "Nadura",
+   "Morgan Elsbeth"
+  ],
+  "sources": [
+   "The Path of Hate"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "poe-learns-to-fly",
+  "title": "Shara Bey teaches young Poe to fly",
+  "y": 8,
+  "yText": "8 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Poe was six, per The Force Awakens: The Visual Dictionary.",
+  "category": "culture",
+  "polity": "New Republic",
+  "summary": "On Yavin 4, retired rebel pilot Shara Bey sits six-year-old Poe Dameron in her lap and lets him work the controls of her old A-wing, the start of a life spent flying.",
+  "wp": "Poe Dameron",
+  "places": [
+   "Yavin 4"
+  ],
+  "people": [
+   "Poe Dameron",
+   "Shara Bey"
+  ],
+  "sources": [
+   "Star Wars: The Force Awakens: The Visual Dictionary",
+   "Poe Dameron: Flight Log"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "din-djarin-finds-grogu",
+  "title": "Din Djarin claims the bounty on Grogu",
+  "y": 9,
+  "yText": "9 ABY",
+  "frac": 0.05,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "An Imperial remnant hires hunters to fetch a Force-sensitive infant of Yoda's species. The Mandalorian Din Djarin reaches him first on Arvala-7, shooting the rival droid IG-11 to keep the child alive, and begins the bond that will make Grogu his son.",
+  "wp": "Hunt for Grogu",
+  "places": [
+   "Arvala-7"
+  ],
+  "people": [
+   "Din Djarin",
+   "Din Grogu",
+   "Kuiil",
+   "IG-11",
+   "The Client"
+  ],
+  "sources": [
+   "Chapter 1: The Mandalorian",
+   "Chapter 2: The Child"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "din-turns-on-the-guild",
+  "title": "Din Djarin takes Grogu back from the Client",
+  "y": 9,
+  "yText": "9 ABY",
+  "frac": 0.08,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "After handing the child to the Client on Nevarro for a hoard of beskar, Din has second thoughts and snatches him back, breaking the Bounty Hunters' Guild code. Nevarro's Mandalorian covert fights off the hunters to cover his escape.",
+  "wp": "Incident on Nevarro",
+  "places": [
+   "Nevarro"
+  ],
+  "people": [
+   "Din Djarin",
+   "Din Grogu",
+   "The Client",
+   "Greef Karga",
+   "Paz Vizsla",
+   "The Armorer"
+  ],
+  "sources": [
+   "Chapter 3: The Sin"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "clash-on-nevarro",
+  "title": "Din's allies drive Gideon from Nevarro City",
+  "y": 9,
+  "yText": "9 ABY",
+  "frac": 0.2,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Mandalorians",
+  "summary": "Din, Cara Dune, Greef Karga, Kuiil and a rebuilt IG-11 fight Moff Gideon's troops in Nevarro City. Kuiil is killed, IG-11 destroys himself to save Grogu, and Gideon crawls from his downed fighter holding the Darksaber.",
+  "wp": "Clash on Nevarro",
+  "places": [
+   "Nevarro"
+  ],
+  "people": [
+   "Din Djarin",
+   "Greef Karga",
+   "Carasynthia Dune",
+   "Kuiil",
+   "IG-11",
+   "Gideon"
+  ],
+  "sources": [
+   "Chapter 7: The Reckoning",
+   "Chapter 8: Redemption"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "din-meets-bo-katan",
+  "title": "Din Djarin meets Bo-Katan's Nite Owls",
+  "y": 9,
+  "yText": "9 ABY",
+  "frac": 0.35,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "On Trask, Din learns that not all Mandalorians share his covert's creed when the Nite Owls under Bo-Katan Kryze save him. After raiding an Imperial freighter together, she sends him to find the Jedi Ahsoka Tano on Corvus.",
+  "wp": "Mission to Trask",
+  "places": [
+   "Trask"
+  ],
+  "people": [
+   "Din Djarin",
+   "Bo-Katan Kryze",
+   "Koska Reeves",
+   "Axe Woves"
+  ],
+  "sources": [
+   "Chapter 11: The Heiress"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "liberation-of-calodan",
+  "title": "Ahsoka Tano frees Calodan and names Grogu",
+  "y": 9,
+  "yText": "9 ABY",
+  "frac": 0.42,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi",
+  "summary": "Ahsoka Tano and Din Djarin topple Magistrate Morgan Elsbeth's rule over Calodan on Corvus. Ahsoka learns the child's name is Grogu but declines to train him, and demands that Elsbeth reveal where Grand Admiral Thrawn is hiding.",
+  "wp": "Liberation of Calodan",
+  "places": [
+   "Corvus"
+  ],
+  "people": [
+   "Ahsoka Tano",
+   "Din Djarin",
+   "Din Grogu",
+   "Morgan Elsbeth",
+   "Mitth'raw'nuruodo"
+  ],
+  "sources": [
+   "Chapter 13: The Jedi"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "grogu-taken-on-tython",
+  "title": "Dark troopers seize Grogu on Tython",
+  "y": 9,
+  "yText": "9 ABY",
+  "frac": 0.45,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "force",
+  "polity": "Imperial Remnant",
+  "summary": "Grogu reaches out through the Force from a seeing stone on Tython. Boba Fett, with Fennec Shand, arrives to reclaim his armor and helps defend him, but Gideon's dark troopers carry the child off and the Razor Crest is blown up.",
+  "wp": "Battle of Tython (9 ABY)",
+  "places": [
+   "Tython"
+  ],
+  "people": [
+   "Din Grogu",
+   "Din Djarin",
+   "Boba Fett",
+   "Fennec Shand",
+   "Gideon"
+  ],
+  "sources": [
+   "Chapter 14: The Tragedy"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "luke-takes-grogu",
+  "title": "Luke Skywalker takes Grogu for training",
+  "y": 9,
+  "yText": "9 ABY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi",
+  "summary": "Din's strike team storms Moff Gideon's cruiser; Din beats Gideon, wins the Darksaber, and takes him prisoner. When dark troopers close in, Luke Skywalker cuts through them, and Din takes off his helmet to bid Grogu farewell as the child leaves with the Jedi.",
+  "wp": "Assault on Moff Gideon's cruiser",
+  "places": [],
+  "people": [
+   "Din Djarin",
+   "Din Grogu",
+   "Luke Skywalker",
+   "Gideon",
+   "Bo-Katan Kryze",
+   "Carasynthia Dune",
+   "Fennec Shand"
+  ],
+  "sources": [
+   "Chapter 16: The Rescue"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "boba-fett-takes-jabbas-palace",
+  "title": "Boba Fett seizes Jabba's old palace",
+  "y": 9,
+  "yText": "9 ABY",
+  "frac": 0.52,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Tatooine underworld",
+  "summary": "Boba Fett storms Jabba's palace on Tatooine with Fennec Shand, kills the usurper Bib Fortuna, and takes the throne. Styling himself daimyo, he tries to rule Jabba's former territory with respect rather than fear.",
+  "wp": "Attack on Jabba's Palace (Boba Fett)",
+  "places": [
+   "Tatooine"
+  ],
+  "people": [
+   "Boba Fett",
+   "Fennec Shand",
+   "Bib Fortuna"
+  ],
+  "sources": [
+   "Chapter 16: The Rescue",
+   "Chapter 1: Stranger in a Strange Land"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "din-exiled-from-covert",
+  "title": "The Armorer casts out Din Djarin",
+  "y": 9,
+  "yText": "9 ABY",
+  "frac": 0.57,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "Paz Vizsla challenges Din for the Darksaber in the covert hidden on Glavis Ringworld. Learning that Din has shown his face, the Armorer declares him an apostate, outside the Creed, and sends him away.",
+  "wp": "Fight for the Darksaber",
+  "places": [
+   "Glavis Ringworld"
+  ],
+  "people": [
+   "Din Djarin",
+   "Paz Vizsla",
+   "The Armorer"
+  ],
+  "sources": [
+   "Chapter 5: Return of the Mandalorian"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "grogu-chooses-din",
+  "title": "Grogu leaves Luke's academy for Din",
+  "y": 9,
+  "yText": "9 ABY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": "The temple's world, unnamed on screen, is identified as Ossus by Shadow of the Sith.",
+  "category": "jedi",
+  "polity": "Jedi",
+  "summary": "On Ossus, where Luke is raising his first temple, Grogu trains in the Force. Offered Yoda's lightsaber or the beskar mail Din sent him, he chooses the armor, gives up Jedi training, and rejoins Din on Tatooine.",
+  "wp": "Jedi Temple of Luke Skywalker",
+  "places": [
+   "Ossus",
+   "Tatooine"
+  ],
+  "people": [
+   "Din Grogu",
+   "Luke Skywalker",
+   "Ahsoka Tano",
+   "Din Djarin"
+  ],
+  "sources": [
+   "Chapter 6: From the Desert Comes a Stranger",
+   "Chapter 7: In the Name of Honor",
+   "Shadow of the Sith"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "battle-of-mos-espa",
+  "title": "Boba Fett's gotra beats the Pykes",
+  "y": 9,
+  "yText": "9 ABY",
+  "frac": 0.62,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Tatooine underworld",
+  "summary": "After the Pyke Syndicate bombs the Sanctuary cantina, Fett's gotra, Freetown's militia and Din Djarin fight the Pykes and the crime families backing them through Mos Espa. Fett kills Cad Bane, Fennec Shand wipes out the Pyke bosses, and Fett holds Tatooine.",
+  "wp": "Battle of Mos Espa",
+  "places": [
+   "Tatooine"
+  ],
+  "people": [
+   "Boba Fett",
+   "Fennec Shand",
+   "Din Djarin",
+   "Din Grogu",
+   "Cad Bane",
+   "Cobb Vanth"
+  ],
+  "sources": [
+   "Chapter 6: From the Desert Comes a Stranger",
+   "Chapter 7: In the Name of Honor"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "living-waters-of-mandalore",
+  "title": "Din bathes in Mandalore's Living Waters",
+  "y": 9,
+  "yText": "c. 9 ABY",
+  "frac": 0.66,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Placed in 9 ABY by ordering: after Mandalorian Season Two (9 ABY per Star Wars: Timelines) and before Ahsoka's 'Part Seven', which Star Wars Insider 228 sets nine years after A New Hope.",
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "Seeking redemption, Din descends into the ruins of Mandalore and, guided by Bo-Katan Kryze, immerses himself in the Living Waters, proving the world can still support life. Pulling him from the depths, Bo-Katan glimpses a living mythosaur.",
+  "wp": "Mission to the Living Waters",
+  "places": [
+   "Mandalore"
+  ],
+  "people": [
+   "Din Djarin",
+   "Bo-Katan Kryze",
+   "Din Grogu"
+  ],
+  "sources": [
+   "Chapter 17: The Apostate",
+   "Chapter 18: The Mines of Mandalore"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "amnesty-program-pershing",
+  "title": "Penn Pershing's rehabilitation goes wrong",
+  "y": 9,
+  "yText": "c. 9 ABY",
+  "frac": 0.7,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Placed in 9 ABY by ordering: after Mandalorian Season Two (9 ABY per Star Wars: Timelines) and before Ahsoka's 'Part Seven', which Star Wars Insider 228 sets nine years after A New Hope.",
+  "category": "politics",
+  "polity": "New Republic",
+  "summary": "On Coruscant the New Republic's Amnesty Program houses former Imperials like cloning scientist Penn Pershing. When he tries to resume his research, Republic troops arrest him, and fellow Amnesty officer Elia Kane, secretly loyal to Gideon, wipes his mind.",
+  "wp": "New Republic Amnesty Program",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Penn Pershing",
+   "Elia Kane"
+  ],
+  "sources": [
+   "Chapter 19: The Convert"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "pirate-siege-of-nevarro",
+  "title": "Mandalorians free Nevarro from pirates",
+  "y": 9,
+  "yText": "c. 9 ABY",
+  "frac": 0.73,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Placed in 9 ABY by ordering: after Mandalorian Season Two (9 ABY per Star Wars: Timelines) and before Ahsoka's 'Part Seven', which Star Wars Insider 228 sets nine years after A New Hope.",
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "When the New Republic won't defend Nevarro from Gorian Shard's pirates, Bo-Katan leads the Tribe's warriors to retake the city. Shard dies with his flagship, and the Armorer charges Bo-Katan with reuniting all Mandalorians.",
+  "wp": "Pirate siege on Nevarro",
+  "places": [
+   "Nevarro"
+  ],
+  "people": [
+   "Bo-Katan Kryze",
+   "Din Djarin",
+   "Greef Karga",
+   "Gorian Shard",
+   "The Armorer",
+   "Carson Teva"
+  ],
+  "sources": [
+   "Chapter 21: The Pirate"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "shadow-council-convenes",
+  "title": "The Imperial Shadow Council meets in secret",
+  "y": 9,
+  "yText": "c. 9 ABY",
+  "frac": 0.77,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Placed in 9 ABY by ordering: after Mandalorian Season Two (9 ABY per Star Wars: Timelines) and before Ahsoka's 'Part Seven', which Star Wars Insider 228 sets nine years after A New Hope.",
+  "category": "politics",
+  "polity": "Imperial Remnant",
+  "summary": "Escaped from Republic custody, Moff Gideon meets the warlords of a revived Shadow Council, among them Gilad Pellaeon and Brendol Hux. They squabble over resources as Hux touts Project Necromancer and Pellaeon hints at Thrawn's return.",
+  "wp": "Shadow Council (Imperial Remnant)",
+  "places": [
+   "Mandalore"
+  ],
+  "people": [
+   "Gideon",
+   "Brendol Hux",
+   "Gilad Pellaeon",
+   "Mitth'raw'nuruodo"
+  ],
+  "sources": [
+   "Chapter 23: The Spies",
+   "Chapter 21: The Pirate"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "liberation-of-mandalore",
+  "title": "Mandalorians retake Mandalore from Gideon",
+  "y": 9,
+  "yText": "c. 9 ABY",
+  "frac": 0.8,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Placed in 9 ABY by ordering: after Mandalorian Season Two (9 ABY per Star Wars: Timelines) and before Ahsoka's 'Part Seven', which Star Wars Insider 228 sets nine years after A New Hope.",
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "Bo-Katan's reunited Mandalorians land on their homeworld, join survivors of the Purge and storm Gideon's hidden base. Gideon dies with his clones, the Great Forge burns again, and Din formally adopts his foundling as Din Grogu.",
+  "wp": "Liberation of Mandalore",
+  "places": [
+   "Mandalore"
+  ],
+  "people": [
+   "Bo-Katan Kryze",
+   "Din Djarin",
+   "Din Grogu",
+   "Gideon",
+   "The Armorer",
+   "Paz Vizsla",
+   "Axe Woves"
+  ],
+  "sources": [
+   "Chapter 22: Guns for Hire",
+   "Chapter 23: The Spies",
+   "Chapter 24: The Return"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "ahsoka-hunts-thrawn-map",
+  "title": "Ahsoka races Elsbeth for the map to Thrawn",
+  "y": 9,
+  "yText": "c. 9 ABY",
+  "frac": 0.84,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Star Wars Insider 228 sets 'Part Seven' nine years after A New Hope; the season follows The Book of Boba Fett (9 ABY).",
+  "category": "jedi",
+  "polity": "Jedi",
+  "summary": "The Dark Jedi Shin Hati and her master Baylan Skoll free Morgan Elsbeth from Republic custody, destroying the cruiser Vesper. Ahsoka Tano recovers a star map to Thrawn's place of exile from Arcana, but Shin steals it on Lothal after wounding Sabine Wren.",
+  "wp": "Quest to find Ezra Bridger",
+  "places": [
+   "Arcana",
+   "Lothal"
+  ],
+  "people": [
+   "Ahsoka Tano",
+   "Sabine Wren",
+   "Huyang",
+   "Morgan Elsbeth",
+   "Baylan Skoll",
+   "Shin Hati"
+  ],
+  "sources": [
+   "Part One: Master and Apprentice",
+   "Part Two: Toil and Trouble"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "eye-of-sion-to-peridea",
+  "title": "The Eye of Sion jumps to another galaxy",
+  "y": 9,
+  "yText": "c. 9 ABY",
+  "frac": 0.88,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Star Wars Insider 228 sets 'Part Seven' nine years after A New Hope; the season follows The Book of Boba Fett (9 ABY).",
+  "category": "exploration",
+  "polity": "Imperial Remnant",
+  "summary": "At Seatos, Elsbeth's hyperspace ring carries her, Baylan, Shin and Sabine Wren, who bargains her way aboard to reach Ezra, to Peridea in a distant galaxy. Ahsoka, knocked from a cliff, meets Anakin's spirit in a realm between worlds, then follows on a purrgil.",
+  "wp": "Eye of Sion",
+  "places": [
+   "Seatos",
+   "Peridea"
+  ],
+  "people": [
+   "Morgan Elsbeth",
+   "Baylan Skoll",
+   "Shin Hati",
+   "Sabine Wren",
+   "Ahsoka Tano",
+   "Ezra Bridger"
+  ],
+  "sources": [
+   "Part Four: Fallen Jedi",
+   "Part Five: Shadow Warrior",
+   "Part Six: Far, Far Away",
+   "Part Seven: Dreams and Madness"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "thrawn-returns",
+  "title": "Grand Admiral Thrawn escapes exile",
+  "y": 9,
+  "yText": "c. 9 ABY",
+  "frac": 0.93,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Star Wars Insider 228 sets 'Part Seven' nine years after A New Hope; the season follows The Book of Boba Fett (9 ABY).",
+  "category": "war",
+  "polity": "Imperial Remnant",
+  "summary": "On Peridea, Thrawn outwits Ahsoka's party and departs aided by the Nightsister Great Mothers, emerging at Dathomir with his Star Destroyer. Morgan Elsbeth falls to Ahsoka and Ezra Bridger gets home, but Ahsoka and Sabine are stranded.",
+  "wp": "Battle of Peridea",
+  "places": [
+   "Peridea",
+   "Dathomir"
+  ],
+  "people": [
+   "Mitth'raw'nuruodo",
+   "Ezra Bridger",
+   "Ahsoka Tano",
+   "Sabine Wren",
+   "Morgan Elsbeth",
+   "Great Mothers"
+  ],
+  "sources": [
+   "Part Eight: The Jedi, the Witch, and the Warlord"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "at-attin-children-lost",
+  "title": "Four At Attin children escape the Barrier",
+  "y": 9,
+  "yText": "c. 9 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Lucasfilm places Skeleton Crew in the same timeframe as The Mandalorian and Ahsoka; its order within 9 ABY is not established.",
+  "category": "exploration",
+  "polity": "At Attin",
+  "summary": "Fern, KB, Wim and Neel, children of the sealed-off world At Attin, stumble on a buried starship and blast past the Barrier into the lawless galaxy, where they fall in with the scheming Force-user Jod Na Nawood.",
+  "wp": "At Attin",
+  "places": [
+   "At Attin"
+  ],
+  "people": [
+   "Wim",
+   "Neel",
+   "Fern",
+   "KB",
+   "SM-33",
+   "Jod Na Nawood"
+  ],
+  "sources": [
+   "This Could Be a Real Adventure",
+   "Way, Way Out Past the Barrier"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "invasion-of-at-attin",
+  "title": "Pirates invade At Attin",
+  "y": 9,
+  "yText": "c. 9 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Lucasfilm places Skeleton Crew in the same timeframe as The Mandalorian and Ahsoka; its order within 9 ABY is not established.",
+  "category": "battle",
+  "polity": "At Attin",
+  "summary": "Jod Na Nawood, the pirate captain Silvo, wins back his crew from the mutineer Brutus and uses the children's ship to pass At Attin's Barrier and loot its mint. The kids and their parents fight back, the Barrier falls, and New Republic fighters arrive.",
+  "wp": "Invasion of At Attin",
+  "places": [
+   "At Attin"
+  ],
+  "people": [
+   "Jod Na Nawood",
+   "Wim",
+   "Fern",
+   "Neel",
+   "KB",
+   "SM-33"
+  ],
+  "sources": [
+   "We're Gonna Be In So Much Trouble",
+   "The Real Good Guys"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "shara-bey-dies",
+  "title": "Shara Bey dies on Yavin 4",
+  "y": 10,
+  "yText": "10 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "death",
+  "polity": "New Republic",
+  "summary": "Bloodburn kills rebel veteran Shara Bey at the family home on Yavin 4, leaving her husband Kes and eight-year-old Poe. Leia sends the Damerons a letter promising that Shara will be remembered.",
+  "wp": "Shara Bey",
+  "places": [
+   "Yavin 4"
+  ],
+  "people": [
+   "Shara Bey",
+   "Poe Dameron",
+   "Kes Dameron",
+   "Leia Skywalker Organa Solo"
+  ],
+  "sources": [
+   "Before the Awakening",
+   "Poe Dameron: Flight Log",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "finn-born",
+  "title": "Finn is born",
+  "y": 11,
+  "yText": "11 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "galactic",
+  "summary": "The boy the First Order will seize as a toddler, number FN-2187 and train as a stormtrooper, is born. Years later Poe Dameron will give him the name Finn.",
+  "wp": "Finn",
+  "places": [],
+  "people": [
+   "Finn"
+  ],
+  "sources": [
+   "Star Wars: Timelines",
+   "Star Wars: The Force Awakens: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "trune-family-killed",
+  "title": "Spice Runners kill the Trune family",
+  "y": 13,
+  "yText": "13 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Spice Runners of Kijimi",
+  "summary": "Fleeing Republic patrols, a Spice Runners of Kijimi crew led by the Klatooinian Vigilch holes up on a Yungbrii farm and uses its family as shields. The shootout kills Sela Trune's family, and she later hunts the gang as a Republic security officer.",
+  "wp": "Skirmish on Yungbrii",
+  "places": [
+   "Yungbrii"
+  ],
+  "people": [
+   "Sela Trune",
+   "Vigilch"
+  ],
+  "sources": [
+   "Poe Dameron: Free Fall"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "first-order-child-abductions",
+  "title": "Imperial holdouts start stealing children",
+  "y": 14,
+  "yText": "14 ABY",
+  "frac": null,
+  "y2": 15,
+  "y2Text": "15 ABY",
+  "confidence": "estimated",
+  "note": "Finn's abduction is dated from his age (taken at three, 23 in 34 ABY). The First Order was formally organized only in 21 ABY, so these raids are credited to its emerging Imperial core.",
+  "category": "crime",
+  "polity": "First Order",
+  "summary": "The Imperial forces that will become the First Order begin kidnapping children to raise as soldiers. Three-year-old Finn is taken in 14 ABY; in 15 ABY they seize two-year-old Kadara, Lando Calrissian's daughter, among other rebel leaders' children.",
+  "wp": "First Order",
+  "places": [],
+  "people": [
+   "Finn",
+   "Kadara Calrissian",
+   "Landonis Balthazar Calrissian"
+  ],
+  "sources": [
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary",
+   "Star Wars: The Force Awakens: The Visual Dictionary",
+   "Star Wars: Timelines",
+   "Star Wars: The Rise of Skywalker: Expanded Edition"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "barro-remnant-destroyed",
+  "title": "Din Djarin smashes Barro's Imperial remnant",
+  "y": 14,
+  "yText": "c. 14 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "The film's official podcast sets it about ten years after Return of the Jedi (4 ABY).",
+  "category": "battle",
+  "polity": "New Republic",
+  "summary": "Now hunting Imperial warlords under Republic contract, Din and Grogu hit Commander Barro's base on icy Phostera and wreck his AT-AT column. Barro dies fleeing, a costly win: the Republic wanted him alive to expose his fellow warlords.",
+  "wp": "Attack on Barro's Imperial remnant",
+  "places": [
+   "Phostera"
+  ],
+  "people": [
+   "Din Djarin",
+   "Din Grogu",
+   "Barro",
+   "Garazeb Orrelios"
+  ],
+  "sources": [
+   "Star Wars: The Mandalorian and Grogu"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "mission-to-shakari",
+  "title": "Din unmasks and captures Janu Coin",
+  "y": 14,
+  "yText": "c. 14 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "The film's official podcast sets it about ten years after Return of the Jedi (4 ABY).",
+  "category": "crime",
+  "polity": "New Republic",
+  "summary": "Colonel Ward sends Din to recover Jabba's son Rotta, a gladiator on the moon Shakari, for the Hutt Twins. Din discovers that Janu, the moon's crime boss, is the Imperial warlord Coin, captures him, and hides Rotta instead of delivering him.",
+  "wp": "Mission to Shakari",
+  "places": [
+   "Shakari"
+  ],
+  "people": [
+   "Din Djarin",
+   "Din Grogu",
+   "Rotta",
+   "Janu Coin",
+   "Ward",
+   "Garazeb Orrelios"
+  ],
+  "sources": [
+   "Star Wars: The Mandalorian and Grogu"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-of-nal-hutta",
+  "title": "The Hutt Twins fall on Nal Hutta",
+  "y": 14,
+  "yText": "c. 14 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "The film's official podcast sets it about ten years after Return of the Jedi (4 ABY).",
+  "category": "battle",
+  "polity": "Hutts",
+  "summary": "The bounty hunter Embo abducts Din for the vengeful Hutt Twins. Grogu and a crew of Anzellan droidsmiths free him; Din storms the Twins' palace, the Twins die, Republic fighters level it, and Rotta chooses to side with the New Republic.",
+  "wp": "Battle of Nal Hutta (Din Djarin)",
+  "places": [
+   "Nal Hutta",
+   "Nevarro"
+  ],
+  "people": [
+   "Din Djarin",
+   "Din Grogu",
+   "Rotta",
+   "Embo",
+   "The Twins",
+   "Ward"
+  ],
+  "sources": [
+   "Star Wars: The Mandalorian and Grogu"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "luke-restores-jedi-order",
+  "title": "Luke Skywalker restores the Jedi Order",
+  "y": 15,
+  "yText": "15 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Dated 19 years before the Starkiller Incident by The Rise of Skywalker: The Visual Dictionary; Luke was already building his temple and training Grogu by 9 ABY.",
+  "category": "jedi",
+  "polity": "Jedi",
+  "summary": "From his temple on Ossus, Luke formally revives the Jedi Order and gathers a new class of students. Among them is his nephew Ben Solo, sent by Leia and Han to learn to master his formidable strength in the Force.",
+  "wp": "Jedi Order",
+  "places": [
+   "Ossus"
+  ],
+  "people": [
+   "Luke Skywalker",
+   "Ben Solo"
+  ],
+  "sources": [
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary",
+   "The Star Wars Book"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "rey-born",
+  "title": "Rey is born on Hyperkarn",
+  "y": 15,
+  "yText": "15 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "galactic",
+  "summary": "Rey is born on Hyperkarn to Miramir and Dathan, a powerless clone grown from Emperor Palpatine's genetic template. Her parents live in hiding from the Sith cult that made him.",
+  "wp": "Rey Skywalker",
+  "places": [
+   "Hyperkarn"
+  ],
+  "people": [
+   "Rey Skywalker",
+   "Dathan",
+   "Miramir"
+  ],
+  "sources": [
+   "Star Wars: Timelines",
+   "Shadow of the Sith"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "ben-solo-and-voe",
+  "title": "Ben Solo's rivalry with Voe flares",
+  "y": 17,
+  "yText": "c. 17 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi",
+  "summary": "At Luke's academy on Ossus, the gifted Ben Solo spars with fellow student Voe, who resents how easily the Force comes to him. Friction among Luke's apprentices foreshadows the night the academy falls.",
+  "wp": "Voe",
+  "places": [
+   "Ossus"
+  ],
+  "people": [
+   "Ben Solo",
+   "Voe",
+   "Luke Skywalker"
+  ],
+  "sources": [
+   "The Rise of Kylo Ren 3",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "poe-joins-spice-runners",
+  "title": "Poe Dameron joins the Spice Runners",
+  "y": 18,
+  "yText": "18 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Spice Runners of Kijimi",
+  "summary": "Restless teenager Poe Dameron flies a stranded Spice Runners of Kijimi crew off Yavin 4 and signs on as their pilot, falling for Zorii Bliss, daughter of the gang's ruthless leader Zeva.",
+  "wp": "Spice Runners of Kijimi",
+  "places": [
+   "Yavin 4"
+  ],
+  "people": [
+   "Poe Dameron",
+   "Zorii Bliss",
+   "Zeva Bliss",
+   "Vigilch"
+  ],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Poe Dameron: Free Fall",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "mission-to-elphrona",
+  "title": "Luke and Ben meet the Knights of Ren",
+  "y": 19,
+  "yText": "c. 19 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Skywalker: A Family at War places it in the year Ben turned fourteen.",
+  "category": "force",
+  "polity": "Jedi",
+  "summary": "Luke, his apprentice Ben Solo and explorer Lor San Tekka search an old Jedi outpost on Elphrona for relics and run into the Knights of Ren, while Snoke, already whispering in Ben's mind, deepens the boy's doubts about his uncle and the Jedi.",
+  "wp": "Mission to Elphrona",
+  "places": [
+   "Elphrona"
+  ],
+  "people": [
+   "Luke Skywalker",
+   "Ben Solo",
+   "Lor San Tekka",
+   "Snoke"
+  ],
+  "sources": [
+   "The Rise of Kylo Ren 2",
+   "Skywalker: A Family at War"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "kijimi-summit",
+  "title": "Poe defies Zeva Bliss at the Kijimi summit",
+  "y": 19,
+  "yText": "19 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Spice Runners of Kijimi",
+  "summary": "Zeva Bliss lures underworld rivals to Kijimi to massacre them. Poe refuses to spring her trap, helps the guests escape, and survives a fight with Zeva only because Zorii stops her; he then quits the gang and heads home.",
+  "wp": "Kijimi summit",
+  "places": [
+   "Kijimi"
+  ],
+  "people": [
+   "Poe Dameron",
+   "Zeva Bliss",
+   "Zorii Bliss",
+   "Sela Trune"
+  ],
+  "sources": [
+   "Poe Dameron: Free Fall",
+   "Star Wars: Timelines"
+  ],
+  "conflict": "Poe Dameron: Free Fall, which Star Wars: Timelines dates to 18-19 ABY, has Poe quit the Spice Runners after this summit; The Rise of Skywalker: The Visual Dictionary dates his departure to eleven years before the Starkiller Incident, i.e. 23 ABY.",
+  "weight": 1
+ },
+ {
+  "id": "rey-left-on-jakku",
+  "title": "Rey is left on Jakku; her parents die",
+  "y": 21,
+  "yText": "21 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "death",
+  "polity": "Sith Eternal",
+  "summary": "To hide their daughter from Palpatine's cult, Dathan and Miramir leave the young Rey on Jakku in the care of the scrap dealer Unkar Plutt. The Sith assassin Ochi of Bestoon catches them soon after and kills them.",
+  "wp": "Dathan",
+  "places": [
+   "Jakku"
+  ],
+  "people": [
+   "Rey Skywalker",
+   "Dathan",
+   "Miramir",
+   "Ochi",
+   "Unkar Plutt"
+  ],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Shadow of the Sith",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "luke-lando-hunt-ochi",
+  "title": "Luke and Lando chase Ochi to Pasaana",
+  "y": 21,
+  "yText": "21 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi",
+  "summary": "Sensing a tremor in the Force and chasing leads toward the Sith world Exegol, Luke and Lando Calrissian track Ochi to Pasaana but never catch him; the assassin dies stranded there. Lando stays behind among the desert's Aki-Aki.",
+  "wp": "Mission to Pasaana",
+  "places": [
+   "Pasaana"
+  ],
+  "people": [
+   "Luke Skywalker",
+   "Landonis Balthazar Calrissian",
+   "Ochi"
+  ],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Shadow of the Sith",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "first-order-formed",
+  "title": "The First Order takes shape in secret",
+  "y": 21,
+  "yText": "21 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": "Star Wars: Timelines dates its formation to 21 ABY; it went public with the Centrist secession of 29 ABY.",
+  "category": "founding",
+  "polity": "First Order",
+  "summary": "Far beyond Republic space, the scattered Imperial remnant regroups as the First Order, led early on by Rae Sloane and Brendol Hux, and quietly builds a new navy and army. The mysterious Snoke will rise to rule it as Supreme Leader.",
+  "wp": "First Order",
+  "places": [],
+  "people": [
+   "Rae Sloane",
+   "Brendol Hux",
+   "Snoke"
+  ],
+  "sources": [
+   "Star Wars: Timelines",
+   "Star Wars: The Force Awakens: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "first-order-funds-via-cartel",
+  "title": "First Order secretly bankrolls its rearmament",
+  "y": 21,
+  "yText": "21 ABY",
+  "frac": null,
+  "y2": 28,
+  "y2Text": "28 ABY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "First Order",
+  "summary": "For seven years the First Order funnels money through Rinnrivin Di's smuggling and gambling cartel to arm the Amaxine warriors and build its navy. Leia exposes the scheme in 28 ABY and wrecks the Amaxine base on Sibensko, where Di dies.",
+  "wp": "Rinnrivin Di",
+  "places": [
+   "Bastatha",
+   "Sibensko"
+  ],
+  "people": [
+   "Rinnrivin Di",
+   "Leia Skywalker Organa Solo"
+  ],
+  "sources": [
+   "Bloodline (novel)",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "phasma-recruited",
+  "title": "Brendol Hux recruits Phasma on Parnassos",
+  "y": 24,
+  "yText": "24 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "First Order",
+  "summary": "Crash-landed on the harsh world Parnassos in the late Emperor's yacht, Brendol Hux is guided to safety by the Scyre fighter Phasma, who sells out her own clan to win a post with the First Order. She soon helps train its stormtroopers.",
+  "wp": "Mission to Parnassos",
+  "places": [
+   "Parnassos"
+  ],
+  "people": [
+   "Phasma",
+   "Brendol Hux"
+  ],
+  "sources": [
+   "Phasma (novel)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "amaxine-attacks-senate",
+  "title": "Amaxine terror strikes the Senate",
+  "y": 28,
+  "yText": "28 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "New Republic",
+  "summary": "Secretly serving the First Order, Senator Carise Sindian has Amaxine militants bomb a Senate building on Hosnian Prime as a diversion. Soon after, Amaxine leader Arliz Hadrassian shoots Populist champion Tai-Lin Garr, then herself.",
+  "wp": "Amaxine warrior crisis",
+  "places": [
+   "Hosnian Prime"
+  ],
+  "people": [
+   "Carise Sindian",
+   "Arliz Hadrassian",
+   "Tai-Lin Garr",
+   "Leia Skywalker Organa Solo"
+  ],
+  "sources": [
+   "Bloodline (novel)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leia-parentage-exposed",
+  "title": "Vader revealed as Leia's father",
+  "y": 28,
+  "yText": "28 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "New Republic",
+  "summary": "Manipulated by Carise Sindian, Centrist senator Ransolm Casterfo tells the Senate that Leia Organa is Darth Vader's daughter. The scandal wrecks her bid to become First Senator, and she leaves the Senate soon after.",
+  "wp": "Leia Skywalker Organa Solo",
+  "places": [
+   "Hosnian Prime"
+  ],
+  "people": [
+   "Leia Skywalker Organa Solo",
+   "Ransolm Casterfo",
+   "Carise Sindian"
+  ],
+  "sources": [
+   "Bloodline (novel)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "resistance-founded",
+  "title": "Leia Organa founds the Resistance",
+  "y": 28,
+  "yText": "28 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "founding",
+  "polity": "Resistance",
+  "summary": "Out of the Senate and sure the First Order is real, Leia begins gathering trusted pilots and old rebel allies into a private force to watch it. The Resistance works outside the Republic's reluctant military.",
+  "wp": "Resistance",
+  "places": [],
+  "people": [
+   "Leia Skywalker Organa Solo"
+  ],
+  "sources": [
+   "Bloodline (novel)",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": "Bloodline (28 ABY per Star Wars: Timelines) ends with Leia starting to build the Resistance, while The Rise of Skywalker: The Visual Dictionary dates its formation to five years before the Starkiller Incident (29 ABY); Wookieepedia reads 29 ABY as the year it became operational.",
+  "weight": 2
+ },
+ {
+  "id": "jedi-temple-destroyed",
+  "title": "Ben Solo destroys Luke's Jedi academy",
+  "y": 28,
+  "yText": "28 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Dated six years before the Starkiller Incident by The Rise of Skywalker: The Visual Dictionary.",
+  "category": "fall",
+  "polity": "Jedi",
+  "summary": "Sensing Snoke's hold on Ben, Luke ignites his lightsaber over his sleeping nephew for one fatal instant. Ben wakes, the academy burns, and most students die. As Kylo Ren he seizes leadership of Ren's knights and hunts down those who pursue him.",
+  "wp": "Destruction of the Jedi Temple",
+  "places": [
+   "Ossus",
+   "Elphrona",
+   "Mimban"
+  ],
+  "people": [
+   "Ben Solo",
+   "Luke Skywalker",
+   "Snoke",
+   "Voe",
+   "Hennix",
+   "Tai"
+  ],
+  "sources": [
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: Episode VII The Force Awakens",
+   "The Rise of Kylo Ren 1",
+   "The Rise of Kylo Ren 4",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": "The Last Jedi gives rival accounts of that night: Luke first says Ben simply turned on him, then admits he briefly ignited his lightsaber over his sleeping nephew, while Ben tells it as an attempt on his life.",
+  "weight": 3
+ },
+ {
+  "id": "luke-goes-into-exile",
+  "title": "Luke vanishes into exile on Ahch-To",
+  "y": 28,
+  "yText": "28 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Follows the academy's destruction, dated 28 ABY.",
+  "category": "jedi",
+  "polity": "Jedi",
+  "summary": "Blaming himself for Ben's fall, Luke disappears. He retreats to Ahch-To, where the first Jedi temple stands, shuts out the Force, and leaves behind only a star map fragment pointing the way.",
+  "wp": "Map to Skywalker",
+  "places": [
+   "Ahch-To"
+  ],
+  "people": [
+   "Luke Skywalker"
+  ],
+  "sources": [
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: Episode VII The Force Awakens"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "cold-war-begins",
+  "title": "First Order secession opens the Cold War",
+  "y": 29,
+  "yText": "29 ABY",
+  "frac": null,
+  "y2": 34,
+  "y2Text": "34 ABY",
+  "confidence": "estimated",
+  "note": "Dated five years before the Starkiller Incident by The Rise of Skywalker: The Visual Dictionary; the Cold War lasts until the Hosnian Cataclysm.",
+  "category": "era",
+  "polity": "First Order",
+  "summary": "Centrist worlds such as Arkanis and Kuat quit the New Republic and openly side with the First Order. A tense standoff follows: the Order probes Republic borders and flouts the Concordance while a complacent Senate refuses to answer with force.",
+  "wp": "Cold War",
+  "places": [
+   "Arkanis",
+   "Kuat"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary",
+   "Bloodline (novel)",
+   "Star Wars: The Rise and Fall of the Galactic Empire"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leia-searches-for-luke",
+  "title": "Leia begins searching for Luke",
+  "y": 29,
+  "yText": "29 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Dated five years before the Starkiller Incident by The Rise of Skywalker: The Visual Dictionary.",
+  "category": "jedi",
+  "polity": "Resistance",
+  "summary": "As the First Order grows bolder, Leia starts hunting for her missing brother, hoping a returned Jedi can turn the tide. R2-D2, idle since his master left, powers down into low-power mode.",
+  "wp": null,
+  "places": [],
+  "people": [
+   "Leia Skywalker Organa Solo",
+   "Luke Skywalker",
+   "R2-D2"
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "brendol-hux-killed",
+  "title": "Phasma poisons Brendol Hux",
+  "y": 30,
+  "yText": "30 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "death",
+  "polity": "First Order",
+  "summary": "In league with his son Armitage, Captain Phasma kills Brendol Hux with the venom of a Parnassos beetle and hides the cause of his death. Armitage inherits his father's standing in the First Order.",
+  "wp": "Brendol Hux",
+  "places": [],
+  "people": [
+   "Brendol Hux",
+   "Phasma",
+   "Armitage Hux"
+  ],
+  "sources": [
+   "Phasma (novel)",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "poe-joins-resistance",
+  "title": "Poe Dameron defects to the Resistance",
+  "y": 31,
+  "yText": "31 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Dated three years before the Starkiller Incident by The Rise of Skywalker: The Visual Dictionary.",
+  "category": "rebellion",
+  "polity": "Resistance",
+  "summary": "After his Rapier Squadron clashes with First Order TIEs hijacking a freighter at Suraz 4, Republic commander Poe Dameron defies orders to chase the stolen ship. Leia takes notice, and Poe, his wingmates and BB-8 join the Resistance.",
+  "wp": "Skirmish in OR-Kappa-2722",
+  "places": [
+   "Suraz 4"
+  ],
+  "people": [
+   "Poe Dameron",
+   "BB-8",
+   "Leia Skywalker Organa Solo",
+   "Karé Kun"
+  ],
+  "sources": [
+   "Before the Awakening",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "kix-found",
+  "title": "Pirates find clone trooper Kix frozen alive",
+  "y": 31,
+  "yText": "c. 31 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "discovery",
+  "polity": "galactic",
+  "summary": "Rival pirate captains Sidon Ithano and Scorza race for 'Count Dooku's treasure' in a wrecked Separatist warship on Ponemah Terminal. The prize is Kix, a clone medic kept in stasis since he uncovered Order 66; he joins Ithano's crew.",
+  "wp": "Hunt for Dooku's Treasure",
+  "places": [
+   "Ponemah Terminal"
+  ],
+  "people": [
+   "Kix",
+   "Sidon Ithano"
+  ],
+  "sources": [
+   "The Crimson Corsair and the Lost Treasure of Count Dooku"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "falcon-stolen",
+  "title": "Gannis Ducain steals the Millennium Falcon",
+  "y": 31,
+  "yText": "c. 31 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Placed after the Kix story and before Life Day 1, which Star Wars: Timelines dates to c. 31 ABY.",
+  "category": "crime",
+  "polity": "galactic",
+  "summary": "Han Solo loses his Millennium Falcon to a thief, Gannis Ducain. Passed from thief to thief, the freighter ends up in junk boss Unkar Plutt's hands on Jakku, where it sits unused for years.",
+  "wp": "Gannis Ducain",
+  "places": [
+   "Jakku"
+  ],
+  "people": [
+   "Gannis Ducain",
+   "Han Solo",
+   "Unkar Plutt"
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens",
+   "Flight of the Falcon, Part 5: Grand Theft Falcon"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "hunt-for-lor-san-tekka",
+  "title": "Black Squadron hunts for Lor San Tekka",
+  "y": 32,
+  "yText": "32 ABY",
+  "frac": null,
+  "y2": 34,
+  "y2Text": "34 ABY",
+  "confidence": "estimated",
+  "note": "Poe began leading Black Squadron two years before the Starkiller Incident; the hunt ends at Tuanul.",
+  "category": "rebellion",
+  "polity": "Resistance",
+  "summary": "Leia sends Poe Dameron's new Black Squadron after Lor San Tekka, an aging explorer who might know where Luke is. First Order agent Terex dogs them from world to world until the trail ends at Tuanul on Jakku.",
+  "wp": "Hunt for Lor San Tekka",
+  "places": [
+   "Ovanis",
+   "Jakku"
+  ],
+  "people": [
+   "Poe Dameron",
+   "Lor San Tekka",
+   "Terex",
+   "Leia Skywalker Organa Solo"
+  ],
+  "sources": [
+   "Poe Dameron 1",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "villecham-chancellor",
+  "title": "Lanever Villecham becomes Chancellor",
+  "y": 33,
+  "yText": "33 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "New Republic",
+  "summary": "The Senate elects Tarsunt's Lanever Villecham as Chancellor. A firm believer in the peace that followed the Concordance, he leads a Republic unwilling to treat the First Order as a real threat.",
+  "wp": "Lanever Villecham",
+  "places": [
+   "Hosnian Prime"
+  ],
+  "people": [
+   "Lanever Villecham"
+  ],
+  "sources": [
+   "Star Wars: The Force Awakens: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "kazuda-xiono-recruited",
+  "title": "Poe recruits Kazuda Xiono as a spy",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.01,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Resistance",
+  "summary": "Republic pilot Kazuda Xiono survives a First Order ambush alongside Poe Dameron and is recruited on the spot. Poe plants him as a mechanic on the Colossus, an ocean refueling platform on Castilon, to watch for First Order activity.",
+  "wp": "Mission to rendezvous with the Resistance",
+  "places": [
+   "Castilon"
+  ],
+  "people": [
+   "Kazuda Xiono",
+   "Poe Dameron"
+  ],
+  "sources": [
+   "The Recruit"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "colossus-occupied",
+  "title": "The First Order occupies the Colossus",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "First Order",
+  "summary": "After pirates kidnap his daughter Torra, Captain Imanuel Doza lets the First Order garrison the Colossus. Kaz and his friends go underground and rally the platform's people into their own resistance cell.",
+  "wp": "Occupation of the Colossus",
+  "places": [
+   "Castilon"
+  ],
+  "people": [
+   "Imanuel Doza",
+   "Torra Doza",
+   "Kazuda Xiono",
+   "Pyre"
+  ],
+  "sources": [
+   "The Doza Dilemma",
+   "The First Order Occupation",
+   "Descent (episode)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "attack-on-tuanul",
+  "title": "First Order massacres Tuanul",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.42,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "First Order",
+  "summary": "Hunting the map to Luke, Kylo Ren's troops raze Tuanul, a village on Jakku. Kylo kills Lor San Tekka and seizes Poe Dameron, but BB-8 rolls off into the desert with the map hidden inside.",
+  "wp": "Attack on Tuanul",
+  "places": [
+   "Jakku"
+  ],
+  "people": [
+   "Ben Solo",
+   "Lor San Tekka",
+   "Poe Dameron",
+   "BB-8",
+   "Phasma"
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "finn-defects",
+  "title": "FN-2187 defects and frees Poe",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.43,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "First Order",
+  "summary": "Sickened by the Tuanul massacre, stormtrooper FN-2187 breaks Poe Dameron out of the Star Destroyer Finalizer, and the two escape in a hijacked TIE fighter. Poe names him Finn; they crash on Jakku and lose each other in the wreck.",
+  "wp": "Escape from the Finalizer",
+  "places": [
+   "Jakku"
+  ],
+  "people": [
+   "Finn",
+   "Poe Dameron"
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "rey-leaves-jakku",
+  "title": "Rey and Finn flee Jakku in the Falcon",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.44,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "exploration",
+  "polity": "Resistance",
+  "summary": "Scavenger Rey flees a First Order strike on Niima Outpost with Finn and BB-8 aboard the junked Millennium Falcon. Han Solo and Chewbacca reclaim their old ship in space and agree to help carry the map.",
+  "wp": "Escape from Jakku",
+  "places": [
+   "Jakku"
+  ],
+  "people": [
+   "Rey Skywalker",
+   "Finn",
+   "BB-8",
+   "Han Solo",
+   "Chewbacca"
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "hosnian-cataclysm",
+  "title": "Starkiller Base destroys the Hosnian system",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.45,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "First Order",
+  "summary": "Fired from the converted planet Ilum, Starkiller Base's beam crosses the galaxy and annihilates the Hosnian system, killing the Senate at the capital, Hosnian Prime, and much of the Republic fleet. The Cold War becomes open war.",
+  "wp": "Hosnian Cataclysm",
+  "places": [
+   "Hosnian Prime",
+   "Ilum"
+  ],
+  "people": [
+   "Armitage Hux"
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "battle-of-castilon",
+  "title": "The Colossus breaks free into hyperspace",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.46,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Resistance",
+  "summary": "As the Hosnian system burns, Kaz, Captain Doza and Jarek Yeager drive the First Order off the Colossus and fire up its long-dead engines, taking the whole platform into hyperspace. Kaz's friend Tam Ryvora stays behind and joins the Order.",
+  "wp": "Battle of Castilon",
+  "places": [
+   "Castilon"
+  ],
+  "people": [
+   "Kazuda Xiono",
+   "Jarek Yeager",
+   "Imanuel Doza",
+   "Tamara Ryvora"
+  ],
+  "sources": [
+   "No Escape: Part 1",
+   "No Escape: Part 2"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-of-takodana",
+  "title": "First Order levels Maz Kanata's castle",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.46,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "First Order",
+  "summary": "Tipped off that BB-8 is on Takodana, the First Order razes Maz Kanata's castle. Rey, who has just found Luke's old lightsaber there, is captured by Kylo Ren before Resistance X-wings drive the attackers off.",
+  "wp": "Battle of Takodana",
+  "places": [
+   "Takodana"
+  ],
+  "people": [
+   "Maz Kanata",
+   "Rey Skywalker",
+   "Finn",
+   "Han Solo",
+   "Ben Solo",
+   "Poe Dameron"
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-of-starkiller-base",
+  "title": "Resistance destroys Starkiller Base",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.47,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Resistance",
+  "summary": "The Resistance strikes Starkiller Base before it can fire on D'Qar, and Poe's X-wings blow it apart. Inside, Kylo Ren kills his father Han Solo; Rey, her Force strength awakened, defeats Kylo in the snow.",
+  "wp": "Battle of Starkiller Base",
+  "places": [
+   "Ilum",
+   "D'Qar"
+  ],
+  "people": [
+   "Han Solo",
+   "Ben Solo",
+   "Rey Skywalker",
+   "Finn",
+   "Poe Dameron",
+   "Chewbacca"
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "inferno-squad-last-mission",
+  "title": "Iden Versio dies avenging Del Meeko",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.48,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "death",
+  "polity": "Resistance",
+  "summary": "Former Imperial commando Iden Versio, her daughter Zay and Shriv Suurgav board the Star Destroyer Retribution to punish Gideon Hask for executing Del Meeko. Iden and Hask both die, but the team escapes with First Order intelligence.",
+  "wp": "Skirmish on the Retribution",
+  "places": [
+   "Vardos"
+  ],
+  "people": [
+   "Iden Versio",
+   "Zay Versio",
+   "Shriv Suurgav",
+   "Gideon Hask",
+   "Del Meeko"
+  ],
+  "sources": [
+   "Star Wars Battlefront II"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "rey-finds-luke",
+  "title": "Rey finds Luke Skywalker on Ahch-To",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.48,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi",
+  "summary": "With R2-D2's data completing the map, Rey and Chewbacca fly to Ahch-To and offer Luke his old lightsaber. Luke, shut off from the Force, refuses to return but grudgingly gives Rey three lessons before she leaves to reach Kylo Ren.",
+  "wp": "Ahch-To",
+  "places": [
+   "Ahch-To"
+  ],
+  "people": [
+   "Rey Skywalker",
+   "Luke Skywalker",
+   "Chewbacca",
+   "R2-D2"
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens",
+   "Star Wars: Episode VIII The Last Jedi"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "battle-of-dqar",
+  "title": "Resistance flees D'Qar at heavy cost",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.48,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Resistance",
+  "summary": "As the First Order fleet arrives over D'Qar, Poe Dameron's defiant attack opens a path for Resistance bombers, and Paige Tico drops the payload that destroys the dreadnought Fulminatrix. Every bomber is lost, and Leia demotes Poe.",
+  "wp": "Battle of D'Qar",
+  "places": [
+   "D'Qar"
+  ],
+  "people": [
+   "Poe Dameron",
+   "Paige Tico",
+   "Leia Skywalker Organa Solo"
+  ],
+  "sources": [
+   "Star Wars: Episode VIII The Last Jedi"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "battle-of-oetchi",
+  "title": "First Order ambushes the fleeing Resistance",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.49,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Resistance",
+  "summary": "Using new hyperspace tracking, the First Order catches the Resistance fleet. A strike on the Raddus kills Admiral Ackbar and most of the command staff; Leia survives the vacuum through the Force, and Vice Admiral Holdo assumes command.",
+  "wp": "Battle of Oetchi",
+  "places": [],
+  "people": [
+   "Gial Ackbar",
+   "Leia Skywalker Organa Solo",
+   "Amilyn Holdo",
+   "Ben Solo"
+  ],
+  "sources": [
+   "Star Wars: Episode VIII The Last Jedi"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "mission-to-canto-bight",
+  "title": "Finn and Rose seek a codebreaker",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Resistance",
+  "summary": "Hoping to disable the tracker, Finn and Rose Tico fly to Canto Bight, a gambling resort on Cantonica, free a herd of fathiers, and hire the slicer DJ, who later sells them out to the First Order.",
+  "wp": "Mission to Canto Bight",
+  "places": [
+   "Cantonica"
+  ],
+  "people": [
+   "Finn",
+   "Rose Tico",
+   "DJ",
+   "BB-8"
+  ],
+  "sources": [
+   "Star Wars: Episode VIII The Last Jedi"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "snoke-killed",
+  "title": "Kylo Ren kills Supreme Leader Snoke",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.51,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "death",
+  "polity": "First Order",
+  "summary": "Brought before Snoke aboard the Supremacy, Rey watches Kylo Ren cut his master in half. Together they kill the Praetorian Guards, but Rey refuses to rule beside him, and Kylo names himself Supreme Leader.",
+  "wp": "Snoke",
+  "places": [],
+  "people": [
+   "Snoke",
+   "Ben Solo",
+   "Rey Skywalker",
+   "Armitage Hux"
+  ],
+  "sources": [
+   "Star Wars: Episode VIII The Last Jedi"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "holdo-maneuver",
+  "title": "Holdo rams the Supremacy at lightspeed",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.51,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Resistance",
+  "summary": "To shield the escaping transports, Vice Admiral Holdo turns the Raddus and jumps to lightspeed straight through the Supremacy, splitting Snoke's flagship and crippling much of the fleet around it.",
+  "wp": "Holdo maneuver",
+  "places": [
+   "Crait"
+  ],
+  "people": [
+   "Amilyn Holdo"
+  ],
+  "sources": [
+   "Star Wars: Episode VIII The Last Jedi"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "battle-of-crait",
+  "title": "Luke's last stand at Crait",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.52,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Resistance",
+  "summary": "The First Order besieges the surviving Resistance fighters in an old rebel base on Crait. Luke, projecting his image from distant Ahch-To, faces Kylo Ren, buying time for them to flee on the Falcon, then passes peacefully into the Force.",
+  "wp": "Battle of Crait",
+  "places": [
+   "Crait",
+   "Ahch-To"
+  ],
+  "people": [
+   "Luke Skywalker",
+   "Ben Solo",
+   "Leia Skywalker Organa Solo",
+   "Rey Skywalker",
+   "Poe Dameron",
+   "Finn"
+  ],
+  "sources": [
+   "Star Wars: Episode VIII The Last Jedi"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "resistance-reborn",
+  "title": "The Resistance rebuilds after Crait",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.56,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Resistance",
+  "summary": "From a cave base on Ryloth, the survivors rally old rebels such as Norra Wexley and Wedge Antilles, free Ransolm Casterfo on Corellia, and gather ships. A First Order raid forces them to abandon Ryloth and scatter to new hideouts.",
+  "wp": "Attack on Ryloth",
+  "places": [
+   "Ryloth",
+   "Corellia"
+  ],
+  "people": [
+   "Leia Skywalker Organa Solo",
+   "Poe Dameron",
+   "Wedge Antilles",
+   "Norra Wexley",
+   "Ransolm Casterfo",
+   "Rey Skywalker"
+  ],
+  "sources": [
+   "Resistance Reborn"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "legacy-of-vader",
+  "title": "Kylo Ren retraces Darth Vader's past",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.58,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Set after The Last Jedi and before the Battle of Batuu, both dated 34 ABY by Star Wars: Timelines.",
+  "category": "sith",
+  "polity": "First Order",
+  "summary": "Now Supreme Leader, Kylo Ren chases his grandfather's history from Vader's fortress on Mustafar to Tatooine and Naboo. On Naboo he secretly stokes the rebellion his troops then fight; when Vader's former aide Vaneé exposes this, he withdraws and has the rebels wiped out.",
+  "wp": "Assault on Naboo (First Order)",
+  "places": [
+   "Mustafar",
+   "Tatooine",
+   "Naboo"
+  ],
+  "people": [
+   "Ben Solo",
+   "Vaneé"
+  ],
+  "sources": [
+   "Legacy of Vader 1",
+   "Legacy of Vader 2",
+   "Legacy of Vader 4"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "tah-nuhna-destroyed",
+  "title": "Hux annihilates Tah'Nuhna",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.62,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "First Order",
+  "summary": "As punishment for supplying the Resistance, General Hux's forces aboard the Finalizer lay waste to Tah'Nuhna, with TIE bombers flattening its capital and seat of government.",
+  "wp": "Destruction of Tah'Nuhna",
+  "places": [
+   "Tah'Nuhna"
+  ],
+  "people": [
+   "Armitage Hux"
+  ],
+  "sources": [
+   "Allegiance 1"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-of-barabesh",
+  "title": "The Colossus destroys the Thunderer",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.7,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Resistance",
+  "summary": "Horrified when the First Order bombs Aeos Prime for sheltering the Colossus, Tam Ryvora defects. Kaz's team knocks out the Star Destroyer Thunderer's shields, Jade and Ace Squadrons destroy it with Commander Pyre aboard, and Kylo Ren executes Agent Tierny.",
+  "wp": "Battle of Barabesh",
+  "places": [
+   "Aeos Prime",
+   "Castilon"
+  ],
+  "people": [
+   "Tamara Ryvora",
+   "Kazuda Xiono",
+   "Venisa Doza",
+   "Pyre",
+   "Tierny",
+   "Ben Solo"
+  ],
+  "sources": [
+   "The New World",
+   "The Escape (episode)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-of-batuu",
+  "title": "Resistance and First Order clash on Batuu",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.9,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": "Four to six months after the Hosnian Cataclysm.",
+  "category": "battle",
+  "polity": "Resistance",
+  "summary": "Some months after Hosnian Prime's destruction, Vi Moradi and the ex-trooper Archex found a Resistance cell at Black Spire Outpost. Then the Order's 709th Legion seizes the town, and the Finalizer is crippled overhead, sending Kylo Ren to the Steadfast.",
+  "wp": "Battle of Batuu",
+  "places": [
+   "Batuu"
+  ],
+  "people": [
+   "Vi Moradi",
+   "Archex",
+   "Ben Solo"
+  ],
+  "sources": [
+   "Star Wars: Galaxy's Edge",
+   "Galaxy's Edge: Black Spire",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "coruscant-deployment",
+  "title": "First Order fails to take Coruscant",
+  "y": 34,
+  "yText": "between 34 and 35 ABY",
+  "frac": 0.95,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "The Rise and Fall of the Galactic Empire places it during the First Order-Resistance War (34-35 ABY per Star Wars: Timelines); the exact date is unknown.",
+  "category": "war",
+  "polity": "First Order",
+  "summary": "The First Order sends at least two large task forces to seize Coruscant, the old Imperial capital, and is beaten back. The failed push stays murky; historian Beaumont Kin later cites a First Order file about it.",
+  "wp": "Coruscant Deployment",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Beaumont Kin"
+  ],
+  "sources": [
+   "Star Wars: The Rise and Fall of the Galactic Empire"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "exegol-broadcast",
+  "title": "Palpatine's voice promises revenge",
+  "y": 35,
+  "yText": "35 ABY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith Eternal",
+  "summary": "A transmission in the voice of the long-dead Emperor Palpatine spreads across the galaxy, vowing revenge. Its source is Exegol, the Sith Eternal's secret world, and it sends both Kylo Ren and the Resistance hunting for the truth.",
+  "wp": "Exegol Broadcast",
+  "places": [
+   "Exegol"
+  ],
+  "people": [
+   "Darth Sidious"
+  ],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "kylo-finds-sidious",
+  "title": "Kylo Ren finds Sidious alive on Exegol",
+  "y": 35,
+  "yText": "35 ABY",
+  "frac": 0.42,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith Eternal",
+  "summary": "Following a Sith wayfinder from Vader's castle on Mustafar, Kylo Ren reaches Exegol and finds a revived Darth Sidious. The Emperor claims he made Snoke and offers Kylo the Final Order, a fleet of planet-killing Star Destroyers, if he kills Rey.",
+  "wp": "Final Order",
+  "places": [
+   "Mustafar",
+   "Exegol"
+  ],
+  "people": [
+   "Ben Solo",
+   "Darth Sidious",
+   "Snoke"
+  ],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "festival-of-the-ancestors",
+  "title": "Rey's team follows Ochi's trail to Pasaana",
+  "y": 35,
+  "yText": "35 ABY",
+  "frac": 0.44,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "exploration",
+  "polity": "Resistance",
+  "summary": "Following Luke's notes, Rey, Poe and Finn reach Pasaana, with Chewbacca and two droids, during its Festival of the Ancestors. With Lando's help they find Ochi's ship and dagger, but the First Order seizes Chewbacca, whom they believe killed.",
+  "wp": "Mission to Pasaana (Resistance)",
+  "places": [
+   "Pasaana"
+  ],
+  "people": [
+   "Rey Skywalker",
+   "Finn",
+   "Poe Dameron",
+   "Chewbacca",
+   "Landonis Balthazar Calrissian",
+   "C-3PO",
+   "BB-8"
+  ],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "hux-unmasked",
+  "title": "Hux is exposed as the Resistance spy",
+  "y": 35,
+  "yText": "35 ABY",
+  "frac": 0.45,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "First Order",
+  "summary": "On Kijimi the team pulls a Sith translation from C-3PO's memory, then raids the Steadfast to rescue Chewbacca, where Kylo tells Rey she is Palpatine's granddaughter. General Hux reveals he is their spy; Allegiant General Pryde shoots him and takes command.",
+  "wp": "Mission to Kijimi",
+  "places": [
+   "Kijimi"
+  ],
+  "people": [
+   "Armitage Hux",
+   "Enric Pryde",
+   "Rey Skywalker",
+   "Ben Solo",
+   "Finn",
+   "Poe Dameron",
+   "Chewbacca",
+   "Zorii Bliss"
+  ],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "duel-on-kef-bir",
+  "title": "Leia dies and Ben Solo returns",
+  "y": 35,
+  "yText": "35 ABY",
+  "frac": 0.46,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "force",
+  "polity": "Jedi",
+  "summary": "Rey recovers the Emperor's wayfinder from the Death Star wreck on Kef Bir, but Kylo crushes it and they duel on the ruins. Leia spends her last strength reaching her son and dies; Rey heals Kylo, and Ben Solo turns back to the light.",
+  "wp": "Mission to Kef Bir",
+  "places": [
+   "Kef Bir"
+  ],
+  "people": [
+   "Rey Skywalker",
+   "Ben Solo",
+   "Leia Skywalker Organa Solo"
+  ],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "kijimi-destroyed",
+  "title": "The Final Order destroys Kijimi",
+  "y": 35,
+  "yText": "35 ABY",
+  "frac": 0.47,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "Sith Eternal",
+  "summary": "To prove the First Order's loyalty to Sidious, Allegiant General Pryde has the Final Order destroyer Derriphan turn its planet-cracking cannon on Kijimi, wiping out the world.",
+  "wp": "Destruction of Kijimi",
+  "places": [
+   "Kijimi"
+  ],
+  "people": [
+   "Enric Pryde",
+   "Darth Sidious"
+  ],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "battle-of-exegol",
+  "title": "Battle of Exegol ends the Sith",
+  "y": 35,
+  "yText": "35 ABY",
+  "frac": 0.48,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "galactic",
+  "summary": "Lando and Chewbacca lead a citizens' fleet to Exegol and break the Final Order. Below, Rey and Ben Solo face Sidious; Rey turns his lightning back and destroys him, dies, and is revived by Ben, who then fades into the Force.",
+  "wp": "Battle of Exegol",
+  "places": [
+   "Exegol"
+  ],
+  "people": [
+   "Rey Skywalker",
+   "Ben Solo",
+   "Darth Sidious",
+   "Landonis Balthazar Calrissian",
+   "Chewbacca",
+   "Poe Dameron",
+   "Finn",
+   "Enric Pryde"
+  ],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "uprising-against-the-first-order",
+  "title": "The galaxy rises against the First Order",
+  "y": 35,
+  "yText": "35 ABY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "galactic",
+  "summary": "News from Exegol sparks revolts on Endor, Bespin, Naboo, Jakku, Lothal and other occupied worlds, toppling First Order control, while the Resistance celebrates and mourns at its base on Ajan Kloss.",
+  "wp": "Uprising against the First Order",
+  "places": [
+   "Endor",
+   "Bespin",
+   "Naboo",
+   "Jakku",
+   "Lothal",
+   "Corellia",
+   "Thyferra",
+   "Coruscant",
+   "Ajan Kloss"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: The Rise of Skywalker: A Junior Novel"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "rey-skywalker",
+  "title": "Rey takes the Skywalker name",
+  "y": 35,
+  "yText": "35 ABY",
+  "frac": 0.55,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi",
+  "summary": "Rey travels to Tatooine and the deserted Lars homestead, buries Luke's and Leia's lightsabers, and ignites her own new yellow blade. When a passerby asks her name, she answers 'Rey Skywalker' as the twins' spirits look on.",
+  "wp": "Rey Skywalker",
+  "places": [
+   "Tatooine"
+  ],
+  "people": [
+   "Rey Skywalker",
+   "BB-8",
+   "Luke Skywalker",
+   "Leia Skywalker Organa Solo"
+  ],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: The Rise of Skywalker: Expanded Edition"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "exegol-excavation",
+  "title": "Beaumont Kin excavates the Sith Citadel",
+  "y": 35,
+  "yText": "c. 35 ABY",
+  "frac": 0.8,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "discovery",
+  "polity": "Resistance",
+  "summary": "Months after the battle, Resistance historian Beaumont Kin leads a dig through Exegol's Sith Citadel. Scrolls and relics found there expose Palpatine's Sith lineage, including his master Darth Plagueis, and feed Kin's history of the Empire.",
+  "wp": "Exegol Excavation Project",
+  "places": [
+   "Exegol"
+  ],
+  "people": [
+   "Beaumont Kin",
+   "Darth Sidious",
+   "Darth Plagueis"
+  ],
+  "sources": [
+   "Star Wars: The Rise and Fall of the Galactic Empire"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "rey-new-jedi-order",
+  "title": "Rey Skywalker rebuilds the Jedi Order",
+  "y": 50,
+  "yText": "c. 50 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "From an announced, unreleased film; Kathleen Kennedy (Star Wars Celebration 2023) set it about fifteen years after The Rise of Skywalker.",
+  "category": "jedi",
+  "polity": "Jedi",
+  "summary": "Some fifteen years after Exegol, Jedi Master Rey Skywalker sets about building a new Jedi Order, the story of a film Lucasfilm has announced but not yet released.",
+  "wp": "Jedi Order",
+  "places": [],
+  "people": [
+   "Rey Skywalker"
+  ],
+  "sources": [
+   "Untitled Star Wars film (Sharmeen Obaid-Chinoy)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "whills-chronicle",
+  "title": "A Whill begins writing Episode IV",
+  "y": 51,
+  "yText": "long after the Battle of Yavin (undated)",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Undated ('a long time after the Battle of Yavin'); placed just after the last dated entry (c. 50 ABY) only so it sorts at the end of the timeline.",
+  "category": "culture",
+  "polity": "Whills",
+  "summary": "Long after these events, one of the Whills is asked to set the galaxy's history down in the Whills' journal for readers far away. The Whill starts with 'Episode IV', while a fussier colleague writes about a Wookiee family's Life Day.",
+  "wp": "Journal of the Whills",
+  "places": [],
+  "people": [
+   "Unidentified Whill"
+  ],
+  "sources": [
+   "Whills (short story)",
+   "The Whills Strike Back",
+   "Return of the Whills"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "galactic-atlas-compiled",
+  "title": "The Graf Archive publishes the Galactic Atlas",
+  "y": 51,
+  "yText": "long after the Battle of Yavin (undated)",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Undated ('a long time after the Battle of Yavin'); placed just after the last dated entry (c. 50 ABY) only so it sorts at the end of the timeline.",
+  "category": "culture",
+  "polity": "Graf Archive",
+  "summary": "Maps drawn by the artist Gammit Chond from stories of the galaxy sit forgotten in the Graf Archive's Shadow Stacks until a trainee archivist unearths them. The archive publishes them as the Galactic Atlas, later expanded with newfound notes.",
+  "wp": "Graf Archive",
+  "places": [],
+  "people": [
+   "Gammit Chond",
+   "Tollan Magzax"
+  ],
+  "sources": [
+   "Star Wars: Galactic Atlas",
+   "Star Wars: Galactic Atlas: Updated Edition"
+  ],
+  "conflict": null,
+  "weight": 1
+ }
+]

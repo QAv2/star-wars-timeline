@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en" data-skin="jedi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Jedi Archives: a Star Wars timeline</title>
+<meta name="description" content="A navigable, zoomable timeline of the whole Star Wars saga: every canon film and episode at its in-universe date, galactic history, Force visions, lineages, relics and a galaxy map, with a Legends layer. An unofficial fan reference.">
+<meta name="theme-color" content="#070b14">
+<meta property="og:title" content="Star Wars timeline: the Jedi Archives">
+<meta property="og:description" content="Every canon film and episode on one navigable in-universe timeline, with history, visions, lineages, relics, a galaxy map and a Legends layer.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="css/fonts.css">
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="skins/jedi/skin.css" id="skin-css">
+<script>
+  // choose the archive (skin) before first paint so the gate draws in the right identity
+  (function () {
+    var s = null;
+    try { s = new URLSearchParams(location.search).get('skin') || localStorage.getItem('swt-skin'); } catch (_) {}
+    var ok = { jedi: 1 };
+    if (s && ok[s] && s !== 'jedi') {
+      document.documentElement.setAttribute('data-skin', s);
+      document.getElementById('skin-css').setAttribute('href', 'skins/' + s + '/skin.css');
+    }
+    if (location.search.indexOf('dbg') >= 0) { window.__dbg = 1; addEventListener('error', function (e) { console.log('ERR', e.message, e.filename, e.lineno); }); }
+  })();
+</script>
+<script src="vendor/d3.min.js"></script>
+<script type="module" src="app/main.js"></script>
+</head>
+<body class="boot gating">
+<div id="gate" class="gate" role="dialog" aria-modal="true" aria-labelledby="gate-title" aria-describedby="gate-status">
+  <div class="gate-art" id="gate-hit" aria-hidden="true"></div>
+  <h1 id="gate-title" class="gate-title">Jedi Archives</h1>
+  <p class="gate-glyph" id="gate-glyph" aria-hidden="true">jedi archives</p>
+  <p class="gate-sub" id="gate-sub">The Jedi Temple, Coruscant</p>
+  <blockquote class="gate-quote" id="gate-quote"></blockquote>
+  <div class="gate-bar" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span></div>
+  <p class="gate-status" id="gate-status" aria-live="polite">Reading the stacks</p>
+  <button class="gate-go" id="gate-go" disabled>Open the archive</button>
+  <p class="gate-fine">Unofficial fan reference. Star Wars belongs to Lucasfilm Ltd. and Disney. Data from Wookieepedia (CC BY-SA).</p>
+</div>
+
+<div class="console">
+  <header class="top">
+    <div class="brand">
+      <h1 id="brand-name">Jedi Archives</h1>
+      <p class="brand-glyph" id="brand-glyph" aria-hidden="true">jedi archives</p>
+      <p class="brand-org" id="brand-org">Jedi Temple, Coruscant</p>
+    </div>
+    <div class="search" role="search">
+      <label class="sr-only" for="q">Search the archive</label>
+      <input id="q" type="search" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="results"
+        placeholder="Search a title, a name, a world, a year, or what happens">
+      <div id="results" class="results" role="listbox" aria-label="Search results"></div>
+    </div>
+    <div class="controls">
+      <button id="legends" class="toggle" aria-pressed="false" title="Show the Legends continuity as its own layer">Legends</button>
+      <div class="skinpick">
+        <button id="skin-btn" class="toggle" aria-haspopup="true" aria-expanded="false" title="Choose which archive reads the record">Archive</button>
+        <div id="skin-menu" class="skinmenu" role="menu" hidden></div>
+      </div>
+      <button id="audio" class="toggle" aria-pressed="false">Sound</button>
+    </div>
+    <div class="ribbon"><canvas id="ribbon" role="img" aria-label="All of galactic time, from before the Republic to after the First Order. Click to travel; drag the lit window to pan; double-click an era to fit it."></canvas></div>
+  </header>
+
+  <div class="body">
+    <nav class="rail" aria-label="Archive sections" id="rail">
+      <button class="navbtn" data-mode="continuum" aria-current="true"><span class="lab">The stacks</span><span class="num"></span></button>
+      <button class="navbtn" data-mode="visions"><span class="lab">Visions</span><span class="num"></span></button>
+      <button class="navbtn" data-mode="lineages"><span class="lab">Lineages</span><span class="num"></span></button>
+      <button class="navbtn" data-mode="relics"><span class="lab">Relics</span><span class="num"></span></button>
+      <button class="navbtn" data-mode="personnel"><span class="lab">Archive files</span><span class="num"></span></button>
+      <button class="navbtn" data-mode="map"><span class="lab">Star map</span><span class="num"></span></button>
+      <button class="navbtn" data-mode="records"><span class="lab">Entries</span><span class="num"></span></button>
+      <button class="navbtn" data-mode="anomalies"><span class="lab">Contested</span><span class="num"></span></button>
+      <button class="navbtn" data-mode="about"><span class="lab">About</span><span class="num"></span></button>
+    </nav>
+
+    <section class="fieldwrap" aria-label="The timeline">
+      <div class="stage" id="stage">
+        <canvas id="field" class="grab" role="img" aria-label="Zoomable timeline of the Star Wars saga. The readout panel and search give an accessible list."></canvas>
+        <canvas id="map" class="map" role="img" aria-label="Galaxy map. Worlds light up for the stretch of time selected on the era ribbon." hidden></canvas>
+        <div class="lanelabels" id="lanelabels"></div>
+        <div class="tip" id="tip" aria-hidden="true"></div>
+      </div>
+      <div class="status">
+        <div class="cell"><span class="k">Year</span><span class="v loc" id="s-coord">—</span></div>
+        <div class="cell opt"><span class="k">Era</span><span class="v" id="s-era">—</span></div>
+        <div class="cell grow"><span class="k">In view</span><span class="v" id="s-view">—</span></div>
+        <div class="zoom"><button id="z-out" aria-label="Zoom out">−</button><button id="z-in" aria-label="Zoom in">+</button><button id="z-reset">Reset</button></div>
+      </div>
+    </section>
+
+    <aside class="readout" aria-label="Readout">
+      <div class="rhead"><span class="rk" id="rk">Reading</span><span id="rtools"></span></div>
+      <div class="rbody" id="rbody" aria-live="polite"><p class="note">Loading the archive…</p></div>
+    </aside>
+  </div>
+</div>
+<noscript><p style="padding:20px;font-family:sans-serif">This timeline needs JavaScript to draw.</p></noscript>
+</body>
+</html>

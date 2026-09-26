@@ -1,0 +1,2482 @@
+[
+ {
+  "id": "battle-of-yavin",
+  "title": "Battle of Yavin: the Death Star destroyed",
+  "y": 0,
+  "yText": "0",
+  "frac": 0.0,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": "The zero mark of the BBY/ABY reckoning: Lucasfilm now treats the battle as year 0, the months before it as 1 BBY and the year after it as 0 ABY.",
+  "category": "battle",
+  "polity": "Rebellion",
+  "summary": "Rebel starfighters attack the Death Star as it closes on their hidden base at Yavin 4. Luke Skywalker, trusting the Force and covered by Han Solo, fires the torpedoes that destroy it. Tarkin dies aboard; Vader spins away.",
+  "wp": "Battle of Yavin",
+  "places": [
+   "Yavin 4",
+   "Yavin Prime"
+  ],
+  "people": [
+   "Luke Skywalker",
+   "Han Solo",
+   "Anakin Skywalker",
+   "Wilhuff Tarkin",
+   "Jan Dodonna"
+  ],
+  "sources": [
+   "Star Wars: Episode IV A New Hope",
+   "Star Wars: Galactic Atlas"
+  ],
+  "conflict": "Star Wars: Galactic Atlas (2016) dated the battle and the events just before it to 0 BBY; Star Wars: Timelines and Star Wars: Galactic Atlas: Updated Edition drop 0 BBY, putting the pre-battle events in 1 BBY and the battle itself at 0.",
+  "weight": 3
+ },
+ {
+  "id": "yavin-medal-ceremony",
+  "title": "Heroes of Yavin receive medals",
+  "y": 0,
+  "yText": "0 ABY",
+  "frac": 0.01,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "At dawn after the battle, Princess Leia decorates Luke and Han for bravery, Chewbacca beside them, in Yavin 4's Great Temple. The gathering also mourns the people lost with Alderaan.",
+  "wp": "Royal Award Ceremony",
+  "places": [
+   "Yavin 4"
+  ],
+  "people": [
+   "Leia Skywalker Organa Solo",
+   "Luke Skywalker",
+   "Han Solo",
+   "Chewbacca"
+  ],
+  "sources": [
+   "Star Wars: Episode IV A New Hope",
+   "Princess Leia 1",
+   "Star Wars: Galactic Atlas"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "evacuation-of-yavin-4",
+  "title": "Rebels abandon their Yavin 4 base",
+  "y": 0,
+  "yText": "0 ABY",
+  "frac": 0.02,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "With their hideout exposed and reprisals expected, the Alliance clears out of its Massassi temple base within days of the battle. The search for a safe new headquarters shapes its next three years.",
+  "wp": "Evacuation of Yavin 4",
+  "places": [
+   "Yavin 4"
+  ],
+  "people": [
+   "Jan Dodonna",
+   "Leia Skywalker Organa Solo"
+  ],
+  "sources": [
+   "Princess Leia 1",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leia-gathers-alderaan-survivors",
+  "title": "Leia gathers Alderaan's scattered survivors",
+  "y": 0,
+  "yText": "0 ABY",
+  "frac": 0.05,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Against orders, Leia and pilot Evaan Verlaine slip away to find Alderaanians who were offworld when their planet died. Hunted by the Empire, they fight off attacks at Sullust and form a refugee fleet, which chooses Evaan as its princess.",
+  "wp": "Mission to rescue the survivors of Alderaan",
+  "places": [
+   "Naboo",
+   "Sullust",
+   "Espirion"
+  ],
+  "people": [
+   "Leia Skywalker Organa Solo",
+   "Evaan Verlaine"
+  ],
+  "sources": [
+   "Princess Leia 1",
+   "Princess Leia 5",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "luke-frees-drusil-bephorin",
+  "title": "Luke frees a codebreaker on Denon",
+  "y": 0,
+  "yText": "0 ABY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Weeks after Yavin, Luke and pilot Nakari Kelen sneak onto the city-planet Denon and extract Drusil Bephorin, a Givin cryptographer forced to work for the Empire. Between missions Luke practices moving objects with the Force.",
+  "wp": "Mission on Denon",
+  "places": [
+   "Denon"
+  ],
+  "people": [
+   "Luke Skywalker",
+   "Nakari Kelen",
+   "Drusil Bephorin"
+  ],
+  "sources": [
+   "Heir to the Jedi",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "han-runs-dragon-void",
+  "title": "Han runs the Dragon Void race",
+  "y": 0,
+  "yText": "0 ABY",
+  "frac": 0.15,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Leia talks Han into entering the deadly Dragon Void race as cover for collecting rebel spies who are being picked off by a traitor. He unmasks the mole, outruns Imperial attacks and comes out of it committed to the Rebellion for good.",
+  "wp": "Dragon Void Run",
+  "places": [],
+  "people": [
+   "Han Solo",
+   "Leia Skywalker Organa Solo",
+   "Chewbacca"
+  ],
+  "sources": [
+   "Han Solo 1",
+   "Han Solo 5",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "inferno-squad-eliminates-dreamers",
+  "title": "Inferno Squad eliminates the Dreamers",
+  "y": 0,
+  "yText": "0 ABY",
+  "frac": 0.2,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Empire",
+  "summary": "The Empire's new commando unit Inferno Squad, led by Iden Versio, goes undercover inside the Dreamers, a cell of Saw Gerrera's Partisans holding dangerous Imperial secrets, and wipes the group out from within.",
+  "wp": "Dreamers Infiltration",
+  "places": [
+   "Jeosyn"
+  ],
+  "people": [
+   "Iden Versio",
+   "Del Meeko",
+   "Gideon Hask"
+  ],
+  "sources": [
+   "Battlefront II: Inferno Squad",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "assault-on-cymoon",
+  "title": "Rebels raid Weapons Factory Alpha",
+  "y": 0,
+  "yText": "0 ABY",
+  "frac": 0.25,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Rebellion",
+  "summary": "Posing as Jabba's envoys, Han, Luke and Leia infiltrate a major Imperial arms plant on Cymoon 1, free its slaves and rig its reactor. Vader arrives and overpowers Luke, but the rebels break out in a hijacked AT-AT as the factory blows.",
+  "wp": "Assault on Cymoon",
+  "places": [
+   "Cymoon 1"
+  ],
+  "people": [
+   "Luke Skywalker",
+   "Han Solo",
+   "Leia Skywalker Organa Solo",
+   "Anakin Skywalker"
+  ],
+  "sources": [
+   "Star Wars (2015) 1",
+   "Star Wars (2015) 3",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "vader-recruits-doctor-aphra",
+  "title": "Vader recruits Doctor Aphra",
+  "y": 0,
+  "yText": "0 ABY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Rebuked by the Emperor after Yavin and watched by rivals, Vader secretly hires rogue archaeologist Chelli Aphra and the murderous droids Triple-Zero and BeeTee. Together they seize a Geonosian droid factory to build an army loyal to him alone.",
+  "wp": "Secret mission to Geonosis",
+  "places": [
+   "Geonosis"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Chelli Lona Aphra"
+  ],
+  "sources": [
+   "Darth Vader (2015) 3",
+   "Darth Vader (2015) 4",
+   "Star Wars: Galactic Atlas"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "luke-duels-in-temple-of-eedit",
+  "title": "Luke's first lightsaber duel on Devaron",
+  "y": 0,
+  "yText": "0 ABY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi",
+  "summary": "Stranded on Devaron for ship repairs, Luke seeks out the ancient Temple of Eedit, trains there with Anakin's old weapon, and fends off the scavenger Sarco Plank in his first real lightsaber fight.",
+  "wp": "Skirmish in the Temple of Eedit",
+  "places": [
+   "Devaron"
+  ],
+  "people": [
+   "Luke Skywalker",
+   "Sarco Plank"
+  ],
+  "sources": [
+   "The Weapon of a Jedi: A Luke Skywalker Adventure",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "vader-learns-name-skywalker",
+  "title": "Vader learns his son's name",
+  "y": 0,
+  "yText": "0 ABY",
+  "frac": 0.45,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "discovery",
+  "polity": "Sith",
+  "summary": "Vader quietly hires Boba Fett to find the pilot responsible for the Death Star's destruction. Fett corners Luke at Obi-Wan's old home on Tatooine and loses him, but brings Vader a name, Skywalker, and Vader understands he has a son.",
+  "wp": "Duel in Ben Kenobi's home",
+  "places": [
+   "Tatooine"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Boba Fett",
+   "Luke Skywalker"
+  ],
+  "sources": [
+   "Star Wars (2015) 6",
+   "Darth Vader (2015) 6",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "battle-of-vrogas-vas",
+  "title": "Vader brought down at Vrogas Vas",
+  "y": 0,
+  "yText": "0 ABY",
+  "frac": 0.55,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Empire",
+  "summary": "Acting on Aphra's tip, Vader flies alone to Vrogas Vas to seize Luke and is rammed down onto the planet. He cuts through the rebel defenders, kills the rival Imperial commander Karbin and clashes with Luke before the rebels scatter.",
+  "wp": "Battle of Vrogas Vas",
+  "places": [
+   "Vrogas Vas"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Luke Skywalker",
+   "Chelli Lona Aphra",
+   "Karbin"
+  ],
+  "sources": [
+   "Vader Down 1",
+   "Darth Vader (2015) 15",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "arrth-eno-mission",
+  "title": "Rebel plot against Palpatine backfires",
+  "y": 0,
+  "yText": "c. 0 ABY",
+  "frac": 0.7,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Eneb Ray, a rebel agent on Coruscant, leads a raid to free condemned senators from an Imperial prison and ambush the visiting Emperor. The target is a body double: the trap kills every spy and senator except Ray.",
+  "wp": "Arrth-Eno Mission",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Eneb Ray",
+   "Darth Sidious"
+  ],
+  "sources": [
+   "Star Wars Annual (2015) 1",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "shu-torun-war",
+  "title": "Vader crushes the Shu-Torun uprising",
+  "y": 0,
+  "yText": "0 ABY",
+  "frac": 0.75,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Empire",
+  "summary": "After a failed royal plot against him, Vader has Shu-Torun's king killed and crowns the youngest heir, Trios, queen of the ore-rich world. When its dukes revolt, Imperial forces grind them down, leaving Trios in full control and bound to Vader.",
+  "wp": "Shu-Torun War",
+  "places": [
+   "Shu-Torun"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Trios"
+  ],
+  "sources": [
+   "Darth Vader Annual 1",
+   "Darth Vader (2015) 16",
+   "Darth Vader (2015) 19",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "cylo-hijacking",
+  "title": "Vader becomes Supreme Commander",
+  "y": 0,
+  "yText": "0 ABY",
+  "frac": 0.85,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Empire",
+  "summary": "Doctor Cylo, who has been building cyborg candidates to replace Vader, tries to steal the unfinished Star Dreadnought Executor at Kuat. Vader kills him, Supreme Commander Cassio Tagge is executed, and Vader takes Tagge's post.",
+  "wp": "Cylo Hijacking",
+  "places": [
+   "Kuat"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Cylo",
+   "Cassio Tagge"
+  ],
+  "sources": [
+   "Darth Vader (2015) 21",
+   "Darth Vader (2015) 25",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "mid-rim-offensive-begins",
+  "title": "Alliance opens the Mid Rim Offensive",
+  "y": 1,
+  "yText": "c. 1 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Twilight Company puts the start eighteen months before its 3 ABY main events; Star Wars: Timelines says around 1 ABY.",
+  "category": "war",
+  "polity": "Rebellion",
+  "summary": "Emboldened by Yavin, the Alliance pushes into the Mid Rim with hundreds of battle groups in one of its largest campaigns. Nine months in, an overstretched fleet and poorly coordinated ground commanders bring it to a halt.",
+  "wp": "Mid Rim Retreat",
+  "places": [],
+  "people": [
+   "Carlist Rieekan",
+   "Jan Dodonna"
+  ],
+  "sources": [
+   "Battlefront: Twilight Company",
+   "Star Wars: The Rebel Files",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-for-jedha",
+  "title": "Rebels rejoin the Partisans on Jedha",
+  "y": 1,
+  "yText": "1 ABY",
+  "frac": 0.2,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Rebellion",
+  "summary": "Back on the ruined moon of Jedha, the heroes of Yavin restore ties with Saw Gerrera's surviving Partisans under Benthic. Together they wreck the Imperial dig, run with Queen Trios' miners, that is stripping the moon of its kyber.",
+  "wp": "Battle for Jedha",
+  "places": [
+   "Jedha"
+  ],
+  "people": [
+   "Leia Skywalker Organa Solo",
+   "Luke Skywalker",
+   "Han Solo",
+   "Benthic",
+   "Trios"
+  ],
+  "sources": [
+   "Star Wars (2015) 38",
+   "Star Wars (2015) 43",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "mission-to-crait",
+  "title": "Rebels scout Crait as a base",
+  "y": 1,
+  "yText": "1 ABY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Star Wars Insider 203 sets The Storms of Crait one year after A New Hope.",
+  "category": "exploration",
+  "polity": "Rebellion",
+  "summary": "Still hunting for a home, the Alliance sends Leia and Luke to the salt-crusted mining world Crait to survey an abandoned outpost. Imperials attack, but the site becomes the refuge the Resistance will defend three decades later.",
+  "wp": "Mission to Crait",
+  "places": [
+   "Crait"
+  ],
+  "people": [
+   "Leia Skywalker Organa Solo",
+   "Luke Skywalker",
+   "Han Solo",
+   "Chewbacca",
+   "Wedge Antilles"
+  ],
+  "sources": [
+   "The Last Jedi – The Storms of Crait 1",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "mutiny-on-mon-cala",
+  "title": "Mon Cala fleet mutinies for the Alliance",
+  "y": 1,
+  "yText": "1 ABY",
+  "frac": 0.45,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Leia's team tries to free Mon Cala's imprisoned King Lee-Char, but he is shot during the rescue. His recorded last words move the Mon Calamari crews to seize their mercantile fleet and escape with Ackbar, giving the Alliance heavy cruisers.",
+  "wp": "Mutiny on Mon Cala",
+  "places": [
+   "Mon Cala",
+   "Strokill Prime"
+  ],
+  "people": [
+   "Leia Skywalker Organa Solo",
+   "Gial Ackbar",
+   "Lee-Char",
+   "Dors Urtya"
+  ],
+  "sources": [
+   "Star Wars (2015) 44",
+   "Star Wars (2015) 49",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "battle-of-mako-ta",
+  "title": "Rebel fleet ambushed at Mako-Ta",
+  "y": 1,
+  "yText": "1 ABY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Empire",
+  "summary": "Betrayed by Queen Trios, the refitting rebel fleet is caught at its Mako-Ta dockyard with its ships locked down. Vader's Death Squadron destroys over half the new Mon Cala cruisers and most rebel fighters; Dodonna and Draven die covering the escape.",
+  "wp": "Battle of Mako-Ta",
+  "places": [],
+  "people": [
+   "Anakin Skywalker",
+   "Trios",
+   "Jan Dodonna",
+   "Davits Draven",
+   "Leia Skywalker Organa Solo"
+  ],
+  "sources": [
+   "Star Wars (2015) 50",
+   "Star Wars (2015) 55",
+   "Ultimate Star Wars, New Edition",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "rogue-squadron-founded",
+  "title": "Luke founds Rogue Squadron",
+  "y": 1,
+  "yText": "1 ABY",
+  "frac": 0.601,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "founding",
+  "polity": "Rebellion",
+  "summary": "Forcing open the jammed hangar doors at Mako-Ta, Luke leads the trapped X-wings into the fight. When Wedge Antilles asks for a call sign, Luke names the new unit Rogue Squadron to honor Jyn Erso and Rogue One.",
+  "wp": "Rogue Squadron",
+  "places": [],
+  "people": [
+   "Luke Skywalker",
+   "Wedge Antilles",
+   "Jyn Erso"
+  ],
+  "sources": [
+   "Star Wars (2015) 52"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "echo-base-built",
+  "title": "Rebels build Echo Base on Hoth",
+  "y": 1,
+  "yText": "c. 1 ABY",
+  "frac": 0.7,
+  "y2": 3,
+  "y2Text": "3 ABY",
+  "confidence": "estimated",
+  "note": "Start estimated from Complete Locations' two-year building span ending at the Battle of Hoth.",
+  "category": "founding",
+  "polity": "Rebellion",
+  "summary": "The Alliance carves Echo Base into a mountain on the remote ice planet Hoth, slowly drawing its scattered forces there. The hidden base serves as rebel headquarters until the Empire finds it.",
+  "wp": "Echo Base",
+  "places": [
+   "Hoth"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars (2015) 75",
+   "Star Wars: Complete Locations (2016)",
+   "Star Wars: Galactic Atlas"
+  ],
+  "conflict": "Star Wars: Complete Locations (2016) says Echo Base took about two years to build before the Battle of Hoth, while Star Wars: Galactic Atlas says it was constructed in 3 ABY.",
+  "weight": 2
+ },
+ {
+  "id": "leia-topples-queen-trios",
+  "title": "Leia topples Queen Trios",
+  "y": 2,
+  "yText": "c. 2 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Seeking payback for Mako-Ta, Leia leads rebels and Partisans to Shu-Torun to wreck the Spike, the heart of the planet's Empire-supplying industry. Queen Trios is killed fighting Leia as the Spike falls.",
+  "wp": "Mission to Shu-Torun (Rebel Alliance)",
+  "places": [
+   "Shu-Torun"
+  ],
+  "people": [
+   "Leia Skywalker Organa Solo",
+   "Trios",
+   "Benthic"
+  ],
+  "sources": [
+   "Star Wars (2015) 62",
+   "Star Wars (2015) 67",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "aphra-exposes-plot-against-palpatine",
+  "title": "Aphra exposes a plot against Palpatine",
+  "y": 2,
+  "yText": "c. 2 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "politics",
+  "polity": "Empire",
+  "summary": "Imperial propaganda minister Pitina Voor quietly sets up a chain of events meant to end with the Emperor's death. Doctor Aphra uncovers the scheme and makes it public, and Vader beheads Voor.",
+  "wp": "Plot to assassinate Emperor Palpatine",
+  "places": [],
+  "people": [
+   "Pitina Mar-Mas Voor",
+   "Chelli Lona Aphra",
+   "Anakin Skywalker",
+   "Darth Sidious"
+  ],
+  "sources": [
+   "Doctor Aphra (2016) 32",
+   "Doctor Aphra (2016) 36",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "mid-rim-offensive-collapses",
+  "title": "Mid Rim Offensive collapses into retreat",
+  "y": 2,
+  "yText": "2 ABY",
+  "frac": null,
+  "y2": 3,
+  "y2Text": "3 ABY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Rebellion",
+  "summary": "The Mid Rim campaign breaks down at key points and High Command pulls rebel forces off six worlds as the Empire retakes lost ground. The fighting withdrawal, covered by units such as Twilight Company, drags on into 3 ABY.",
+  "wp": "Mid Rim Retreat",
+  "places": [
+   "Ord Tiddell"
+  ],
+  "people": [
+   "Caluan Ematt",
+   "Hazram Namir"
+  ],
+  "sources": [
+   "Battlefront: Twilight Company",
+   "Star Wars: The Rebel Files",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "poe-dameron-born",
+  "title": "Poe Dameron is born",
+  "y": 2,
+  "yText": "2 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "Rebellion",
+  "summary": "Poe Dameron is born on Yavin 4. His mother Shara Bey flies for the Rebellion and his father Kes Dameron serves with the Pathfinders; raised mostly by his grandfather, Poe will grow up to be the Resistance's finest pilot.",
+  "wp": "Poe Dameron",
+  "places": [
+   "Yavin 4"
+  ],
+  "people": [
+   "Poe Dameron",
+   "Shara Bey",
+   "Kes Dameron"
+  ],
+  "sources": [
+   "Star Wars: The Force Awakens: The Visual Dictionary",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "everi-chalis-defects",
+  "title": "Governor Everi Chalis defects",
+  "y": 3,
+  "yText": "3 ABY",
+  "frac": 0.2,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Covering the Mid Rim withdrawal, Twilight Company storms Haidoral Prime, where Imperial governor Everi Chalis, held under house arrest, asks to defect. Her insider knowledge later shapes the company's campaign against Kuat.",
+  "wp": "Attack on Haidoral Prime",
+  "places": [
+   "Haidoral Prime"
+  ],
+  "people": [
+   "Everi Chalis",
+   "Hazram Namir",
+   "Micha Evon"
+  ],
+  "sources": [
+   "Battlefront: Twilight Company"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-of-hoth",
+  "title": "Battle of Hoth: Echo Base falls",
+  "y": 3,
+  "yText": "3 ABY",
+  "frac": 0.45,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Empire",
+  "summary": "An Imperial probe droid finds Echo Base. General Veers' walkers brush past Luke's snowspeeders to knock out the shield generator, and Vader's troops storm the base as rebel transports flee, scattering the fleet in a crushing defeat.",
+  "wp": "Battle of Hoth",
+  "places": [
+   "Hoth"
+  ],
+  "people": [
+   "Luke Skywalker",
+   "Leia Skywalker Organa Solo",
+   "Han Solo",
+   "Anakin Skywalker",
+   "Maximilian Veers"
+  ],
+  "sources": [
+   "Star Wars: Episode V The Empire Strikes Back",
+   "Battlefront: Twilight Company",
+   "Star Wars: Galactic Atlas"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "luke-trains-with-yoda",
+  "title": "Luke trains with Yoda on Dagobah",
+  "y": 3,
+  "yText": "3 ABY",
+  "frac": 0.46,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi",
+  "summary": "Sent by Obi-Wan's spirit, Luke lands on the swamp world Dagobah and finds the exiled Master Yoda, who reluctantly trains him. A premonition of his friends suffering pulls Luke away before his training is complete.",
+  "wp": "Dagobah",
+  "places": [
+   "Dagobah"
+  ],
+  "people": [
+   "Luke Skywalker",
+   "Yoda",
+   "Obi-Wan Kenobi",
+   "R2-D2"
+  ],
+  "sources": [
+   "Star Wars: Episode V The Empire Strikes Back"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "han-frozen-in-carbonite",
+  "title": "Han frozen in carbonite at Cloud City",
+  "y": 3,
+  "yText": "3 ABY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Empire",
+  "summary": "Fleeing Hoth, the Falcon reaches Cloud City, where Lando Calrissian has been forced to hand his friends to Vader. Han is frozen in carbonite and given to Boba Fett for Jabba; Lando turns on the Empire and helps the others escape.",
+  "wp": "Escape from Cloud City",
+  "places": [
+   "Bespin"
+  ],
+  "people": [
+   "Han Solo",
+   "Leia Skywalker Organa Solo",
+   "Landonis Balthazar Calrissian",
+   "Chewbacca",
+   "Boba Fett",
+   "Anakin Skywalker"
+  ],
+  "sources": [
+   "Star Wars: Episode V The Empire Strikes Back",
+   "Star Wars: Galactic Atlas"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "vader-reveals-he-is-lukes-father",
+  "title": "Vader reveals he is Luke's father",
+  "y": 3,
+  "yText": "3 ABY",
+  "frac": 0.501,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Luke abandons his training to face Vader on Cloud City. Vader cuts off his hand, reveals that he is Luke's father and invites him to rule at his side. Luke refuses, drops into the city's depths and is plucked to safety by Leia.",
+  "wp": "Duel on Cloud City",
+  "places": [
+   "Bespin"
+  ],
+  "people": [
+   "Luke Skywalker",
+   "Anakin Skywalker",
+   "Leia Skywalker Organa Solo"
+  ],
+  "sources": [
+   "Star Wars: Episode V The Empire Strikes Back",
+   "Star Wars: Galactic Atlas"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "vader-seeks-truth-of-padme",
+  "title": "Vader hunts the truth of Padmé's death",
+  "y": 3,
+  "yText": "3 ABY",
+  "frac": 0.55,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Hunting whoever concealed his son, Vader returns to Naboo, where Padmé's former handmaiden Sabé and other loyalists try to stop him at her tomb. On Polis Massa he finds a record of Padmé's last words: she believed good remained in him.",
+  "wp": "Battle at Padmé's tomb",
+  "places": [
+   "Naboo",
+   "Polis Massa"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Sabé",
+   "Padmé Amidala Naberrie"
+  ],
+  "sources": [
+   "Darth Vader (2020) 1",
+   "Darth Vader (2020) 4",
+   "Darth Vader (2020) 5",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "operation-starlight",
+  "title": "Operation Starlight regathers the rebel fleet",
+  "y": 3,
+  "yText": "3 ABY",
+  "frac": 0.56,
+  "y2": 4,
+  "y2Text": "4 ABY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "With the Empire reading rebel codes and ambushing survivors at their rendezvous points, the Fourth Division launches Operation Starlight. Starlight Squadron slips past Commander Zahra's hunters to reconnect the scattered divisions, which finally reassemble at Sullust.",
+  "wp": "Operation Starlight",
+  "places": [
+   "Sullust"
+  ],
+  "people": [
+   "Leia Skywalker Organa Solo",
+   "Shara Bey",
+   "Wedge Antilles",
+   "Ellian Zahra"
+  ],
+  "sources": [
+   "Star Wars (2020) 1",
+   "Star Wars (2020) 9",
+   "Star Wars (2020) 11",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "vader-mission-to-exegol",
+  "title": "Vader confronts Palpatine on Exegol",
+  "y": 3,
+  "yText": "3 ABY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Punished on Mustafar for mourning Padmé, Vader follows a Sith wayfinder to hidden Exegol, taming a colossal space beast on the way. He challenges his master there but is overwhelmed and yields; the Sith cult keeps building its fleet.",
+  "wp": "Mission to Exegol",
+  "places": [
+   "Mustafar",
+   "Exegol"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Darth Sidious",
+   "Ochi",
+   "Sly Moore"
+  ],
+  "sources": [
+   "Darth Vader (2020) 6",
+   "Darth Vader (2020) 10",
+   "Darth Vader (2020) 11",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "battle-of-ab-dalis",
+  "title": "Starlight Squadron saves Mothma at Ab Dalis",
+  "y": 3,
+  "yText": "3 ABY",
+  "frac": 0.65,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Rebellion",
+  "summary": "The Imperial warship Ultima II pins down the rebel Eleventh Division, with Mon Mothma and Admiral Ackbar, on Ab Dalis and flattens its ground defenses. Starlight Squadron destroys the ship by setting off the volcano beneath it.",
+  "wp": "Battle of Ab Dalis",
+  "places": [
+   "Ab Dalis"
+  ],
+  "people": [
+   "Mon Mothma",
+   "Gial Ackbar",
+   "Wedge Antilles"
+  ],
+  "sources": [
+   "Star Wars (2020) 15",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "crimson-dawn-auctions-han",
+  "title": "Crimson Dawn auctions Han Solo",
+  "y": 3,
+  "yText": "3 ABY",
+  "frac": 0.7,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Crimson Dawn",
+  "summary": "Qi'ra's revived Crimson Dawn steals the frozen Han from Boba Fett on Nar Shaddaa and auctions him to the galaxy's powers on Jekara. Jabba outbids everyone, but Vader crashes the sale and duels Qi'ra as rival hunters chase the prize.",
+  "wp": "Auction for Han Solo",
+  "places": [
+   "Nar Shaddaa",
+   "Jekara"
+  ],
+  "people": [
+   "Qi'ra",
+   "Boba Fett",
+   "Han Solo",
+   "Jabba Desilijic Tiure",
+   "Anakin Skywalker"
+  ],
+  "sources": [
+   "War of the Bounty Hunters 1",
+   "War of the Bounty Hunters 2",
+   "War of the Bounty Hunters 4",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "boba-fett-delivers-han",
+  "title": "Boba Fett delivers Han to Jabba",
+  "y": 3,
+  "yText": "3 ABY",
+  "frac": 0.75,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Hutts",
+  "summary": "Boba Fett snatches Han back from aboard the Executor and finally hands the carbonite slab to Jabba on Tatooine. At Palpatine's order Vader kills the Hutt Council members who tried to grab Han, leaving Jabba the unchallenged Hutt leader.",
+  "wp": "War of the Bounty Hunters",
+  "places": [
+   "Tatooine",
+   "Jekara"
+  ],
+  "people": [
+   "Boba Fett",
+   "Han Solo",
+   "Jabba Desilijic Tiure",
+   "Anakin Skywalker"
+  ],
+  "sources": [
+   "War of the Bounty Hunters 5",
+   "Darth Vader (2020) 17",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "syndicate-war",
+  "title": "Qi'ra launches the Syndicate War",
+  "y": 3,
+  "yText": "3 ABY",
+  "frac": 0.78,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Follows War of the Bounty Hunters, which Star Wars: Timelines dates to 3 ABY.",
+  "category": "crime",
+  "polity": "Crimson Dawn",
+  "summary": "Declaring that her dawn has come, Qi'ra aims Crimson Dawn at the Sith themselves. Her agents set the great crime syndicates against each other and stir chaos inside the Empire, until Palpatine orders the underworld to unite against her.",
+  "wp": "Syndicate War",
+  "places": [],
+  "people": [
+   "Qi'ra",
+   "Darth Sidious"
+  ],
+  "sources": [
+   "Crimson Reign 1",
+   "Crimson Reign 5",
+   "Hidden Empire 1"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "battle-of-panisia",
+  "title": "Leia defeats Zahra at Panisia",
+  "y": 3,
+  "yText": "3 ABY",
+  "frac": 0.8,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Mentioned as a recent event in Star Wars Outlaws, which Lucasfilm sets in 3 ABY.",
+  "category": "battle",
+  "polity": "Rebellion",
+  "summary": "Commander Zahra's Star Destroyer Tarkin's Will wipes out the rebel Second Division's base on Panisia. Pathfinders aboard free the captive Shara Bey and destroy the ship, while Leia bests Zahra in a duel and leaves her stranded on the planet.",
+  "wp": "Battle of Panisia",
+  "places": [
+   "Panisia"
+  ],
+  "people": [
+   "Leia Skywalker Organa Solo",
+   "Ellian Zahra",
+   "Shara Bey",
+   "Kes Dameron"
+  ],
+  "sources": [
+   "Star Wars (2020) 23",
+   "Star Wars (2020) 24"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "kay-vess-canto-bight-heist",
+  "title": "Kay Vess pulls the Canto Bight heist",
+  "y": 3,
+  "yText": "3 ABY",
+  "frac": 0.82,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": "Lucasfilm placed the game three years after the Battle of Yavin (San Diego Comic-Con 2024).",
+  "category": "crime",
+  "polity": "Underworld",
+  "summary": "Scoundrel Kay Vess plays the Pykes, Hutts, Crimson Dawn and Ashiga Clan off each other to crew a vault job on Canto Bight. Betrayed by her employer, she learns the vault's owner runs an ISB front, and the reckoning ends over Akiva.",
+  "wp": "Battle of the Revelator",
+  "places": [
+   "Cantonica",
+   "Toshara",
+   "Kijimi",
+   "Akiva"
+  ],
+  "people": [
+   "Kay Vess",
+   "Sliro Barsha",
+   "Jaylen Vrax"
+  ],
+  "sources": [
+   "Star Wars Outlaws"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "operation-ringbreaker",
+  "title": "Operation Ringbreaker ends at Sullust",
+  "y": 3,
+  "yText": "3 ABY",
+  "frac": 0.84,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Rebellion",
+  "summary": "Twilight Company carries out Everi Chalis's plan to weaken Kuat's shipyards by hitting softer Imperial targets. The campaign ends at Sullust, where the rebels take and hold Inyusu Tor but lose their ship Thunderstrike, and the plan is abandoned.",
+  "wp": "Operation Ringbreaker",
+  "places": [
+   "Mardona III",
+   "Sullust"
+  ],
+  "people": [
+   "Everi Chalis",
+   "Hazram Namir",
+   "Nien Nunb"
+  ],
+  "sources": [
+   "Battlefront: Twilight Company"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "rebels-learn-of-second-death-star",
+  "title": "Rebels learn of a second Death Star",
+  "y": 3,
+  "yText": "c. 3 ABY",
+  "frac": 0.86,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Wookieepedia derives the date from Star Wars (2020) 50, about twenty-two years after Palpatine became Emperor.",
+  "category": "discovery",
+  "polity": "Rebellion",
+  "summary": "Activated by Qi'ra to sow chaos, Crimson Dawn sleepers Jon Melton and Bevelyn flee their jobs on a new Death Star with their children. Luke rescues the family on Coruscant, and rebel leaders learn the Empire is building another battle station.",
+  "wp": "Mission to reveal the Death Star II",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Jon Melton",
+   "Bevelyn",
+   "Luke Skywalker",
+   "Qi'ra"
+  ],
+  "sources": [
+   "Star Wars (2020) 26",
+   "Star Wars (2020) 28"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "fermata-cage-and-force-wave",
+  "title": "Fermata Cage trap unleashes the Force Wave",
+  "y": 3,
+  "yText": "between 3 and 4 ABY",
+  "frac": 0.9,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Set after the escape from Cloud City (3 ABY) and before the rescue of Han Solo (4 ABY).",
+  "category": "force",
+  "polity": "Crimson Dawn",
+  "summary": "Cornered by the Empire, Qi'ra draws Sidious and Vader to Amaxine Station and triggers the Fermata Cage, an old artifact meant to imprison them. The Knights of Ren free the Sith and Crimson Dawn scatters, but the cage releases a galaxy-wide Force Wave.",
+  "wp": "Battle at Amaxine Station",
+  "places": [],
+  "people": [
+   "Qi'ra",
+   "Darth Sidious",
+   "Anakin Skywalker",
+   "Luke Skywalker"
+  ],
+  "sources": [
+   "Hidden Empire 4",
+   "Hidden Empire 5",
+   "Darth Vader (2020) 34",
+   "Star Wars (2020) 33"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "scourge-crisis",
+  "title": "The Scourge seizes the galaxy's droids",
+  "y": 3,
+  "yText": "c. 3 ABY",
+  "frac": 0.93,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Wookieepedia dates it from Star Wars (2020) 50 and Marvel's placement after War of the Bounty Hunters (3 ABY).",
+  "category": "disaster",
+  "polity": "galactic",
+  "summary": "A droid intelligence freed at Amaxine fuses with the Spark Eternal to become the Scourge, hijacking droids and cyborgs across the galaxy and slaughtering a Star Destroyer's crew. Ajax Sigma's droid rebels and R2-D2's team finally destroy it.",
+  "wp": "Scourge crisis",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Ajax Sigma",
+   "R2-D2",
+   "Anakin Skywalker"
+  ],
+  "sources": [
+   "Revelations (2022) 1",
+   "Dark Droids 1",
+   "Dark Droids 5"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "trial-of-lando-calrissian",
+  "title": "Lando stands trial for treason",
+  "y": 3,
+  "yText": "between 3 and 4 ABY",
+  "frac": 0.95,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Set after the escape from Cloud City (3 ABY) and before the rescue of Han Solo (4 ABY).",
+  "category": "politics",
+  "polity": "Rebellion",
+  "summary": "The Alliance tries Lando for treason and desertion after he gave away the rebels' vital code droid. Mid-trial he helps rescue a kidnapped Mon Mothma; he is convicted, but his 250-million-credit fine is suspended until the war ends.",
+  "wp": "Trial of Lando Calrissian",
+  "places": [
+   "Uveron"
+  ],
+  "people": [
+   "Landonis Balthazar Calrissian",
+   "Mon Mothma"
+  ],
+  "sources": [
+   "Star Wars (2020) 44",
+   "Star Wars (2020) 46",
+   "Star Wars (2020) 47"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "schism-imperial-strikes-exegol",
+  "title": "The Schism Imperial strikes Exegol",
+  "y": 3,
+  "yText": "3 ABY",
+  "frac": 0.97,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Empire",
+  "summary": "Sly Moore's Schism Imperial, a cabal of disaffected Imperials that Vader has joined, raids Palpatine's Sith Citadel on Exegol. The Schism later proves to be a sham Moore ran with the Emperor to test Vader's loyalty.",
+  "wp": "Assault on Exegol",
+  "places": [
+   "Exegol"
+  ],
+  "people": [
+   "Sly Moore",
+   "Anakin Skywalker",
+   "Darth Sidious"
+  ],
+  "sources": [
+   "Darth Vader (2020) 46",
+   "Darth Vader (2020) 47",
+   "Darth Vader (2020) 50",
+   "Star Wars: Galactic Atlas: Updated Edition"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leia-takes-boushh-disguise",
+  "title": "Leia takes the Boushh disguise",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "The Rise of Skywalker: The Visual Dictionary sets it thirty years before the Starkiller Incident (34 ABY).",
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Seeking help to rescue Han, Leia visits Maz Kanata on Ord Mantell. Keeping calm as Maz taught her, she outwits the Ubese bounty hunter Boushh and takes his armor, the disguise she will wear into Jabba's palace.",
+  "wp": "Boushh",
+  "places": [
+   "Ord Mantell"
+  ],
+  "people": [
+   "Leia Skywalker Organa Solo",
+   "Maz Kanata",
+   "Boushh"
+  ],
+  "sources": [
+   "Bounty Hunted",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "bothans-find-second-death-star",
+  "title": "Bothan spies locate the second Death Star",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.45,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Moving Target places it under a week ahead of Operation Yellow Moon (4 ABY).",
+  "category": "discovery",
+  "polity": "Rebellion",
+  "summary": "Bothan agents film the unfinished second battle station orbiting Endor, and many of them die getting the images out. Palpatine has let the location leak on purpose, baiting the trap that will draw the Alliance to Endor.",
+  "wp": "DS-2 Death Star II Mobile Battle Station",
+  "places": [
+   "Endor"
+  ],
+  "people": [
+   "Mon Mothma",
+   "Gial Ackbar",
+   "Airen Cracken"
+  ],
+  "sources": [
+   "Star Wars: Episode VI Return of the Jedi",
+   "Moving Target: A Princess Leia Adventure"
+  ],
+  "conflict": "Moving Target has rebel commanders react in disbelief to the Bothan footage as if a second Death Star were news, while Star Wars (2020) 28 has Luke already briefing Mon Mothma and Ackbar about it around 3 ABY.",
+  "weight": 2
+ },
+ {
+  "id": "operation-yellow-moon",
+  "title": "Operation Yellow Moon decoys the Empire",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.47,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "To hide the rebel fleet massing at Sullust, Leia stages a showy recruiting tour of the distant Corva sector. Her crew backs a local uprising, blows up the Star Destroyer Shieldmaiden and escapes in a stolen shuttle, the Tydirium.",
+  "wp": "Operation Yellow Moon",
+  "places": [
+   "Jaresh",
+   "Basteel",
+   "Sesid"
+  ],
+  "people": [
+   "Leia Skywalker Organa Solo",
+   "Nien Nunb",
+   "Khione"
+  ],
+  "sources": [
+   "Moving Target: A Princess Leia Adventure",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "luke-builds-green-lightsaber",
+  "title": "Luke builds his own lightsaber",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Built between Moving Target and Return of the Jedi, both dated 4 ABY by Star Wars: Timelines; the crystal comes from the 3–4 ABY comics.",
+  "category": "jedi",
+  "polity": "Jedi",
+  "summary": "Having lost his father's weapon at Cloud City, Luke finds a kyber crystal on Christophsis that turns green after a vision of Yoda, and assembles his own lightsaber, the weapon he carries into Jabba's palace and to Endor.",
+  "wp": "Luke Skywalker's green lightsaber",
+  "places": [
+   "Christophsis"
+  ],
+  "people": [
+   "Luke Skywalker"
+  ],
+  "sources": [
+   "Star Wars: Episode VI Return of the Jedi",
+   "Star Wars (2020) 35",
+   "Return of the Jedi: Beware the Power of the Dark Side!"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "rescue-of-han-solo",
+  "title": "Han rescued as Jabba dies",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.53,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Luke, Leia, Lando and Chewbacca free Han from carbonite at Jabba's palace. Over the sarlacc's pit in the Dune Sea, Leia strangles Jabba with her chain, his sail barge explodes and Boba Fett falls into the creature, which he later escapes.",
+  "wp": "Rescue of Han Solo",
+  "places": [
+   "Tatooine"
+  ],
+  "people": [
+   "Han Solo",
+   "Luke Skywalker",
+   "Leia Skywalker Organa Solo",
+   "Landonis Balthazar Calrissian",
+   "Chewbacca",
+   "Jabba Desilijic Tiure",
+   "Boba Fett"
+  ],
+  "sources": [
+   "Star Wars: Episode VI Return of the Jedi",
+   "Chapter 1: Stranger in a Strange Land",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "jabbas-empire-fractures",
+  "title": "Jabba's death leaves Tatooine lawless",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.535,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Hutts",
+  "summary": "With Jabba dead, his criminal empire splinters while the Hutts argue over his will for months. As Imperial garrisons also pull out, Tatooine's towns are left exposed; the Mining Collective seizes Mos Pelgo until Cobb Vanth drives it out.",
+  "wp": "Jabba's criminal empire",
+  "places": [
+   "Tatooine"
+  ],
+  "people": [
+   "Jabba Desilijic Tiure",
+   "Cobb Vanth"
+  ],
+  "sources": [
+   "Chapter 9: The Marshal",
+   "Aftermath (novel)",
+   "Star Wars: Galactic Atlas"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-of-taanab",
+  "title": "Lando wins the Battle of Taanab",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.55,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Ultimate Star Wars, New Edition places it between Han's rescue and the Battle of Endor, both 4 ABY.",
+  "category": "battle",
+  "polity": "Rebellion",
+  "summary": "Lando Calrissian routs a pirate fleet over the farming world Taanab with a daring maneuver. The victory wins him a general's rank in the Alliance on the eve of Endor.",
+  "wp": "Battle of Taanab",
+  "places": [
+   "Taanab"
+  ],
+  "people": [
+   "Landonis Balthazar Calrissian"
+  ],
+  "sources": [
+   "Star Wars: Episode VI Return of the Jedi",
+   "Ultimate Star Wars, New Edition"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "death-of-yoda",
+  "title": "Yoda dies on Dagobah",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.58,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "death",
+  "polity": "Jedi",
+  "summary": "Returning to finish his training, Luke finds Yoda near death. The old Master confirms that Vader is Luke's father and that he must face him to become a Jedi, then fades into the Force; Obi-Wan's spirit reveals Leia is Luke's twin.",
+  "wp": "Yoda",
+  "places": [
+   "Dagobah"
+  ],
+  "people": [
+   "Yoda",
+   "Luke Skywalker",
+   "Obi-Wan Kenobi",
+   "Leia Skywalker Organa Solo"
+  ],
+  "sources": [
+   "Star Wars: Episode VI Return of the Jedi"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "battle-of-endor",
+  "title": "Battle of Endor: second Death Star destroyed",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Rebellion",
+  "summary": "The rebel fleet flies into Palpatine's trap at Endor. Han's commandos, aided by Ewoks, blow up the shield generator, Ackbar's ships bring down the Executor, and Lando and Wedge blast the reactor, destroying the second Death Star.",
+  "wp": "Battle of Endor",
+  "places": [
+   "Endor"
+  ],
+  "people": [
+   "Han Solo",
+   "Leia Skywalker Organa Solo",
+   "Landonis Balthazar Calrissian",
+   "Gial Ackbar",
+   "Wedge Antilles",
+   "Chewbacca"
+  ],
+  "sources": [
+   "Star Wars: Episode VI Return of the Jedi",
+   "Star Wars: Galactic Atlas"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "anakin-redeemed-palpatine-killed",
+  "title": "Anakin redeemed; Palpatine destroyed",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.601,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "In the throne room Luke beats Vader but casts his lightsaber aside rather than kill him. As Palpatine tortures Luke with lightning, Vader turns on his master and hurls him down a shaft, dying as Anakin Skywalker beside his son.",
+  "wp": "Chosen One",
+  "places": [
+   "Endor"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Luke Skywalker",
+   "Darth Sidious"
+  ],
+  "sources": [
+   "Star Wars: Episode VI Return of the Jedi"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "iron-blockade",
+  "title": "Adelhard's Iron Blockade seals Anoat",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.602,
+  "y2": 5,
+  "y2Text": "5 ABY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Empire",
+  "summary": "Within hours of Endor, Imperial governor Ubrik Adelhard seals off the Anoat sector, denying the Emperor's death and cutting his worlds off from outside news. Trapped populations organize an uprising against his rule.",
+  "wp": "Iron Blockade",
+  "places": [
+   "Bespin"
+  ],
+  "people": [
+   "Ubrik Adelhard"
+  ],
+  "sources": [
+   "Star Wars: Uprising",
+   "Battle of Jakku — Insurgency Rising 1",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "funeral-of-anakin-skywalker",
+  "title": "Luke burns his father's armor",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.603,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi",
+  "summary": "On the forest moon Luke cremates his father's body, still in Vader's armor, on a funeral pyre. As the rebels celebrate, he sees Anakin's spirit, restored to the light, standing with Obi-Wan and Yoda.",
+  "wp": "Funeral of Anakin Skywalker",
+  "places": [
+   "Endor"
+  ],
+  "people": [
+   "Luke Skywalker",
+   "Anakin Skywalker",
+   "Obi-Wan Kenobi",
+   "Yoda"
+  ],
+  "sources": [
+   "Star Wars: Episode VI Return of the Jedi"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "galaxy-celebrates-coruscant-riots",
+  "title": "Galaxy celebrates; Coruscant erupts",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.604,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "culture",
+  "polity": "galactic",
+  "summary": "News of the Emperor's death spreads and worlds from Naboo to Tatooine celebrate. On Coruscant crowds topple the Emperor's Monument Plaza statue, and the Imperial crackdown starts a civil war on the capital that lasts until the surrender.",
+  "wp": "Riot in Monument Plaza",
+  "places": [
+   "Coruscant",
+   "Naboo",
+   "Tatooine",
+   "Bespin"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars: Episode VI Return of the Jedi",
+   "Aftermath (novel)",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "han-and-leia-marry",
+  "title": "Han and Leia marry on Endor",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.607,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "culture",
+  "polity": "Rebellion",
+  "summary": "Han and Leia marry at Bright Tree Village soon after the victory, with their rebel friends and their new Ewok allies looking on.",
+  "wp": "Wedding of Han Solo and Leia Organa",
+  "places": [
+   "Endor"
+  ],
+  "people": [
+   "Han Solo",
+   "Leia Skywalker Organa Solo",
+   "Luke Skywalker",
+   "Chewbacca"
+  ],
+  "sources": [
+   "Aftermath: Life Debt",
+   "The Princess and the Scoundrel",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "sidious-returns-in-clone-body",
+  "title": "Sidious survives in a clone body",
+  "y": 4,
+  "yText": "after 4 ABY (undated)",
+  "frac": 0.61,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Sources say only that it followed the Battle of Endor; placed here as Wookieepedia's timeline lists it.",
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Palpatine cheats death: his essence lives on in a clone body inside Exegol's Sith Citadel, which his Sith Eternal cult struggles to keep from decaying. From hiding they fashion Snoke as a puppet to steer the galaxy.",
+  "wp": "Darth Sidious",
+  "places": [
+   "Exegol"
+  ],
+  "people": [
+   "Darth Sidious",
+   "Snoke"
+  ],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: The Rise of Skywalker: Expanded Edition",
+   "The Star Wars Book"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "operation-cinder",
+  "title": "Operation: Cinder strikes the Empire's own worlds",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.647,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Empire",
+  "summary": "Weeks after Endor, sentinel droids carrying the dead Emperor's orders reach chosen officers and launch Operation: Cinder, satellite-driven climate attacks on worlds such as Naboo, Vardos, Abednedo and Nacronis. It opens Palpatine's Contingency to punish the Empire that failed him.",
+  "wp": "Operation: Cinder",
+  "places": [
+   "Naboo",
+   "Vardos",
+   "Abednedo",
+   "Nacronis"
+  ],
+  "people": [
+   "Darth Sidious",
+   "Garrick Versio",
+   "Iden Versio"
+  ],
+  "sources": [
+   "Shattered Empire 2",
+   "Star Wars Battlefront II",
+   "Alphabet Squadron (novel)",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "inferno-squad-defects",
+  "title": "Iden Versio's Inferno Squad defects",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.648,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "fall",
+  "polity": "Empire",
+  "summary": "After guarding Cinder satellites at Fondor, Inferno Squad watches the Empire turn them on its own loyal world Vardos. Iden Versio and her squadmate Del Meeko disobey orders to save civilians, are branded traitors and flee to join the Rebellion.",
+  "wp": "Skirmish on Vardos",
+  "places": [
+   "Fondor",
+   "Vardos"
+  ],
+  "people": [
+   "Iden Versio",
+   "Del Meeko",
+   "Gideon Hask",
+   "Garrick Versio"
+  ],
+  "sources": [
+   "Star Wars Battlefront II",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-of-theed",
+  "title": "Cinder beaten back at Naboo",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.655,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Rebellion",
+  "summary": "Twenty days after Endor, the Empire turns Cinder on Naboo. Shara Bey leads Leia and Queen Sosha Soruna into orbit aboard N-1 fighters to knock out the storm-making satellites, while Lando and the defector Iden Versio battle Imperial troops down in Theed.",
+  "wp": "Battle of Theed",
+  "places": [
+   "Naboo"
+  ],
+  "people": [
+   "Leia Skywalker Organa Solo",
+   "Sosha Soruna",
+   "Shara Bey",
+   "Landonis Balthazar Calrissian",
+   "Iden Versio"
+  ],
+  "sources": [
+   "Shattered Empire 2",
+   "Shattered Empire 3",
+   "Star Wars Battlefront II",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "new-republic-declared",
+  "title": "Mon Mothma declares the New Republic",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.67,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": "Exact position within 4 ABY is approximate.",
+  "category": "founding",
+  "polity": "New Republic",
+  "summary": "With the Emperor dead, Mon Mothma formally proclaims the New Republic, completing the Alliance's change from insurgency to government. She becomes its first chancellor, and a restored Galactic Senate sits in Hanna City on Chandrila.",
+  "wp": "Declaration of a New Republic",
+  "places": [
+   "Chandrila"
+  ],
+  "people": [
+   "Mon Mothma"
+  ],
+  "sources": [
+   "Aftermath (novel)",
+   "Star Wars: On the Front Lines",
+   "Star Wars: Galactic Atlas",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": "Star Wars: On the Front Lines and Star Wars: Galactic Atlas put the New Republic's founding in 4 ABY, soon after Endor, while Star Wars: The Rise of Skywalker: The Visual Dictionary says it was officially founded a year after Endor, in 5 ABY.",
+  "weight": 3
+ },
+ {
+  "id": "leia-trains-with-luke",
+  "title": "Leia trains as a Jedi under Luke",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.82,
+  "y2": 5,
+  "y2Text": "5 ABY",
+  "confidence": "estimated",
+  "note": "The Visual Dictionary sets the start thirty and the end twenty-nine years before the Starkiller Incident (34 ABY); Aftermath implies she had not yet begun by the Akiva events.",
+  "category": "jedi",
+  "polity": "Jedi",
+  "summary": "After her wedding, Leia studies the Force with her brother on the jungle moon Ajan Kloss and builds a lightsaber of her own. Foreseeing where she can best serve the galaxy, she sets the training aside in 5 ABY.",
+  "wp": "Leia Skywalker Organa Solo",
+  "places": [
+   "Ajan Kloss"
+  ],
+  "people": [
+   "Leia Skywalker Organa Solo",
+   "Luke Skywalker"
+  ],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "destruction-of-nacronis",
+  "title": "Shadow Wing destroys Nacronis",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.7,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "Empire",
+  "summary": "Enforcing Operation: Cinder, Shadow Wing, Colonel Nuress's elite TIE unit, helps annihilate the people of Nacronis despite rebel efforts to save them. Sickened, pilot Yrica Quell deserts and later joins the New Republic.",
+  "wp": "Destruction of Nacronis",
+  "places": [
+   "Nacronis"
+  ],
+  "people": [
+   "Yrica Quell",
+   "Shakara Nuress",
+   "Soran Keize"
+  ],
+  "sources": [
+   "Alphabet Squadron (novel)",
+   "Victory's Price: An Alphabet Squadron Novel",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "rebellion-on-akiva",
+  "title": "Imperial summit on Akiva ends in defeat",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.8,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "New Republic",
+  "summary": "Imperial leaders meet in secret on Akiva to plan the Empire's future and capture the scout Wedge Antilles. Norra Wexley's makeshift crew sparks a local revolt, a New Republic fleet arrives, the summit collapses and Akiva comes over to the Republic.",
+  "wp": "Rebellion on Akiva",
+  "places": [
+   "Akiva"
+  ],
+  "people": [
+   "Norra Wexley",
+   "Temmin Wexley",
+   "Wedge Antilles",
+   "Rae Sloane",
+   "Sinjir Rath Velus",
+   "Jas Emari"
+  ],
+  "sources": [
+   "Aftermath (novel)",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "mission-to-vetine",
+  "title": "Luke recovers Great Tree cuttings",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.85,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi",
+  "summary": "Three months after Endor, Luke and Lieutenant Shara Bey raid an Imperial outpost on Vetine to recover two pieces of the Jedi Temple's Great Tree. Luke keeps one; Shara takes the other home to plant.",
+  "wp": "Mission to Vetine",
+  "places": [
+   "Vetine"
+  ],
+  "people": [
+   "Luke Skywalker",
+   "Shara Bey"
+  ],
+  "sources": [
+   "Shattered Empire 4",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "poes-parents-settle-yavin-4",
+  "title": "Poe's parents settle on Yavin 4",
+  "y": 5,
+  "yText": "5 ABY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "culture",
+  "polity": "New Republic",
+  "summary": "Six months after Endor, Poe's parents, Shara Bey and her husband Kes, leave the war behind and settle on Yavin 4 to raise him, planting their Great Tree fragment on the family land.",
+  "wp": "Shara Bey",
+  "places": [
+   "Yavin 4"
+  ],
+  "people": [
+   "Shara Bey",
+   "Kes Dameron",
+   "Poe Dameron"
+  ],
+  "sources": [
+   "Before the Awakening",
+   "Shattered Empire 4",
+   "Star Wars: Galactic Atlas"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "liberation-of-cloud-city",
+  "title": "Cloud City liberated",
+  "y": 5,
+  "yText": "5 ABY",
+  "frac": 0.15,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "The Visual Dictionary sets it twenty-nine years before the Starkiller Incident (34 ABY).",
+  "category": "rebellion",
+  "polity": "New Republic",
+  "summary": "Relaying Lando's messages, Lobot rallies the Bespin Wing Guard against Governor Adelhard's regime. The Anoat sector uprising headed by the Smuggler then frees Cloud City and makes it the rebellion's base.",
+  "wp": "Liberation of Cloud City",
+  "places": [
+   "Bespin"
+  ],
+  "people": [
+   "Lobot",
+   "Landonis Balthazar Calrissian",
+   "Ubrik Adelhard"
+  ],
+  "sources": [
+   "Star Wars: Uprising",
+   "Aftermath (novel)",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "cerberon-campaign",
+  "title": "Shadow Wing breaks Syndulla's flagship",
+  "y": 5,
+  "yText": "5 ABY",
+  "frac": 0.2,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "New Republic",
+  "summary": "Hera Syndulla's battle group grinds through the Cerberon system to take the Imperial-held world Troithe. Shadow Wing ambushes her flagship Lodestar, which breaks apart and falls on the city below, leaving both forces shattered.",
+  "wp": "Cerberon system campaign",
+  "places": [
+   "Troithe"
+  ],
+  "people": [
+   "Hera Syndulla",
+   "Soran Keize",
+   "Yrica Quell",
+   "Wyl Lark"
+  ],
+  "sources": [
+   "Shadow Fall: An Alphabet Squadron Novel",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "siege-of-arkanis",
+  "title": "Arkanis falls; the Huxes escape",
+  "y": 5,
+  "yText": "5 ABY",
+  "frac": 0.25,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "New Republic",
+  "summary": "New Republic forces lay siege to Arkanis, an Imperial bastion. Before it falls, Gallius Rax sends the hunter Mercurial Swift to smuggle academy commandant Brendol Hux and young Armitage off-world.",
+  "wp": "Siege of Arkanis",
+  "places": [
+   "Arkanis"
+  ],
+  "people": [
+   "Brendol Hux",
+   "Armitage Hux",
+   "Gallius Rax",
+   "Mercurial Swift"
+  ],
+  "sources": [
+   "Aftermath: Life Debt",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "defense-of-kuat",
+  "title": "Kuat's shipyards surrender",
+  "y": 5,
+  "yText": "5 ABY",
+  "frac": 0.27,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "New Republic",
+  "summary": "After weeks of fighting, Ackbar's fleet wins the orbital shipyards of Kuat. Moff Pollus Maksim surrenders on his vice admiral's advice, and losing its greatest yards cripples the Empire's ability to rebuild its navy.",
+  "wp": "Defense of Kuat",
+  "places": [
+   "Kuat"
+  ],
+  "people": [
+   "Gial Ackbar",
+   "Pollus Maksim",
+   "Corf Ferno"
+  ],
+  "sources": [
+   "Aftermath: Life Debt",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "liberation-of-kashyyyk",
+  "title": "Wookiees freed on Kashyyyk",
+  "y": 5,
+  "yText": "5 ABY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "New Republic",
+  "summary": "Ackbar's fleet breaks Grand Moff Tolruck's breakaway Imperial regime above Kashyyyk while Han, Chewbacca and Norra Wexley's team fight on the ground, freeing the Wookiee homeworld after years of enslavement.",
+  "wp": "Liberation of Kashyyyk",
+  "places": [
+   "Kashyyyk"
+  ],
+  "people": [
+   "Han Solo",
+   "Chewbacca",
+   "Norra Wexley",
+   "Gial Ackbar",
+   "Lozen Tolruck"
+  ],
+  "sources": [
+   "Aftermath: Life Debt",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "chandrila-peace-talks-attack",
+  "title": "Peace talks end in bloodshed on Chandrila",
+  "y": 5,
+  "yText": "5 ABY",
+  "frac": 0.32,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Empire",
+  "summary": "Gallius Rax lets Rae Sloane open peace talks with Mon Mothma in Hanna City, but it is a ruse: freed Kashyyyk prisoners fitted with controller chips attack Republic leaders, wounding Mothma and ending hopes of a negotiated peace.",
+  "wp": "Imperial–Republic peace talks",
+  "places": [
+   "Chandrila"
+  ],
+  "people": [
+   "Gallius Rax",
+   "Rae Sloane",
+   "Mon Mothma"
+  ],
+  "sources": [
+   "Aftermath: Life Debt",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "rax-gathers-empire-at-jakku",
+  "title": "Rax gathers the Empire at Jakku",
+  "y": 5,
+  "yText": "5 ABY",
+  "frac": 0.35,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "fall",
+  "polity": "Empire",
+  "summary": "Carrying out Palpatine's Contingency, Counselor Gallius Rax pulls the remaining Imperial fleet to remote Jakku. He means to lure the Republic there, destroy the planet with both sides on it, and slip away with a chosen few to the Unknown Regions.",
+  "wp": "Contingency",
+  "places": [
+   "Jakku"
+  ],
+  "people": [
+   "Gallius Rax",
+   "Rae Sloane"
+  ],
+  "sources": [
+   "Aftermath: Empire's End",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "new-separatists-and-nakadia",
+  "title": "New separatists rise as Senate moves",
+  "y": 5,
+  "yText": "5 ABY",
+  "frac": 0.52,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "politics",
+  "polity": "New Republic",
+  "summary": "Eleven months after Endor, the New Republic skirmishes on its borders with the breakaway New Separatist Union as a Confederacy of Corporate Systems also forms. Mon Mothma's government prepares to shift its seat from Chandrila to farming world Nakadia.",
+  "wp": "New Separatist Union",
+  "places": [
+   "Chandrila",
+   "Nakadia"
+  ],
+  "people": [
+   "Mon Mothma"
+  ],
+  "sources": [
+   "Aftermath: Empire's End",
+   "Victory's Price: An Alphabet Squadron Novel"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "jakku-child-soldiers",
+  "title": "Jakku orphans trained as child soldiers",
+  "y": 5,
+  "yText": "5 ABY",
+  "frac": 0.55,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Set just before the Battle of Jakku (5 ABY).",
+  "category": "war",
+  "polity": "Empire",
+  "summary": "Before the final battle, Gallius Rax gathers about two dozen Jakku orphans and puts them under young Armitage Hux, who drills them as the first of a new breed of stormtroopers, a model the First Order will follow.",
+  "wp": "Gallius Rax's child soldiers",
+  "places": [
+   "Jakku"
+  ],
+  "people": [
+   "Gallius Rax",
+   "Armitage Hux",
+   "Brendol Hux"
+  ],
+  "sources": [
+   "Aftermath: Empire's End",
+   "Phasma (novel)",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-of-jakku",
+  "title": "Battle of Jakku: the Empire's last stand",
+  "y": 5,
+  "yText": "5 ABY",
+  "frac": 0.61,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "New Republic",
+  "summary": "Just over a year after Endor, the New Republic fleet confronts most of what remains of the Imperial Navy over Jakku. Commodore Agate's Starhawk drags the dreadnought Ravager down into the desert, and the Empire's last great fleet is broken.",
+  "wp": "Battle of Jakku",
+  "places": [
+   "Jakku"
+  ],
+  "people": [
+   "Gial Ackbar",
+   "Kyrsta Agate",
+   "Rae Sloane",
+   "Gallius Rax",
+   "Iden Versio"
+  ],
+  "sources": [
+   "Lost Stars",
+   "Aftermath: Empire's End",
+   "Battle of Jakku — Last Stand 4",
+   "Star Wars Battlefront II",
+   "Star Wars: Galactic Atlas"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "keize-attacks-verity-district",
+  "title": "Keize dies trying to bury Imperial crimes",
+  "y": 5,
+  "yText": "5 ABY",
+  "frac": 0.611,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Empire",
+  "summary": "During the Jakku battle, Colonel Soran Keize of Shadow Wing dives on Coruscant to collapse a hidden databank of Imperial atrocities, the archive feeding Cinder's orders. His former pilot Yrica Quell stops him, and Keize dies of his wounds.",
+  "wp": "Attack on Coruscant's Verity District",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Soran Keize",
+   "Yrica Quell"
+  ],
+  "sources": [
+   "Victory's Price: An Alphabet Squadron Novel",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "sloane-kills-rax",
+  "title": "Sloane kills Rax and flees beyond the map",
+  "y": 5,
+  "yText": "5 ABY",
+  "frac": 0.612,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "fall",
+  "polity": "Empire",
+  "summary": "Joined by Norra and Brentin Wexley, Rae Sloane corners Rax at the observatory on Jakku before he can blow open the planet's core, and stabs him. At his dying urging she flees with Brendol Hux to meet the Emperor's ship Eclipse beyond known space.",
+  "wp": "Gallius Rax",
+  "places": [
+   "Jakku"
+  ],
+  "people": [
+   "Rae Sloane",
+   "Gallius Rax",
+   "Norra Wexley",
+   "Brentin Lore Wexley",
+   "Brendol Hux"
+  ],
+  "sources": [
+   "Aftermath: Empire's End"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "galactic-concordance",
+  "title": "Galactic Concordance ends the war",
+  "y": 5,
+  "yText": "5 ABY",
+  "frac": 0.65,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "treaty",
+  "polity": "galactic",
+  "summary": "After Jakku, Mas Amedda, the Empire's grand vizier, puts his name to the Galactic Concordance alongside Chancellor Mon Mothma on Chandrila. The Empire surrenders and the war officially ends; Amedda keeps a figurehead post on Coruscant, and Leia goes into labor at the ceremony.",
+  "wp": "Galactic Concordance",
+  "places": [
+   "Chandrila"
+  ],
+  "people": [
+   "Mas Amedda",
+   "Mon Mothma",
+   "Leia Skywalker Organa Solo"
+  ],
+  "sources": [
+   "Aftermath: Empire's End",
+   "Star Wars: The Force Awakens: The Visual Dictionary",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 3
+ }
+]

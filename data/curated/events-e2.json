@@ -1,0 +1,3820 @@
+[
+ {
+  "id": "fort-tusken-assault",
+  "title": "Sand People overrun Fort Tusken",
+  "y": -99,
+  "yText": "99 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Tusken Raiders",
+  "summary": "Sand People raid and loot Fort Tusken, an outpost beside Tatooine's Jundland Wastes, until its surviving settlers give it up. The fort's chroniclers later make the raiders' siege ballistas famous and give them the name Tusken Raiders.",
+  "wp": "Assault on Fort Tusken",
+  "places": [
+   "Tatooine"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars: Timelines",
+   "Star Wars: The Mandalorian Visual Guide"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "dooku-meets-his-family",
+  "title": "Young Dooku meets his lost family",
+  "y": -90,
+  "yText": "90 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "During a Jedi visit to a Serenno festival, the youngling Dooku saves two children from kidnappers and learns they are his siblings, Jenza and Ramil. A groundquake buries him in rubble, and his father, Count Gora, rages that he never wants him back.",
+  "wp": "Celebration on Serenno",
+  "places": [
+   "Serenno"
+  ],
+  "people": [
+   "Dooku",
+   "Jenza",
+   "Ramil",
+   "Gora",
+   "Yoda"
+  ],
+  "sources": [
+   "Dooku: Jedi Lost",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "yoda-takes-dooku",
+  "title": "Yoda takes Dooku as his Padawan",
+  "y": -86,
+  "yText": "86 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "After the Hawk-Bat Clan's Initiate Trials, Grand Master Yoda picks Dooku as his apprentice, and Lene Kostana takes Dooku's close friend Sifo-Dyas. One pupil will one day lead the Separatists; the other will commission the clone army.",
+  "wp": "Hawk-Bat Clan",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Yoda",
+   "Dooku",
+   "Sifo-Dyas",
+   "Lene Kostana"
+  ],
+  "sources": [
+   "Dooku: Jedi Lost",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "protobranch-solar-storm",
+  "title": "Solar storm devastates Protobranch",
+  "y": -85,
+  "yText": "c. 85 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "disaster",
+  "polity": "Republic",
+  "summary": "Sifo-Dyas foresees a deadly solar storm on Protobranch. The Council refuses to act on a vision, so he, Dooku and Master Kostana warn the world's senator anyway, and Yoda reluctantly follows them there; the storm still kills much of the population.",
+  "wp": "Protobranch solar storm",
+  "places": [
+   "Protobranch"
+  ],
+  "people": [
+   "Sifo-Dyas",
+   "Dooku",
+   "Lene Kostana",
+   "Yoda"
+  ],
+  "sources": [
+   "Dooku: Jedi Lost",
+   "The Living Force",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "palpatine-born",
+  "title": "Sheev Palpatine is born on Naboo",
+  "y": -84,
+  "yText": "84 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "Sith",
+  "summary": "Naboo sees the birth of Sheev Palpatine in the closing years of the High Republic era. Secretly schooled by the Sith Lord Darth Plagueis, he will become Darth Sidious and, in the end, the galaxy's Emperor.",
+  "wp": "Darth Sidious",
+  "places": [
+   "Naboo"
+  ],
+  "people": [
+   "Darth Sidious",
+   "Darth Plagueis"
+  ],
+  "sources": [
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "dooku-first-force-lightning",
+  "title": "Dooku first wields Force lightning",
+  "y": -82,
+  "yText": "82 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "force",
+  "polity": "Jedi Order",
+  "summary": "Hunting rumored Sith relics with Lene Kostana and Sifo-Dyas, the Padawan Dooku is seized on Asusto by a dark side coven, the Presagers of Hakotei. Their ritual fills him with visions of what is to come, and he escapes by killing them with Force lightning.",
+  "wp": "Mission to Asusto",
+  "places": [
+   "Asusto"
+  ],
+  "people": [
+   "Dooku",
+   "Lene Kostana",
+   "Sifo-Dyas"
+  ],
+  "sources": [
+   "Dooku: Jedi Lost",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "qui-gon-jinn-born",
+  "title": "Qui-Gon Jinn is born on Coruscant",
+  "y": -80,
+  "yText": "c. 80 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Derived from his age of forty in Master & Apprentice, which is set in 40 BBY.",
+  "category": "birth",
+  "polity": "Jedi Order",
+  "summary": "Qui-Gon Jinn comes into the world on Coruscant. Trained by Dooku, he grows into a maverick Jedi Master devoted to the Living Force, whose discovery of a slave boy on Tatooine will set the Chosen One's story in motion.",
+  "wp": "Qui-Gon Jinn",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Qui-Gon Jinn"
+  ],
+  "sources": [
+   "Master & Apprentice",
+   "Ultimate Star Wars",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "mace-windu-born",
+  "title": "Mace Windu is born on Haruun Kal",
+  "y": -72,
+  "yText": "72 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "Jedi Order",
+  "summary": "Mace Windu comes into the world on Haruun Kal. He will become Master of the Order, a peerless duelist and one of the very few Jedi to face Darth Sidious blade to blade.",
+  "wp": "Mace Windu",
+  "places": [
+   "Haruun Kal"
+  ],
+  "people": [
+   "Mace Windu"
+  ],
+  "sources": [
+   "Star Wars: Timelines",
+   "Mace Windu and Other Users of the Force"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "dooku-takes-qui-gon",
+  "title": "Dooku takes Qui-Gon as his Padawan",
+  "y": -68,
+  "yText": "68 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "When the Heliost Clan completes its Initiate Trials, Dooku, now a Jedi Master, picks the young Qui-Gon Jinn to be his Padawan. The same year master and student see combat together on Shurrupak.",
+  "wp": "Heliost Clan",
+  "places": [
+   "Coruscant",
+   "Shurrupak"
+  ],
+  "people": [
+   "Dooku",
+   "Qui-Gon Jinn"
+  ],
+  "sources": [
+   "Dooku: Jedi Lost",
+   "Master & Apprentice",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "theed-power-generator-built",
+  "title": "Theed power generator opens",
+  "y": -65,
+  "yText": "65 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "technology",
+  "polity": "Naboo",
+  "summary": "A venture between Naboo and Damask Holdings builds a plasma-refining generator in Theed, its stark industrial look a break with Naboo style. Surplus plasma is sold off-world, much of it to the Trade Federation. Decades later, Qui-Gon Jinn dies fighting inside it.",
+  "wp": "Theed power generator",
+  "places": [
+   "Naboo"
+  ],
+  "people": [
+   "Darth Sidious"
+  ],
+  "sources": [
+   "Nexus of Power",
+   "Star Wars: Complete Locations (2016)"
+  ],
+  "conflict": "Star Wars: Complete Locations (2016) has Senator Palpatine attend the opening, which Nexus of Power dates to 65 BBY, but Star Wars: Timelines dates his election as senator to 52 BBY.",
+  "weight": 1
+ },
+ {
+  "id": "tarkin-born",
+  "title": "Wilhuff Tarkin is born on Eriadu",
+  "y": -64,
+  "yText": "64 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "Republic",
+  "summary": "Wilhuff Tarkin is born into Eriadu's powerful Tarkin family. Drawn into politics by Palpatine, he will serve the Republic as an officer, then the Empire as a Grand Moff and the Death Star's commander.",
+  "wp": "Wilhuff Tarkin",
+  "places": [
+   "Eriadu"
+  ],
+  "people": [
+   "Wilhuff Tarkin"
+  ],
+  "sources": [
+   "Tarkin (novel)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "millennium-falcon-built",
+  "title": "The future Millennium Falcon is built",
+  "y": -60,
+  "yText": "c. 60 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "technology",
+  "polity": "galactic",
+  "summary": "A YT-1300 freighter from Corellia enters service around this time. After many owners and many names it will become the Millennium Falcon, flown by Lando Calrissian and then Han Solo.",
+  "wp": "Millennium Falcon",
+  "places": [],
+  "people": [],
+  "sources": [
+   "Star Wars 100 Objects"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "dooku-offered-council-seat",
+  "title": "Dooku offered a seat on the Council",
+  "y": -58,
+  "yText": "c. 58 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Star Wars: Timelines dates Dooku's Council seat to around 58 BBY; the rally attack comes shortly before it.",
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Probing the sabotage that nearly kills his brother Ramil at Coruscant's Dragonfire Air Rally, Dooku and Qui-Gon find that a crime lord is blackmailing Councilor Yula Braylon. Dooku is then offered a place on the High Council, while Qui-Gon is made a Knight.",
+  "wp": "Attack at the Dragonfire Air Rally",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Dooku",
+   "Qui-Gon Jinn",
+   "Ramil",
+   "Yula Braylon"
+  ],
+  "sources": [
+   "Dooku: Jedi Lost",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "obi-wan-kenobi-born",
+  "title": "Obi-Wan Kenobi is born on Stewjon",
+  "y": -57,
+  "yText": "57 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "Jedi Order",
+  "summary": "Born on Stewjon, Obi-Wan Kenobi reaches the Jedi Temple before he is half a year old. He will train under Qui-Gon Jinn, teach Anakin Skywalker, and decades later guide Anakin's son Luke.",
+  "wp": "Obi-Wan Kenobi",
+  "places": [
+   "Stewjon",
+   "Coruscant"
+  ],
+  "people": [
+   "Obi-Wan Kenobi"
+  ],
+  "sources": [
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "maul-born",
+  "title": "Maul is born on Dathomir",
+  "y": -54,
+  "yText": "54 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "Sith",
+  "summary": "On Dathomir, the Nightsister leader Mother Talzin bears a Zabrak son, Maul. Taken as a boy by Darth Sidious, he will be shaped into a Sith assassin consumed by hatred for the Jedi.",
+  "wp": "Maul",
+  "places": [
+   "Dathomir"
+  ],
+  "people": [
+   "Maul",
+   "Talzin"
+  ],
+  "sources": [
+   "Star Wars Jedi Master Magazine 1",
+   "Darth Maul — Son of Dathomir 3"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "palpatine-senator-of-naboo",
+  "title": "Palpatine elected Senator of Naboo",
+  "y": -52,
+  "yText": "52 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Naboo",
+  "summary": "Sheev Palpatine wins the seat representing Naboo in the Galactic Senate. Already secretly Darth Sidious, apprentice to Darth Plagueis, he gives the Sith a foothold for taking the Republic apart from within.",
+  "wp": "Darth Sidious",
+  "places": [
+   "Naboo",
+   "Coruscant"
+  ],
+  "people": [
+   "Darth Sidious",
+   "Darth Plagueis"
+  ],
+  "sources": [
+   "Star Wars: Timelines",
+   "Tarkin (novel)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "katri-killed-on-raxus-secundus",
+  "title": "Councilor Katri slain on Raxus Secundus",
+  "y": -50,
+  "yText": "between c. 50 and 48 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "death",
+  "polity": "Jedi Order",
+  "summary": "Sent to bring home Councilor Katri's body, Dooku and Mace Windu learn that local guards killed her while trying to coerce their corrupt senator, who dies in the fallout. Windu inherits Katri's Council seat; Dooku comes away half-sympathetic to the killers' complaint against the Senate.",
+  "wp": "Ambush on Raxus Secundus",
+  "places": [
+   "Raxus Secundus"
+  ],
+  "people": [
+   "Katri",
+   "Dooku",
+   "Mace Windu",
+   "Ki-Adi-Mundi"
+  ],
+  "sources": [
+   "Choices"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "mutiny-on-the-advent",
+  "title": "Rael Averross forced to kill his Padawan",
+  "y": -48,
+  "yText": "48 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Mutineers rise aboard the relief freighter Advent. Rael Averross fights them in the cargo hold rather than retake the bridge, and a slicer dart turns his Padawan Nim Pianna on him, so he must kill her. The Council clears him and posts him to Pijal.",
+  "wp": "Mutiny on the Advent",
+  "places": [
+   "Pijal"
+  ],
+  "people": [
+   "Rael Averross",
+   "Nim Pianna"
+  ],
+  "sources": [
+   "Master & Apprentice",
+   "Dooku: Jedi Lost",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "padme-amidala-born",
+  "title": "Padmé Naberrie is born on Naboo",
+  "y": -46,
+  "yText": "46 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "Naboo",
+  "summary": "Ruwee and Jobal Naberrie welcome a daughter, Padmé, on Naboo. She will be elected queen at fourteen, serve as a senator through the Clone Wars, and secretly marry Anakin Skywalker.",
+  "wp": "Padmé Amidala Naberrie",
+  "places": [
+   "Naboo"
+  ],
+  "people": [
+   "Padmé Amidala Naberrie"
+  ],
+  "sources": [
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "qui-gon-takes-obi-wan",
+  "title": "Qui-Gon takes Obi-Wan as his Padawan",
+  "y": -44,
+  "yText": "44 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Qui-Gon Jinn chooses the young Obi-Wan Kenobi to be his Padawan. The pairing of an unorthodox master with a rule-minded student is often uneasy, but it holds for twelve years, until Qui-Gon's death on Naboo.",
+  "wp": "Obi-Wan Kenobi",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Qui-Gon Jinn",
+   "Obi-Wan Kenobi"
+  ],
+  "sources": [
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "ky-narec-rescues-ventress",
+  "title": "Ky Narec takes in Asajj Ventress",
+  "y": -44,
+  "yText": "44 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Marooned on Rattatak, a world ruled by warlords, Ky Narec of the Jedi finds the girl Asajj Ventress after raiders kill the man who owned her. Sensing her power, he trains her as his Padawan while the two defend the locals.",
+  "wp": "Ky Narec",
+  "places": [
+   "Rattatak"
+  ],
+  "people": [
+   "Ky Narec",
+   "Asajj Ventress"
+  ],
+  "sources": [
+   "Star Wars: Timelines",
+   "Nightsisters (episode)",
+   "Dark Disciple"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "dooku-count-of-serenno",
+  "title": "Dooku becomes Count and quits the Jedi",
+  "y": -42,
+  "yText": "42 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Dooku's brother Ramil hires Abyssin mercenaries to sour Serenno on the Republic. Dooku returns home, kills Ramil and claims the title and fortune of Count, then resigns from the Order at sixty. Earlier that year he had been introduced to Senator Palpatine.",
+  "wp": "Incident on Serenno",
+  "places": [
+   "Serenno"
+  ],
+  "people": [
+   "Dooku",
+   "Ramil",
+   "Jenza",
+   "Rael Averross",
+   "Darth Sidious"
+  ],
+  "sources": [
+   "Dooku: Jedi Lost",
+   "Star Wars: Timelines",
+   "The Star Wars Book"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "anakin-skywalker-born",
+  "title": "Anakin Skywalker is born",
+  "y": -41,
+  "yText": "41 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "galactic",
+  "summary": "The enslaved Shmi Skywalker gives birth to a son who has no father. Anakin is a Force vergence, and the Jedi will come to believe him the prophesied Chosen One who will restore the Force's balance.",
+  "wp": "Anakin Skywalker",
+  "places": [
+   "Tatooine"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Shmi Skywalker Lars"
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Star Wars: Timelines"
+  ],
+  "conflict": "The Star Wars Book gives Tatooine as his birthplace, while Darth Vader: Sith Lord says records disagree and that he may have reached Tatooine with his mother as a small child.",
+  "weight": 3
+ },
+ {
+  "id": "grogu-born",
+  "title": "Grogu is born",
+  "y": -41,
+  "yText": "c. 41 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Derived from his stated age of fifty in The Mandalorian, which Star Wars: Timelines places in 9 ABY.",
+  "category": "birth",
+  "polity": "Jedi Order",
+  "summary": "Grogu, of the same rare species as Yoda, is born and raised as an initiate in the Jedi Temple. Carried to safety when the Temple falls, he will resurface decades later as the ward of the Mandalorian Din Djarin.",
+  "wp": "Din Grogu",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Din Grogu",
+   "Din Djarin"
+  ],
+  "sources": [
+   "Chapter 1: The Mandalorian",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "great-clan-wars",
+  "title": "Mandalore's Great Clan Wars",
+  "y": -41,
+  "yText": "between 41 and 40 BBY",
+  "frac": null,
+  "y2": -40,
+  "y2Text": "40 BBY",
+  "confidence": "inferred",
+  "note": "Placed after Padawan (41 BBY per Star Wars: Timelines), in which Obi-Wan has not yet met Satine, and before the mission to Pijal (40 BBY), which followed the war.",
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "Pacifist New Mandalorians fight the martial traditionalists in a civil war that wrecks the old capital, Keldabe. Qui-Gon and Obi-Wan spend a year guarding Satine Kryze, who falls for Obi-Wan; her side wins, and the exiled traditionalists become Death Watch.",
+  "wp": "Great Clan Wars",
+  "places": [
+   "Mandalore",
+   "Concordia"
+  ],
+  "people": [
+   "Satine Kryze",
+   "Obi-Wan Kenobi",
+   "Qui-Gon Jinn",
+   "Adonai Kryze"
+  ],
+  "sources": [
+   "Voyage of Temptation",
+   "Padawan (novel)",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "maul-taken-by-sidious",
+  "title": "Sidious takes Maul as his apprentice",
+  "y": -40,
+  "yText": "c. 40 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Darth Sidious visits Mother Talzin on Dathomir and, instead of the apprenticeship she hoped for, leaves with her young son Maul. Talzin never forgives the theft, and Maul trains for years as the Sith's hidden weapon against the Jedi.",
+  "wp": "Maul",
+  "places": [
+   "Dathomir"
+  ],
+  "people": [
+   "Darth Sidious",
+   "Maul",
+   "Talzin"
+  ],
+  "sources": [
+   "Darth Maul — Son of Dathomir 3",
+   "An Unwilling Apprentice",
+   "Star Wars: Timelines"
+  ],
+  "conflict": "In Darth Maul — Son of Dathomir, Talzin says Sidious stole Maul from her; the in-universe legend An Unwilling Apprentice has Talzin surrender him at Sidious's demand before Sidious chooses him at a Selection contest.",
+  "weight": 2
+ },
+ {
+  "id": "sidious-kills-plagueis",
+  "title": "Sidious murders Darth Plagueis",
+  "y": -40,
+  "yText": "between c. 40 and 32 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "No source names the year. The StarWars.com Databank places the murder after Sidious took Maul as apprentice (c. 40 BBY per Star Wars: Timelines) and before the Invasion of Naboo (32 BBY).",
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Having learned all he needs, Darth Sidious kills his master, Plagueis the Wise, as he sleeps, just as the Rule of Two demands. He inherits Plagueis's research into cheating death, the lure he will later dangle before Anakin Skywalker.",
+  "wp": "Darth Plagueis",
+  "places": [],
+  "people": [
+   "Darth Sidious",
+   "Darth Plagueis"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith",
+   "Tarkin (novel)",
+   "Star Wars: The Secrets of the Sith"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "mission-to-pijal",
+  "title": "Qui-Gon and Obi-Wan's mission to Pijal",
+  "y": -40,
+  "yText": "40 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Qui-Gon and young Obi-Wan travel to Pijal to oversee a treaty between its monarchy and Czerka, working with the regent Rael Averross. They find Princess Fanry herself behind the Blackguard terrorists, and her coronation is stopped. Qui-Gon also declines a High Council seat.",
+  "wp": "Mission to Pijal",
+  "places": [
+   "Pijal"
+  ],
+  "people": [
+   "Qui-Gon Jinn",
+   "Obi-Wan Kenobi",
+   "Rael Averross",
+   "Fanry",
+   "Mace Windu"
+  ],
+  "sources": [
+   "Master & Apprentice",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "sifo-dyas-joins-council",
+  "title": "Sifo-Dyas joins the Jedi High Council",
+  "y": -39,
+  "yText": "39 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Sifo-Dyas joins the Council that leads the Jedi Order. His recurring visions of a coming war increasingly set him against his fellow councilors, and he will eventually act on them without their consent.",
+  "wp": "Sifo-Dyas",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Sifo-Dyas"
+  ],
+  "sources": [
+   "Star Wars: Timelines",
+   "Star Wars: Episode II Attack of the Clones"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "anakin-and-shmi-won-by-watto",
+  "title": "Gardulla loses Anakin and Shmi to Watto",
+  "y": -38,
+  "yText": "38 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Hutts",
+  "summary": "The Hutt crime lord Gardulla bets on the podraces and loses two of her slaves to Watto, a Toydarian who runs a junk shop in Mos Espa: Shmi Skywalker and her small son Anakin.",
+  "wp": "Watto",
+  "places": [
+   "Tatooine"
+  ],
+  "people": [
+   "Gardulla Besadii the Elder",
+   "Watto",
+   "Shmi Skywalker Lars",
+   "Anakin Skywalker"
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Star Wars: Absolutely Everything You Need to Know",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "ahsoka-tano-born",
+  "title": "Ahsoka Tano is born on Shili",
+  "y": -36,
+  "yText": "36 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "Jedi Order",
+  "summary": "In a Togruta village on Shili, a girl named Ahsoka Tano is born. Found by Plo Koon a few years later, she will become Anakin Skywalker's Padawan and, after leaving the Order, a key figure of the rebellion era.",
+  "wp": "Ahsoka Tano",
+  "places": [
+   "Shili"
+  ],
+  "people": [
+   "Ahsoka Tano",
+   "Plo Koon"
+  ],
+  "sources": [
+   "Star Wars: Timelines",
+   "Ultimate Star Wars"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "thrawn-kinoss-trap",
+  "title": "Thrawn's trap in the Kinoss system",
+  "y": -36,
+  "yText": "c. 36 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "battle",
+  "polity": "Chiss Ascendancy",
+  "summary": "To prove the Lioaoin Regime backs piracy, the young Chiss officer Thrawn poses as a merchant and draws pirate corsairs through hyperspace into the Kinoss system, where Ar'alani's patrol cruiser Parala destroys them. It opens the Chiss campaign against the Lioaoin pirates.",
+  "wp": "Skirmish in the Kinoss system",
+  "places": [
+   "Kinoss system"
+  ],
+  "people": [
+   "Mitth'raw'nuruodo",
+   "Ar'alani"
+  ],
+  "sources": [
+   "Thrawn Ascendancy: Chaos Rising",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-of-malastare-narrows",
+  "title": "Battle of the Malastare Narrows",
+  "y": -34,
+  "yText": "34 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "Admiral Trench of the Corporate Alliance blockades Malastare and mauls the Republic fleet sent against him, with Wullf Yularen among its officers. A Jedi task force under Kep-She wrecks Trench's flagship; he is thought dead but survives.",
+  "wp": "Battle of Malastare Narrows",
+  "places": [
+   "Malastare"
+  ],
+  "people": [
+   "Trench",
+   "Wullf Yularen",
+   "Kep-She"
+  ],
+  "sources": [
+   "Cat and Mouse",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "maul-at-malachor",
+  "title": "Sidious brings Maul to Malachor",
+  "y": -34,
+  "yText": "34 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Sidious takes his apprentice to Malachor, where the ash of Sith warriors killed in an ancient battle gives Maul visions of their deaths at Jedi hands. The experience deepens his loathing for the Jedi Order.",
+  "wp": "Malachor",
+  "places": [
+   "Malachor"
+  ],
+  "people": [
+   "Darth Sidious",
+   "Maul"
+  ],
+  "sources": [
+   "Age of Republic - Darth Maul 1",
+   "Darth Maul (2017) 2",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "dooku-claims-ventress",
+  "title": "Ky Narec killed; Dooku claims Ventress",
+  "y": -34,
+  "yText": "c. 34 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Star Wars: Timelines puts her apprenticeship to Narec in 44 BBY and Dark Disciple says they served Rattatak for ten years, placing his death around 34 BBY; Dooku finds her some time after.",
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Pirates kill Ky Narec, and the grieving Ventress makes herself warlord of Rattatak until a rival, Osika Kirske, captures her and forces her into his arena. Count Dooku frees her and makes her his dark side pupil and assassin.",
+  "wp": "Asajj Ventress",
+  "places": [
+   "Rattatak"
+  ],
+  "people": [
+   "Asajj Ventress",
+   "Ky Narec",
+   "Osika Kirske",
+   "Dooku"
+  ],
+  "sources": [
+   "Nightsisters (episode)",
+   "Dark Disciple",
+   "Dooku: Jedi Lost",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "clone-army-ordered",
+  "title": "Sifo-Dyas secretly orders a clone army",
+  "y": -33,
+  "yText": "33 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Republic",
+  "summary": "Convinced by his visions that war is coming, Jedi Master Sifo-Dyas secretly commissions the cloners of Kamino to grow the Republic an army, without the Jedi Council's approval. The Sith soon take quiet control of the project.",
+  "wp": "Grand Army of the Republic",
+  "places": [
+   "Kamino"
+  ],
+  "people": [
+   "Sifo-Dyas",
+   "Lama Su"
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "The Lost One",
+   "Star Wars: Timelines",
+   "Star Wars Insider 206"
+  ],
+  "conflict": "Star Wars: Timelines and Star Wars Insider 206 place the order in 33 BBY, while in Attack of the Clones the Kaminoans date it to almost ten years before 22 BBY, nearer 32 BBY.",
+  "weight": 3
+ },
+ {
+  "id": "eriadu-conference",
+  "title": "Massacre at the Eriadu Conference",
+  "y": -33,
+  "yText": "33 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Republic",
+  "summary": "At a trade summit held on Eriadu, the radical Nebula Front kills much of the Trade Federation's leadership and several Kuat Drive Yards executives, while Chancellor Valorum survives an attempt on his life. Nute Gunray rises to Viceroy, as Darth Sidious intended.",
+  "wp": "Eriadu Conference",
+  "places": [
+   "Eriadu"
+  ],
+  "people": [
+   "Nute Gunray",
+   "Finis Valorum",
+   "Darth Sidious"
+  ],
+  "sources": [
+   "Tarkin (novel)",
+   "Rise of the Separatists",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "maul-hunts-eldra-kaitis",
+  "title": "Maul hunts a captive Padawan",
+  "y": -33,
+  "yText": "33 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Sent to silence witnesses to the Trade Federation's plans, Maul hears that the Xrexus Cartel is auctioning a captured Padawan, Eldra Kaitis. With Cad Bane and Aurra Sing he takes her, then duels and kills her, hungry for a real fight with the Jedi.",
+  "wp": "Auction of Eldra Kaitis",
+  "places": [
+   "Moon of Drazkel",
+   "Nar Shaddaa"
+  ],
+  "people": [
+   "Maul",
+   "Eldra Kaitis",
+   "Cad Bane",
+   "Aurra Sing",
+   "Xev Xrexus"
+  ],
+  "sources": [
+   "Star Wars: Darth Maul (2017)",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "amidala-crowned-queen",
+  "title": "Padmé crowned Queen Amidala",
+  "y": -32,
+  "yText": "32 BBY",
+  "frac": 0.05,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Naboo",
+  "summary": "At fourteen, Padmé Naberrie unseats the isolationist Queen Sanandrassa and is crowned under the regnal name Amidala. With Captain Panaka she recruits handmaidens who serve as her decoys and guards.",
+  "wp": "Coronation of Queen Amidala",
+  "places": [
+   "Naboo"
+  ],
+  "people": [
+   "Padmé Amidala Naberrie",
+   "Sanandrassa",
+   "Quarsh Panaka"
+  ],
+  "sources": [
+   "Queen's Peril",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "free-trade-zones-taxed",
+  "title": "Senate taxes the Free Trade Zones",
+  "y": -32,
+  "yText": "32 BBY",
+  "frac": 0.08,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Republic",
+  "summary": "At Chancellor Valorum's urging, the Senate passes Prop 31-814D, taxing trade in the outlying Free Trade Zones. The Trade Federation's fury over the levy hands Darth Sidious the pretext he needs.",
+  "wp": "Prop 31-814D",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Finis Valorum"
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Star Wars Propaganda: A History of Persuasive Art in the Galaxy"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "invasion-of-naboo",
+  "title": "Trade Federation blockades and invades Naboo",
+  "y": -32,
+  "yText": "32 BBY",
+  "frac": 0.15,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Trade Federation",
+  "summary": "Secretly steered by Darth Sidious, the Federation throws a blockade around Naboo over the tax, tries to kill the Jedi envoys sent to negotiate, and lands a droid army that takes Theed. Queen Amidala will not sign a treaty making the occupation legal.",
+  "wp": "Invasion of Naboo",
+  "places": [
+   "Naboo"
+  ],
+  "people": [
+   "Nute Gunray",
+   "Darth Sidious",
+   "Qui-Gon Jinn",
+   "Obi-Wan Kenobi",
+   "Padmé Amidala Naberrie"
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "boonta-eve-classic",
+  "title": "Anakin wins the Boonta Eve Classic",
+  "y": -32,
+  "yText": "32 BBY",
+  "frac": 0.24,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "discovery",
+  "polity": "Jedi Order",
+  "summary": "Stranded on Tatooine with the Queen, Qui-Gon Jinn meets the slave boy Anakin Skywalker and senses his enormous Force potential. Anakin wins the Boonta Eve podrace, earning parts for the Queen's ship and his own freedom, and leaves his mother to become a Jedi.",
+  "wp": "Boonta Eve Classic",
+  "places": [
+   "Tatooine"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Qui-Gon Jinn",
+   "Shmi Skywalker Lars",
+   "Watto"
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "duel-on-tatooine",
+  "title": "The Sith reveal themselves on Tatooine",
+  "y": -32,
+  "yText": "32 BBY",
+  "frac": 0.27,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Tracking the Queen's ship, Darth Maul ambushes Qui-Gon Jinn in the desert outside Mos Espa. Qui-Gon escapes aboard the departing starship and reports the first Sith warrior seen by the Jedi in about a thousand years.",
+  "wp": "Duel on Tatooine",
+  "places": [
+   "Tatooine"
+  ],
+  "people": [
+   "Maul",
+   "Qui-Gon Jinn"
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "vote-of-no-confidence",
+  "title": "Amidala topples Chancellor Valorum",
+  "y": -32,
+  "yText": "32 BBY",
+  "frac": 0.32,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Republic",
+  "summary": "With her appeal lost in Senate procedure, Queen Amidala takes Senator Palpatine's advice and moves to oust Chancellor Valorum through a no-confidence vote. Valorum falls, and Amidala leaves Coruscant resolved to free Naboo herself.",
+  "wp": "Vote of No Confidence",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Padmé Amidala Naberrie",
+   "Finis Valorum",
+   "Darth Sidious"
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "dooku-erases-kamino",
+  "title": "Dooku erases Kamino from the Archives",
+  "y": -32,
+  "yText": "32 BBY",
+  "frac": 0.33,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Visiting the Jedi Temple as Qui-Gon reports his clash with a Sith, Dooku slips into the Archives and uses Sifo-Dyas's clearance to scrub Kamino's star system from the records, keeping the Jedi ignorant of the clone army.",
+  "wp": "Jedi Archives",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Dooku",
+   "Qui-Gon Jinn",
+   "Sifo-Dyas"
+  ],
+  "sources": [
+   "The Sith Lord"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "palpatine-elected-chancellor",
+  "title": "Palpatine elected Supreme Chancellor",
+  "y": -32,
+  "yText": "32 BBY",
+  "frac": 0.38,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": "Elected while Amidala returns to Naboo; he arrives there as Chancellor after the battle.",
+  "category": "politics",
+  "polity": "Republic",
+  "summary": "Buoyed by sympathy for his occupied homeworld, Senator Palpatine of Naboo wins the Senate's backing to replace Valorum at the head of the Republic. No one suspects that its new leader is the Sith Lord who engineered the crisis that raised him.",
+  "wp": "Supreme Chancellor election, 32 BBY",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Darth Sidious",
+   "Finis Valorum"
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "battle-of-naboo",
+  "title": "Battle of Naboo",
+  "y": -32,
+  "yText": "32 BBY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Naboo",
+  "summary": "Now allied with the Gungans, Amidala strikes back: the Gungan army draws the droids onto the grasslands, the Queen captures Viceroy Gunray in the palace, and young Anakin destroys the droid control ship, shutting down the invasion army.",
+  "wp": "Battle of Naboo",
+  "places": [
+   "Naboo"
+  ],
+  "people": [
+   "Padmé Amidala Naberrie",
+   "Rugor Nass",
+   "Jar Jar Binks",
+   "Anakin Skywalker",
+   "Nute Gunray"
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Queen's Peril"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "qui-gon-jinn-killed",
+  "title": "Maul kills Qui-Gon Jinn",
+  "y": -32,
+  "yText": "32 BBY",
+  "frac": 0.41,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "death",
+  "polity": "Jedi Order",
+  "summary": "Deep in Theed's power generator, Darth Maul runs Qui-Gon Jinn through. Obi-Wan Kenobi avenges him, cutting Maul in two and sending him down a reactor shaft. Presumed dead, Maul survives and later hides on the junk world Lotho Minor.",
+  "wp": "Qui-Gon Jinn",
+  "places": [
+   "Naboo",
+   "Lotho Minor"
+  ],
+  "people": [
+   "Qui-Gon Jinn",
+   "Maul",
+   "Obi-Wan Kenobi"
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Brothers (episode)",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "obi-wan-knighted-trains-anakin",
+  "title": "Obi-Wan knighted and takes Anakin as Padawan",
+  "y": -32,
+  "yText": "32 BBY",
+  "frac": 0.45,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "The Council raises Obi-Wan Kenobi to Knight and, honoring Qui-Gon's last wish, lets him train Anakin Skywalker despite Yoda's doubts. Qui-Gon is cremated on Naboo, and a parade in Theed celebrates the new peace between Naboo's humans and Gungans.",
+  "wp": "Funeral of Qui-Gon Jinn",
+  "places": [
+   "Naboo"
+  ],
+  "people": [
+   "Obi-Wan Kenobi",
+   "Anakin Skywalker",
+   "Yoda",
+   "Qui-Gon Jinn"
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Queen's Peril"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "dooku-kills-yaddle",
+  "title": "Dooku kills Yaddle and becomes Tyranus",
+  "y": -32,
+  "yText": "32 BBY",
+  "frac": 0.46,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Shaken by Qui-Gon's death, Dooku meets Darth Sidious in secret. Master Yaddle follows him and confronts them both; at Sidious's urging Dooku kills her, completing his fall. He is reborn as Darth Tyranus, Sidious's new apprentice.",
+  "wp": "Duel in the Works",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Dooku",
+   "Yaddle",
+   "Darth Sidious"
+  ],
+  "sources": [
+   "The Sith Lord"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "sifo-dyas-killed",
+  "title": "Sifo-Dyas murdered on Tyranus's orders",
+  "y": -32,
+  "yText": "32 BBY",
+  "frac": 0.52,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "death",
+  "polity": "Jedi Order",
+  "summary": "Pushed off the Council for warning of war, Sifo-Dyas has gone in secret to Oba Diah with Silman, Valorum's personal aide, to bargain with the Pykes. On Tyranus's orders the Pykes shoot down his shuttle, and Silman is held as a hostage.",
+  "wp": "Mission to Oba Diah (Sifo-Dyas)",
+  "places": [
+   "Oba Diah"
+  ],
+  "people": [
+   "Sifo-Dyas",
+   "Silman",
+   "Dooku"
+  ],
+  "sources": [
+   "The Lost One",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "jango-fett-clone-template",
+  "title": "Tyranus recruits Jango Fett as clone template",
+  "y": -32,
+  "yText": "32 BBY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "technology",
+  "polity": "Sith",
+  "summary": "As Tyranus, Dooku recruits the renowned bounty hunter Jango Fett, whose DNA will be copied for the entire Kaminoan army. Under Sith direction, every clone is also fitted with a behavioral chip that will compel obedience to Order 66.",
+  "wp": "Behavioral modification biochip",
+  "places": [
+   "Kamino"
+  ],
+  "people": [
+   "Dooku",
+   "Jango Fett"
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Age of Republic - Jango Fett 1",
+   "The Lost One",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "boba-fett-born",
+  "title": "Boba Fett is born on Kamino",
+  "y": -32,
+  "yText": "32 BBY",
+  "frac": 0.7,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "galactic",
+  "summary": "As part of his fee, Jango Fett takes an unaltered clone to raise as his son, Boba. A near-identical female clone, later called Omega, stays on Kamino as assistant to the scientist Nala Se.",
+  "wp": "Boba Fett",
+  "places": [
+   "Kamino"
+  ],
+  "people": [
+   "Boba Fett",
+   "Jango Fett",
+   "Omega",
+   "Nala Se"
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Bounty Lost",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "secret-warship-orders",
+  "title": "Secret orders for a clone war fleet",
+  "y": -31,
+  "yText": "31 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "technology",
+  "polity": "Republic",
+  "summary": "An unnamed buyer places vast orders for weapons and warships with Kuat Drive Yards, whose subsidiary Rothana Heavy Engineering quietly designs Acclamator-class assault ships to carry the clone army growing on Kamino.",
+  "wp": "Acclamator-class transgalactic military assault ship",
+  "places": [
+   "Kuat"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "jakku-observatory-begun",
+  "title": "Sidious begins his Jakku observatory",
+  "y": -30,
+  "yText": "30 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Darth Sidious starts building a secret observatory on the desert world Jakku. By 25 BBY his adviser Yupe Tashu has droids digging into the Plaintive Hand plateau, guarded by the orphan Gallius Rax, newly taken into Sidious's service.",
+  "wp": "Jakku Observatory",
+  "places": [
+   "Jakku"
+  ],
+  "people": [
+   "Darth Sidious",
+   "Yupe Tashu",
+   "Gallius Rax"
+  ],
+  "sources": [
+   "Aftermath: Life Debt",
+   "Aftermath: Empire's End",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "mission-to-carnelion-iv",
+  "title": "Obi-Wan and Anakin on Carnelion IV",
+  "y": -29,
+  "yText": "29 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Answering a distress call, Obi-Wan and his twelve-year-old Padawan find Carnelion IV torn apart by the Open–Closed War, and a Republic fleet arrives to enforce a ceasefire. Meanwhile Chancellor Palpatine cultivates Anakin, even touring Coruscant's lower levels with him incognito.",
+  "wp": "Mission to Carnelion IV",
+  "places": [
+   "Carnelion IV",
+   "Coruscant"
+  ],
+  "people": [
+   "Obi-Wan Kenobi",
+   "Anakin Skywalker",
+   "Darth Sidious"
+  ],
+  "sources": [
+   "Star Wars: Obi-Wan and Anakin",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "padme-becomes-senator",
+  "title": "Padmé Amidala becomes Senator of Naboo",
+  "y": -28,
+  "yText": "28 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Naboo",
+  "summary": "After two terms, Padmé Amidala leaves the throne. Her successor, Queen Réillata, asks her to represent Naboo in the Galactic Senate, where she soon campaigns for relief to the quake-stricken world Bromlarch alongside Senator Rush Clovis.",
+  "wp": "Padmé Amidala Naberrie",
+  "places": [
+   "Naboo",
+   "Coruscant"
+  ],
+  "people": [
+   "Padmé Amidala Naberrie",
+   "Réillata",
+   "Rush Clovis"
+  ],
+  "sources": [
+   "Queen's Shadow",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "shmi-freed-by-cliegg-lars",
+  "title": "Cliegg Lars frees and marries Shmi",
+  "y": -27,
+  "yText": "27 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "culture",
+  "polity": "galactic",
+  "summary": "Tatooine farmer Cliegg Lars purchases Shmi Skywalker's freedom from Watto and marries her, taking her to his homestead. Anakin, far away in Jedi training, does not learn of it until years later.",
+  "wp": "Cliegg Lars",
+  "places": [
+   "Tatooine"
+  ],
+  "people": [
+   "Cliegg Lars",
+   "Shmi Skywalker Lars",
+   "Watto"
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "thrawn-vagaari-campaign",
+  "title": "Thrawn breaks the Vagaari; Thrass dies",
+  "y": -27,
+  "yText": "27 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Chiss Ascendancy",
+  "summary": "Senior Captain Thrawn leads the Chiss to a crushing win over the Vagaari pirates, but a ship from outside Chiss space, caught up in the fighting, crashes and kills his adoptive brother, Syndic Thrass. The Ascendancy's rulers blame Thrawn and take his cruiser Springhawk.",
+  "wp": "Vagaari pirate operations",
+  "places": [],
+  "people": [
+   "Mitth'raw'nuruodo",
+   "Mitth'ras'safis"
+  ],
+  "sources": [
+   "Thrawn Ascendancy: Lesser Evil",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "tyranus-sullust-arms-deal",
+  "title": "Tyranus arms the coming war on Sullust",
+  "y": -26,
+  "yText": "26 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "On Sidious's orders, Tyranus reaches a deal on Sullust with the Kaldana Syndicate of arms dealers while, as Count Dooku, he signs a trade pact between Serenno and SoroSuub. When the Jedi Jak'zin comes to investigate, Dooku kills him.",
+  "wp": "Kaldana Syndicate",
+  "places": [
+   "Sullust"
+  ],
+  "people": [
+   "Dooku",
+   "Jak'zin",
+   "Darth Sidious"
+  ],
+  "sources": [
+   "Age of Republic - Count Dooku 1",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "galen-lyra-erso-wed",
+  "title": "Galen and Lyra Erso marry",
+  "y": -25,
+  "yText": "25 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "culture",
+  "polity": "galactic",
+  "summary": "The scientist Galen Erso marries Lyra, whom he met on Espinar, in a ceremony on Coruscant. Galen's work on crystal-based energy will draw the attention of his old friend Orson Krennic and, through him, the Republic's hidden weapons program.",
+  "wp": "Wedding of Lyra and Galen Erso",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Galen Walton Erso",
+   "Lyra Erso",
+   "Orson Callan Krennic"
+  ],
+  "sources": [
+   "Catalyst: A Rogue One Novel",
+   "Star Wars: Rogue One: The Ultimate Visual Guide"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "raxus-address",
+  "title": "Dooku's Raxus Address launches the Separatists",
+  "y": -24,
+  "yText": "24 BBY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "founding",
+  "polity": "Separatists",
+  "summary": "Count Dooku denounces a corrupt Republic in the Raxus Address and founds the Separatist Confederacy. Thousands of star systems secede and form their own Separatist Senate, opening the Separatist Crisis that will end in open war.",
+  "wp": "Raxus Address",
+  "places": [
+   "Raxus Secundus"
+  ],
+  "people": [
+   "Dooku"
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Rise of the Separatists",
+   "Tarkin (novel)",
+   "Star Wars: Timelines"
+  ],
+  "conflict": "Wookieepedia's timeline dates the Confederacy's founding both to this address in 24 BBY (Rise of the Separatists, Star Wars: Timelines) and to the Geonosian accord of 22 BBY, when its corporate backers formally join (Attack of the Clones).",
+  "weight": 3
+ },
+ {
+  "id": "emergency-powers-act",
+  "title": "Emergency Powers Act keeps Palpatine in office",
+  "y": -24,
+  "yText": "24 BBY",
+  "frac": 0.2,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Republic",
+  "summary": "As systems secede, the Senate amends the constitution so Chancellor Palpatine can stay in office past his term limits while the crisis lasts. Palpatine gathers trusted senators, Padmé Amidala among them, into a Loyalist Committee.",
+  "wp": "Emergency Powers Act",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Darth Sidious",
+   "Padmé Amidala Naberrie"
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "cassian-taken-from-kenari",
+  "title": "The Andors take Kassa from Kenari",
+  "y": -24,
+  "yText": "24 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "exploration",
+  "polity": "galactic",
+  "summary": "Children of Kenari's Alpha tribe explore a crashed transport bearing the new Separatist emblem, and a surviving officer kills their leader. The boy Kassa stays behind in the wreck, where the salvagers Maarva and Clem Andor find him and take him off-world as Cassian.",
+  "wp": "Exploratory mission to investigate a downed craft",
+  "places": [
+   "Kenari"
+  ],
+  "people": [
+   "Cassian Jeron Andor",
+   "Maarva Carassi Andor",
+   "Clem Andor"
+  ],
+  "sources": [
+   "Kassa (episode)",
+   "That Would Be Me",
+   "Reckoning (episode)",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "military-creation-act-fight",
+  "title": "Amidala fights the Military Creation Act",
+  "y": -23,
+  "yText": "23 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Republic",
+  "summary": "The Military Creation Act, a bill to raise an army against the Separatists, has been debated since the secessions began. Although she sits on Palpatine's Loyalist Committee, Senator Amidala leads the resistance to it, and her stand makes her a target.",
+  "wp": "Military Creation Act",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Padmé Amidala Naberrie"
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "plot-to-assassinate-amidala",
+  "title": "Assassins target Senator Amidala",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.04,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Separatists",
+  "summary": "Separatist leaders hire Jango Fett to silence Senator Amidala before the army vote. A bomb on her landing platform kills her decoy and poisonous kouhuns fail to finish the job; when his agent Zam Wesell is caught, Jango kills her before she can talk.",
+  "wp": "Plot to assassinate Senator Amidala",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Padmé Amidala Naberrie",
+   "Jango Fett",
+   "Zam Wesell",
+   "Anakin Skywalker",
+   "Obi-Wan Kenobi"
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "clone-army-discovered",
+  "title": "Obi-Wan discovers the clone army",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.06,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "discovery",
+  "polity": "Jedi Order",
+  "summary": "Following a poisoned dart to Kamino, a planet absent from the Jedi records, Obi-Wan Kenobi finds a vast clone army supposedly commissioned by the dead Sifo-Dyas and grown from Jango Fett. He trails Jango to Geonosis, where the Separatists are massing droids.",
+  "wp": "Mission to Kamino (Separatist Crisis)",
+  "places": [
+   "Kamino",
+   "Geonosis"
+  ],
+  "people": [
+   "Obi-Wan Kenobi",
+   "Jango Fett",
+   "Boba Fett",
+   "Lama Su",
+   "Sifo-Dyas"
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "shmi-dies-tusken-massacre",
+  "title": "Shmi dies; Anakin slaughters the Tuskens",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.08,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "death",
+  "polity": "Jedi Order",
+  "summary": "Haunted by nightmares, Anakin returns to Tatooine and finds his mother, seized weeks earlier by Tusken Raiders, dying in their camp. When she dies he massacres the whole camp, then confesses his rage to Padmé.",
+  "wp": "Mission to rescue Shmi Skywalker Lars",
+  "places": [
+   "Tatooine"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Shmi Skywalker Lars",
+   "Padmé Amidala Naberrie",
+   "Cliegg Lars"
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "grand-army-created",
+  "title": "Senate grants war powers; clone army activated",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Republic",
+  "summary": "With Separatist droid armies revealed on Geonosis, Representative Jar Jar Binks moves to give Chancellor Palpatine emergency powers. The Senate agrees, and Palpatine's first act is to commission the Kaminoan clones as the Republic's Grand Army.",
+  "wp": "Grand Army of the Republic",
+  "places": [
+   "Coruscant",
+   "Kamino"
+  ],
+  "people": [
+   "Jar Jar Binks",
+   "Darth Sidious",
+   "Yoda"
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "clone-wars",
+  "title": "The Clone Wars",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.11,
+  "y2": -19,
+  "y2Text": "19 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "galactic",
+  "summary": "For three years, clone troopers led by Jedi generals battle the Separatist droid armies across the galaxy. Darth Sidious secretly steers both sides, and when the fighting stops the Jedi Order lies in ruins and the Republic has become his Empire.",
+  "wp": "Clone Wars",
+  "places": [],
+  "people": [
+   "Darth Sidious",
+   "Dooku",
+   "Grievous",
+   "Yoda",
+   "Anakin Skywalker"
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Star Wars: The Clone Wars",
+   "Star Wars: Episode III Revenge of the Sith"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "first-battle-of-geonosis",
+  "title": "First Battle of Geonosis opens the war",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.12,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "Some two hundred Jedi storm the Geonosis arena to save Obi-Wan, Anakin and Padmé, and most die before Yoda arrives with the clones. Jango Fett falls to Mace Windu, and Dooku maims Anakin before escaping with plans for a battle station.",
+  "wp": "First Battle of Geonosis",
+  "places": [
+   "Geonosis"
+  ],
+  "people": [
+   "Yoda",
+   "Mace Windu",
+   "Jango Fett",
+   "Dooku",
+   "Anakin Skywalker",
+   "Obi-Wan Kenobi"
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "wedding-of-anakin-and-padme",
+  "title": "Anakin and Padmé marry in secret",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.15,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "culture",
+  "polity": "Naboo",
+  "summary": "Defying the Jedi rule against attachment, Anakin and Padmé wed in secret at the lake retreat of Varykino on Naboo, with only C-3PO and the astromech R2-D2 as witnesses.",
+  "wp": "Wedding of Anakin Skywalker and Padmé Amidala",
+  "places": [
+   "Naboo"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Padmé Amidala Naberrie",
+   "C-3PO",
+   "R2-D2"
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "cato-neimoidia-bombing",
+  "title": "Bombing of Zarra on Cato Neimoidia",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.2,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Republic",
+  "summary": "A blast tears a district of the bridge city Zarra from its moorings, killing thousands on Cato Neimoidia. Obi-Wan and a Neimoidian guard, Ruug Quarnom, find a third party behind it, and the newly knighted Anakin defies orders to save his master from Ventress's frame-up.",
+  "wp": "Cadesura disaster",
+  "places": [
+   "Cato Neimoidia"
+  ],
+  "people": [
+   "Obi-Wan Kenobi",
+   "Anakin Skywalker",
+   "Ruug Quarnom",
+   "Asajj Ventress"
+  ],
+  "sources": [
+   "Brotherhood (novel)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-of-christophsis",
+  "title": "Battle of Christophsis",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.35,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "General Loathsom's droids besiege the crystal world Christophsis behind Admiral Trench's blockade. Anakin breaks the blockade in a stealth ship, Rex and Cody unmask the traitor clone Slick, and after a long siege the Republic drives the droid army off.",
+  "wp": "Battle of Christophsis",
+  "places": [
+   "Christophsis"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Obi-Wan Kenobi",
+   "Rex",
+   "Cody",
+   "Trench",
+   "Whorm Loathsom"
+  ],
+  "sources": [
+   "Cat and Mouse",
+   "The Hidden Enemy",
+   "Star Wars: The Clone Wars (film)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "ahsoka-becomes-anakins-padawan",
+  "title": "Ahsoka Tano becomes Anakin's Padawan",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.37,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Yoda assigns the fourteen-year-old Togruta Ahsoka Tano to Anakin Skywalker, who never asked for a Padawan. She arrives mid-battle on Christophsis and helps him wreck the droids' shield generator, beginning the partnership that anchors the Clone Wars.",
+  "wp": "Ahsoka Tano",
+  "places": [
+   "Christophsis"
+  ],
+  "people": [
+   "Ahsoka Tano",
+   "Anakin Skywalker",
+   "Yoda"
+  ],
+  "sources": [
+   "Star Wars: The Clone Wars (film)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "rotta-rescued-hutt-treaty",
+  "title": "Rescue of Jabba's son wins the Hutts",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.42,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "treaty",
+  "polity": "Hutts",
+  "summary": "Dooku has Ventress kidnap Jabba the Hutt's infant son Rotta to turn the Hutts against the Republic. Anakin and Ahsoka storm the monastery on Teth and return Rotta, winning the Republic use of Hutt space, while Padmé exposes Ziro the Hutt's part.",
+  "wp": "Battle of Teth",
+  "places": [
+   "Teth",
+   "Tatooine",
+   "Coruscant"
+  ],
+  "people": [
+   "Rotta",
+   "Jabba Desilijic Tiure",
+   "Asajj Ventress",
+   "Anakin Skywalker",
+   "Ahsoka Tano",
+   "Ziro Desilijic Tiure"
+  ],
+  "sources": [
+   "Star Wars: The Clone Wars (film)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "battle-of-ryloth",
+  "title": "Battle of Ryloth",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.46,
+  "y2": -21,
+  "y2Text": "21 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "Separatist forces occupy the Twi'lek homeworld. Bail Organa and Jar Jar Binks win Toydaria's help with relief, and in 21 BBY the Republic breaks the blockade, frees the hostage city of Nabat and, with Cham Syndulla's resistance, liberates Ryloth.",
+  "wp": "Battle of Ryloth",
+  "places": [
+   "Ryloth",
+   "Toydaria"
+  ],
+  "people": [
+   "Cham Syndulla",
+   "Obi-Wan Kenobi",
+   "Anakin Skywalker",
+   "Mace Windu",
+   "Bail Prestor Organa",
+   "Jar Jar Binks"
+  ],
+  "sources": [
+   "Supply Lines",
+   "Storm Over Ryloth",
+   "Innocents of Ryloth",
+   "Liberty on Ryloth"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-of-rugosa",
+  "title": "Yoda's stand on Rugosa",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "To win over King Katuunko of Toydaria, Yoda accepts Ventress's challenge on the coral moon Rugosa. With just three clone troopers he defeats her droid army, and Katuunko pledges his world's support to the Republic.",
+  "wp": "Battle of Rugosa",
+  "places": [
+   "Rugosa",
+   "Toydaria"
+  ],
+  "people": [
+   "Yoda",
+   "Asajj Ventress",
+   "Katuunko"
+  ],
+  "sources": [
+   "Ambush"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "onderonian-civil-war",
+  "title": "Onderon's civil war",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": null,
+  "y2": -20,
+  "y2Text": "20 BBY",
+  "confidence": "estimated",
+  "note": "The end is dated to 20 BBY; the start follows from the war lasting two years.",
+  "category": "war",
+  "polity": "Onderon",
+  "summary": "Onderon's Separatist-backed court faces a rebel insurgency. In 20 BBY rebels trained by Jedi and by Captain Rex overthrow King Sanjay Rash and restore King Dendup, but their leader Steela Gerrera dies, leaving her brother Saw to fight on.",
+  "wp": "Onderonian Civil War",
+  "places": [
+   "Onderon"
+  ],
+  "people": [
+   "Steela Gerrera",
+   "Saw Gerrera",
+   "Lux Bonteri",
+   "Ahsoka Tano",
+   "Anakin Skywalker",
+   "Rex"
+  ],
+  "sources": [
+   "A War on Two Fronts",
+   "Front Runners",
+   "The Soft War",
+   "Tipping Points"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "malevolence-campaign",
+  "title": "Hunt for the Malevolence",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.55,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Separatists",
+  "summary": "Grievous's giant warship Malevolence cripples Republic fleets with its ion cannon, destroying Plo Koon's fleet at Abregado and a medical convoy. Its strike on the Kaliida Nebula medical station fails, and Anakin's forces later destroy it.",
+  "wp": "Malevolence Campaign",
+  "places": [
+   "Kaliida Nebula"
+  ],
+  "people": [
+   "Grievous",
+   "Plo Koon",
+   "Anakin Skywalker",
+   "Padmé Amidala Naberrie"
+  ],
+  "sources": [
+   "Rising Malevolence",
+   "Shadow of Malevolence",
+   "Destroy Malevolence"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "defense-of-rishi-station",
+  "title": "Rookies hold Rishi Station",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.62,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "Commando droids overrun a listening post on the Rishi Moon. A few surviving rookies, among them Echo and Fives, fight back with Rex and Cody and blow up the outpost, cutting the false all-clear that masked a fleet bound for Kamino.",
+  "wp": "Defense of Rishi Station",
+  "places": [
+   "Rishi Moon"
+  ],
+  "people": [
+   "Rex",
+   "Cody",
+   "Echo",
+   "Fives"
+  ],
+  "sources": [
+   "Rookies (episode)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "r2-d2-rescued-skytop",
+  "title": "R2-D2 lost at Bothawui and rescued",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.7,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "Grievous uses the Skytop Station listening post to strike Republic targets. At Bothawui Anakin outfights him but loses R2-D2, whose memory holds Republic secrets; he and Ahsoka trace the droid to Skytop, rescue him and destroy the station.",
+  "wp": "Raid on Skytop Station",
+  "places": [
+   "Bothawui"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Ahsoka Tano",
+   "R2-D2",
+   "Grievous"
+  ],
+  "sources": [
+   "Downfall of a Droid",
+   "Duel of the Droids"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "dooku-captured-by-hondo",
+  "title": "Pirates capture Count Dooku",
+  "y": -21,
+  "yText": "21 BBY",
+  "frac": 0.08,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "criminal underworld",
+  "summary": "After a failed Jedi attempt to seize him near Vanqor, Count Dooku is captured by Hondo Ohnaka's pirates, who soon hold Obi-Wan and Anakin too and demand a ransom from the Republic. Jar Jar and a clone escort free the Jedi, but Dooku escapes.",
+  "wp": "Mission to Florrum",
+  "places": [
+   "Vanqor",
+   "Florrum"
+  ],
+  "people": [
+   "Dooku",
+   "Hondo Ohnaka",
+   "Obi-Wan Kenobi",
+   "Anakin Skywalker",
+   "Jar Jar Binks"
+  ],
+  "sources": [
+   "Dooku Captured",
+   "The Gungan General"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "blue-shadow-virus",
+  "title": "Blue Shadow Virus plot on Naboo",
+  "y": -21,
+  "yText": "21 BBY",
+  "frac": 0.2,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Separatists",
+  "summary": "The Separatist scientist Nuvo Vindi revives the extinct Blue Shadow Virus in a lab hidden beneath Naboo, meaning to loose it on the galaxy. Padmé and Jar Jar expose him, and after Padmé and Ahsoka are infected, Obi-Wan and Anakin bring a cure from Iego.",
+  "wp": "Blue Shadow Virus",
+  "places": [
+   "Naboo",
+   "Iego"
+  ],
+  "people": [
+   "Nuvo Vindi",
+   "Padmé Amidala Naberrie",
+   "Jar Jar Binks",
+   "Ahsoka Tano",
+   "Anakin Skywalker",
+   "Obi-Wan Kenobi"
+  ],
+  "sources": [
+   "Blue Shadow Virus (episode)",
+   "Mystery of a Thousand Moons"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "holocron-heist-and-kidnapped-children",
+  "title": "Cad Bane steals the Jedi's list of children",
+  "y": -21,
+  "yText": "21 BBY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Working for Darth Sidious, Cad Bane steals a holocron out of the Jedi Temple's vault and tortures Master Bolla Ropal for a kyber crystal listing Force-sensitive infants. Bane abducts several children before Anakin and Ahsoka free them from a facility on Mustafar.",
+  "wp": "Raid on the Jedi Temple",
+  "places": [
+   "Coruscant",
+   "Devaron",
+   "Mustafar"
+  ],
+  "people": [
+   "Cad Bane",
+   "Darth Sidious",
+   "Bolla Ropal",
+   "Anakin Skywalker",
+   "Ahsoka Tano"
+  ],
+  "sources": [
+   "Holocron Heist",
+   "Cargo of Doom",
+   "Children of the Force"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "zillo-beast-rampage",
+  "title": "Zillo Beast rampages across Coruscant",
+  "y": -21,
+  "yText": "21 BBY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "Republic",
+  "summary": "An experimental bomb that halts a droid army on Malastare also wakes a Zillo Beast, thought extinct. Palpatine has it shipped to Coruscant to study its near-invulnerable hide; it breaks loose, tears through the city and is finally killed with poison gas.",
+  "wp": "Zillo Beast",
+  "places": [
+   "Malastare",
+   "Coruscant"
+  ],
+  "people": [
+   "Darth Sidious",
+   "Mace Windu",
+   "Sionver Boll"
+  ],
+  "sources": [
+   "The Zillo Beast",
+   "The Zillo Beast Strikes Back"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "second-battle-of-geonosis",
+  "title": "Second Battle of Geonosis",
+  "y": -21,
+  "yText": "21 BBY",
+  "frac": 0.45,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "Learning that Poggle the Lesser has restarted the droid foundries of Geonosis, the Republic invades again. Its forces destroy the main factory, kill Karina the Great, queen of the hives, beneath the Progate Temple, and take Poggle prisoner.",
+  "wp": "Second Battle of Geonosis",
+  "places": [
+   "Geonosis"
+  ],
+  "people": [
+   "Poggle the Lesser",
+   "Karina the Great",
+   "Anakin Skywalker",
+   "Obi-Wan Kenobi",
+   "Ahsoka Tano",
+   "Luminara Unduli"
+  ],
+  "sources": [
+   "Landing at Point Rain",
+   "Weapons Factory",
+   "Legacy of Terror"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "death-star-project-begins",
+  "title": "Work begins on a secret battle station",
+  "y": -21,
+  "yText": "21 BBY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "technology",
+  "polity": "Republic",
+  "summary": "Palpatine hands the Geonosian battle-station plans that Dooku brought him to a secret Republic body, the Strategic Advisory Cell. Fearing the Separatists are building such a weapon, it funds the project in secret, and by year's end construction is under way above Geonosis.",
+  "wp": "DS-1 Orbital Battle Station",
+  "places": [
+   "Geonosis"
+  ],
+  "people": [
+   "Darth Sidious",
+   "Orson Callan Krennic"
+  ],
+  "sources": [
+   "Catalyst: A Rogue One Novel",
+   "Star Wars: Rogue One: The Ultimate Visual Guide",
+   "Star Wars: Galactic Atlas"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "jyn-erso-born",
+  "title": "Jyn Erso is born on Vallt",
+  "y": -21,
+  "yText": "21 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "galactic",
+  "summary": "Galen and Lyra Erso's daughter Jyn is born on Vallt, where Separatist sympathizers soon detain the family. Orson Krennic arranges their rescue and brings them to Coruscant, drawing Galen into his secret weapons research.",
+  "wp": "Jyn Erso",
+  "places": [
+   "Vallt",
+   "Coruscant"
+  ],
+  "people": [
+   "Jyn Erso",
+   "Galen Walton Erso",
+   "Lyra Erso",
+   "Orson Callan Krennic"
+  ],
+  "sources": [
+   "Catalyst: A Rogue One Novel",
+   "Star Wars: Galactic Atlas"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "death-watch-revealed",
+  "title": "Death Watch's plot against Mandalore exposed",
+  "y": -21,
+  "yText": "21 BBY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "Sent to learn whether neutral Mandalore has joined the Separatists, Obi-Wan finds Duchess Satine under attack by Death Watch bombers. On Concordia its leader proves to be the moon's governor, Pre Vizsla, backed by Dooku; Satine then defends her world's neutrality before the Senate.",
+  "wp": "Death Watch",
+  "places": [
+   "Mandalore",
+   "Concordia",
+   "Coruscant"
+  ],
+  "people": [
+   "Obi-Wan Kenobi",
+   "Satine Kryze",
+   "Pre Vizsla",
+   "Dooku"
+  ],
+  "sources": [
+   "The Mandalore Plot",
+   "Voyage of Temptation",
+   "Duchess of Mandalore"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "boba-fett-revenge-plot",
+  "title": "Boba Fett's revenge on Mace Windu",
+  "y": -21,
+  "yText": "21 BBY",
+  "frac": 0.65,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "criminal underworld",
+  "summary": "Posing as a clone cadet, Boba Fett sabotages the Star Destroyer Endurance to kill Mace Windu, his father's killer. Windu survives the crash on Vanqor, and Plo Koon and Ahsoka later free Boba's hostages and arrest him on Florrum.",
+  "wp": "Sabotage of the Endurance",
+  "places": [
+   "Vanqor",
+   "Florrum"
+  ],
+  "people": [
+   "Boba Fett",
+   "Mace Windu",
+   "Aurra Sing",
+   "Plo Koon",
+   "Ahsoka Tano"
+  ],
+  "sources": [
+   "Death Trap",
+   "R2 Come Home",
+   "Lethal Trackdown"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-of-kamino",
+  "title": "Battle of Kamino",
+  "y": -21,
+  "yText": "21 BBY",
+  "frac": 0.72,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "Grievous and Ventress assault Tipoca City to destroy the clone factories at their source. Clone troopers under Rex and Cody, with Echo and Fives among them, fight alongside Obi-Wan and Anakin to repel the raid, which shows that no Republic world is safe.",
+  "wp": "Battle of Kamino",
+  "places": [
+   "Kamino"
+  ],
+  "people": [
+   "Grievous",
+   "Asajj Ventress",
+   "Rex",
+   "Cody",
+   "Echo",
+   "Fives",
+   "Anakin Skywalker",
+   "Obi-Wan Kenobi"
+  ],
+  "sources": [
+   "ARC Troopers (episode)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "senate-hostage-crisis",
+  "title": "Cad Bane takes the Senate hostage",
+  "y": -21,
+  "yText": "21 BBY",
+  "frac": 0.8,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Hutts",
+  "summary": "Hired by the Hutts, bounty hunters under Cad Bane seize the Senate Building and hold senators and Chancellor Palpatine until the Republic frees Ziro the Hutt. Bane escapes with Ziro, who is later killed on Teth by the singer Sy Snootles on Jabba's orders.",
+  "wp": "Senate hostage crisis",
+  "places": [
+   "Coruscant",
+   "Teth"
+  ],
+  "people": [
+   "Cad Bane",
+   "Darth Sidious",
+   "Ziro Desilijic Tiure",
+   "Anakin Skywalker",
+   "Sy Snootles"
+  ],
+  "sources": [
+   "Hostage Crisis",
+   "Hunt for Ziro"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "bonteri-peace-initiative-wrecked",
+  "title": "Peace initiative wrecked by a bombing",
+  "y": -21,
+  "yText": "21 BBY",
+  "frac": 0.9,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Republic",
+  "summary": "Padmé and Mina Bonteri, a Separatist senator and her old mentor, steer their senates toward talks, but a bombing of Coruscant's power grid ordered by Dooku turns opinion against peace. Bonteri is later murdered, and Dooku withdraws the Separatist offer.",
+  "wp": "Bombing of Coruscant's central power distribution grid",
+  "places": [
+   "Coruscant",
+   "Raxus Secundus"
+  ],
+  "people": [
+   "Padmé Amidala Naberrie",
+   "Mina Bonteri",
+   "Dooku",
+   "Ahsoka Tano",
+   "Lux Bonteri"
+  ],
+  "sources": [
+   "Heroes on Both Sides",
+   "Pursuit of Peace"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "dooku-betrays-ventress",
+  "title": "Dooku casts off Ventress",
+  "y": -20,
+  "yText": "20 BBY",
+  "frac": 0.05,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Nightsisters",
+  "summary": "Ordered by Sidious to prove his loyalty, Dooku has Ventress's ship shot down at Sullust. She survives and returns to the Nightsisters on Dathomir, and Mother Talzin sends her with her sisters to assassinate Dooku, a strike that fails.",
+  "wp": "Battle of Sullust",
+  "places": [
+   "Sullust",
+   "Dathomir",
+   "Serenno"
+  ],
+  "people": [
+   "Asajj Ventress",
+   "Dooku",
+   "Darth Sidious",
+   "Talzin"
+  ],
+  "sources": [
+   "Nightsisters (episode)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "savage-opress-unleashed",
+  "title": "Savage Opress unleashed",
+  "y": -20,
+  "yText": "20 BBY",
+  "frac": 0.08,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Nightsisters",
+  "summary": "Talzin remakes the Nightbrother Savage Opress with dark magick and plants him with Dooku as a new apprentice. He slaughters Jedi at a temple on Devaron, then turns on Dooku alongside Ventress, and flees when their attack fails.",
+  "wp": "Devaron massacre",
+  "places": [
+   "Dathomir",
+   "Devaron",
+   "Toydaria"
+  ],
+  "people": [
+   "Savage Opress",
+   "Talzin",
+   "Asajj Ventress",
+   "Dooku"
+  ],
+  "sources": [
+   "Monster",
+   "Witches of the Mist"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "mission-to-mortis",
+  "title": "Anakin tested as the Chosen One on Mortis",
+  "y": -20,
+  "yText": "20 BBY",
+  "frac": 0.12,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "force",
+  "polity": "Jedi Order",
+  "summary": "Lured by an ancient signal, Ahsoka, Anakin and Obi-Wan reach Mortis, home of three godlike Force wielders. The Father confirms Anakin's status as the Chosen One, but by the end all three wielders are dead, and Anakin's glimpse of his dark future is wiped away.",
+  "wp": "Mission to Mortis",
+  "places": [
+   "Mortis"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Obi-Wan Kenobi",
+   "Ahsoka Tano",
+   "Father (Mortis)",
+   "Daughter",
+   "Son"
+  ],
+  "sources": [
+   "Overlords",
+   "Altar of Mortis",
+   "Ghosts of Mortis"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "citadel-breakout",
+  "title": "Breakout from the Citadel",
+  "y": -20,
+  "yText": "20 BBY",
+  "frac": 0.18,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "A Jedi strike team slips into the Citadel, the Separatists' prison fortress on Lola Sayu, to rescue Master Even Piell along with Captain Wilhuff Tarkin, as each knows half of a vital hyperspace route. Piell dies, but Tarkin carries the secret home.",
+  "wp": "Battle of Lola Sayu",
+  "places": [
+   "Lola Sayu"
+  ],
+  "people": [
+   "Even Piell",
+   "Wilhuff Tarkin",
+   "Obi-Wan Kenobi",
+   "Anakin Skywalker",
+   "Ahsoka Tano"
+  ],
+  "sources": [
+   "The Citadel (episode)",
+   "Counterattack",
+   "Citadel Rescue"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "ahsoka-hunted-on-wasskah",
+  "title": "Ahsoka hunted on Wasskah",
+  "y": -20,
+  "yText": "20 BBY",
+  "frac": 0.22,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Captured on Felucia, Ahsoka is dropped on the moon Wasskah, where Trandoshans hunt Jedi younglings for sport. She rallies the surviving captives and, joined by the Wookiee Chewbacca and his kin, turns the hunt back on the hunters.",
+  "wp": "Battle on Wasskah",
+  "places": [
+   "Felucia",
+   "Wasskah"
+  ],
+  "people": [
+   "Ahsoka Tano",
+   "Chewbacca"
+  ],
+  "sources": [
+   "Padawan Lost",
+   "Wookiee Hunt"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-of-mon-cala",
+  "title": "Battle of Mon Cala",
+  "y": -20,
+  "yText": "20 BBY",
+  "frac": 0.26,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "After their king's death, Separatist-backed Quarren under Riff Tamson rise against the young heir, Prince Lee-Char. Clones, Jedi and a Gungan army join the defense; Tamson is killed and Lee-Char is crowned over a reunited Mon Cala.",
+  "wp": "Battle of Mon Cala",
+  "places": [
+   "Mon Cala"
+  ],
+  "people": [
+   "Lee-Char",
+   "Riff Tamson",
+   "Anakin Skywalker",
+   "Padmé Amidala Naberrie",
+   "Kit Fisto"
+  ],
+  "sources": [
+   "Water War",
+   "Gungan Attack",
+   "Prisoners"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-of-umbara",
+  "title": "Battle of Umbara",
+  "y": -20,
+  "yText": "20 BBY",
+  "frac": 0.36,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "When Umbara defects, Jedi Master Pong Krell takes over the 501st and spends clone lives recklessly, even tricking two units into firing on each other. Rex's troopers uncover his treachery; Krell, who hoped to become Dooku's apprentice, is shot by a clone.",
+  "wp": "Battle of Umbara",
+  "places": [
+   "Umbara"
+  ],
+  "people": [
+   "Pong Krell",
+   "Rex",
+   "Fives",
+   "Anakin Skywalker"
+  ],
+  "sources": [
+   "Darkness on Umbara",
+   "The General (episode)",
+   "Plan of Dissent",
+   "Carnage of Krell"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "togruta-freed-from-zygerria",
+  "title": "Togruta colonists freed from slavers",
+  "y": -20,
+  "yText": "20 BBY",
+  "frac": 0.42,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Republic",
+  "summary": "Zygerrian slavers allied with Dooku empty Kiros, a Togruta colony. Anakin, Ahsoka and Obi-Wan go undercover on Zygerria, and after Obi-Wan and Rex fall captive, Republic forces storm the Kadavo processing center and free the survivors.",
+  "wp": "Battle of Kadavo",
+  "places": [
+   "Kiros",
+   "Zygerria",
+   "Kadavo"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Ahsoka Tano",
+   "Obi-Wan Kenobi",
+   "Rex",
+   "Miraj Scintel",
+   "Plo Koon"
+  ],
+  "sources": [
+   "Kidnapped",
+   "Slaves of the Republic",
+   "Escape from Kadavo"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "rako-hardeen-deception",
+  "title": "Obi-Wan fakes his death to save Palpatine",
+  "y": -20,
+  "yText": "20 BBY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "The Council stages Obi-Wan's apparent murder so he can take the identity of Rako Hardeen, a hired gun, hiding the ruse even from Anakin. Undercover, he joins Moralo Eval's scheme to kidnap Palpatine and helps foil it at Naboo's Festival of Light.",
+  "wp": "Plan to kidnap Chancellor Palpatine",
+  "places": [
+   "Coruscant",
+   "Serenno",
+   "Naboo"
+  ],
+  "people": [
+   "Obi-Wan Kenobi",
+   "Anakin Skywalker",
+   "Moralo Eval",
+   "Cad Bane",
+   "Dooku"
+  ],
+  "sources": [
+   "Deception",
+   "Friends and Enemies",
+   "The Box",
+   "Crisis on Naboo"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "nightsisters-massacred",
+  "title": "Grievous annihilates the Nightsisters",
+  "y": -20,
+  "yText": "20 BBY",
+  "frac": 0.55,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Nightsisters",
+  "summary": "In reprisal for Talzin's plots against Dooku, Grievous leads a droid army to Dathomir. For all Talzin's magick and her undead warriors, the Nightsister clan is nearly wiped out; Ventress survives alone and turns to bounty hunting.",
+  "wp": "Battle of Dathomir",
+  "places": [
+   "Dathomir"
+  ],
+  "people": [
+   "Grievous",
+   "Talzin",
+   "Asajj Ventress",
+   "Dooku"
+  ],
+  "sources": [
+   "Massacre",
+   "Bounty (episode)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "maul-found-alive",
+  "title": "Savage finds Maul alive",
+  "y": -20,
+  "yText": "20 BBY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Guided by Talzin, Savage Opress finds his brother Maul on the junk world Lotho Minor, half-mad and walking on spider-like mechanical legs. Talzin restores his mind and body, and Maul sets out with Savage to take revenge on Obi-Wan Kenobi.",
+  "wp": "Mission to Lotho Minor",
+  "places": [
+   "Lotho Minor",
+   "Dathomir"
+  ],
+  "people": [
+   "Maul",
+   "Savage Opress",
+   "Talzin",
+   "Obi-Wan Kenobi"
+  ],
+  "sources": [
+   "Brothers (episode)",
+   "Revenge (episode)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "maul-and-savage-kill-adi-gallia",
+  "title": "Maul and Savage strike on Florrum",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.01,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "death",
+  "polity": "Jedi Order",
+  "summary": "Maul and Savage Opress, now roving pirates, besiege Hondo Ohnaka's base on Florrum. Obi-Wan and Adi Gallia come to Hondo's aid; Savage kills Gallia, and the brothers barely escape Obi-Wan.",
+  "wp": "Skirmish on Florrum",
+  "places": [
+   "Florrum"
+  ],
+  "people": [
+   "Maul",
+   "Savage Opress",
+   "Adi Gallia",
+   "Obi-Wan Kenobi",
+   "Hondo Ohnaka"
+  ],
+  "sources": [
+   "Revival (episode)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "shadow-collective-formed",
+  "title": "Maul forges the Shadow Collective",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.02,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "criminal underworld",
+  "summary": "Maul unites Death Watch with the Black Sun and Pyke syndicates and forces the Hutts into line, creating a criminal army called the Shadow Collective. Its first prize is Mandalore, still ruled by the pacifist Duchess Satine.",
+  "wp": "Shadow Collective",
+  "places": [
+   "Mustafar",
+   "Nal Hutta",
+   "Tatooine"
+  ],
+  "people": [
+   "Maul",
+   "Savage Opress",
+   "Pre Vizsla",
+   "Jabba Desilijic Tiure"
+  ],
+  "sources": [
+   "Eminence (episode)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "takeover-of-mandalore",
+  "title": "Maul seizes Mandalore; Satine killed",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.03,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "Staging crimes that Death Watch then stops, the Shadow Collective topples Satine's government. Maul kills Pre Vizsla to claim the Darksaber and rules through a puppet, then murders Satine before Obi-Wan's eyes; Bo-Katan's loyalists free Obi-Wan.",
+  "wp": "Takeover of Mandalore",
+  "places": [
+   "Mandalore"
+  ],
+  "people": [
+   "Maul",
+   "Pre Vizsla",
+   "Satine Kryze",
+   "Obi-Wan Kenobi",
+   "Bo-Katan Kryze",
+   "Almec"
+  ],
+  "sources": [
+   "Shades of Reason",
+   "The Lawless"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "sidious-kills-savage-takes-maul",
+  "title": "Sidious kills Savage and takes Maul",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.04,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Seeing his former apprentice as a rival, Darth Sidious comes to Mandalore in person, kills Savage Opress in a duel with both brothers, and carries off the beaten Maul to serve his own ends.",
+  "wp": "Battle of Mandalore",
+  "places": [
+   "Mandalore"
+  ],
+  "people": [
+   "Darth Sidious",
+   "Maul",
+   "Savage Opress"
+  ],
+  "sources": [
+   "The Lawless"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "ahsoka-leaves-the-order",
+  "title": "Ahsoka framed and leaves the Jedi Order",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.06,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "A bombing at the Temple's hangar kills Jedi and clones, and Ahsoka is framed for it. Expelled and tried by a Republic court, she is cleared when Anakin unmasks Barriss Offee as the bomber, yet she declines to rejoin the Order.",
+  "wp": "Bombing of the Jedi Temple hangar",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Ahsoka Tano",
+   "Barriss Offee",
+   "Anakin Skywalker",
+   "Padmé Amidala Naberrie",
+   "Letta Turmond"
+  ],
+  "sources": [
+   "Sabotage (episode)",
+   "The Jedi Who Knew Too Much",
+   "To Catch a Jedi",
+   "The Wrong Jedi"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "fives-uncovers-inhibitor-chips",
+  "title": "Fives uncovers the clones' inhibitor chips",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.07,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "technology",
+  "polity": "Republic",
+  "summary": "At Ringo Vinda the clone Tup suddenly kills his Jedi general, Tiplar. Investigating, ARC trooper Fives finds a chip in Tup's brain that drove the act, but Palpatine has him framed as an assassin, and Fives is shot before anyone listens.",
+  "wp": "Behavioral modification biochip",
+  "places": [
+   "Ringo Vinda",
+   "Kamino",
+   "Coruscant"
+  ],
+  "people": [
+   "Tup",
+   "Tiplar",
+   "Fives",
+   "Darth Sidious",
+   "Rex",
+   "Fox"
+  ],
+  "sources": [
+   "The Unknown",
+   "Conspiracy",
+   "Fugitive",
+   "Orders (episode)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "thrawn-meets-anakin-mokivj",
+  "title": "Thrawn fights alongside Anakin on Mokivj",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.08,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Chiss Ascendancy",
+  "summary": "On Batuu, Anakin meets the Chiss officer Thrawn, who is searching the wider galaxy for help against the Nikardun threat. With Padmé they wreck a Separatist factory building cortosis-armored droids on Mokivj, though the fight ruins much of the planet's farmland.",
+  "wp": "Mission to Mokivj",
+  "places": [
+   "Batuu",
+   "Mokivj"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Mitth'raw'nuruodo",
+   "Padmé Amidala Naberrie"
+  ],
+  "sources": [
+   "Thrawn: Alliances"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "tyranus-role-in-clone-army-revealed",
+  "title": "Jedi learn Tyranus's role in the clone army",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "A lightsaber found on a moon of Oba Diah leads Obi-Wan and Anakin to the Pykes, who admit killing Sifo-Dyas for a Sith Lord named Tyranus. Dooku arrives to silence them, and the Jedi realize the Sith had a hand in creating their army.",
+  "wp": "Mission to Oba Diah (Clone Wars)",
+  "places": [
+   "Oba Diah"
+  ],
+  "people": [
+   "Obi-Wan Kenobi",
+   "Anakin Skywalker",
+   "Dooku",
+   "Sifo-Dyas",
+   "Plo Koon"
+  ],
+  "sources": [
+   "The Lost One"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "yoda-trials-on-moraband",
+  "title": "Yoda's trials on Moraband",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.11,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "force",
+  "polity": "Jedi Order",
+  "summary": "Guided by the voice of the late Qui-Gon Jinn, Yoda seeks the secret of keeping one's identity after death. His quest ends on the Sith world Moraband, where he withstands illusions of Darth Bane and an assault by Sidious, and proves ready to learn it.",
+  "wp": "Mission to Moraband",
+  "places": [
+   "Dagobah",
+   "Moraband"
+  ],
+  "people": [
+   "Yoda",
+   "Qui-Gon Jinn",
+   "Darth Bane",
+   "Darth Sidious"
+  ],
+  "sources": [
+   "Voices",
+   "Destiny (The Clone Wars)",
+   "Sacrifice (episode)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "outer-rim-sieges",
+  "title": "The Outer Rim Sieges",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.13,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Republic",
+  "summary": "With the Separatists pushed back to the galaxy's outer reaches, the Republic besieges their strongholds in the war's last campaign. Grievous counterattacks hard, and Jedi generals are spread across worlds such as Mygeeto, Saleucami and Felucia.",
+  "wp": "Outer Rim Sieges",
+  "places": [
+   "Mygeeto",
+   "Saleucami",
+   "Felucia",
+   "Anaxes"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Obi-Wan Kenobi",
+   "Grievous",
+   "Ki-Adi-Mundi",
+   "Aayla Secura",
+   "Stass Allie"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith",
+   "Collapse of the Republic",
+   "The Star Wars Book"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "battle-of-anaxes-echo-rescued",
+  "title": "Battle of Anaxes and Echo's rescue",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.15,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "Admiral Trench strikes at the vital shipyards of Anaxes. The experimental squad Clone Force 99 finds the enemy using a captured clone's mind to predict Republic moves, and helps Anakin and Rex rescue Echo from Skako Minor before Trench falls.",
+  "wp": "Battle of Anaxes",
+  "places": [
+   "Anaxes",
+   "Skako Minor"
+  ],
+  "people": [
+   "Trench",
+   "Echo",
+   "Rex",
+   "Anakin Skywalker",
+   "Hunter",
+   "Crosshair"
+  ],
+  "sources": [
+   "The Bad Batch (episode)",
+   "A Distant Echo",
+   "On the Wings of Keeradaks",
+   "Unfinished Business (episode)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "talzin-dies-on-dathomir",
+  "title": "Talzin dies in a Sith showdown on Dathomir",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.17,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Nightsisters",
+  "summary": "Escaping Sidious's prison, Maul captures Dooku and Grievous at Ord Mantell and brings Dooku to Mother Talzin, who needs his life force to regain her body. Sidious and Grievous arrive; in the fight Grievous kills Talzin, and Maul flees.",
+  "wp": "Second Battle of Dathomir",
+  "places": [
+   "Stygeon Prime",
+   "Ord Mantell",
+   "Dathomir"
+  ],
+  "people": [
+   "Maul",
+   "Talzin",
+   "Darth Sidious",
+   "Dooku",
+   "Grievous"
+  ],
+  "sources": [
+   "Star Wars: Darth Maul — Son of Dathomir"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "ventress-and-vos-hunt-dooku",
+  "title": "Ventress and Quinlan Vos hunt Dooku",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.19,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "The Council secretly teams Asajj Ventress with Quinlan Vos, a Jedi Master, to assassinate Dooku. The pair fall in love, but Vos is captured and turned by Dooku; Ventress dies shielding him from the Count's lightning, and her sacrifice redeems him.",
+  "wp": "Quinlan Vos",
+  "places": [
+   "Raxus Secundus",
+   "Serenno",
+   "Christophsis",
+   "Dathomir"
+  ],
+  "people": [
+   "Quinlan Vos",
+   "Asajj Ventress",
+   "Dooku",
+   "Obi-Wan Kenobi"
+  ],
+  "sources": [
+   "Dark Disciple"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "siege-of-mandalore",
+  "title": "Siege of Mandalore; Maul captured",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.21,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "At Bo-Katan's request, Ahsoka and Rex lead a detachment of the 501st to free Mandalore from Maul's puppet regime. Ahsoka defeats and captures Maul, who warns her that Anakin is being groomed as Sidious's next apprentice.",
+  "wp": "Siege of Mandalore",
+  "places": [
+   "Mandalore"
+  ],
+  "people": [
+   "Ahsoka Tano",
+   "Rex",
+   "Bo-Katan Kryze",
+   "Maul",
+   "Almec"
+  ],
+  "sources": [
+   "Old Friends Not Forgotten",
+   "The Phantom Apprentice",
+   "Shattered"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "battle-of-coruscant",
+  "title": "Battle of Coruscant; Dooku executed",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.22,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "Grievous's fleet strikes the capital and abducts the Chancellor. Aboard the flagship Invisible Hand, Anakin defeats Dooku and, urged on by Palpatine, beheads the disarmed Count, then crash-lands the burning ship with Obi-Wan.",
+  "wp": "Battle of Coruscant",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Grievous",
+   "Darth Sidious",
+   "Anakin Skywalker",
+   "Obi-Wan Kenobi",
+   "Dooku"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "delegation-of-2000",
+  "title": "Delegation of 2,000 challenges Palpatine",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.23,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Republic",
+  "summary": "Alarmed by the Chancellor's swelling authority, senators meet in secret at Bail Organa's Cantham House. Padmé Amidala, Mon Mothma and others help frame a formal petition from two thousand senators urging Palpatine to surrender his emergency powers, an early seed of the Rebellion.",
+  "wp": "Delegation of 2,000",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Bail Prestor Organa",
+   "Padmé Amidala Naberrie",
+   "Mon Mothma",
+   "Darth Sidious"
+  ],
+  "sources": [
+   "Star Wars: The Rebel Files"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "grievous-killed-on-utapau",
+  "title": "Obi-Wan kills Grievous on Utapau",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.25,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "Tipped off that Grievous is hiding on Utapau, the Republic sends Obi-Wan with the 7th Sky Corps. Obi-Wan duels the cyborg general, chases him through the sinkhole city and kills him with a blaster, and the Separatist command collapses.",
+  "wp": "Battle of Utapau",
+  "places": [
+   "Utapau"
+  ],
+  "people": [
+   "Obi-Wan Kenobi",
+   "Grievous",
+   "Cody"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "windu-confronts-sidious",
+  "title": "Mace Windu confronts Darth Sidious",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.26,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Jedi Order",
+  "summary": "Told by Anakin that Palpatine is secretly Sidious, Windu and three fellow Masters try to arrest him; Sidious cuts the others down at once. Windu disarms him, but as he moves to strike, Anakin severs his hand and Sidious hurls him to his death.",
+  "wp": "Duel in Palpatine's office",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Mace Windu",
+   "Darth Sidious",
+   "Anakin Skywalker",
+   "Kit Fisto",
+   "Agen Kolar",
+   "Saesee Tiin"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "anakin-becomes-darth-vader",
+  "title": "Anakin Skywalker becomes Darth Vader",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.27,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Convinced that only Sidious's dark arts can keep Padmé from the death he has foreseen, Anakin Skywalker pledges himself to the Sith Lord and is named Darth Vader. His first task is to lead clones against the Jedi Temple.",
+  "wp": "Anakin Skywalker",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Darth Sidious",
+   "Padmé Amidala Naberrie"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "order-66",
+  "title": "Order 66: the clones turn on the Jedi",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.28,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "fall",
+  "polity": "galactic",
+  "summary": "Branding the Jedi traitors, Palpatine issues Order 66, and the clones' chips drive them to kill their generals across the galaxy. Ki-Adi-Mundi, Aayla Secura, Plo Koon and many more die; Yoda, Obi-Wan, Ahsoka and a scattered few escape.",
+  "wp": "Order 66",
+  "places": [
+   "Utapau",
+   "Mygeeto",
+   "Felucia",
+   "Cato Neimoidia",
+   "Saleucami",
+   "Kashyyyk"
+  ],
+  "people": [
+   "Darth Sidious",
+   "Cody",
+   "Ki-Adi-Mundi",
+   "Aayla Secura",
+   "Plo Koon",
+   "Yoda",
+   "Obi-Wan Kenobi",
+   "Ahsoka Tano"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith",
+   "Victory and Death",
+   "Star Wars Jedi: Fallen Order"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "ahsoka-and-rex-survive",
+  "title": "Ahsoka and Rex survive Order 66",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.285,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Aboard the Star Destroyer Tribunal, Rex warns Ahsoka to find Fives before his chip takes over. She frees Maul as a diversion, removes Rex's chip, and the two escape as the ship crashes onto a moon, then bury the clones who died there.",
+  "wp": "Skirmish aboard the Tribunal",
+  "places": [],
+  "people": [
+   "Ahsoka Tano",
+   "Rex",
+   "Maul",
+   "Fives"
+  ],
+  "sources": [
+   "Shattered",
+   "Victory and Death"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "operation-knightfall",
+  "title": "Vader leads the assault on the Jedi Temple",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.29,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "fall",
+  "polity": "Jedi Order",
+  "summary": "Darth Vader and the 501st Legion storm the Jedi Temple, killing Jedi and younglings alike. A few slip away, Kelleran Beq carrying the young Grogu among them, while Bail Organa, turned back at the gates, sees clones gun down a fleeing Padawan.",
+  "wp": "Operation: Knightfall",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Kelleran Beq",
+   "Din Grogu",
+   "Zett Jukassa",
+   "Bail Prestor Organa"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith",
+   "Chapter 20: The Foundling"
+  ],
+  "conflict": null,
+  "weight": 2
+ }
+]

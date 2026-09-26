@@ -1,0 +1,3503 @@
+[
+ {
+  "id": "empire-proclaimed",
+  "title": "Palpatine proclaims the Galactic Empire",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "founding",
+  "polity": "Empire",
+  "summary": "Palpatine tells an emergency Senate session that the Jedi tried to overthrow him, turns the Republic into an Empire with himself as Emperor, and wins thunderous applause from most senators.",
+  "wp": "Declaration of a New Order",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Darth Sidious"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "ezra-bridger-born",
+  "title": "Ezra Bridger born on Lothal",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "galactic",
+  "summary": "Mira and Ephraim Bridger's son Ezra arrives on Lothal the very day the Empire is proclaimed, so his birthday will always fall on Empire Day.",
+  "wp": "Ezra Bridger",
+  "places": [
+   "Lothal"
+  ],
+  "people": [
+   "Ezra Bridger",
+   "Mira Bridger",
+   "Ephraim Bridger"
+  ],
+  "sources": [
+   "Empire Day (episode)",
+   "Star Wars Rebels: The Visual Guide"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "jedi-temple-beacon-reversed",
+  "title": "Kenobi and Yoda reverse the Temple beacon",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.31,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi (remnant)",
+  "summary": "Slipping into the ransacked Jedi Temple, Kenobi and Yoda recode the recall signal so it tells surviving Jedi to stay clear of Coruscant, then find security footage showing Anakin Skywalker serving Sidious.",
+  "wp": "Infiltration of the Jedi Temple",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Obi-Wan Kenobi",
+   "Yoda",
+   "Anakin Skywalker"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "separatist-council-executed",
+  "title": "Vader wipes out the Separatist Council",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.32,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Empire",
+  "summary": "On Mustafar, the newly named Darth Vader cuts down the Separatist leaders sheltering there and has their droid armies switched off. The Confederacy collapses into scattered holdouts and the Clone Wars end.",
+  "wp": "Mission to Mustafar",
+  "places": [
+   "Mustafar"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Nute Gunray"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "duel-on-mustafar",
+  "title": "Kenobi defeats Vader on Mustafar",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.33,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Obi-Wan Kenobi fights his former apprentice beside Mustafar's lava rivers and leaves him maimed and burning. Palpatine recovers Vader, who is rebuilt inside the black life-support armor he will wear from then on.",
+  "wp": "Duel on Mustafar",
+  "places": [
+   "Mustafar"
+  ],
+  "people": [
+   "Obi-Wan Kenobi",
+   "Anakin Skywalker",
+   "Darth Sidious",
+   "Padmé Amidala Naberrie"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "duel-in-the-senate",
+  "title": "Yoda duels Sidious in the Senate",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.33,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi (remnant)",
+  "summary": "Yoda confronts the new Emperor in his office and then among the Senate chamber's floating pods. Neither can finish the other; Yoda withdraws, escapes with Bail Organa's help, and chooses exile.",
+  "wp": "Duel in the Galactic Senate",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Yoda",
+   "Darth Sidious",
+   "Bail Prestor Organa"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "skywalker-twins-born",
+  "title": "Luke and Leia born; Padmé dies",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.34,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "galactic",
+  "summary": "On Polis Massa, Padmé Amidala gives birth to twins and dies soon after. To hide them from Vader and the Emperor, Leia goes to Bail and Breha Organa on Alderaan and Luke to his relatives on Tatooine.",
+  "wp": "Padmé Amidala Naberrie",
+  "places": [
+   "Polis Massa",
+   "Alderaan",
+   "Tatooine"
+  ],
+  "people": [
+   "Padmé Amidala Naberrie",
+   "Luke Skywalker",
+   "Leia Skywalker Organa Solo",
+   "Bail Prestor Organa",
+   "Breha Organa",
+   "Obi-Wan Kenobi",
+   "Owen Lars"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "jedi-exiles-begin",
+  "title": "Kenobi and Yoda go into exile",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.35,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi (remnant)",
+  "summary": "After Padmé's funeral on Naboo, the two surviving masters part ways: Kenobi settles in Tatooine's desert to watch over young Luke from afar, while Yoda withdraws to the swamps of Dagobah.",
+  "wp": null,
+  "places": [
+   "Naboo",
+   "Tatooine",
+   "Dagobah"
+  ],
+  "people": [
+   "Obi-Wan Kenobi",
+   "Yoda",
+   "Luke Skywalker"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "bad-batch-deserts",
+  "title": "Clone Force 99 deserts the new Empire",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Clone Force 99",
+  "summary": "Ordered to crush Saw Gerrera's refugees on Onderon, Clone Force 99 lets them go. Back on Kamino, Hunter's squad leaves with the young clone Omega, abandoning Crosshair, whose inhibitor chip now binds him to the Empire.",
+  "wp": "Escape from Kamino",
+  "places": [
+   "Onderon",
+   "Kamino"
+  ],
+  "people": [
+   "Hunter",
+   "Omega",
+   "Crosshair",
+   "Saw Gerrera"
+  ],
+  "sources": [
+   "Aftermath (episode)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "vader-bleeds-kyber",
+  "title": "Vader claims a Jedi's kyber crystal",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.42,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Hunting Jedi for the Emperor, Vader tracks Master Kirak Infil'a to the river moon Al'doleem and kills him. He takes the Jedi's lightsaber and bleeds its crystal red to build his own Sith blade.",
+  "wp": "Mission to Al'doleem",
+  "places": [
+   "Al'doleem"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Kirak Infil'a"
+  ],
+  "sources": [
+   "Darth Vader (2017) 3",
+   "Darth Vader (2017) 5"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "jocasta-nu-killed",
+  "title": "Grand Inquisitor and Vader hunt Jocasta Nu",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.45,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Inquisitorius",
+  "summary": "Palpatine sends his Grand Inquisitor, with Vader, after Jedi archivist Jocasta Nu, who has returned to the Temple for a crystal listing Force-sensitive children. Vader kills her, then secretly destroys the list so his master cannot raise new Sith.",
+  "wp": "Hunt for Jocasta Nu",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Jocasta Nu",
+   "Anakin Skywalker",
+   "The Grand Inquisitor"
+  ],
+  "sources": [
+   "Darth Vader (2017) 7",
+   "Darth Vader (2017) 8",
+   "Darth Vader (2017) 11"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "rescue-on-ryloth",
+  "title": "Syndullas rescued as Ryloth resists",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.55,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Ryloth resistance",
+  "summary": "Admiral Rampart frames Cham Syndulla for a plot against Senator Orn Free Taa. His daughter Hera, the Bad Batch and clone captain Howzer, defying orders, free Cham and Eleni Syndulla; the clan begins organizing resistance.",
+  "wp": "Rescue on Ryloth",
+  "places": [
+   "Ryloth"
+  ],
+  "people": [
+   "Hera Syndulla",
+   "Cham Syndulla",
+   "Howzer",
+   "Edmon Rampart"
+  ],
+  "sources": [
+   "Rescue on Ryloth (episode)",
+   "Devil's Deal"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "tipoca-city-destroyed",
+  "title": "Empire levels Tipoca City, ending clone production",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.9,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "fall",
+  "polity": "Empire",
+  "summary": "The Empire cancels its Kaminoan contracts, takes scientist Nala Se prisoner and, on Tarkin's orders, has Admiral Rampart bomb Tipoca City into the ocean. The Bad Batch, reunited with a repentant Crosshair, barely escape.",
+  "wp": "Attack on Kamino",
+  "places": [
+   "Kamino"
+  ],
+  "people": [
+   "Edmon Rampart",
+   "Wilhuff Tarkin",
+   "Nala Se",
+   "Lama Su",
+   "Crosshair",
+   "Omega"
+  ],
+  "sources": [
+   "Return to Kamino",
+   "Kamino Lost"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "tarkin-massacre",
+  "title": "Tarkin's cruiser crushes Ghorman protesters",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Dated from an Andor line placing it sixteen years before 3 BBY.",
+  "category": "war",
+  "polity": "Empire",
+  "summary": "When protesters in Palmo, Ghorman's capital, try to block his landing, Moff Tarkin brings his cruiser down on the crowded plaza anyway. Five hundred unarmed people die, and the outcry dogs his career.",
+  "wp": "Tarkin Massacre",
+  "places": [
+   "Ghorman"
+  ],
+  "people": [
+   "Wilhuff Tarkin"
+  ],
+  "sources": [
+   "Ever Been to Ghorman?"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "gungi-returns-kashyyyk",
+  "title": "Bad Batch returns Gungi to Kashyyyk",
+  "y": -19,
+  "yText": "Between 19 BBY and 18 BBY",
+  "frac": null,
+  "y2": -18,
+  "y2Text": "18 BBY",
+  "confidence": "estimated",
+  "note": null,
+  "category": "jedi",
+  "polity": "Wookiees",
+  "summary": "On occupied Kashyyyk, where Imperial clones help Trandoshan hunters prey on Wookiees, Clone Force 99 wrecks a slaving convoy and brings the Wookiee Jedi youngling Gungi home to his people.",
+  "wp": "Mission to Kashyyyk (Clone Force 99)",
+  "places": [
+   "Kashyyyk"
+  ],
+  "people": [
+   "Gungi",
+   "Hunter",
+   "Omega"
+  ],
+  "sources": [
+   "Tribe"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "imperial-defense-recruitment-bill",
+  "title": "Senate passes the Imperial Defense Recruitment Bill",
+  "y": -18,
+  "yText": "18 BBY",
+  "frac": 0.2,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Empire",
+  "summary": "Admiral Rampart is exposed and arrested over the ruin of Kamino, yet at the Emperor's urging senators pass his bill anyway, formally trading the aging clone army for enlisted stormtrooper recruits.",
+  "wp": "Imperial Defense Recruitment Bill",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Edmon Rampart",
+   "Darth Sidious",
+   "Riyo Chuchi"
+  ],
+  "sources": [
+   "Truth and Consequences"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "mothma-begins-alliance",
+  "title": "Mon Mothma starts building 'the Alliance'",
+  "y": -18,
+  "yText": "18 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Star Wars Insider 203 places it eighteen years before A New Hope.",
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "After a secret meeting on Phothrell where she, Bail Organa and Saw Gerrera agree to resist Palpatine together, Senator Mon Mothma quietly begins recruiting soldiers, spies and ships into a network she names the Alliance.",
+  "wp": "Mon Mothma",
+  "places": [
+   "Phothrell"
+  ],
+  "people": [
+   "Mon Mothma",
+   "Bail Prestor Organa",
+   "Saw Gerrera"
+  ],
+  "sources": [
+   "Reign of the Empire: The Mask of Fear",
+   "Star Wars Insider 203"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "bombing-of-ravens-peak",
+  "title": "Tech dies after the raid on Raven's Peak",
+  "y": -18,
+  "yText": "During or after 18 BBY",
+  "frac": 0.7,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "battle",
+  "polity": "Clone Force 99",
+  "summary": "While Tarkin hosts a secret summit of Imperial strategists on Eriadu, Saw Gerrera's Partisans try to kill him and the Bad Batch hunts for clues to the captive Crosshair. Tarkin survives, and Tech falls to his death covering the squad's escape.",
+  "wp": "Bombing of Raven's Peak",
+  "places": [
+   "Eriadu"
+  ],
+  "people": [
+   "Tech",
+   "Hunter",
+   "Saw Gerrera",
+   "Wilhuff Tarkin",
+   "Royce Hemlock",
+   "Orson Callan Krennic"
+  ],
+  "sources": [
+   "The Summit",
+   "Plan 99 (episode)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "skirmish-on-wayland",
+  "title": "Bad Batch storms Mount Tantiss",
+  "y": -18,
+  "yText": "During or after 18 BBY",
+  "frac": 0.9,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "battle",
+  "polity": "Clone Force 99",
+  "summary": "Hunter, Wrecker, Crosshair and Echo storm the Empire's secret cloning lab under Mount Tantiss on Wayland to free Omega. Dr. Hemlock dies, the imprisoned clone children go free, the research is destroyed and Tarkin shutters the site.",
+  "wp": "Skirmish on Wayland",
+  "places": [
+   "Wayland"
+  ],
+  "people": [
+   "Hunter",
+   "Wrecker",
+   "Crosshair",
+   "Echo",
+   "Omega",
+   "Royce Hemlock",
+   "Wilhuff Tarkin"
+  ],
+  "sources": [
+   "The Cavalry Has Arrived"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "invasion-of-mon-cala",
+  "title": "Empire invades and subjugates Mon Cala",
+  "y": -18,
+  "yText": "18 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Empire",
+  "summary": "When an ex-Padawan's influence stalls talks with King Lee-Char, Vader, three Inquisitors and Tarkin's fleet descend on Mon Cala. The king is captured and jailed, cities are bombarded, and many Mon Calamari flee in ships disguised as buildings.",
+  "wp": "Invasion of Mon Cala",
+  "places": [
+   "Mon Cala"
+  ],
+  "people": [
+   "Lee-Char",
+   "Anakin Skywalker",
+   "Wilhuff Tarkin",
+   "Ferren Barr",
+   "Raddus",
+   "Gial Ackbar"
+  ],
+  "sources": [
+   "Darth Vader (2017) 13",
+   "Darth Vader (2017) 15",
+   "Darth Vader (2017) 17"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "raada-uprising",
+  "title": "Raada uprising draws Ahsoka into the rebellion",
+  "y": -18,
+  "yText": "18 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Hiding as a farmhand on the moon Raada, Ahsoka Tano trains locals against an Imperial crop scheme. The revolt is crushed, but she kills the Sixth Brother, helps evacuate the moon, and joins Bail Organa's secret network as Fulcrum.",
+  "wp": "Raada Uprising",
+  "places": [
+   "Raada"
+  ],
+  "people": [
+   "Ahsoka Tano",
+   "Bail Prestor Organa",
+   "Sixth Brother",
+   "Kaeden Larte"
+  ],
+  "sources": [
+   "Ahsoka (novel)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "antar-atrocity",
+  "title": "Tarkin's Antar Atrocity",
+  "y": -18,
+  "yText": "18 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Empire",
+  "summary": "To punish Antar 4 for backing the Confederacy in the Clone Wars, Wilhuff Tarkin's forces round up, execute and slaughter its people; newsfeeds come to call the purge the Antar Atrocity.",
+  "wp": "Antar Atrocity",
+  "places": [
+   "Antar 4"
+  ],
+  "people": [
+   "Wilhuff Tarkin"
+  ],
+  "sources": [
+   "Tarkin (novel)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "caleb-dume-becomes-kanan",
+  "title": "Caleb Dume becomes Kanan Jarrus",
+  "y": -18,
+  "yText": "18 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi (remnant)",
+  "summary": "Hunted since Order 66, former Padawan Caleb Dume is pulled from Imperial hands by the smuggler Janus Kasmir and ex-Separatist general Kleeve. He sheds his old name and starts drifting the galaxy as Kanan Jarrus.",
+  "wp": "Rescue of Caleb Dume",
+  "places": [
+   "Kaller"
+  ],
+  "people": [
+   "Kanan Jarrus",
+   "Janus Kasmir",
+   "Kleeve"
+  ],
+  "sources": [
+   "Kanan 5",
+   "Kanan 6"
+  ],
+  "conflict": "Wookieepedia's timeline sets the rescue on the planet Lahn, while the event article, citing Kanan 5, places it in space above Kaller.",
+  "weight": 1
+ },
+ {
+  "id": "thrawn-exiled-by-chiss",
+  "title": "Chiss exile Thrawn after defeating the Grysks",
+  "y": -18,
+  "yText": "18 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Chiss Ascendancy",
+  "summary": "Thrawn lures the Grysk agent Jixtus's fleet into a trap at Sunrise and foils a plot to set the Chiss families against each other. Because he struck first, the Syndicure strips his rank and exiles him, quietly tasked with contacting the Empire.",
+  "wp": "Grysk plot to engineer a Chiss civil war",
+  "places": [
+   "Sunrise"
+  ],
+  "people": [
+   "Mitth'raw'nuruodo",
+   "Jixtus"
+  ],
+  "sources": [
+   "Thrawn Ascendancy: Lesser Evil"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "ersos-flee-coruscant",
+  "title": "The Erso family flees Coruscant",
+  "y": -17,
+  "yText": "17 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "technology",
+  "polity": "Empire",
+  "summary": "Galen Erso learns Orson Krennic is turning his kyber energy research into a weapon. Amid the crowds of All-Species Week, he, Lyra and young Jyn slip off Coruscant with help from Saw Gerrera and the smuggler Has Obitt.",
+  "wp": null,
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Galen Walton Erso",
+   "Lyra Erso",
+   "Jyn Erso",
+   "Orson Callan Krennic",
+   "Saw Gerrera",
+   "Has Obitt"
+  ],
+  "sources": [
+   "Catalyst: A Rogue One Novel"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "vader-finds-ahsokas-lightsaber",
+  "title": "Vader finds Ahsoka's abandoned lightsaber",
+  "y": -17,
+  "yText": "17 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "On a snowy moon, Vader's troops reach the wreck of the Star Destroyer Tribunal and the graves of the clones Ahsoka Tano buried there. Vader picks up the blade she abandoned, then turns away.",
+  "wp": "Tribunal",
+  "places": [],
+  "people": [
+   "Anakin Skywalker",
+   "Ahsoka Tano"
+  ],
+  "sources": [
+   "Victory and Death"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "maul-janix-campaign",
+  "title": "Maul claims a Jedi apprentice on Janix",
+  "y": -17,
+  "yText": "Between 17 BBY and c. 13 BBY",
+  "frac": null,
+  "y2": -13,
+  "y2Text": "c. 13 BBY",
+  "confidence": "estimated",
+  "note": null,
+  "category": "sith",
+  "polity": "Shadow Collective",
+  "summary": "Rebuilding his criminal empire on Janix, Maul draws Inquisitors and then Vader himself. Vader kills the Jedi Eeko-Dio Daki, and Maul spirits Daki's Padawan Devon Izara offworld as his apprentice with help from Crimson Dawn's Dryden Vos.",
+  "wp": "Operations on Janix",
+  "places": [
+   "Janix"
+  ],
+  "people": [
+   "Maul",
+   "Devon Izara",
+   "Eeko-Dio Daki",
+   "Anakin Skywalker",
+   "Dryden Vos"
+  ],
+  "sources": [
+   "Chapter 5: Inquisition",
+   "Chapter 10: The Dark Lord",
+   "Star Wars: Maul - Shadow Lord"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "kenobi-defends-lars-farm",
+  "title": "Kenobi and Owen fight off raiders",
+  "y": -16,
+  "yText": "16 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi (remnant)",
+  "summary": "Mercenaries raid the Lars moisture farm while little Luke plays outside. Obi-Wan and Owen drive them off together, but Owen then punches Kenobi and warns him to keep away from the boy.",
+  "wp": "Lars homestead",
+  "places": [
+   "Tatooine"
+  ],
+  "people": [
+   "Obi-Wan Kenobi",
+   "Owen Lars",
+   "Luke Skywalker"
+  ],
+  "sources": [
+   "Time of Death",
+   "From a Certain Point of View"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "axis-network-founded",
+  "title": "Luthen Rael's Axis network takes shape",
+  "y": -15,
+  "yText": "15 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Dated as a decade before Andor's first season (5 BBY).",
+  "category": "founding",
+  "polity": "Axis network",
+  "summary": "Luthen Rael, known to the ISB only as Axis, starts assembling a hidden web of cells, informants and financiers that will quietly fund and steer much of the early rebellion.",
+  "wp": "Axis network",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Luthen Rael"
+  ],
+  "sources": [
+   "Coruscant: Whispers of Rebellion"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "thrawn-joins-empire",
+  "title": "Thrawn joins the Imperial military",
+  "y": -15,
+  "yText": "c. 15 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Derived: the novel places Pryce's 11 BBY governorship about four years after it opens.",
+  "category": "politics",
+  "polity": "Empire",
+  "summary": "An Imperial ship finds a lone Chiss warrior on his supposed exile world. Brought before Palpatine, Thrawn offers his service, enters the Imperial Academy and begins a rapid rise with the young cadet Eli Vanto at his side.",
+  "wp": "Mitth'raw'nuruodo",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Mitth'raw'nuruodo",
+   "Darth Sidious",
+   "Eli N. Vanto"
+  ],
+  "sources": [
+   "Thrawn (novel)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "lords-of-the-sith-ryloth",
+  "title": "Twi'lek rebels ambush the Emperor and Vader",
+  "y": -14,
+  "yText": "14 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Free Ryloth Movement",
+  "summary": "Using intelligence from a traitor within the Empire, Cham Syndulla's Twi'lek fighters strike during the Emperor's visit to Ryloth, stranding him and Vader in the jungle. The Sith fight free; the traitor Belkor Dray and fighter Isval die.",
+  "wp": "Mission to Ryloth",
+  "places": [
+   "Ryloth"
+  ],
+  "people": [
+   "Darth Sidious",
+   "Anakin Skywalker",
+   "Cham Syndulla",
+   "Isval",
+   "Belkor Dray"
+  ],
+  "sources": [
+   "Lords of the Sith"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "berch-teller-campaign",
+  "title": "Berch Teller's cell steals the Carrion Spike",
+  "y": -14,
+  "yText": "14 BBY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Berch Teller's cell",
+  "summary": "Ex-Republic intelligence officer Berch Teller's cell hijacks Tarkin's personal corvette on Murkhana and uses it to strike Imperial targets across the Outer Rim. Tarkin and Vader break the cell at a Death Star supply convoy, though Teller escapes.",
+  "wp": "Berch Teller campaign",
+  "places": [
+   "Murkhana"
+  ],
+  "people": [
+   "Berch Teller",
+   "Wilhuff Tarkin",
+   "Anakin Skywalker",
+   "Dodd Rancit"
+  ],
+  "sources": [
+   "Tarkin (novel)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "tarkin-grand-moff",
+  "title": "Tarkin becomes Grand Moff and states his doctrine",
+  "y": -14,
+  "yText": "14 BBY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Empire",
+  "summary": "Rewarded for crushing Teller's cell, Tarkin becomes the first Grand Moff, with authority over the Outer Rim and oversight of the battle station project. He argues the Empire should rule through fear of its power rather than its constant use.",
+  "wp": "Tarkin Doctrine",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Wilhuff Tarkin",
+   "Darth Sidious"
+  ],
+  "sources": [
+   "Tarkin (novel)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "cal-kestis-destroys-holocron",
+  "title": "Cal Kestis chooses to destroy the Jedi holocron",
+  "y": -14,
+  "yText": "14 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi (remnant)",
+  "summary": "Forced out of hiding on Bracca, former Padawan Cal Kestis joins Cere Junda to recover a holocron listing Force-sensitive children. After storming the Inquisitors' fortress on Nur, where the Second Sister dies, he destroys it rather than risk exposing them.",
+  "wp": "Secret mission to rebuild the Jedi Order",
+  "places": [
+   "Bracca",
+   "Bogano",
+   "Zeffo",
+   "Kashyyyk",
+   "Dathomir",
+   "Ilum",
+   "Nur"
+  ],
+  "people": [
+   "Cal Kestis",
+   "Cere Junda",
+   "Greez Dritus",
+   "BD-1",
+   "Merrin",
+   "Second Sister",
+   "Anakin Skywalker"
+  ],
+  "sources": [
+   "Star Wars Jedi: Fallen Order"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "galen-erso-taken",
+  "title": "Krennic takes Galen Erso from Lah'mu",
+  "y": -13,
+  "yText": "13 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "technology",
+  "polity": "Empire",
+  "summary": "Orson Krennic finds the hiding Ersos on Lah'mu and forces Galen back to perfect the battle station's weapon. Lyra is shot resisting, and young Jyn, hidden in a cave, is found and raised by Saw Gerrera.",
+  "wp": "Capture of Galen Erso",
+  "places": [
+   "Lah'mu"
+  ],
+  "people": [
+   "Orson Callan Krennic",
+   "Galen Walton Erso",
+   "Lyra Erso",
+   "Jyn Erso",
+   "Saw Gerrera"
+  ],
+  "sources": [
+   "Rogue One: A Star Wars Story"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "han-solo-enlists",
+  "title": "Han flees Corellia and enlists as 'Solo'",
+  "y": -13,
+  "yText": "13 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "galactic",
+  "summary": "Street thief Han escapes Corellia's White Worms gang, but his partner Qi'ra is caught at the checkpoint. With no family name, he is dubbed 'Solo' by an Imperial recruiter and joins up hoping to become a pilot.",
+  "wp": "Han Solo",
+  "places": [
+   "Corellia"
+  ],
+  "people": [
+   "Han Solo",
+   "Qi'ra"
+  ],
+  "sources": [
+   "Solo: A Star Wars Story"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "fortress-vader-rises",
+  "title": "Fortress Vader rises on Mustafar",
+  "y": -12,
+  "yText": "12 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "The dark-side artist Momin raises Vader's castle on Mustafar above a cave steeped in the dark side; Vader kills him after fending off Mustafarians angered by the work. Entering the cave's portal to reach Padmé, he loses her again and wrecks it in rage.",
+  "wp": "Fortress Vader",
+  "places": [
+   "Mustafar"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Darth Momin",
+   "Padmé Amidala Naberrie"
+  ],
+  "sources": [
+   "Darth Vader (2017) 23",
+   "Darth Vader (2017) 24",
+   "Darth Vader (2017) 25"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "bridgers-arrested",
+  "title": "Ezra Bridger's parents are arrested",
+  "y": -12,
+  "yText": "12 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Mira and Ephraim Bridger, whose pirate broadcasts urge Lothal to resist, are seized by the Empire and vanish into prison. Their seven-year-old son Ezra is left alone, surviving by his wits.",
+  "wp": "Ephraim Bridger",
+  "places": [
+   "Lothal"
+  ],
+  "people": [
+   "Ephraim Bridger",
+   "Mira Bridger",
+   "Ezra Bridger"
+  ],
+  "sources": [
+   "Legacy (episode)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "dathan-created",
+  "title": "Sith cultists create Dathan on Exegol",
+  "y": -12,
+  "yText": "12 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith Eternal",
+  "summary": "Hidden on Exegol, Sidious's followers grow a strandcast from his genetic template. The boy, later called Dathan, lacks real Force strength and is scorned as a failure; he will one day flee Exegol and father Rey.",
+  "wp": "Dathan",
+  "places": [
+   "Exegol"
+  ],
+  "people": [
+   "Dathan",
+   "Darth Sidious"
+  ],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Shadow of the Sith",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "gorse-conflict",
+  "title": "Hera Syndulla and Kanan Jarrus join forces",
+  "y": -11,
+  "yText": "11 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "On Gorse's mining moon Cynda, rebel agent Hera Syndulla recruits drifting ex-Padawan Kanan Jarrus and a few locals to stop Count Vidian from blowing up the moon for its thorilide. Vidian dies, and their partnership begins.",
+  "wp": "Gorse Conflict",
+  "places": [
+   "Gorse",
+   "Cynda"
+  ],
+  "people": [
+   "Hera Syndulla",
+   "Kanan Jarrus",
+   "Denetrius Vidian",
+   "Rae Sloane",
+   "Skelly",
+   "Zaluna Myder"
+  ],
+  "sources": [
+   "A New Dawn (novel)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "battle-over-umbara",
+  "title": "Thrawn outwits Nightswan over Umbara",
+  "y": -11,
+  "yText": "11 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Empire",
+  "summary": "Serving in Admiral Gendling's task force, Captain Thrawn breaks the droid fighters of the insurgent tactician Nightswan by timing fire around the Star Destroyers' transmission shadows. Umbara loses what autonomy it still had.",
+  "wp": "Battle over Umbara",
+  "places": [
+   "Umbara"
+  ],
+  "people": [
+   "Mitth'raw'nuruodo",
+   "Nevil Cygni",
+   "Carlou Gendling"
+  ],
+  "sources": [
+   "Thrawn (novel)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "pryce-governor-of-lothal",
+  "title": "Arihnda Pryce becomes Governor of Lothal",
+  "y": -11,
+  "yText": "11 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": "Star Wars: Timelines dates the appointment to 11 BBY; the timeline lists the spy operation under 11-9 BBY.",
+  "category": "politics",
+  "polity": "Empire",
+  "summary": "Lothal expatriate Arihnda Pryce, acting as a double agent for Thrawn and the ISB's Colonel Yularen, helps unmask a Coruscant spy ring feeding the insurgent Nevil Cygni. Tarkin rewards her with the governorship of her homeworld.",
+  "wp": "Arihnda Pryce",
+  "places": [
+   "Coruscant",
+   "Lothal"
+  ],
+  "people": [
+   "Arihnda Pryce",
+   "Mitth'raw'nuruodo",
+   "Wullf Yularen",
+   "Nevil Cygni",
+   "Wilhuff Tarkin"
+  ],
+  "sources": [
+   "Thrawn (novel)",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "mimban-han-meets-chewbacca",
+  "title": "Han meets Chewbacca on Mimban",
+  "y": -10,
+  "yText": "10 BBY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Empire",
+  "summary": "Kicked out of flight school for insubordination, Han slogs through the Empire's trench war on Mimban. He tries to join Tobias Beckett's crew of thieves, is thrown to a captive Wookiee, and instead escapes with him: Chewbacca.",
+  "wp": "Mimban Campaign",
+  "places": [
+   "Mimban"
+  ],
+  "people": [
+   "Han Solo",
+   "Chewbacca",
+   "Tobias Beckett"
+  ],
+  "sources": [
+   "Solo: A Star Wars Story"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "heist-on-vandor",
+  "title": "Coaxium heist on Vandor goes wrong",
+  "y": -10,
+  "yText": "10 BBY",
+  "frac": 0.45,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Crimson Dawn",
+  "summary": "Beckett's gang tries to rob an Imperial conveyex train of its coaxium on Vandor to settle a debt with Crimson Dawn. Enfys Nest's Cloud-Riders intervene, Rio and Val die, and the fuel is lost in a huge explosion.",
+  "wp": "Heist on Vandor",
+  "places": [
+   "Vandor"
+  ],
+  "people": [
+   "Tobias Beckett",
+   "Han Solo",
+   "Chewbacca",
+   "Enfys Nest",
+   "Val",
+   "Rio Durant"
+  ],
+  "sources": [
+   "Solo: A Star Wars Story"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "kessel-run",
+  "title": "Han makes the Kessel Run",
+  "y": -10,
+  "yText": "10 BBY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Crimson Dawn",
+  "summary": "To make up the loss, the crew raids the Pyke-run spice mines of Kessel for raw coaxium, sparking a slave revolt led by L3-37. Han flies Lando's Millennium Falcon out through the Maelstrom in a record run he later rounds down to twelve parsecs.",
+  "wp": "Raid on Kessel",
+  "places": [
+   "Kessel"
+  ],
+  "people": [
+   "Han Solo",
+   "Chewbacca",
+   "Landonis Balthazar Calrissian",
+   "L3-37",
+   "Qi'ra",
+   "Tobias Beckett"
+  ],
+  "sources": [
+   "Solo: A Star Wars Story"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "showdown-on-savareen",
+  "title": "Qi'ra kills Dryden Vos on Savareen",
+  "y": -10,
+  "yText": "10 BBY",
+  "frac": 0.55,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Crimson Dawn",
+  "summary": "Amid a web of double-crosses on Savareen, Qi'ra kills Dryden Vos and Han shoots Beckett. Han lets Enfys Nest's rebels keep the coaxium, while Qi'ra takes Vos's place and reports to Crimson Dawn's hidden master, Maul.",
+  "wp": "Showdown on Savareen",
+  "places": [
+   "Savareen",
+   "Dathomir"
+  ],
+  "people": [
+   "Qi'ra",
+   "Dryden Vos",
+   "Tobias Beckett",
+   "Han Solo",
+   "Enfys Nest",
+   "Maul"
+  ],
+  "sources": [
+   "Solo: A Star Wars Story"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "han-wins-the-falcon",
+  "title": "Han wins the Millennium Falcon",
+  "y": -10,
+  "yText": "10 BBY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "galactic",
+  "summary": "In a sabacc rematch on Numidian Prime, Han beats Lando Calrissian, having pocketed the card Lando kept up his sleeve, and takes the Millennium Falcon as his prize.",
+  "wp": "Millennium Falcon",
+  "places": [
+   "Numidian Prime"
+  ],
+  "people": [
+   "Han Solo",
+   "Landonis Balthazar Calrissian",
+   "Chewbacca"
+  ],
+  "sources": [
+   "Solo: A Star Wars Story"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "death-star-moves-to-scarif",
+  "title": "Death Star construction moves to Scarif",
+  "y": -9,
+  "yText": "c. 9 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Wookieepedia's timeline lists the move under 10/9 BBY.",
+  "category": "technology",
+  "polity": "Empire",
+  "summary": "With Saw Gerrera's raids coming too close to the secret over Geonosis, the Empire shifts the battle station's final assembly to Scarif, a shielded world whose citadel archive also holds the project's plans.",
+  "wp": "DS-1 Orbital Battle Station",
+  "places": [
+   "Geonosis",
+   "Scarif"
+  ],
+  "people": [
+   "Orson Callan Krennic",
+   "Wilhuff Tarkin"
+  ],
+  "sources": [
+   "The Honorable Ones",
+   "Star Wars: Rogue One: The Ultimate Visual Guide",
+   "Star Wars: Rogue One: Secret Mission"
+  ],
+  "conflict": "Wookieepedia's timeline, summarizing the novel Tarkin, has the station leave Geonosis orbit for deep space in 14 BBY, while Rogue One reference material, per the DS-1 article, keeps it at Geonosis until the move to Scarif around 9 BBY.",
+  "weight": 2
+ },
+ {
+  "id": "sterilization-of-geonosis",
+  "title": "Empire exterminates the Geonosians",
+  "y": -9,
+  "yText": "c. 9 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Wookieepedia's timeline lists it under 10/9 BBY.",
+  "category": "war",
+  "polity": "Empire",
+  "summary": "To bury the secret of the station built above their world, the Empire poisons Geonosis and wipes out its hive species. Years later, rebels find a lone survivor, Klik-Klak, tending a queen's egg in the tunnels.",
+  "wp": "Sterilization of Geonosis",
+  "places": [
+   "Geonosis"
+  ],
+  "people": [
+   "Klik-Klak"
+  ],
+  "sources": [
+   "Ghosts of Geonosis",
+   "Dawn of Rebellion",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "quest-for-tanalorr",
+  "title": "Cal Kestis finds a haven on Tanalorr",
+  "y": -9,
+  "yText": "9 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi (remnant)",
+  "summary": "Now fighting alongside Saw's rebels, Cal Kestis finds Dagan Gera, a centuries-old Jedi fallen to darkness, on Koboh and must kill him. Bode Akuna betrays the crew, Vader kills Cere Junda on Jedha, and Cal and Merrin claim hidden Tanalorr as a refuge.",
+  "wp": "Quest for Tanalorr",
+  "places": [
+   "Koboh",
+   "Jedha",
+   "Tanalorr"
+  ],
+  "people": [
+   "Cal Kestis",
+   "Merrin",
+   "Bode Akuna",
+   "Dagan Gera",
+   "Cere Junda",
+   "Anakin Skywalker"
+  ],
+  "sources": [
+   "Star Wars Jedi: Survivor"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leia-kidnapped",
+  "title": "Leia kidnapped; Kenobi leaves exile",
+  "y": -9,
+  "yText": "9 BBY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi (remnant)",
+  "summary": "Bounty hunters hired by the Inquisitor Reva snatch Leia Organa, aged ten, on Alderaan to lure out Obi-Wan Kenobi. Bail flies to Tatooine to beg his old friend for help, and Kenobi reluctantly digs up his lightsaber.",
+  "wp": "Ambush on Alderaan",
+  "places": [
+   "Alderaan",
+   "Tatooine"
+  ],
+  "people": [
+   "Leia Skywalker Organa Solo",
+   "Obi-Wan Kenobi",
+   "Bail Prestor Organa",
+   "Reva Sevander"
+  ],
+  "sources": [
+   "Part I"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-on-mapuzo",
+  "title": "Vader catches Kenobi on Mapuzo",
+  "y": -9,
+  "yText": "9 BBY",
+  "frac": 0.52,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Shaken to learn on Daiyu that Anakin survived, Kenobi flees with Leia to the mining world Mapuzo. Vader tracks him there and drags him through flames until Leia and the undercover officer Tala Durith create a diversion.",
+  "wp": "Battle on Mapuzo",
+  "places": [
+   "Daiyu",
+   "Mapuzo"
+  ],
+  "people": [
+   "Obi-Wan Kenobi",
+   "Anakin Skywalker",
+   "Leia Skywalker Organa Solo",
+   "Tala Durith",
+   "Reva Sevander"
+  ],
+  "sources": [
+   "Part II",
+   "Part III"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "rescue-of-leia-nur",
+  "title": "Kenobi rescues Leia from Fortress Inquisitorius",
+  "y": -9,
+  "yText": "9 BBY",
+  "frac": 0.53,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi (remnant)",
+  "summary": "Kenobi and Tala infiltrate the Inquisitorius's underwater stronghold on Nur, where Reva, the Third Sister, is interrogating Leia. They free her and escape with help from the Path, an underground network smuggling Jedi to safety.",
+  "wp": "Rescue of Princess Leia (9 BBY)",
+  "places": [
+   "Nur"
+  ],
+  "people": [
+   "Obi-Wan Kenobi",
+   "Tala Durith",
+   "Leia Skywalker Organa Solo",
+   "Reva Sevander"
+  ],
+  "sources": [
+   "Part IV"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "attack-on-jabiim",
+  "title": "Vader besieges the Path's hideout on Jabiim",
+  "y": -9,
+  "yText": "9 BBY",
+  "frac": 0.54,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Hidden Path",
+  "summary": "Vader's forces trap the Path and its refugees on Jabiim. Tala sacrifices herself at the door, the refugees get away by ship, and Reva is revealed as a youngling who survived Vader's Temple massacre; her attempt on him fails.",
+  "wp": "Attack on Jabiim",
+  "places": [
+   "Jabiim"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Tala Durith",
+   "Reva Sevander",
+   "Obi-Wan Kenobi"
+  ],
+  "sources": [
+   "Part V"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "kenobi-vader-rematch",
+  "title": "Kenobi defeats Vader on a barren moon",
+  "y": -9,
+  "yText": "9 BBY",
+  "frac": 0.56,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi (remnant)",
+  "summary": "Drawing Vader away from the fleeing refugees, Obi-Wan faces his former apprentice among rocky spires on a lifeless moon and cracks open his mask. Accepting that his friend Anakin is gone, Kenobi leaves Vader behind.",
+  "wp": "Fight on a barren moon",
+  "places": [],
+  "people": [
+   "Obi-Wan Kenobi",
+   "Anakin Skywalker"
+  ],
+  "sources": [
+   "Part VI"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "reva-spares-luke",
+  "title": "Reva spares Luke; Kenobi sees Qui-Gon",
+  "y": -9,
+  "yText": "9 BBY",
+  "frac": 0.57,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "force",
+  "polity": "Jedi (remnant)",
+  "summary": "Reva tracks Luke to the Lars homestead but, faced with her own past, cannot kill the boy; Kenobi brings him home and makes peace with Owen. At last at peace himself, Obi-Wan sees Qui-Gon Jinn's spirit.",
+  "wp": "Reva Sevander",
+  "places": [
+   "Tatooine"
+  ],
+  "people": [
+   "Reva Sevander",
+   "Luke Skywalker",
+   "Obi-Wan Kenobi",
+   "Owen Lars",
+   "Qui-Gon Jinn"
+  ],
+  "sources": [
+   "Part VI"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "duel-on-corvus",
+  "title": "Morgan Elsbeth wins Thrawn's test on Corvus",
+  "y": -9,
+  "yText": "Between 9 BBY and 2 BBY",
+  "frac": null,
+  "y2": -2,
+  "y2Text": "2 BBY",
+  "confidence": "estimated",
+  "note": null,
+  "category": "politics",
+  "polity": "Empire",
+  "summary": "In Calodan on Corvus, the Nightsister and Imperial industrialist Morgan Elsbeth beats off a night attack by the Noghri Rukh. It is a trial staged by Admiral Thrawn, who, drawn by her rejected TIE Defender design, takes her under his wing.",
+  "wp": "Duel on Corvus (Imperial Era)",
+  "places": [
+   "Corvus"
+  ],
+  "people": [
+   "Morgan Elsbeth",
+   "Rukh",
+   "Mitth'raw'nuruodo"
+  ],
+  "sources": [
+   "The Path of Anger"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "great-drought-kenobi-saves-luke",
+  "title": "Kenobi secretly saves young Luke in the drought",
+  "y": -8,
+  "yText": "9 BBY or 8 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Timeline lists it as 9/8 BBY, after the Kenobi series; placed at the later year.",
+  "category": "jedi",
+  "polity": "Jedi (remnant)",
+  "summary": "As Jabba's 'water tax' squeezes Tatooine's farmers through a punishing drought, young Luke stands up to the Hutt's enforcers and is knocked out. Kenobi quietly deals with the thugs, carries the boy home and slips away unseen.",
+  "wp": "Great Drought",
+  "places": [
+   "Tatooine"
+  ],
+  "people": [
+   "Obi-Wan Kenobi",
+   "Luke Skywalker",
+   "Jabba Desilijic Tiure"
+  ],
+  "sources": [
+   "Star Wars (2015) 7"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "siege-of-lasan",
+  "title": "Empire devastates Lasan",
+  "y": -7,
+  "yText": "7 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Empire",
+  "summary": "Putting down unrest on Lasan, ISB officer Alexsandr Kallus leads an assault with T-7 ion disruptors that leaves the Lasat nearly extinct; Wookiee fighters die trying to stop it. Honor Guard captain Zeb Orrelios survives, haunted.",
+  "wp": "Siege of Lasan",
+  "places": [
+   "Lasan"
+  ],
+  "people": [
+   "Alexsandr Kallus",
+   "Garazeb Orrelios"
+  ],
+  "sources": [
+   "The Honorable Ones",
+   "Star Wars: The Rise and Fall of the Galactic Empire"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "sabine-arc-pulse-generator",
+  "title": "Cadet Sabine Wren's weapon is turned on Mandalorians",
+  "y": -6,
+  "yText": "6 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "At the Imperial Academy, cadet Sabine Wren designs a device that superheats beskar and kills whoever wears it. When the Empire uses it on her own people, she deserts with Ketsu Onyo and becomes estranged from her family.",
+  "wp": "Arc Pulse Generator",
+  "places": [
+   "Mandalore"
+  ],
+  "people": [
+   "Sabine Wren",
+   "Ketsu Onyo"
+  ],
+  "sources": [
+   "Trials of the Darksaber",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "gar-saxon-rules-mandalore",
+  "title": "Gar Saxon made Imperial ruler of Mandalore",
+  "y": -6,
+  "yText": "6 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Empire",
+  "summary": "Former Death Watch warrior and one-time Maul loyalist Gar Saxon becomes the Empire's governor on Mandalore and commander of its Mandalorian super commandos, keeping his people in line for the Emperor.",
+  "wp": "Gar Saxon",
+  "places": [
+   "Mandalore"
+  ],
+  "people": [
+   "Gar Saxon"
+  ],
+  "sources": [
+   "Imperial Supercommandos",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "westhills-massacre",
+  "title": "Imperial troops massacre protesters on Lothal",
+  "y": -6,
+  "yText": "6 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Empire",
+  "summary": "Near Capital City, soldiers commanded by Lieutenant Piers Roddance open fire on a peaceful protest in Lothal's Westhills. The killings push young Lothalites such as Beck Ollet into sabotage cells.",
+  "wp": "Westhills massacre",
+  "places": [
+   "Lothal"
+  ],
+  "people": [
+   "Piers Roddance",
+   "Beck Ollet"
+  ],
+  "sources": [
+   "Servants of the Empire: Edge of the Galaxy"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "inusagi-massacre",
+  "title": "Saw's Partisans massacre a festival on Inusagi",
+  "y": -6,
+  "yText": "6 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Partisans",
+  "summary": "Using invitations forged by teenage Jyn Erso, Saw Gerrera's Partisans and allied fighters slip into a blossom festival on Inusagi and kill every guest with flechette launchers.",
+  "wp": "Inusagi massacre",
+  "places": [
+   "Inusagi"
+  ],
+  "people": [
+   "Saw Gerrera",
+   "Jyn Erso",
+   "Arane Oreida"
+  ],
+  "sources": [
+   "Rebel Rising",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "cassian-on-morlana-one",
+  "title": "Cassian Andor kills two corporate guards",
+  "y": -5,
+  "yText": "5 BBY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "galactic",
+  "summary": "Searching for his lost sister Kerri, Cassian Andor visits a brothel on the corporate-run world Morlana One and kills two Preox-Morlana security officers who shake him down, setting a manhunt in motion.",
+  "wp": "Search for Kerri",
+  "places": [
+   "Morlana One"
+  ],
+  "people": [
+   "Cassian Jeron Andor"
+  ],
+  "sources": [
+   "Kassa (episode)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "ambush-on-ferrix",
+  "title": "Luthen Rael pulls Cassian out of Ferrix",
+  "y": -5,
+  "yText": "5 BBY",
+  "frac": 0.15,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Axis network",
+  "summary": "Deputy Inspector Syril Karn's corporate squads raid Ferrix to arrest Cassian, but rebel recruiter Luthen Rael fights him free and the townsfolk wreck the police. The fiasco leads the Empire to absorb the sector and garrison Ferrix.",
+  "wp": "Ambush on Ferrix",
+  "places": [
+   "Ferrix"
+  ],
+  "people": [
+   "Cassian Jeron Andor",
+   "Luthen Rael",
+   "Syril Karn",
+   "Bix Caleen"
+  ],
+  "sources": [
+   "Reckoning (episode)",
+   "Aldhani (episode)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "aldhani-heist",
+  "title": "Rebels rob the Imperial payroll on Aldhani",
+  "y": -5,
+  "yText": "5 BBY",
+  "frac": 0.25,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Posing as troopers during the Eye of Aldhani meteor shower, Vel Sartha's cell, with Cassian as a hired hand, empties an Imperial garrison vault of a quarter's payroll for the whole sector. The daring theft rattles the Empire into a crackdown.",
+  "wp": "Aldhani heist",
+  "places": [
+   "Aldhani"
+  ],
+  "people": [
+   "Cassian Jeron Andor",
+   "Vel Sartha",
+   "Cinta Kaz",
+   "Karis Nemik",
+   "Arvel Skeen",
+   "Luthen Rael"
+  ],
+  "sources": [
+   "The Eye",
+   "Aldhani (episode)",
+   "The Axe Forgets"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "public-order-resentencing-directive",
+  "title": "Empire imposes the Public Order Resentencing Directive",
+  "y": -5,
+  "yText": "5 BBY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Empire",
+  "summary": "Stung by Aldhani, Palpatine hardens the law: sentences for anti-Imperial crimes are doubled or reviewed, systems sheltering rebels owe heavy tribute, prison oversight is dropped, and the ISB may call on army and navy resources.",
+  "wp": "Public Order Resentencing Directive",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Darth Sidious",
+   "Dedra Meero"
+  ],
+  "sources": [
+   "Announcement"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "narkina-5-escape",
+  "title": "Prisoners break out of Narkina 5",
+  "y": -5,
+  "yText": "5 BBY",
+  "frac": 0.45,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Swept up on Niamos and given six years under the new directive, Cassian lands in a factory prison on Narkina 5. When inmates learn release is a lie, he and floor manager Kino Loy lead a mass breakout.",
+  "wp": "Narkina 5 prison escape",
+  "places": [
+   "Niamos",
+   "Narkina 5"
+  ],
+  "people": [
+   "Cassian Jeron Andor",
+   "Kino Loy",
+   "Ruescott Melshi"
+  ],
+  "sources": [
+   "One Way Out",
+   "Nobody's Listening!",
+   "Announcement"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "spellhaus-trap",
+  "title": "Luthen lets Kreegyr's cell walk into a trap",
+  "y": -5,
+  "yText": "5 BBY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Axis network",
+  "summary": "Warned by his mole Lonni Jung that the ISB knows of Anto Kreegyr's planned strike on a Spellhaus power station, Luthen stays silent to protect his source. Kreegyr's fighters are wiped out in the ambush.",
+  "wp": "Spellhaus attack",
+  "places": [
+   "Spellhaus"
+  ],
+  "people": [
+   "Luthen Rael",
+   "Anto Kreegyr",
+   "Lonni Jung",
+   "Saw Gerrera",
+   "Dedra Meero"
+  ],
+  "sources": [
+   "Narkina 5 (episode)",
+   "Rix Road (episode)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "ferrix-riot",
+  "title": "Maarva's funeral sparks the Ferrix riot",
+  "y": -5,
+  "yText": "5 BBY",
+  "frac": 0.55,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "At Maarva Andor's funeral procession, her recorded farewell calls on Ferrix to resist the Empire. The crowd turns on the garrison, troops fire into it, and in the chaos Cassian frees Bix, then offers Luthen his life or his service.",
+  "wp": "Ferrix Riot",
+  "places": [
+   "Ferrix"
+  ],
+  "people": [
+   "Maarva Carassi Andor",
+   "Cassian Jeron Andor",
+   "Bix Caleen",
+   "Dedra Meero",
+   "Luthen Rael",
+   "Syril Karn"
+  ],
+  "sources": [
+   "Rix Road (episode)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "saw-abandons-jyn",
+  "title": "Saw Gerrera leaves Jyn behind on Tamsye Prime",
+  "y": -5,
+  "yText": "5 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Partisans",
+  "summary": "A scouting raid on an old munitions factory on Tamsye Prime goes wrong when a Partisan betrays them, suspecting who Jyn's father is. Saw hides teenage Jyn in a bunker and never comes back for her.",
+  "wp": "Mission to Tamsye Prime",
+  "places": [
+   "Tamsye Prime"
+  ],
+  "people": [
+   "Saw Gerrera",
+   "Jyn Erso",
+   "Reece Tallent"
+  ],
+  "sources": [
+   "Rebel Rising"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-on-mantooine",
+  "title": "Atrivis Liberators seize and lose Mantooine",
+  "y": -5,
+  "yText": "5 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "In the Atrivis sector an armed group calling itself the Liberators seizes Mantooine's Imperial garrison, only to be routed when the navy strikes back. Their Atrivis Resistance Group later joins the Rebel Alliance.",
+  "wp": "Battle on Mantooine",
+  "places": [
+   "Mantooine"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars: The Rebel Files"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "spark-of-rebellion",
+  "title": "Ezra Bridger joins the Ghost crew",
+  "y": -5,
+  "yText": "5 BBY",
+  "frac": 0.7,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": "The timeline gives no firm order between Andor's and Rebels' 5 BBY events; placed after Andor's, as listed.",
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Lothal street kid Ezra Bridger stumbles into a raid by the Ghost's rebel crew and ends up helping them free Wookiee slaves from Kessel. Sensing Ezra's Force talent, the hidden Jedi Kanan Jarrus offers to train him.",
+  "wp": "Mission to free Wookiee prisoners",
+  "places": [
+   "Lothal",
+   "Kessel"
+  ],
+  "people": [
+   "Ezra Bridger",
+   "Kanan Jarrus",
+   "Hera Syndulla",
+   "Sabine Wren",
+   "Garazeb Orrelios",
+   "C1-10P",
+   "Alexsandr Kallus"
+  ],
+  "sources": [
+   "Star Wars Rebels: Spark of Rebellion"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "duel-on-stygeon-prime",
+  "title": "The Grand Inquisitor springs a trap on Stygeon",
+  "y": -5,
+  "yText": "5 BBY",
+  "frac": 0.8,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Inquisitorius",
+  "summary": "Hearing that Luminara Unduli survived the Purge and is held in the Spire, the Ghost crew mounts a rescue, but it is bait: she died years ago. The Grand Inquisitor duels Kanan, and the rebels barely escape.",
+  "wp": "Duel on Stygeon Prime",
+  "places": [
+   "Stygeon Prime"
+  ],
+  "people": [
+   "The Grand Inquisitor",
+   "Kanan Jarrus",
+   "Ezra Bridger",
+   "Luminara Unduli"
+  ],
+  "sources": [
+   "Rise of the Old Masters"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "empire-day-bombing",
+  "title": "Spectres bomb Lothal's Empire Day parade",
+  "y": -4,
+  "yText": "4 BBY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "During Lothal's Empire Day celebration, which is also Ezra's birthday, the Spectres blow up a new experimental TIE fighter on display and rescue a defector, and the Empire answers by tightening its grip on the planet.",
+  "wp": "Bombing at the Empire Day parade",
+  "places": [
+   "Lothal"
+  ],
+  "people": [
+   "Ezra Bridger",
+   "Kanan Jarrus",
+   "Sabine Wren",
+   "Tseebo"
+  ],
+  "sources": [
+   "Empire Day (episode)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "lothal-broadcast",
+  "title": "Ezra's broadcast calls the galaxy to resist",
+  "y": -4,
+  "yText": "4 BBY",
+  "frac": 0.25,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Grand Moff Tarkin arrives to stamp out Lothal's rebels. While the Spectres seize the communications tower, Ezra transmits a call to resist across nearby systems, and Kanan lets himself be captured so the others can escape.",
+  "wp": "Raid on the communications tower",
+  "places": [
+   "Lothal"
+  ],
+  "people": [
+   "Ezra Bridger",
+   "Kanan Jarrus",
+   "Wilhuff Tarkin"
+  ],
+  "sources": [
+   "Call to Action"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "action-at-mustafar",
+  "title": "Kanan rescued at Mustafar; Grand Inquisitor dies",
+  "y": -4,
+  "yText": "4 BBY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "The Spectres cripple Tarkin's Star Destroyer above Mustafar and free Kanan, who defeats the Grand Inquisitor; the Inquisitor lets himself fall rather than face his masters. Saved by the Phoenix fleet, the crew meets Fulcrum: Ahsoka Tano.",
+  "wp": "Action at Mustafar",
+  "places": [
+   "Mustafar"
+  ],
+  "people": [
+   "Kanan Jarrus",
+   "Ezra Bridger",
+   "The Grand Inquisitor",
+   "Wilhuff Tarkin",
+   "Ahsoka Tano",
+   "Hera Syndulla"
+  ],
+  "sources": [
+   "Fire Across the Galaxy"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "siege-of-lothal",
+  "title": "Vader arrives at Lothal; Phoenix Home falls",
+  "y": -4,
+  "yText": "4 BBY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Empire",
+  "summary": "Sent by the Emperor, Vader locks down Lothal, has the refugee settlement Tarkintown burned and hunts the rebels to their fleet, destroying the command ship Phoenix Home. Ahsoka is overwhelmed by what she senses in him.",
+  "wp": "Siege of Lothal",
+  "places": [
+   "Lothal"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Ahsoka Tano",
+   "Kanan Jarrus",
+   "Ezra Bridger",
+   "Maketh Tua"
+  ],
+  "sources": [
+   "The Siege of Lothal"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "rex-joins-the-rebels",
+  "title": "Captain Rex joins the rebels",
+  "y": -4,
+  "yText": "4 BBY",
+  "frac": 0.45,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Ahsoka sends the Ghost crew to find the old clone captain Rex, living with Wolffe and Gregor in a converted walker on Seelos. After fighting off an Imperial attack together, Rex joins the Phoenix rebels.",
+  "wp": "Assault on Seelos",
+  "places": [
+   "Seelos"
+  ],
+  "people": [
+   "Rex",
+   "Wolffe",
+   "Gregor",
+   "Kanan Jarrus",
+   "Ezra Bridger"
+  ],
+  "sources": [
+   "Relics of the Old Republic"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "tie-avenger-yavin-4",
+  "title": "Cassian steals a TIE Avenger prototype",
+  "y": -4,
+  "yText": "4 BBY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Axis network",
+  "summary": "Cassian steals a prototype TIE Avenger from a Sienar test base and lands on Yavin 4, where survivors of the ambushed Maya Pei Brigade take him prisoner before falling into a deadly feud among themselves. He escapes in the fighter.",
+  "wp": "Yavin 4 turf war",
+  "places": [
+   "Yavin 4"
+  ],
+  "people": [
+   "Cassian Jeron Andor"
+  ],
+  "sources": [
+   "One Year Later"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "maltheen-divide-conference",
+  "title": "Krennic plans the ruin of Ghorman",
+  "y": -4,
+  "yText": "4 BBY",
+  "frac": 0.61,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Empire",
+  "summary": "At a secret meeting on Maltheen Divide, Director Krennic tells ISB and military officials that the Emperor needs Ghorman's kalkite for an 'energy' program that is really the Death Star; a smear campaign will justify seizing it.",
+  "wp": "Maltheen Divide conference",
+  "places": [
+   "Maltheen Divide",
+   "Ghorman"
+  ],
+  "people": [
+   "Orson Callan Krennic",
+   "Dedra Meero",
+   "Lio Partagaz"
+  ],
+  "sources": [
+   "One Year Later"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "skirmish-on-mina-rau",
+  "title": "Bix and the Ferrix exiles flee Mina-Rau",
+  "y": -4,
+  "yText": "4 BBY",
+  "frac": 0.63,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Axis network",
+  "summary": "Hiding among undocumented farmworkers on Mina-Rau, Bix Caleen kills an Imperial officer who assaults her during a supply census. Cassian arrives in his stolen TIE to extract Bix, Wilmon and B2EMO, but Brasso is killed escaping.",
+  "wp": "Skirmish on Mina-Rau",
+  "places": [
+   "Mina-Rau"
+  ],
+  "people": [
+   "Bix Caleen",
+   "Cassian Jeron Andor",
+   "Brasso",
+   "Wilmon Paak",
+   "B2EMO"
+  ],
+  "sources": [
+   "Harvest"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leia-day-of-demand",
+  "title": "Leia claims her place as Alderaan's heir",
+  "y": -3,
+  "yText": "3 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "culture",
+  "polity": "Alderaan",
+  "summary": "At sixteen, Leia Organa performs the Day of Demand, formally asserting her right to Alderaan's throne. Taking on challenges of body, mind and heart, she discovers her parents' secret rebel work and insists on joining it.",
+  "wp": "Day of Demand",
+  "places": [
+   "Alderaan"
+  ],
+  "people": [
+   "Leia Skywalker Organa Solo",
+   "Bail Prestor Organa",
+   "Breha Organa"
+  ],
+  "sources": [
+   "Leia, Princess of Alderaan"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "strike-on-onoam",
+  "title": "Partisan bomb kills Moff Panaka",
+  "y": -3,
+  "yText": "3 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Partisans",
+  "summary": "Saw Gerrera's Partisans bomb Moff Quarsh Panaka's retreat on Onoam, a moon of Naboo, minutes after Leia and Queen Dalné leave. His death buries his suspicion that the adopted princess is Padmé Amidala's daughter.",
+  "wp": "Strike on Onoam",
+  "places": [
+   "Onoam",
+   "Naboo"
+  ],
+  "people": [
+   "Quarsh Panaka",
+   "Leia Skywalker Organa Solo",
+   "Dalné"
+  ],
+  "sources": [
+   "Leia, Princess of Alderaan"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "bridgers-die-in-revolt",
+  "title": "Ezra's parents die leading a prison revolt",
+  "y": -3,
+  "yText": "3 BBY",
+  "frac": 0.25,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Stirred by hearing their son's rebel broadcast, Ezra's imprisoned parents lead a breakout from their Lothal prison. Dozens escape, including ex-governor Ryder Azadi, but Mira and Ephraim Bridger are killed.",
+  "wp": "Revolt in an Imperial prison",
+  "places": [
+   "Lothal"
+  ],
+  "people": [
+   "Mira Bridger",
+   "Ephraim Bridger",
+   "Ryder Azadi",
+   "Ezra Bridger"
+  ],
+  "sources": [
+   "Legacy (episode)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "kallus-and-zeb-on-bahryn",
+  "title": "Kallus and Zeb stranded on Bahryn",
+  "y": -3,
+  "yText": "3 BBY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Boarding an Imperial construction module above Geonosis, the rebels walk into Agent Kallus's trap; Zeb and Kallus end up stranded together on Bahryn, a frozen moon, and must cooperate to survive. The ordeal plants doubts that turn Kallus into a rebel informant.",
+  "wp": "Ambush on an Imperial construction module",
+  "places": [
+   "Geonosis",
+   "Bahryn"
+  ],
+  "people": [
+   "Alexsandr Kallus",
+   "Garazeb Orrelios"
+  ],
+  "sources": [
+   "The Honorable Ones"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "chopper-base-founded",
+  "title": "Phoenix Cell settles Chopper Base on Atollon",
+  "y": -3,
+  "yText": "3 BBY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Warned off an Imperial trap by Chopper and the droid AP-5, the Phoenix fleet settles on remote Atollon and builds a hidden headquarters, Chopper Base, where Rex and the Spectres clear out the giant krykna spiders.",
+  "wp": "Chopper Base",
+  "places": [
+   "Atollon"
+  ],
+  "people": [
+   "C1-10P",
+   "AP-5",
+   "Rex",
+   "Hera Syndulla"
+  ],
+  "sources": [
+   "The Forgotten Droid",
+   "The Mystery of Chopper Base"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "mission-to-malachor",
+  "title": "Ahsoka faces Vader on Malachor",
+  "y": -3,
+  "yText": "3 BBY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi (remnant)",
+  "summary": "Seeking Sith knowledge on Malachor, Kanan, Ezra and Ahsoka fight Inquisitors beside Maul, who blinds Kanan. Ahsoka confronts Vader, now certain he was Anakin, inside the collapsing temple and vanishes. Three Inquisitors die there.",
+  "wp": "Mission to Malachor",
+  "places": [
+   "Malachor"
+  ],
+  "people": [
+   "Ahsoka Tano",
+   "Anakin Skywalker",
+   "Kanan Jarrus",
+   "Ezra Bridger",
+   "Maul",
+   "Fifth Brother",
+   "Seventh Sister",
+   "Eighth Brother"
+  ],
+  "sources": [
+   "Twilight of the Apprentice"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "ghorman-infiltrated",
+  "title": "ISB plants agents among Ghorman's rebels",
+  "y": -3,
+  "yText": "3 BBY",
+  "frac": 0.7,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Empire",
+  "summary": "Dedra Meero's ISB team pours propaganda against Ghorman while her partner Syril Karn, posted there as a standards official, spies on the local resistance, the Ghorman Front. Luthen sends Cassian to judge whether the group is worth backing.",
+  "wp": "Ghorman Front",
+  "places": [
+   "Ghorman"
+  ],
+  "people": [
+   "Dedra Meero",
+   "Syril Karn",
+   "Cassian Jeron Andor",
+   "Luthen Rael"
+  ],
+  "sources": [
+   "Ever Been to Ghorman?",
+   "I Have Friends Everywhere"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "ghorman-heist",
+  "title": "Cinta Kaz killed in the Ghorman weapons heist",
+  "y": -3,
+  "yText": "3 BBY",
+  "frac": 0.72,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Unhappy with Cassian's assessment, Luthen sends Vel and Cinta to help the Ghorman Front instead. Their raid on an Imperial arms shipment succeeds, but a jittery recruit's blunder gets Cinta killed.",
+  "wp": "Ghorman heist",
+  "places": [
+   "Ghorman"
+  ],
+  "people": [
+   "Cinta Kaz",
+   "Vel Sartha",
+   "Luthen Rael"
+  ],
+  "sources": [
+   "What a Festive Evening"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "batonn-insurgency-crushed",
+  "title": "Thrawn crushes Nightswan's Batonn insurgency",
+  "y": -2,
+  "yText": "2 BBY",
+  "frac": 0.05,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Empire",
+  "summary": "Admiral Thrawn retakes Scrim Island and besieges Nightswan's rebels in a Batonn mining complex. Governor Pryce blows up the site to hide her killing of an ISB agent, ending the revolt at a heavy civilian cost.",
+  "wp": "Batonn sector insurgency",
+  "places": [
+   "Batonn"
+  ],
+  "people": [
+   "Mitth'raw'nuruodo",
+   "Nevil Cygni",
+   "Arihnda Pryce",
+   "Eli N. Vanto"
+  ],
+  "sources": [
+   "Thrawn (novel)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "thrawn-grand-admiral",
+  "title": "Grand Admiral Thrawn takes on the rebels",
+  "y": -2,
+  "yText": "2 BBY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Empire",
+  "summary": "Backed by Governor Pryce, Thrawn is raised to Grand Admiral and handed the Seventh Fleet, while his aide Eli Vanto is sent to serve the Chiss. Pryce then summons him to Lothal to lead the fight against Phoenix Cell.",
+  "wp": "Seventh Fleet (Galactic Empire)",
+  "places": [
+   "Lothal"
+  ],
+  "people": [
+   "Mitth'raw'nuruodo",
+   "Arihnda Pryce",
+   "Eli N. Vanto"
+  ],
+  "sources": [
+   "Steps Into Shadow",
+   "Thrawn (novel)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "wedge-defects-skystrike",
+  "title": "Wedge Antilles defects from Skystrike Academy",
+  "y": -2,
+  "yText": "2 BBY",
+  "frac": 0.2,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "With covert help from Agent Kallus, now feeding the rebels as Fulcrum, Sabine Wren goes undercover at Skystrike Academy and brings out Wedge Antilles and Hobbie Klivian, who join Phoenix Squadron.",
+  "wp": "Escape from Skystrike Academy",
+  "places": [],
+  "people": [
+   "Wedge Antilles",
+   "Derek Klivian",
+   "Sabine Wren",
+   "Alexsandr Kallus"
+  ],
+  "sources": [
+   "The Antilles Extraction"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "last-battle-on-agamar",
+  "title": "Rex and Separatist droids fight the Empire",
+  "y": -2,
+  "yText": "2 BBY",
+  "frac": 0.25,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Rebellion",
+  "summary": "Searching Agamar for old Separatist supplies, Rex and the Spectres are captured by battle droids still serving the Confederacy. When Imperial troops attack, clone, droid and rebel fight side by side, and the droid general Kalani accepts the war is over.",
+  "wp": "Mission to Agamar (2 BBY)",
+  "places": [
+   "Agamar"
+  ],
+  "people": [
+   "Rex",
+   "Kalani",
+   "Ezra Bridger",
+   "Kanan Jarrus",
+   "Garazeb Orrelios"
+  ],
+  "sources": [
+   "The Last Battle"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "sabine-claims-darksaber",
+  "title": "Sabine Wren claims the Darksaber",
+  "y": -2,
+  "yText": "2 BBY",
+  "frac": 0.35,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "Maul's bond with Ezra leads the Spectres to Dathomir, where they break a Nightsister spell and fend him off. In Maul's lair Sabine finds the Darksaber, the old blade of Mandalore's rulers, and Kanan trains her to wield it.",
+  "wp": "Darksaber",
+  "places": [
+   "Dathomir"
+  ],
+  "people": [
+   "Sabine Wren",
+   "Maul",
+   "Ezra Bridger",
+   "Kanan Jarrus"
+  ],
+  "sources": [
+   "Visions and Voices",
+   "Trials of the Darksaber"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "skirmish-on-krownest",
+  "title": "Gar Saxon dies on Krownest",
+  "y": -2,
+  "yText": "2 BBY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "Sabine returns to her estranged Clan Wren on Krownest to recruit them. When Viceroy Gar Saxon attacks, she beats him in single combat and spares him; he draws on her and her mother Ursa shoots him. Mandalore slides into civil war.",
+  "wp": "Skirmish on Krownest",
+  "places": [
+   "Krownest"
+  ],
+  "people": [
+   "Sabine Wren",
+   "Gar Saxon",
+   "Ursa Wren",
+   "Tristan Wren",
+   "Fenn Rau"
+  ],
+  "sources": [
+   "Legacy of Mandalore"
+  ],
+  "conflict": "Wookieepedia's timeline says Sabine kills Saxon in single combat; the episode, as the Skirmish on Krownest article summarizes it, has her spare him and Ursa Wren shoot him when he tries to fire on her.",
+  "weight": 1
+ },
+ {
+  "id": "ghorman-massacre",
+  "title": "The Ghorman Massacre",
+  "y": -2,
+  "yText": "2 BBY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Empire",
+  "summary": "Imperial troops fire on a peaceful protest in Palmo's plaza, a slaughter the ISB has engineered to complete the Empire's takeover of Ghorman and strip-mine its kalkite. Syril Karn dies in the chaos, and Cassian escapes with a wrecked Imperial droid.",
+  "wp": "Ghorman Massacre",
+  "places": [
+   "Ghorman"
+  ],
+  "people": [
+   "Dedra Meero",
+   "Syril Karn",
+   "Cassian Jeron Andor",
+   "K-2SO"
+  ],
+  "sources": [
+   "Who Are You?",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "mothma-denounces-emperor",
+  "title": "Mon Mothma denounces the Emperor and flees",
+  "y": -2,
+  "yText": "2 BBY",
+  "frac": 0.62,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Rebellion",
+  "summary": "After Ghorman's senator is arrested for disputing the official story, Mon Mothma tells the Senate the massacre was genocide and calls the Emperor a monster. With a warrant out, Luthen's network and Cassian spirit her off Coruscant.",
+  "wp": "Escape from the Senate",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Mon Mothma",
+   "Dasi Oran",
+   "Cassian Jeron Andor",
+   "Luthen Rael",
+   "Bail Prestor Organa"
+  ],
+  "sources": [
+   "Welcome to the Rebellion"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "declaration-of-the-rebel-alliance",
+  "title": "Mon Mothma declares the Rebel Alliance",
+  "y": -2,
+  "yText": "2 BBY",
+  "frac": 0.66,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "founding",
+  "polity": "Rebellion",
+  "summary": "Escorted by Hera Syndulla's crew through the dangerous Archeon Nebula, Mon Mothma reaches Dantooine and broadcasts a call uniting scattered rebel cells into a single Rebel Alliance. Open civil war begins.",
+  "wp": "Declaration of the Rebel Alliance",
+  "places": [
+   "Dantooine"
+  ],
+  "people": [
+   "Mon Mothma",
+   "Hera Syndulla",
+   "Ezra Bridger",
+   "Arihnda Pryce",
+   "Kassius Konstantine"
+  ],
+  "sources": [
+   "Secret Cargo"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "maul-dies-on-tatooine",
+  "title": "Kenobi strikes down Maul on Tatooine",
+  "y": -2,
+  "yText": "2 BBY",
+  "frac": 0.75,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Maul tricks Ezra into leading him across Tatooine's desert to his old enemy. After a brief exchange of blows, Obi-Wan cuts Maul down, and the dying Zabrak asks whether the boy Kenobi guards is the Chosen One.",
+  "wp": "Mission to Tatooine (Imperial Era)",
+  "places": [
+   "Tatooine"
+  ],
+  "people": [
+   "Maul",
+   "Obi-Wan Kenobi",
+   "Ezra Bridger"
+  ],
+  "sources": [
+   "Twin Suns (episode)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "battle-of-atollon",
+  "title": "Thrawn smashes Chopper Base at Atollon",
+  "y": -2,
+  "yText": "2 BBY",
+  "frac": 0.85,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Rebellion",
+  "summary": "Thrawn's Seventh Fleet blockades Atollon and bombards the rebel base. Commander Sato dies ramming an Interdictor, Kallus defects, and the enigmatic Bendu turns on both sides before the survivors break out and regroup on Yavin 4.",
+  "wp": "Battle of Atollon",
+  "places": [
+   "Atollon",
+   "Yavin 4"
+  ],
+  "people": [
+   "Mitth'raw'nuruodo",
+   "Jun Sato",
+   "Alexsandr Kallus",
+   "Bendu",
+   "Jan Dodonna",
+   "Hera Syndulla",
+   "Kanan Jarrus",
+   "Ezra Bridger"
+  ],
+  "sources": [
+   "Zero Hour"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "vader-and-thrawn-on-batuu",
+  "title": "Vader and Thrawn probe a disturbance on Batuu",
+  "y": -2,
+  "yText": "2 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Empire",
+  "summary": "Dispatched by the Emperor to find the source of a ripple in the Force near the Unknown Regions, Vader and Thrawn uncover Grysk agents on Batuu, the start of the Empire's clash with the Grysk Hegemony.",
+  "wp": "Mission to Batuu (Galactic Empire)",
+  "places": [
+   "Batuu"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Mitth'raw'nuruodo"
+  ],
+  "sources": [
+   "Thrawn: Alliances"
+  ],
+  "conflict": "Wookieepedia's timeline lists this mission under 1 BBY, while the mission article follows Star Wars: Timelines in dating Thrawn: Alliances to 2 BBY.",
+  "weight": 1
+ },
+ {
+  "id": "alliance-base-on-yavin-4",
+  "title": "Alliance High Command moves to Yavin 4",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.05,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "After the losses at Atollon, the Alliance's leaders set up their headquarters in the ancient Massassi temples on the jungle moon Yavin 4, home of General Dodonna's Massassi Group.",
+  "wp": "Great Temple",
+  "places": [
+   "Yavin 4"
+  ],
+  "people": [
+   "Jan Dodonna",
+   "Mon Mothma"
+  ],
+  "sources": [
+   "Rogue One: A Star Wars Story",
+   "Star Wars Insider 203"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "mission-to-mandalore",
+  "title": "Sabine passes the Darksaber to Bo-Katan",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "The Spectres help Sabine free her father from an Imperial prison and rally Mandalore's clans. Together they destroy Governor Tiber Saxon and his rebuilt Duchess weapon, and Sabine hands Bo-Katan Kryze the Darksaber to lead them.",
+  "wp": "Mission to Mandalore",
+  "places": [
+   "Mandalore"
+  ],
+  "people": [
+   "Sabine Wren",
+   "Bo-Katan Kryze",
+   "Alrich Wren",
+   "Tiber Saxon",
+   "Ezra Bridger"
+  ],
+  "sources": [
+   "Heroes of Mandalore"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "faos-station-kyber",
+  "title": "Saw destroys a giant kyber crystal",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.15,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Partisans",
+  "summary": "Saw Gerrera drags Ezra and Sabine aboard a disguised Imperial freighter at Faos Station, where they find kidnapped power engineers and a huge kyber crystal. Saw rigs the crystal to blow, taking the ship and a Star Destroyer with it.",
+  "wp": "Mission to Faos Station",
+  "places": [],
+  "people": [
+   "Saw Gerrera",
+   "Ezra Bridger",
+   "Sabine Wren"
+  ],
+  "sources": [
+   "In the Name of the Rebellion"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "kanan-dies-on-lothal",
+  "title": "Kanan Jarrus dies saving his friends",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi (remnant)",
+  "summary": "After Thrawn shatters a rebel air strike on Lothal and Hera is captured, the Spectres break her out. Pryce fires on the fuel depot, and Kanan holds back the blast with the Force until the others escape, dying in the fire.",
+  "wp": "Rescue of Hera Syndulla (Lothal)",
+  "places": [
+   "Lothal"
+  ],
+  "people": [
+   "Kanan Jarrus",
+   "Hera Syndulla",
+   "Ezra Bridger",
+   "Arihnda Pryce"
+  ],
+  "sources": [
+   "Rebel Assault",
+   "Jedi Night"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "ezra-world-between-worlds",
+  "title": "Ezra pulls Ahsoka out of Malachor",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.42,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "force",
+  "polity": "Jedi (remnant)",
+  "summary": "Beneath Lothal's Jedi Temple, Ezra finds a portal to a realm outside time that links moments across history. He snatches Ahsoka away from Vader's blade on Malachor, and the pair escape as Palpatine tries to seize the realm.",
+  "wp": "World Between Worlds",
+  "places": [
+   "Lothal",
+   "Malachor"
+  ],
+  "people": [
+   "Ezra Bridger",
+   "Ahsoka Tano",
+   "Darth Sidious"
+  ],
+  "sources": [
+   "A World Between Worlds"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "liberation-of-lothal",
+  "title": "Ezra and Thrawn vanish as Lothal is freed",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Rebels and Lothal's people destroy the Imperial complex, and Governor Pryce dies. Ezra calls in purrgil that drag Thrawn's Chimaera into hyperspace with both of them aboard, leaving the planet free and their fates unknown.",
+  "wp": "Liberation of Lothal",
+  "places": [
+   "Lothal"
+  ],
+  "people": [
+   "Ezra Bridger",
+   "Mitth'raw'nuruodo",
+   "Arihnda Pryce",
+   "Sabine Wren",
+   "Hera Syndulla",
+   "Garazeb Orrelios",
+   "Alexsandr Kallus"
+  ],
+  "sources": [
+   "Family Reunion – and Farewell"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "jacen-syndulla-born",
+  "title": "Jacen Syndulla born on Lothal",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.52,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "Rebellion",
+  "summary": "Hera Syndulla gives birth to Jacen, her son with Kanan Jarrus, on Lothal after Kanan's death.",
+  "wp": "Jacen Syndulla",
+  "places": [
+   "Lothal"
+  ],
+  "people": [
+   "Jacen Syndulla",
+   "Hera Syndulla",
+   "Kanan Jarrus"
+  ],
+  "sources": [
+   "Family Reunion – and Farewell",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "luthen-rael-falls",
+  "title": "Luthen Rael falls; the Death Star secret leaks",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.7,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Axis network",
+  "summary": "Mole Lonni Jung passes Luthen word of a planet-killing station. Dedra Meero corners Luthen, who survives a suicide attempt until Kleya Marki kills him in hospital. Cassian then rescues Kleya and brings her story to Yavin 4.",
+  "wp": "Raid on the Galactic Antiquities and Objects of Interest",
+  "places": [
+   "Coruscant",
+   "Yavin 4"
+  ],
+  "people": [
+   "Luthen Rael",
+   "Kleya Marki",
+   "Dedra Meero",
+   "Lonni Jung",
+   "Cassian Jeron Andor",
+   "Lio Partagaz"
+  ],
+  "sources": [
+   "Make It Stop",
+   "Who Else Knows?",
+   "Jedha, Kyber, Erso"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "jyn-erso-freed",
+  "title": "Rebels free Jyn Erso from Wobani",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.8,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Word that an Imperial pilot has defected with a message from Galen Erso sends Cassian to Kafrene. To reach Saw Gerrera, who holds the defector Bodhi Rook, the Alliance springs Galen's daughter Jyn from an Imperial work camp on Wobani.",
+  "wp": "Liberation of Erso",
+  "places": [
+   "Ring of Kafrene",
+   "Wobani"
+  ],
+  "people": [
+   "Jyn Erso",
+   "Cassian Jeron Andor",
+   "Bodhi Rook",
+   "Ruescott Melshi",
+   "K-2SO"
+  ],
+  "sources": [
+   "Rogue One: A Star Wars Story"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "destruction-of-jedha-city",
+  "title": "Death Star test destroys Jedha City",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.83,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "Empire",
+  "summary": "Jyn and Cassian find Saw in Jedha's catacombs and see Galen's message revealing a flaw built into the Death Star. The station then test-fires on Jedha City, wiping it out; Saw stays behind to die as the rebels flee.",
+  "wp": "Destruction of Jedha City",
+  "places": [
+   "Jedha"
+  ],
+  "people": [
+   "Jyn Erso",
+   "Cassian Jeron Andor",
+   "Saw Gerrera",
+   "Chirrut Îmwe",
+   "Baze Malbus",
+   "Bodhi Rook",
+   "Orson Callan Krennic",
+   "Wilhuff Tarkin"
+  ],
+  "sources": [
+   "Rogue One: A Star Wars Story"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "mission-to-eadu",
+  "title": "Galen Erso killed on Eadu",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.85,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "death",
+  "polity": "Rebellion",
+  "summary": "Sent to Eadu with secret orders to assassinate Galen Erso, Cassian cannot pull the trigger. Krennic executes Galen's engineers, and a rebel bombing raid ordered by General Draven fatally wounds Galen in front of his daughter.",
+  "wp": "Mission to Eadu",
+  "places": [
+   "Eadu"
+  ],
+  "people": [
+   "Galen Walton Erso",
+   "Jyn Erso",
+   "Cassian Jeron Andor",
+   "Orson Callan Krennic",
+   "Davits Draven"
+  ],
+  "sources": [
+   "Rogue One: A Star Wars Story"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-of-scarif",
+  "title": "Battle of Scarif: the plans are stolen",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.9,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Rebellion",
+  "summary": "Rogue One, a volunteer squad led by Jyn Erso, lifts the battle station's schematics from Scarif's citadel while the Alliance fleet breaks the planetary shield. The team dies as the station fires on the base, but the plans reach Princess Leia's ship.",
+  "wp": "Battle of Scarif",
+  "places": [
+   "Scarif"
+  ],
+  "people": [
+   "Jyn Erso",
+   "Cassian Jeron Andor",
+   "K-2SO",
+   "Bodhi Rook",
+   "Chirrut Îmwe",
+   "Baze Malbus",
+   "Orson Callan Krennic",
+   "Raddus",
+   "Anakin Skywalker",
+   "Leia Skywalker Organa Solo"
+  ],
+  "sources": [
+   "Rogue One: A Star Wars Story"
+  ],
+  "conflict": "Star Wars: Galactic Atlas dated Rogue One and the pre-battle events of A New Hope to 0 BBY; Star Wars: Timelines, which Wookieepedia now follows, puts them in 1 BBY and treats the Battle of Yavin itself as year zero.",
+  "weight": 3
+ },
+ {
+  "id": "tantive-iv-captured",
+  "title": "Vader captures the Tantive IV above Tatooine",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.92,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Empire",
+  "summary": "Pursued from Scarif, Leia's corvette is caught by Vader's Star Destroyer over Tatooine. Before she is taken prisoner, Leia hides the plans and a plea for Obi-Wan Kenobi inside R2-D2, who escapes to the surface with C-3PO.",
+  "wp": "Secret mission to Tatooine",
+  "places": [
+   "Tatooine"
+  ],
+  "people": [
+   "Leia Skywalker Organa Solo",
+   "Anakin Skywalker",
+   "R2-D2",
+   "C-3PO",
+   "Raymus Antilles"
+  ],
+  "sources": [
+   "Star Wars: Episode IV A New Hope",
+   "Rogue One: A Star Wars Story"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "imperial-senate-dissolved",
+  "title": "The Emperor dissolves the Imperial Senate",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.93,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Empire",
+  "summary": "Palpatine disbands the Imperial Senate for good. Regional governors take direct control of their territories, leaning on terror of the new battle station to keep star systems obedient.",
+  "wp": "Dissolution of the Imperial Senate",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Darth Sidious",
+   "Wilhuff Tarkin"
+  ],
+  "sources": [
+   "Star Wars: Episode IV A New Hope"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "lars-homestead-destroyed",
+  "title": "Owen and Beru killed; Luke leaves Tatooine",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.94,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "death",
+  "polity": "Jedi (remnant)",
+  "summary": "Stormtroopers hunting the droids burn the Lars homestead, killing Owen and Beru. Luke, who has just received his father's lightsaber from Obi-Wan Kenobi, leaves with him and hires Han Solo and Chewbacca in Mos Eisley.",
+  "wp": "Lars homestead",
+  "places": [
+   "Tatooine"
+  ],
+  "people": [
+   "Luke Skywalker",
+   "Owen Lars",
+   "Beru Whitesun Lars",
+   "Obi-Wan Kenobi",
+   "Han Solo",
+   "Chewbacca"
+  ],
+  "sources": [
+   "Star Wars: Episode IV A New Hope"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "destruction-of-alderaan",
+  "title": "The Death Star destroys Alderaan",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.95,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "Empire",
+  "summary": "To break Princess Leia and show the galaxy its new power, Grand Moff Tarkin fires the Death Star on peaceful Alderaan even after she names a false rebel base. The planet and its billions are annihilated.",
+  "wp": "Destruction of Alderaan",
+  "places": [
+   "Alderaan"
+  ],
+  "people": [
+   "Wilhuff Tarkin",
+   "Leia Skywalker Organa Solo",
+   "Anakin Skywalker",
+   "Bail Prestor Organa"
+  ],
+  "sources": [
+   "Star Wars: Episode IV A New Hope"
+  ],
+  "conflict": "Star Wars: Galactic Atlas dated Rogue One and the pre-battle events of A New Hope to 0 BBY; Star Wars: Timelines, which Wookieepedia now follows, puts them in 1 BBY and treats the Battle of Yavin itself as year zero.",
+  "weight": 3
+ },
+ {
+  "id": "rescue-of-leia-death-star",
+  "title": "Leia rescued; Kenobi falls to Vader",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.97,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Rebellion",
+  "summary": "Pulled aboard the Death Star, the Falcon's crew frees Leia from the detention level while Obi-Wan switches off the tractor beam. Kenobi lets Vader strike him down so the others can escape, and the Falcon flees with the plans, unknowingly tracked.",
+  "wp": "Rescue of Princess Leia",
+  "places": [],
+  "people": [
+   "Luke Skywalker",
+   "Han Solo",
+   "Chewbacca",
+   "Leia Skywalker Organa Solo",
+   "Obi-Wan Kenobi",
+   "Anakin Skywalker"
+  ],
+  "sources": [
+   "Star Wars: Episode IV A New Hope"
+  ],
+  "conflict": null,
+  "weight": 2
+ }
+]

@@ -1,0 +1,2817 @@
+[
+ {
+  "id": "universe-and-galaxy-form",
+  "title": "Universe and galaxy take shape",
+  "y": -10000000000,
+  "yText": "eons before the Republic",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Canon gives no age for the universe or the galaxy; the anchor is a placeholder that only keeps the earliest events in order.",
+  "category": "deep-time",
+  "polity": "galactic",
+  "summary": "Eons before any recorded history, the universe begins to form, and the galaxy gathers around a giant black hole at its heart, the region later called the Galactic Centre.",
+  "wp": "The galaxy",
+  "places": [],
+  "people": [],
+  "sources": [
+   "Smuggler's Run: A Han Solo & Chewbacca Adventure",
+   "Battlefront: Twilight Company"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "midi-chlorians-wellspring",
+  "title": "Midi-chlorians arise on the Wellspring of Life",
+  "y": -5000000000,
+  "yText": "eons ago (undated)",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Undated in canon. Placeholder anchor after the galaxy's formation, following the order of Wookieepedia's prehistory list.",
+  "category": "force",
+  "polity": "galactic",
+  "summary": "Midi-chlorians, microscopic life forms dwelling in every living thing, originate on the Wellspring of Life, an uncharted world in the Deep Core. They bind living beings to the Force and let them sense what it wills.",
+  "wp": "Wellspring of Life",
+  "places": [
+   "Wellspring of Life"
+  ],
+  "people": [],
+  "sources": [
+   "Destiny (The Clone Wars)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "the-ones-of-mortis",
+  "title": "The Ones make their home on Mortis",
+  "y": -4000000000,
+  "yText": "eons ago (undated)",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Undated; the Father is said to have kept the balance 'for eons'. Placeholder anchor that follows Wookieepedia's list order.",
+  "category": "force",
+  "polity": "the Ones",
+  "summary": "Three beings of immense Force power, a Father with his Son and Daughter, come to dwell on Mortis, a planet-like realm within the Force. The Son embodies the dark side, the Daughter the light; the Father holds them in balance.",
+  "wp": "The Ones",
+  "places": [
+   "Mortis"
+  ],
+  "people": [
+   "Father (Mortis)",
+   "Son",
+   "Daughter"
+  ],
+  "sources": [
+   "Ghosts of Mortis",
+   "Overlords"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "kyber-forms-on-ilum",
+  "title": "Kyber crystals form within Ilum",
+  "y": -2000000000,
+  "yText": "billions of years before the Imperial Era",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "The source says only 'billions of years' before the Imperial Era; anchored at two billion as a floor.",
+  "category": "deep-time",
+  "polity": "galactic",
+  "summary": "Over billions of years, minerals seep into the rock of the planet Ilum, seeding its caverns with rare Force-attuned kyber crystals that will one day give Jedi lightsabers their blades.",
+  "wp": "Kyber crystal",
+  "places": [
+   "Ilum"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars Jedi: Fallen Order"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "dathomiri-seatos-reflex-point",
+  "title": "Far-galaxy travelers build the Seatos reflex point",
+  "y": -100000,
+  "yText": "ancient times (undated)",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Undated. Wookieepedia's timeline lists it among undated ancient events ahead of its 100,000 BBY entries, so it is anchored there; it could be far older or younger.",
+  "category": "exploration",
+  "polity": "Dathomiri",
+  "summary": "Visitors from another galaxy raise a reflex point in a henge on Seatos, charting the way home to Peridea. These people come to be called the Dathomiri; their Nightsister descendants later keep a star map to Peridea on Arcana.",
+  "wp": "Seatos reflex point",
+  "places": [
+   "Seatos",
+   "Peridea",
+   "Arcana"
+  ],
+  "people": [],
+  "sources": [
+   "Part Two: Toil and Trouble",
+   "Part Six: Far, Far Away",
+   "Part One: Master and Apprentice"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "coruscant-first-city-levels",
+  "title": "Coruscant's first city levels rise",
+  "y": -100000,
+  "yText": "100,000 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "founding",
+  "polity": "Coruscant",
+  "summary": "On Coruscant, in the Core, builders lay the planet's earliest city tiers, beginning a building project that will one day cover the entire world in a single sprawling city.",
+  "wp": "Coruscant",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars: Build the Millennium Falcon 26"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "hyperdrive-invented",
+  "title": "The hyperdrive is invented",
+  "y": -30000,
+  "yText": "before c. 30,000 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Undated. Wookieepedia's timeline puts it after the 57,000 BBY settlement of Utapau and before the c. 30,000 BBY Devaronian explorers, who built their own drives; anchored at that later bound.",
+  "category": "technology",
+  "polity": "galactic",
+  "summary": "After ages of slow generation ships and sleeper ships, scientists studying the purrgil, space-dwelling creatures that leap between star systems, work out how to reach hyperspace. The resulting hyperdrive opens the galaxy to fast interstellar travel.",
+  "wp": "Hyperdrive",
+  "places": [],
+  "people": [],
+  "sources": [
+   "Tarkin (novel)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "jedi-order-founded",
+  "title": "The Jedi Order is founded on Ahch-To",
+  "y": -25025,
+  "yText": "c. 25,025 BBY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "At a Force nexus on remote Ahch-To, the figure later revered as the Prime Jedi establishes the Jedi Order to keep peace and justice, raising the first Jedi Temple; a village grows on the island soon after. The Dai Bendu are among its forerunners.",
+  "wp": "Jedi Order",
+  "places": [
+   "Ahch-To"
+  ],
+  "people": [
+   "Prime Jedi"
+  ],
+  "sources": [
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: Timelines",
+   "Star Wars: The Last Jedi: The Visual Dictionary",
+   "Unlimited Power"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "ilum-discovered",
+  "title": "A Jedi scout discovers Ilum",
+  "y": -25025,
+  "yText": "c. 25,025 BBY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "discovery",
+  "polity": "Jedi Order",
+  "summary": "Shortly after the Order's founding, a Jedi scout reaches the frozen world of Ilum by steering through hyperspace with the Force, finding a planet that will become central to Jedi tradition.",
+  "wp": "Ilum",
+  "places": [
+   "Ilum"
+  ],
+  "people": [],
+  "sources": [
+   "Nexus of Power"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "huyang-activated",
+  "title": "The droid Huyang is activated",
+  "y": -25020,
+  "yText": "c. 25,020 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "The droid Huyang is built and begins serving the Jedi. For thousands of years he will guide younglings as they assemble their first lightsabers, and he will outlast the Order itself.",
+  "wp": "Huyang",
+  "places": [],
+  "people": [
+   "Huyang"
+  ],
+  "sources": [
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "galactic-republic-founded",
+  "title": "The Galactic Republic is founded",
+  "y": -25000,
+  "yText": "c. 25,000 BBY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "founding",
+  "polity": "Republic",
+  "summary": "Twenty-two Core Worlds, among them Alderaan, band together as the Core Founders and form the Galactic Republic, a union that will spread its rule across the galaxy over the coming millennia.",
+  "wp": "Galactic Republic",
+  "places": [
+   "Alderaan"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars: Timelines",
+   "The High Republic: The Rising Storm",
+   "The Star Wars Book"
+  ],
+  "conflict": "Wookieepedia's main timeline, citing Star Wars: Timelines and The Rising Storm, dates the founding to c. 25,000 BBY; its Galactic Republic article instead gives a window from c. 25,000 BBY (The Star Wars Book) to c. 20,000 BBY (Star Wars: Timelines).",
+  "weight": 3
+ },
+ {
+  "id": "expansionist-period-trade-routes",
+  "title": "Great trade routes open the galaxy",
+  "y": -25000,
+  "yText": "c. 25,000 BBY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "exploration",
+  "polity": "Republic",
+  "summary": "During the Expansionist Period after the Republic's founding, the Perlemian Trade Route, the Corellian Run and the Corellian Trade Spine are laid out, major hyperlanes binding the Core Worlds to distant regions.",
+  "wp": "Expansionist Period",
+  "places": [
+   "Corellia"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars: Build the Millennium Falcon 29"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "doom-of-the-ordu-aspectu",
+  "title": "The Ordu Aspectu fall at Garn",
+  "y": -20000,
+  "yText": "c. 20,000 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "jedi",
+  "polity": "Ordu Aspectu",
+  "summary": "The Ordu Aspectu, a Jedi splinter sect led by Rur that sought immortality, makes peace with the Jedi after the Entruvia Conflict. When Jedi inspectors arrive, an AI copy of Rur turns the citadel's droids on everyone; Rur dies stopping it.",
+  "wp": "Attack on Garn",
+  "places": [],
+  "people": [
+   "Rur",
+   "Eternal Rur"
+  ],
+  "sources": [
+   "Doctor Aphra (2016) 2",
+   "Doctor Aphra (2016) 6",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "ossus-jedi-center",
+  "title": "Ossus becomes the Jedi cultural heart",
+  "y": -12000,
+  "yText": "c. 12,000 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Nexus of Power says Ossus had been the Jedi's cultural center for 12,000 years before the Imperial Era.",
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "According to Jedi tradition, the world Ossus becomes the Order's cultural center, a place of learning that nearly every Jedi is expected to visit on pilgrimage.",
+  "wp": "Ossus",
+  "places": [
+   "Ossus"
+  ],
+  "people": [],
+  "sources": [
+   "Nexus of Power"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "chiss-ascendancy-formed",
+  "title": "Stybla unification forges the Chiss Ascendancy",
+  "y": -5100,
+  "yText": "c. 5100 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "founding",
+  "polity": "Chiss Ascendancy",
+  "summary": "Far out in the Unknown Regions, the Stybla family unites the Chiss Great Families and becomes the first Ruling Family, founding the Chiss Ascendancy, a secretive state whose code forbids its forces from striking first.",
+  "wp": "Chiss Ascendancy",
+  "places": [
+   "Csilla"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "hundred-year-darkness",
+  "title": "The Hundred-Year Darkness births the Sith",
+  "y": -5000,
+  "yText": "c. 5000 BBY",
+  "frac": 0.0,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Star Wars: Timelines dates the schism to about 5000 BBY; Wookieepedia's main timeline leaves it undated.",
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "A rogue Jedi who believes true power lies in the dark side breaks from the Order with his followers. After the schism called the Hundred-Year Darkness they are driven into exile on Korriban, later Moraband, and become the Sith.",
+  "wp": "Hundred-Year Darkness",
+  "places": [
+   "Moraband"
+  ],
+  "people": [],
+  "sources": [
+   "Sacrifice (episode)",
+   "Star Wars (2015) 9",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "sith-wars",
+  "title": "The Sith Wars",
+  "y": -5000,
+  "yText": "c. 5000 BBY",
+  "frac": 0.05,
+  "y2": -1032,
+  "y2Text": "1032 BBY",
+  "confidence": "estimated",
+  "note": null,
+  "category": "war",
+  "polity": "Sith",
+  "summary": "For roughly four thousand years, successive Sith empires battle the Republic and its Jedi defenders, wielding slave armies and kyber-powered superweapons; even the distant Chiss are drawn in. The wars end only with the Sith's apparent destruction.",
+  "wp": "Sith Wars",
+  "places": [],
+  "people": [],
+  "sources": [
+   "Star Wars: Timelines",
+   "Thrawn Ascendancy: Chaos Rising",
+   "Nexus of Power"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "great-hyperspace-war",
+  "title": "Naga Sadow's Great Hyperspace War",
+  "y": -5000,
+  "yText": "c. 5000 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Known through the Qel-Droma Epics, an in-universe account of uncertain reliability.",
+  "category": "war",
+  "polity": "Sith",
+  "summary": "In the Qel-Droma Epics, a semi-legendary chronicle, Naga Sadow, a Sith Lord, launches the Great Hyperspace War against the Republic and its Jedi, beginning with an invasion of the Deep Core world Empress Teta. The Sith are beaten back.",
+  "wp": "Great Hyperspace War",
+  "places": [
+   "Empress Teta"
+  ],
+  "people": [
+   "Naga Sadow"
+  ],
+  "sources": [
+   "Nexus of Power"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "sith-seize-coruscant",
+  "title": "The Sith seize Coruscant and raise a shrine",
+  "y": -5000,
+  "yText": "c. 5000 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Tarkin has the shrine abandoned for close to 5,000 years by 14 BBY; Wookieepedia's battle article allows any date from c. 5000 to 1032 BBY.",
+  "category": "war",
+  "polity": "Sith",
+  "summary": "Back from exile, the Sith make war on the Republic and capture its capital, Coruscant, building a black shrine over a Force vergence on a sacred mountain. The Jedi eventually retake the world and raze the shrine, though a hidden part of it endures.",
+  "wp": "Shrine in the Depths",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars: Complete Locations (2016)",
+   "Tarkin (novel)",
+   "Nexus of Power"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "great-jedi-library-ossus",
+  "title": "The Great Jedi Library rises on Ossus",
+  "y": -5000,
+  "yText": "c. 5000 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Dated via the Qel-Droma Epics as retold in Nexus of Power.",
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "The Qel-Droma Epics credit Jedi Master Odan-Urr with overseeing the founding of the Great Jedi Library of Ossus, which for close to a millennium houses the Order's gathered knowledge.",
+  "wp": "Great Jedi Library",
+  "places": [
+   "Ossus"
+  ],
+  "people": [
+   "Odan-Urr"
+  ],
+  "sources": [
+   "Nexus of Power",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "massassi-great-temple",
+  "title": "The Massassi build Yavin 4's Great Temple",
+  "y": -5000,
+  "yText": "c. 5000 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "culture",
+  "polity": "Massassi",
+  "summary": "On the jungle moon Yavin 4, Massassi warriors, reportedly under Naga Sadow's command, raise the stone Great Temple. Some five millennia later the Rebel Alliance will hide its main base inside it.",
+  "wp": "Great Temple",
+  "places": [
+   "Yavin 4"
+  ],
+  "people": [
+   "Naga Sadow"
+  ],
+  "sources": [
+   "Star Wars: Episode IV A New Hope",
+   "Star Wars: Journey Through Space (2015)",
+   "Star Wars: Build the Millennium Falcon 23"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "final-assault-on-csilla",
+  "title": "The Starflash saves Csilla at terrible cost",
+  "y": -4300,
+  "yText": "c. 4300 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "battle",
+  "polity": "Chiss Ascendancy",
+  "summary": "Cornered at their homeworld by an unnamed enemy, the Chiss fire the Starflash, a one-shot alien superweapon of great age that consumes its twenty operators. The enemy fleet is annihilated, but the blast cools Csilla's sun and freezes the planet's surface.",
+  "wp": "Final Assault on Csilla",
+  "places": [
+   "Csilla"
+  ],
+  "people": [
+   "Mitth'omo'rossodo"
+  ],
+  "sources": [
+   "Thrawn Ascendancy: Lesser Evil",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "naboo-settled",
+  "title": "Grizmallt refugees settle Naboo",
+  "y": -4000,
+  "yText": "c. 4000 BBY",
+  "frac": 0.2,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "founding",
+  "polity": "Naboo",
+  "summary": "Humans escaping Grizmallt's civil war make a new home on Naboo, a Mid Rim world their explorers found nearly a century earlier. They fight the native Gungans for decades before the two peoples agree to keep apart.",
+  "wp": "Naboo",
+  "places": [
+   "Naboo",
+   "Grizmallt"
+  ],
+  "people": [],
+  "sources": [
+   "Nexus of Power"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "naboo-time-of-suffering",
+  "title": "Naboo's Time of Suffering",
+  "y": -4000,
+  "yText": "c. 4000 BBY",
+  "frac": 0.5,
+  "y2": -832,
+  "y2Text": "832 BBY",
+  "confidence": "estimated",
+  "note": null,
+  "category": "war",
+  "polity": "Naboo",
+  "summary": "Calling themselves the Naboo, the planet's human settlers split into rival city-states that war with one another for over three thousand years. Meanwhile the Gungan tribes unite under Boss Gallo and begin building Otoh Gunga.",
+  "wp": "Time of Suffering",
+  "places": [
+   "Naboo"
+  ],
+  "people": [],
+  "sources": [
+   "Nexus of Power"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "crusade-of-krath",
+  "title": "The Crusade of Krath",
+  "y": -4000,
+  "yText": "c. 4000 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Known only from the Qel-Droma Epics as retold in Nexus of Power.",
+  "category": "war",
+  "polity": "Sith",
+  "summary": "The Qel-Droma Epics tell of the Crusade of Krath, in which a new Sith Empire cuts down thousands of Jedi, a war that ends only with the redemption of the fallen Jedi Ulic Qel-Droma.",
+  "wp": "Crusade of Krath",
+  "places": [],
+  "people": [
+   "Ulic Qel-Droma"
+  ],
+  "sources": [
+   "Nexus of Power"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "cron-supernova",
+  "title": "The Cron Supernova devastates Ossus",
+  "y": -4000,
+  "yText": "c. 4000 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "disaster",
+  "polity": "Jedi Order",
+  "summary": "The Qel-Droma Epics say that Naga Sadow, a Sith Lord, sets off a supernova in the Cron Cluster, destroying the cluster and devastating Ossus, the Jedi world that houses the Great Jedi Library.",
+  "wp": "Cron Supernova",
+  "places": [
+   "Ossus"
+  ],
+  "people": [
+   "Naga Sadow"
+  ],
+  "sources": [
+   "Nexus of Power"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "great-scourge-of-malachor",
+  "title": "The Great Scourge of Malachor",
+  "y": -3966,
+  "yText": "between c. 5000 and c. 1032 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Wookieepedia's article gives only a c. 5000-1032 BBY window; its timeline lists the battle after the c. 3966 BBY Sith accounts of Malachor's kyber weaponry, so it is anchored there.",
+  "category": "battle",
+  "polity": "Sith",
+  "summary": "Jedi Knights assault Malachor's Sith temple, a combined battle station and superweapon; its activation turns everyone in the battle, Jedi and Sith alike, to stone. The Jedi then forbid travel to Malachor and purge it from their archives.",
+  "wp": "Great Scourge of Malachor",
+  "places": [
+   "Malachor"
+  ],
+  "people": [],
+  "sources": [
+   "Twilight of the Apprentice",
+   "Ultimate Star Wars, New Edition",
+   "The Star Wars Book",
+   "Dawn of Rebellion"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "hydian-way",
+  "title": "Freia Kallea blazes the Hydian Way",
+  "y": -3705,
+  "yText": "3705 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "exploration",
+  "polity": "galactic",
+  "summary": "Freia Kallea joins a string of shorter routes into the Hydian Way, a super-hyperroute that lets merchants and privateers cross the galaxy from end to end.",
+  "wp": "Hydian Way",
+  "places": [],
+  "people": [
+   "Freia Kallea"
+  ],
+  "sources": [
+   "Star Wars: Build the Millennium Falcon 29"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "drengir-sith-alliance",
+  "title": "The Drengir ally with the Sith",
+  "y": -2500,
+  "yText": "c. 2500 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "sith",
+  "polity": "Drengir",
+  "summary": "The Drengir, sentient carnivorous plants joined in a hive mind, ally with the Sith. The Sith later turn on them, imprisoning their Great Progenitor aboard an abandoned Amaxine space station and leaving the Drengir dormant for millennia.",
+  "wp": "Great Progenitor",
+  "places": [],
+  "people": [
+   "Great Progenitor"
+  ],
+  "sources": [
+   "Star Wars: Timelines",
+   "The High Republic (2021) 4"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "temple-of-the-kyber-built",
+  "title": "The Temple of the Kyber rises on Jedha",
+  "y": -2022,
+  "yText": "thousands of years before the Clone Wars",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Undated; 'thousands of years' before the Clone Wars means no later than about 2022 BBY, used as the anchor.",
+  "category": "culture",
+  "polity": "Church of the Force",
+  "summary": "In the Holy City on Jedha, a frigid desert moon, builders raise the Temple of the Kyber. Sacred to the Church of the Force and kept by the Guardians of the Whills, it will stand until the Death Star's first test shot.",
+  "wp": "Temple of the Kyber",
+  "places": [
+   "Jedha"
+  ],
+  "people": [],
+  "sources": [
+   "Rogue One: A Star Wars Story",
+   "Star Wars: Rogue One: The Ultimate Visual Guide"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "jedi-break-zygerrian-slave-empire",
+  "title": "Jedi break the Zygerrian Slave Empire",
+  "y": -2022,
+  "yText": "thousands of years before the Clone Wars",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Undated; begun 'thousands of years' before the Clone Wars, so anchored no later than about 2022 BBY.",
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "After the Republic outlaws slavery, the Jedi Order fights the Zygerrian Slave Empire and dismantles its operations, shattering a regime that had sold slave labor across the galaxy for thousands of years and leaving Zygerrians with a lasting hatred of the Jedi.",
+  "wp": "Jedi–Zygerrian conflict",
+  "places": [
+   "Zygerria"
+  ],
+  "people": [],
+  "sources": [
+   "Kidnapped"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "mortis-distress-code-last-used",
+  "title": "An old Jedi distress code falls silent",
+  "y": -2000,
+  "yText": "c. 2000 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "In Overlords the code is said to have gone unused for over 2,000 years before the Clone Wars.",
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "A Jedi distress code falls out of use. More than two thousand years later the Ones of Mortis will broadcast it to lure Ahsoka Tano, Anakin Skywalker and Obi-Wan Kenobi into their realm.",
+  "wp": "Mortis",
+  "places": [
+   "Mortis"
+  ],
+  "people": [
+   "Anakin Skywalker",
+   "Obi-Wan Kenobi",
+   "Ahsoka Tano"
+  ],
+  "sources": [
+   "Overlords"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "darth-momin",
+  "title": "Darth Momin, the Sith sculptor",
+  "y": -1100,
+  "yText": "c. 1100 BBY",
+  "frac": null,
+  "y2": -1000,
+  "y2Text": "c. 1000 BBY",
+  "confidence": "estimated",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Freed from prison and trained by Darth Shaa, the artist Momin later murders his teacher and roams the galaxy designing dark weapons. Two Jedi slay him as he levels a city with a superweapon, but his spirit lives on inside his mask.",
+  "wp": "Darth Momin",
+  "places": [],
+  "people": [
+   "Darth Momin",
+   "Darth Shaa"
+  ],
+  "sources": [
+   "Darth Vader (2017) 22",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "darksaber-forged",
+  "title": "Tarre Vizsla forges the Darksaber",
+  "y": -1050,
+  "yText": "c. 1050 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "Tarre Vizsla, the Order's first Mandalorian Jedi, builds the Darksaber, a singular lightsaber with a black blade. After his death the Temple keeps it, yet it becomes the emblem of House Vizsla and of rule over Mandalore.",
+  "wp": "Darksaber",
+  "places": [],
+  "people": [
+   "Tarre Vizsla"
+  ],
+  "sources": [
+   "Trials of the Darksaber",
+   "The Mandalore Plot",
+   "Star Wars: Timelines"
+  ],
+  "conflict": "Wookieepedia's Darksaber article and main timeline read Star Wars: Timelines' c. 1050 BBY as the year the blade was made, while its Tarre Vizsla article reads the same date as when he entered the Order as a child.",
+  "weight": 3
+ },
+ {
+  "id": "mandalorian-jedi-war-ruins-mandalore",
+  "title": "The Mandalorian-Jedi War lays waste to Mandalore",
+  "y": -1040,
+  "yText": "during the fall of the Old Republic (before 1032 BBY)",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "The war spans ages, back to legendary crusades; Wookieepedia's timeline places its final stage, which ruined Mandalore, in the fall of the Old Republic that ended in 1032 BBY. Anchor is approximate.",
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "Mandalorian warriors, whose armor and weapons grew out of their clashes with Force-wielders, fight the Jedi in a long series of wars, from legendary crusades to a final conflict that leaves Mandalore's surface livable only inside sealed domed cities.",
+  "wp": "Mandalorian-Jedi War",
+  "places": [
+   "Mandalore"
+  ],
+  "people": [
+   "Mandalore the Great"
+  ],
+  "sources": [
+   "The Mandalore Plot",
+   "Trials of the Darksaber",
+   "Chapter 8: Redemption",
+   "Ultimate Star Wars"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "sacking-of-the-jedi-temple",
+  "title": "House Vizsla steals the Darksaber",
+  "y": -1040,
+  "yText": "between c. 1050 and 1032 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Dated only as 'sometime after 1050 BBY' during the fall of the Old Republic, which closed in 1032 BBY.",
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "As the Old Republic collapses, Mandalorians of House Vizsla raid the Jedi Temple on Coruscant and carry off the Darksaber. Their descendants will cut down many Jedi with it and use it to rule Mandalore.",
+  "wp": "Sacking of the Jedi Temple",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [],
+  "sources": [
+   "The Mandalore Plot",
+   "Trials of the Darksaber"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "corvax-bright-star-mustafar",
+  "title": "Lady Corvax's ritual scorches Mustafar",
+  "y": -1032,
+  "yText": "before the modern Republic (before 1032 BBY)",
+  "frac": 0.0,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Vader Immortal says the Corvaxes lived before the Galactic Republic; Wookieepedia takes that to mean before 1032 BBY, so this is a latest-possible anchor.",
+  "category": "disaster",
+  "polity": "Mustafarians",
+  "summary": "When her husband is killed in an attack on lush Mustafar, Lady Corvax steals the Mustafarians' sacred Bright Star for a ritual to revive him. It fails; the crystal's energy shoves the planet onto a new orbit, leaving a volcanic wasteland that later attracts Sith.",
+  "wp": "Corvax",
+  "places": [
+   "Mustafar"
+  ],
+  "people": [
+   "Corvax",
+   "Dorwin Corvax"
+  ],
+  "sources": [
+   "Vader Immortal – Episode I",
+   "Star Wars: Complete Locations (2016)",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "defeat-of-the-sith",
+  "title": "The Sith are defeated at Ruusan",
+  "y": -1032,
+  "yText": "1032 BBY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Jedi Order",
+  "summary": "Weakened by infighting, the Sith's Brotherhood of Darkness is crushed by the Jedi at Ruusan, closing both the Jedi-Sith War and the long Sith Wars. The Sith, who had occupied Coruscant's Jedi Temple, are driven out and believed extinct.",
+  "wp": "Defeat of the Sith",
+  "places": [
+   "Ruusan",
+   "Coruscant"
+  ],
+  "people": [
+   "Darth Bane"
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Sacrifice (episode)",
+   "Star Wars: Timelines",
+   "Star Wars Propaganda: A History of Persuasive Art in the Galaxy"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "modern-jedi-temple-coruscant",
+  "title": "The Four Masters build the Jedi Temple",
+  "y": -1032,
+  "yText": "c. 1032 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "On Coruscant, the Four Masters build a new Jedi Temple over the buried remains of the Sith shrine, hoping to smother its dark power while drawing on the site's strength in the Force. It serves as the Order's headquarters for the next thousand years.",
+  "wp": "Imperial Palace",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars: Timelines",
+   "Star Wars: Complete Locations (2016)",
+   "Tarkin (novel)"
+  ],
+  "conflict": "Star Wars: Timelines dates the modern Temple to c. 1032 BBY, but Star Wars: Complete Locations says it was rebuilt about two thousand years before the Empire's rise, with remnants of an older temple set into its base.",
+  "weight": 2
+ },
+ {
+  "id": "rule-of-two",
+  "title": "Darth Bane creates the Rule of Two",
+  "y": -1032,
+  "yText": "1032 BBY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Sole survivor of his order, Darth Bane decrees that only two Sith may exist at once, one master, one apprentice, hiding in the shadows while his Grand Plan quietly works toward the ruin of the Republic and its Jedi. He is later entombed on Moraband.",
+  "wp": "Rule of Two",
+  "places": [
+   "Moraband"
+  ],
+  "people": [
+   "Darth Bane"
+  ],
+  "sources": [
+   "Sacrifice (episode)",
+   "Star Wars: Episode I The Phantom Menace",
+   "Star Wars: Timelines",
+   "Ultimate Star Wars"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "republic-reformed",
+  "title": "The modern Republic rises from the dark age",
+  "y": -1032,
+  "yText": "1032 BBY",
+  "frac": 0.9,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": "The Star Wars Book places the restoration 1,032 years before A New Hope, and Star Wars: Timelines has Valorum in office by 1032 BBY; Wookieepedia's timeline files the reformation loosely under c. 1000 BBY. Attack of the Clones' 'thousand years' refers to this Republic.",
+  "category": "founding",
+  "polity": "Republic",
+  "summary": "With the Sith gone, the Old Republic reorganizes as the modern Republic, governed from Coruscant by a newly founded Galactic Senate. Its military is disbanded, Tarsus Valorum becomes the first Supreme Chancellor, and the preceding era is remembered as a dark age.",
+  "wp": "Republic Era",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Tarsus Valorum"
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Star Wars Propaganda: A History of Persuasive Art in the Galaxy",
+   "Tarkin (novel)",
+   "Rise of the Separatists",
+   "The Star Wars Book"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "ilum-jedi-temple",
+  "title": "The Jedi build their temple on Ilum",
+  "y": -1014,
+  "yText": "c. 1014 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Fallen Order, set in 14 BBY, calls the temple a thousand years old.",
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "The Jedi build a temple over the largest cave mouth in Ilum's mountains. It becomes a pilgrimage site and home of the Gathering, the rite in which younglings seek the kyber crystals for their first lightsabers.",
+  "wp": "Jedi Temple (Ilum)",
+  "places": [
+   "Ilum"
+  ],
+  "people": [],
+  "sources": [
+   "The Gathering (episode)",
+   "Star Wars Jedi: Fallen Order",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "massassi-extinct",
+  "title": "The Massassi die out",
+  "y": -1000,
+  "yText": "c. 1000 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "fall",
+  "polity": "Massassi",
+  "summary": "The Massassi, the temple-building people of Yavin 4 thought to have served the Sith, become extinct, leaving their great stone temples to the jungle.",
+  "wp": "Massassi",
+  "places": [
+   "Yavin 4"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars: Timelines",
+   "Doctor Aphra (2016) 3"
+  ],
+  "conflict": "Star Wars: Timelines puts the extinction around 1000 BBY, but in Doctor Aphra (2016) 3, set about 0 ABY, the Massassi are said to have been extinct for millennia.",
+  "weight": 1
+ },
+ {
+  "id": "kijimi-dai-bendu-monastery",
+  "title": "Dai Bendu monks settle Kijimi",
+  "y": -982,
+  "yText": "c. 982 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "culture",
+  "polity": "Dai Bendu",
+  "summary": "The Dai Bendu Monastery is built on the snowbound world of Kijimi, and a settlement called Kijimiko grows up around it, the future Kijimi City.",
+  "wp": "Dai Bendu Monastery",
+  "places": [
+   "Kijimi"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Poe Dameron: Free Fall",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary",
+   "Star Wars: Timelines"
+  ],
+  "conflict": "Counting Poe Dameron: Free Fall's 'thousand years' back from 18 ABY gives c. 982 BBY for the city; The Rise of Skywalker: The Visual Dictionary's thousand years before Kijimi's 35 ABY destruction gives c. 965 BBY for the monastery.",
+  "weight": 1
+ },
+ {
+  "id": "maz-kanata-born",
+  "title": "Maz Kanata is born",
+  "y": -973,
+  "yText": "973 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "The Rise of Skywalker: The Visual Dictionary makes her 1,007 years old at the 34 ABY Starkiller incident.",
+  "category": "birth",
+  "polity": "independent",
+  "summary": "Maz Kanata is born. Force-sensitive and extraordinarily long-lived, she will become a legendary pirate queen whose castle on Takodana shelters smugglers for centuries.",
+  "wp": "Maz Kanata",
+  "places": [],
+  "people": [
+   "Maz Kanata"
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary",
+   "Star Wars: Galactic Atlas"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "galactic-accord-of-systems",
+  "title": "The Galactic Accord of Systems",
+  "y": -972,
+  "yText": "c. 972 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "treaty",
+  "polity": "Republic",
+  "summary": "After the war with the Sith and the Republic's reformation, the Galactic Accord of Systems lays down rules of engagement for future wars, among them that an enemy who wishes to surrender must be allowed to.",
+  "wp": "Galactic Accord of Systems",
+  "places": [],
+  "people": [],
+  "sources": [
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "yoda-born",
+  "title": "Yoda is born",
+  "y": -896,
+  "yText": "896 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "Jedi Order",
+  "summary": "Yoda is born, a member of a small, long-lived species whose homeworld he never reveals. Over nine centuries he will become the Jedi Order's revered Grand Master and teacher of generations of Jedi.",
+  "wp": "Yoda",
+  "places": [],
+  "people": [
+   "Yoda"
+  ],
+  "sources": [
+   "Star Wars: Episode VI Return of the Jedi",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "maz-settles-takodana",
+  "title": "Maz Kanata makes Takodana her home",
+  "y": -873,
+  "yText": "c. 873 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "culture",
+  "polity": "independent",
+  "summary": "Maz Kanata makes her home on the forested world of Takodana. Her ancient castle there becomes a neutral haven where smugglers and spacers can rest and trade.",
+  "wp": "Takodana Castle",
+  "places": [
+   "Takodana"
+  ],
+  "people": [
+   "Maz Kanata"
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens",
+   "Star Wars: Timelines"
+  ],
+  "conflict": "Star Wars: Timelines dates her settling to c. 873 BBY, but in The Force Awakens Han Solo says she has run her watering hole for a thousand years.",
+  "weight": 1
+ },
+ {
+  "id": "naboo-joins-republic",
+  "title": "Naboo enters the Republic",
+  "y": -867,
+  "yText": "867 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Naboo",
+  "summary": "Naboo becomes part of the Republic; each year its people will celebrate the anniversary with the Festival of Light.",
+  "wp": "Naboo",
+  "places": [
+   "Naboo"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "king-jafan-unites-naboo",
+  "title": "King Jafan unites Naboo and founds Theed",
+  "y": -832,
+  "yText": "832 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Naboo",
+  "summary": "General Jafan ends Naboo's Time of Suffering, bringing its feuding city-states together through military might and sheer will. Crowned king, he founds Theed and its Royal Palace that same year, beginning Naboo's Great Time of Peace.",
+  "wp": "Jafan",
+  "places": [
+   "Naboo"
+  ],
+  "people": [
+   "Jafan"
+  ],
+  "sources": [
+   "Nexus of Power",
+   "Star Wars: Complete Locations (2016)",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "yoda-begins-training-jedi",
+  "title": "Yoda begins training Jedi",
+  "y": -796,
+  "yText": "796 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Yoda takes on his first students. He will instruct Jedi for some eight hundred years, down to Luke Skywalker on Dagobah.",
+  "wp": "Jedi training",
+  "places": [],
+  "people": [
+   "Yoda",
+   "Luke Skywalker"
+  ],
+  "sources": [
+   "Star Wars: Episode V The Empire Strikes Back",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "jabba-born",
+  "title": "Jabba the Hutt is born",
+  "y": -600,
+  "yText": "600 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "Hutts",
+  "summary": "The Hutt Jabba comes into the world on Nal Hutta, a scion of Desilijic Tiure, one of the influential Hutt crime clans called kajidics. Over six centuries he will build a criminal empire run from Tatooine.",
+  "wp": "Jabba Desilijic Tiure",
+  "places": [
+   "Nal Hutta"
+  ],
+  "people": [
+   "Jabba Desilijic Tiure"
+  ],
+  "sources": [
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "citadel-prison-built",
+  "title": "The Republic builds the Citadel for rogue Jedi",
+  "y": -522,
+  "yText": "c. 522 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "jedi",
+  "polity": "Republic",
+  "summary": "On Lola Sayu, the Republic builds the Citadel, a prison for rogue Jedi set on a bridge between lakes of lava and powered by geothermal heat. Around 520 BBY it takes in the last rogue Jedi on record.",
+  "wp": "Citadel",
+  "places": [
+   "Lola Sayu"
+  ],
+  "people": [],
+  "sources": [
+   "The Citadel (episode)",
+   "Star Wars: Timelines",
+   "Star Wars: Battles that Changed the Galaxy"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "yaddle-born",
+  "title": "Yaddle is born",
+  "y": -509,
+  "yText": "c. 509 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "birth",
+  "polity": "Jedi Order",
+  "summary": "Yaddle, who shares Yoda's species, is born. She will grow into a Jedi Master and join the Council that leads the Order.",
+  "wp": "Yaddle",
+  "places": [],
+  "people": [
+   "Yaddle"
+  ],
+  "sources": [
+   "Star Wars Character Encyclopedia: Updated and Expanded",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "high-republic-era",
+  "title": "The High Republic Era",
+  "y": -500,
+  "yText": "c. 500 BBY",
+  "frac": null,
+  "y2": -100,
+  "y2Text": "100 BBY",
+  "confidence": "estimated",
+  "note": null,
+  "category": "era",
+  "polity": "Republic",
+  "summary": "The Republic at its zenith and the Jedi at their height push out into the Outer Rim frontier: an age of exploration, great building works and relative peace, later shaken by the Path of the Open Hand, the Nihil and hidden Sith.",
+  "wp": "High Republic Era",
+  "places": [],
+  "people": [],
+  "sources": [
+   "Star Wars: Timelines",
+   "The High Republic: Light of the Jedi",
+   "The High Republic: Convergence",
+   "Star Wars: The Acolyte"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "path-of-the-open-hand-founded",
+  "title": "The Path of the Open Hand is founded",
+  "y": -483,
+  "yText": "by c. 483 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "culture",
+  "polity": "Path of the Open Hand",
+  "summary": "Breaking with the Guardians of the Whills on Jedha, the priest Sachar Rold starts a new sect on Dalna: the Path of the Open Hand, which holds that no one should wield the Force at all.",
+  "wp": "Path of the Open Hand",
+  "places": [
+   "Dalna",
+   "Jedha"
+  ],
+  "people": [
+   "Sachar Rold"
+  ],
+  "sources": [
+   "The High Republic: Convergence",
+   "Star Wars: The High Republic Character Encyclopedia"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "echo-stone-shattered",
+  "title": "Barnabas Vim shatters the Echo Stone",
+  "y": -482,
+  "yText": "c. 482 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Seeking the legendary Echo Stone, which magnifies bonds with the Force, Jedi Master Barnabas Vim and Padawan Vix Fonnick find it on Angcord, tainted by the dark side. They break it into three shards and part ways to hide them.",
+  "wp": "Mission to Angcord",
+  "places": [
+   "Angcord"
+  ],
+  "people": [
+   "Barnabas Vim",
+   "Vix Fonnick"
+  ],
+  "sources": [
+   "The High Republic Adventures: Quest of the Jedi",
+   "Star Wars: The High Republic Character Encyclopedia"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "pathfinder-teams-outer-rim",
+  "title": "Pathfinder teams push into the Outer Rim",
+  "y": -392,
+  "yText": "c. 392 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "exploration",
+  "polity": "Republic",
+  "summary": "Co-Chancellors Kyong Greylark and Orlen Mollo send out Pathfinder teams, pairing Republic explorers with Jedi, to chart the Outer Rim and extend the Republic's reach into the lawless Galactic Frontier.",
+  "wp": "Outer Rim Exploration Team",
+  "places": [],
+  "people": [
+   "Kyong Greylark",
+   "Orlen Mollo"
+  ],
+  "sources": [
+   "Star Wars: Timelines",
+   "The High Republic: Convergence"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "eiram-eronoh-war",
+  "title": "The Eiram and E'ronoh War",
+  "y": -387,
+  "yText": "387 BBY",
+  "frac": null,
+  "y2": -382,
+  "y2Text": "382 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Eiram and E'ronoh",
+  "summary": "When Niko A'lbaran, a prince of E'ronoh, dies on a mission to Eiram, the twin worlds' Forever War flares anew. A Republic summit betroths heirs Xiri A'lbaran and Phan-tu Zenn, but fighting flares until a treaty is sealed on their shared moon, Eirie.",
+  "wp": "Eiram and E'ronoh War",
+  "places": [
+   "Eiram",
+   "E'ronoh"
+  ],
+  "people": [
+   "Xiri A'lbaran",
+   "Phan-tu Zenn",
+   "Orlen Mollo"
+  ],
+  "sources": [
+   "The High Republic: Convergence",
+   "The High Republic: Cataclysm",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "great-hyperspace-rush",
+  "title": "The Great Hyperspace Rush",
+  "y": -383,
+  "yText": "c. 383 BBY",
+  "frac": null,
+  "y2": -340,
+  "y2Text": "between c. 350 and c. 330 BBY",
+  "confidence": "estimated",
+  "note": "Wookieepedia's article ends the rush somewhere between c. 350 and c. 330 BBY; y2 is a midpoint.",
+  "category": "exploration",
+  "polity": "Republic",
+  "summary": "Prospectors race to map and claim hyperspace routes through the barely charted Outer Rim, making hyperlane travel safer and lifting the prospecting clans San Tekka and Graf to wealth and power.",
+  "wp": "Great Hyperspace Rush",
+  "places": [],
+  "people": [],
+  "sources": [
+   "Star Wars: Timelines",
+   "The High Republic: A Test of Courage",
+   "The High Republic: Path of Deceit"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "great-leveler-hatches",
+  "title": "The Path unleashes the Great Leveler",
+  "y": -382,
+  "yText": "382 BBY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "force",
+  "polity": "Path of the Open Hand",
+  "summary": "On Dalna the Path of the Open Hand hatches the Great Leveler, a Force-devouring Nameless beast. It petrifies two Jedi, Zallah Macri and Kevmo Zink, who were tracking the Rod of Seasons, an artifact Yana Ro then uses to command it.",
+  "wp": "Great Leveler",
+  "places": [
+   "Dalna"
+  ],
+  "people": [
+   "Zallah Macri",
+   "Kevmo Zink",
+   "Yana Ro",
+   "Elecia Zeveron"
+  ],
+  "sources": [
+   "The High Republic: Path of Deceit"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "blade-of-bardotta",
+  "title": "Porter Engle becomes the Blade of Bardotta",
+  "y": -382,
+  "yText": "382 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Jedi Porter Engle and his sister Barash Silvain help drive a mercenary army from besieged Firevale on Gansevor; Silvain, blaming herself for the losses, distances herself from the Order. Engle later breaks a siege of Bardotta, winning fame as the Blade of Bardotta.",
+  "wp": "Porter Engle",
+  "places": [
+   "Gansevor",
+   "Bardotta"
+  ],
+  "people": [
+   "Porter Engle",
+   "Barash Silvain",
+   "Abediah Viess"
+  ],
+  "sources": [
+   "The High Republic — The Blade 1",
+   "The High Republic — The Blade 4",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "maz-kanata-dank-graks-war",
+  "title": "Pirate queen Maz Kanata battles the Dank Graks",
+  "y": -382,
+  "yText": "382 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "pirates",
+  "summary": "Maz Kanata, now a pirate queen, fights a turf war with the Dank Graks, a gang of castoffs from dark-side cults led by the Geonosian Arkik Von. Padawan Sav Malagán joins Maz undercover, and the Graks are finally beaten on Takodana.",
+  "wp": "Turf war with the Dank Graks",
+  "places": [
+   "Takodana"
+  ],
+  "people": [
+   "Maz Kanata",
+   "Savina Besatrix Malagán"
+  ],
+  "sources": [
+   "The High Republic Adventures (2022) 1"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-of-jedha",
+  "title": "The Battle of Jedha",
+  "y": -382,
+  "yText": "382 BBY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Path of the Open Hand",
+  "summary": "A Jedha summit meant to end the Eiram-E'ronoh war is bombed, and the Path of the Open Hand looses the Great Leveler on a Holy City riot. Fighting spreads, but Vildar Mac and Tey Sirrek stop the Path stealing the Rod of Daybreak.",
+  "wp": "Battle of Jedha",
+  "places": [
+   "Jedha"
+  ],
+  "people": [
+   "Vildar Mac",
+   "Tey Sirrek",
+   "Creighton Sun",
+   "Silandra Sho"
+  ],
+  "sources": [
+   "The High Republic: The Battle of Jedha",
+   "The High Republic (2022) 4",
+   "The High Republic: Path of Vengeance",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "night-of-sorrow",
+  "title": "The Night of Sorrow on Dalna",
+  "y": -382,
+  "yText": "382 BBY",
+  "frac": 0.75,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Jedi Order",
+  "summary": "Jedi and Republic envoys investigating the Path on Dalna are ambushed; its militant wing, the Path of the Closed Fist, sets Nameless creatures on them and many Jedi die. Helped by fighters from Eiram and E'ronoh, the Jedi finally crush the cult.",
+  "wp": "Night of Sorrow",
+  "places": [
+   "Dalna"
+  ],
+  "people": [
+   "Elecia Zeveron",
+   "Oliviah Zeveron",
+   "Azlin Rell",
+   "Kyong Greylark",
+   "Axel Greylark",
+   "Marda Ro"
+  ],
+  "sources": [
+   "The High Republic: Cataclysm",
+   "The High Republic: Path of Vengeance",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "marda-ro-founds-nihil",
+  "title": "Marda Ro founds the Nihil",
+  "y": -382,
+  "yText": "382 BBY",
+  "frac": 0.8,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Nihil",
+  "summary": "Discovering that the Path's Mother, Elecia Zeveron, was secretly Force-sensitive, Marda Ro turns the Great Leveler on her. She then leaves Dalna and gathers a band of marauders that grows into the Nihil.",
+  "wp": "Nihil",
+  "places": [
+   "Dalna"
+  ],
+  "people": [
+   "Marda Ro",
+   "Elecia Zeveron"
+  ],
+  "sources": [
+   "The High Republic: Path of Vengeance",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "nameless-cover-up",
+  "title": "Yoda and Creighton Sun bury the Nameless secret",
+  "y": -382,
+  "yText": "382 BBY",
+  "frac": 0.85,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "After the slaughter on Dalna, Yoda and Master Creighton Sun decide to keep the Nameless, Force-draining creatures, a secret so that no one can turn them on the Jedi. The secret holds until the Nihil wield them some 150 years later.",
+  "wp": "Shrikarai",
+  "places": [
+   "Dalna"
+  ],
+  "people": [
+   "Creighton Sun",
+   "Yoda"
+  ],
+  "sources": [
+   "The High Republic: Cataclysm"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "mari-san-tekka-abducted",
+  "title": "The Ro family abducts Mari San Tekka",
+  "y": -330,
+  "yText": "by c. 330 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "crime",
+  "polity": "Ro family",
+  "summary": "Mari San Tekka, a San Tekka girl gifted with the ability to sense routes through hyperspace, is seized by an Evereni of the Ro family. Her secret Paths will later let the Nihil strike and vanish at will.",
+  "wp": "Mari San Tekka",
+  "places": [],
+  "people": [
+   "Mari San Tekka",
+   "Ro (Evereni)"
+  ],
+  "sources": [
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "techno-union-mustafar",
+  "title": "The Techno Union takes over Mustafar",
+  "y": -319,
+  "yText": "c. 319 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "politics",
+  "polity": "Techno Union",
+  "summary": "Mustafar falls under the control of the Techno Union, which rents the volcanic world back to its native Mustafarians and supplies the machinery they use to mine it. Their labor pays the rent, and Mustafar becomes a mining hub.",
+  "wp": "Techno Union",
+  "places": [
+   "Mustafar"
+  ],
+  "people": [],
+  "sources": [
+   "Star Wars: The Complete Visual Dictionary, New Edition",
+   "Star Wars: Timelines",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "asgar-ro-eye-of-the-nihil",
+  "title": "Asgar Ro becomes Eye of the Nihil",
+  "y": -252,
+  "yText": "c. 252 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "crime",
+  "polity": "Nihil",
+  "summary": "Impatient for war on the Republic, Asgar Ro kills his mother Shalla aboard the Gaze Electric. He then reveals the hyperspace Paths secretly supplied by Mari San Tekka, has his son Marchion prove them in battle, and names himself Eye of the Nihil.",
+  "wp": "Asgar Ro",
+  "places": [],
+  "people": [
+   "Asgar Ro",
+   "Shalla Ro",
+   "Marchion Ro",
+   "Mari San Tekka"
+  ],
+  "sources": [
+   "The High Republic: Eye of the Storm 1",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "marchion-ro-takes-power",
+  "title": "Marchion Ro kills his father, seizes the Nihil",
+  "y": -242,
+  "yText": "c. 242 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "crime",
+  "polity": "Nihil",
+  "summary": "Believing Asgar Ro's son will be easier to manipulate, the Tempest Runners plot against the Eye, and Lourna Dee stabs him. Marchion finds his dying father and finishes him himself, becoming Eye of the Nihil and proving far harder to control.",
+  "wp": "Marchion Ro",
+  "places": [],
+  "people": [
+   "Marchion Ro",
+   "Asgar Ro",
+   "Lourna Dee"
+  ],
+  "sources": [
+   "The High Republic: Tempest Runner",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "lina-soh-elected",
+  "title": "Lina Soh wins the chancellorship",
+  "y": -234,
+  "yText": "c. 234 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "politics",
+  "polity": "Republic",
+  "summary": "Lina Soh of Daghee wins election as Supreme Chancellor, promising to extend the Republic's reach. Her Great Works, from mass-produced bacta to Starlight Beacon, aim to bind the galaxy together and draw in the Outer Rim.",
+  "wp": "Supreme Chancellor election, 234 BBY",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Lina Soh"
+  ],
+  "sources": [
+   "Star Wars: Timelines",
+   "The High Republic: Light of the Jedi"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "nihil-conflict",
+  "title": "The Nihil conflict",
+  "y": -232,
+  "yText": "232 BBY",
+  "frac": 0.1,
+  "y2": -228,
+  "y2Text": "228 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Nihil",
+  "summary": "Beginning with the Great Hyperspace Disaster and ending in their surrender at Eriadu, the Nihil wage four years of raids, terror and conquest on the Republic and its Jedi, at their height destroying Starlight Beacon and walling off the Occlusion Zone.",
+  "wp": "Nihil conflict",
+  "places": [],
+  "people": [],
+  "sources": [
+   "The High Republic: Light of the Jedi",
+   "The High Republic: The Fallen Star",
+   "The High Republic: Trials of the Jedi",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "great-hyperspace-disaster",
+  "title": "The Great Hyperspace Disaster",
+  "y": -232,
+  "yText": "232 BBY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "Republic",
+  "summary": "The freighter Legacy Run is torn apart in hyperspace after meeting a Nihil ship, and its wreckage erupts into realspace as deadly projectiles. Jedi and Republic forces race to shield the Hetzal system. Marchion Ro and his Nihil are secretly behind the catastrophe.",
+  "wp": "Great Hyperspace Disaster",
+  "places": [
+   "Hetzal Prime"
+  ],
+  "people": [
+   "Marchion Ro",
+   "Avar Kriss",
+   "Pevel Kronara",
+   "Lina Soh"
+  ],
+  "sources": [
+   "The High Republic: Light of the Jedi",
+   "The High Republic: The Rising Storm"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "attack-on-tanalorr",
+  "title": "The Nihil overrun Tanalorr",
+  "y": -232,
+  "yText": "232 BBY",
+  "frac": 0.25,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Wookieepedia places it in 232 BBY because it falls between the Great Hyperspace Disaster and the end of the Emergences.",
+  "category": "battle",
+  "polity": "Nihil",
+  "summary": "While the Jedi assess Tanalorr as a possible training world, the Nihil strike without warning and overwhelm its defenders. The Jedi Council gives up the planet, and Jedi Knight Dagan Gera, embittered by the loss, eventually betrays the Order.",
+  "wp": "Attack on Tanalorr",
+  "places": [
+   "Tanalorr"
+  ],
+  "people": [
+   "Dagan Gera",
+   "Oppo Rancisis"
+  ],
+  "sources": [
+   "Star Wars Jedi: Survivor",
+   "Star Wars: The High Republic: Chronicles of the Jedi",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "drengir-awakened-amaxine",
+  "title": "Stranded Jedi awaken the Drengir",
+  "y": -232,
+  "yText": "232 BBY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "discovery",
+  "polity": "Jedi Order",
+  "summary": "Thrown from hyperspace by the Great Disaster, a group of Jedi and the Vessel's crew shelter on an old Amaxine station. Under Nihil attack they destroy a set of statues, releasing the Drengir the Sith had sealed inside long ago.",
+  "wp": "Mission on the Amaxine station",
+  "places": [],
+  "people": [
+   "Reath Silas",
+   "Cohmac Vitus",
+   "Orla Jareni",
+   "Dez Rydan",
+   "Affie Hollow",
+   "Leox Gyasi"
+  ],
+  "sources": [
+   "The High Republic: Into the Dark"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "starlight-beacon-dedicated",
+  "title": "Starlight Beacon is dedicated",
+  "y": -232,
+  "yText": "232 BBY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "founding",
+  "polity": "Republic",
+  "summary": "Starlight Beacon, a Republic station with a Jedi temple at its heart, built as a Great Work to guide travelers and relay signals across the Outer Rim, is dedicated before Chancellor Soh, Yoda and Pra-Tre Veter, with Avar Kriss as marshal.",
+  "wp": "Dedication of the Starlight Beacon",
+  "places": [],
+  "people": [
+   "Avar Kriss",
+   "Lina Soh",
+   "Yoda",
+   "Pra-Tre Veter",
+   "Keeve Trennis"
+  ],
+  "sources": [
+   "The High Republic: Light of the Jedi",
+   "The High Republic (2021) 1"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "battle-of-tenoo",
+  "title": "Young Jedi defend the Tenoo temple",
+  "y": -232,
+  "yText": "232 BBY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Jedi Order",
+  "summary": "Aiming to push the Jedi out of the Bri'ahl sector, Gangul chief Sellaccc Orryak seizes the Tenoo Jedi Temple, but Padawan Wes Vinik, youngling Kai Brightstar and their friends rally allies and win it back.",
+  "wp": "Battle of Tenoo",
+  "places": [
+   "Tenoo"
+  ],
+  "people": [
+   "Kai Brightstar",
+   "Wes Vinik",
+   "Lys Solay",
+   "Nubs"
+  ],
+  "sources": [
+   "The Battle of Tenoo"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "drengir-crisis",
+  "title": "The Drengir crisis",
+  "y": -232,
+  "yText": "232 BBY",
+  "frac": 0.7,
+  "y2": -231,
+  "y2Text": "231 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Drengir",
+  "summary": "Revived Drengir spread through the Outer Rim, preying on Sedri Minor and overrunning Hutt cities on Nal Hutta. Jedi and Hutts join forces, and Avar Kriss leads a strike on the Drengir homeworld Mulita that captures their Great Progenitor.",
+  "wp": "Drengir crisis",
+  "places": [
+   "Sedri Minor",
+   "Nal Hutta",
+   "Mulita"
+  ],
+  "people": [
+   "Avar Kriss",
+   "Keeve Trennis",
+   "Sskeer",
+   "Myarga Anjiliac Atirue",
+   "Great Progenitor"
+  ],
+  "sources": [
+   "The High Republic (2021) 2",
+   "The High Republic (2021) 8",
+   "The High Republic: The Rising Storm"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "valo-atrocity",
+  "title": "The Nihil strike the Republic Fair on Valo",
+  "y": -231,
+  "yText": "231 BBY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Nihil",
+  "summary": "Chancellor Soh's Republic Fair on Valo, staged to show the galaxy's recovery from the Great Disaster, is ravaged by a Nihil assault while the Jedi are distracted. The raiders are repelled, but hundreds of thousands die.",
+  "wp": "Valo Atrocity",
+  "places": [
+   "Valo"
+  ],
+  "people": [
+   "Lina Soh",
+   "Stellan Gios",
+   "Lourna Dee",
+   "Pan Eyta",
+   "Bell Zettifar"
+  ],
+  "sources": [
+   "The High Republic: The Rising Storm",
+   "The High Republic: Race to Crashpoint Tower"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "battle-of-grizal",
+  "title": "Loden Greatstorm dies at the Battle of Grizal",
+  "y": -231,
+  "yText": "231 BBY",
+  "frac": 0.55,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Jedi Order",
+  "summary": "Jedi track Nihil raiders home to Grizal and storm their base. Marchion Ro sets the Great Leveler loose, and it kills Loden Greatstorm, long a Nihil captive, before his Padawan Bell Zettifar; the Jedi leave believing Lourna Dee leads the Nihil.",
+  "wp": "Battle of Grizal",
+  "places": [
+   "Grizal"
+  ],
+  "people": [
+   "Loden Greatstorm",
+   "Bell Zettifar",
+   "Marchion Ro",
+   "Stellan Gios",
+   "Lourna Dee"
+  ],
+  "sources": [
+   "The High Republic: The Rising Storm"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "gravitys-heart-destroyed",
+  "title": "Gravity's Heart falls; Mari San Tekka dies",
+  "y": -231,
+  "yText": "231 BBY",
+  "frac": 0.8,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "Republic and Jedi forces destroy Gravity's Heart, a Nihil station housing Chancey Yarrow's gravity-well weapon, and free captive Jedi. Dying, the Nihil's navigator Mari San Tekka hands Vernestra Rwoh one last hyperspace route.",
+  "wp": "Battle at Gravity's Heart",
+  "places": [],
+  "people": [
+   "Vernestra Rwoh",
+   "Mari San Tekka",
+   "Chancey Yarrow",
+   "Sylvestri Yarrow",
+   "Reath Silas",
+   "Imri Cantaros"
+  ],
+  "sources": [
+   "The High Republic: Out of the Shadows"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "destruction-of-dalna",
+  "title": "The Nihil destroy Dalna",
+  "y": -230,
+  "yText": "230 BBY",
+  "frac": 0.2,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "Nihil",
+  "summary": "Nihil scientist Zadina Mkampa uses a crystal matrix buried in Dalna's crust to trigger quakes and volcanic devastation. Imri Cantaros helps organize a rescue in which Starlight Beacon itself is hauled across hyperspace to evacuate the Dalnans.",
+  "wp": "Destruction of Dalna",
+  "places": [
+   "Dalna"
+  ],
+  "people": [
+   "Zadina Mkampa",
+   "Imri Cantaros",
+   "Vernestra Rwoh"
+  ],
+  "sources": [
+   "The High Republic: Mission to Disaster"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "ro-captures-nameless",
+  "title": "Marchion Ro captures Nameless on Planet X",
+  "y": -230,
+  "yText": "230 BBY",
+  "frac": 0.35,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "force",
+  "polity": "Nihil",
+  "summary": "Guided by his family's lore, Marchion Ro sacrifices waves of Nihil strikeships to distract the storm veil around Planet X, slips through with his loyal She'ar, and wields the Rod of Seasons to seize a clutch of Nameless.",
+  "wp": "Mission to Planet X",
+  "places": [
+   "Sophros"
+  ],
+  "people": [
+   "Marchion Ro"
+  ],
+  "sources": [
+   "The High Republic: Eye of the Storm 2"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "fall-of-starlight-beacon",
+  "title": "Starlight Beacon falls",
+  "y": -230,
+  "yText": "230 BBY",
+  "frac": 0.9,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "Republic",
+  "summary": "Nihil saboteurs and Nameless creatures cripple Starlight Beacon, and the station plunges onto Eiram. Stellan Gios gives his life steering it clear of Barraza City. Marchion Ro then steps into the open, proclaiming to the whole galaxy that he leads the Nihil.",
+  "wp": "Destruction of Starlight Beacon",
+  "places": [
+   "Eiram"
+  ],
+  "people": [
+   "Stellan Gios",
+   "Estala Maru",
+   "Elzar Mann",
+   "Bell Zettifar",
+   "Avar Kriss",
+   "Marchion Ro"
+  ],
+  "sources": [
+   "The High Republic: The Fallen Star",
+   "The High Republic (2021) 15",
+   "The High Republic: Trail of Shadows 5"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "stormwall-occlusion-zone",
+  "title": "The Stormwall seals the Occlusion Zone",
+  "y": -230,
+  "yText": "230 BBY",
+  "frac": 0.95,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Nihil",
+  "summary": "Deploying stormseeds, the Nihil raise the Stormwall, a barrier impassable to hyperspace travel and communications, and enclose ten sectors, Valo among them, in their Occlusion Zone. A Republic fleet is lost, and Avar Kriss is among the Jedi trapped inside.",
+  "wp": "Stormwall",
+  "places": [
+   "Valo"
+  ],
+  "people": [
+   "Marchion Ro",
+   "Avar Kriss",
+   "Porter Engle"
+  ],
+  "sources": [
+   "The High Republic – Shadows of Starlight 1",
+   "The High Republic: Eye of the Storm 2",
+   "The High Republic: Escape from Valo"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "guardian-protocols",
+  "title": "The Jedi invoke the Guardian Protocols",
+  "y": -229,
+  "yText": "229 BBY",
+  "frac": 0.02,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "A week after Starlight's fall, with most Jedi already recalled to Coruscant, the Council puts the Guardian Protocols into effect, fast-tracking learners through the ranks and readying the Order for open war on the Nihil.",
+  "wp": "Guardian Protocols",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [],
+  "sources": [
+   "The High Republic – Shadows of Starlight 1"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "pra-tre-veter-executed",
+  "title": "Marchion Ro executes Grand Master Pra-Tre Veter",
+  "y": -229,
+  "yText": "229 BBY",
+  "frac": 0.97,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "death",
+  "polity": "Jedi Order",
+  "summary": "Marking a year since Starlight's fall, Marchion Ro has Grand Master Pra-Tre Veter, captured months earlier in a Nihil ambush on Asternin, put to death on a live broadcast.",
+  "wp": "Pra-Tre Veter's execution",
+  "places": [],
+  "people": [
+   "Pra-Tre Veter",
+   "Marchion Ro"
+  ],
+  "sources": [
+   "The High Republic: The Eye of Darkness"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "occupation-of-naboo",
+  "title": "The Nihil occupy Naboo",
+  "y": -228,
+  "yText": "228 BBY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Nihil",
+  "summary": "Forces under Nihil General Abediah Viess conquer Naboo, and its queen escapes into hiding. Jedi and Republic troops led by Avar Kriss later free the planet, though Viess slips away.",
+  "wp": "Occupation of Naboo",
+  "places": [
+   "Naboo"
+  ],
+  "people": [
+   "Abediah Viess",
+   "Avar Kriss"
+  ],
+  "sources": [
+   "The High Republic: Temptation of the Force"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "battle-of-eriadu",
+  "title": "The Battle of Eriadu ends the Nihil conflict",
+  "y": -228,
+  "yText": "228 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "Republic fleets, Jedi and furious Eriaduans rallied by the Tarkin family, joined by Hutt, Togruta and Mon Calamari forces, fight the Nihil occupiers for Eriadu. The Nihil surrender, General Viess and the Warden die, and the Nihil conflict ends.",
+  "wp": "Battle of Eriadu",
+  "places": [
+   "Eriadu"
+  ],
+  "people": [
+   "Keeve Trennis",
+   "Farzala Tarabal",
+   "Abediah Viess",
+   "The Warden"
+  ],
+  "sources": [
+   "The High Republic: Trials of the Jedi"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "luminous-nine-sophros",
+  "title": "The Luminous Nine on Planet X",
+  "y": -228,
+  "yText": "228 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "force",
+  "polity": "Jedi Order",
+  "summary": "Nine Jedi and former Jedi carry the Nameless home to Planet X to halt the blight. Marchion Ro kills the creatures and wrecks his flagship, dropping the Stormwall, but is captured; Avar Kriss and Elzar Mann stay to hold the blight in check.",
+  "wp": "Mission to Planet X (Jedi Order)",
+  "places": [
+   "Sophros"
+  ],
+  "people": [
+   "Avar Kriss",
+   "Elzar Mann",
+   "Marchion Ro",
+   "Bell Zettifar",
+   "Burryaga Agaburry",
+   "Torban Buck",
+   "Azlin Rell"
+  ],
+  "sources": [
+   "The High Republic: Trials of the Jedi"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "trial-of-marchion-ro",
+  "title": "Marchion Ro is tried and imprisoned",
+  "y": -228,
+  "yText": "228 BBY",
+  "frac": 0.9,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Republic",
+  "summary": "Put on trial in the Senate Building on Coruscant for crimes including Starlight Beacon's destruction, Marchion Ro receives a life sentence of solitary confinement, his prison to be built by droids at a random spot in deep space.",
+  "wp": "Trial of Marchion Ro",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Marchion Ro"
+  ],
+  "sources": [
+   "The High Republic: Trials of the Jedi"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "mostima-sean-aakaash",
+  "title": "Mostima and Sean expose Land & Sky",
+  "y": -200,
+  "yText": "200 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Jedi Master Mostima and her Padawan Sean look into a killing in the far-flung Aakaash system and expose how deeply Land & Sky, the corporation that governs it, is corrupted.",
+  "wp": "Mission to Aakaash",
+  "places": [],
+  "people": [
+   "Mostima",
+   "Sean"
+  ],
+  "sources": [
+   "The Vow of Silver Dawn",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "chewbacca-born",
+  "title": "Chewbacca is born",
+  "y": -200,
+  "yText": "200 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": "In Solo: A Star Wars Story, set around 10 BBY, he gives his age as 190.",
+  "category": "birth",
+  "polity": "Wookiees",
+  "summary": "The Wookiee Chewbacca is born on his people's homeworld, Kashyyyk. Some two centuries on he will fly the Millennium Falcon as Han Solo's partner and co-pilot.",
+  "wp": "Chewbacca",
+  "places": [
+   "Kashyyyk"
+  ],
+  "people": [
+   "Chewbacca"
+  ],
+  "sources": [
+   "Solo: A Star Wars Story"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "jedi-annexation-act",
+  "title": "The Jedi Annexation Act fails",
+  "y": -163,
+  "yText": "c. 163 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "The Acolyte: Wayseeker, set about 160 BBY, places the attempt three years earlier.",
+  "category": "politics",
+  "polity": "Republic",
+  "summary": "Senator Jakob Garn tries to push the Jedi Annexation Act through the Senate, a bill that would fold the Order into the Republic as a formal branch under Senate oversight. It fails to pass.",
+  "wp": "Jedi Annexation Act",
+  "places": [
+   "Coruscant"
+  ],
+  "people": [
+   "Jakob Garn"
+  ],
+  "sources": [
+   "The Acolyte: Wayseeker"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "aniseya-twins-born",
+  "title": "Osha and Mae Aniseya are born on Brendok",
+  "y": -156,
+  "yText": "c. 156 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "The Acolyte: The Visual Guide makes Osha 24 in 132 BBY.",
+  "category": "birth",
+  "polity": "Brendok coven",
+  "summary": "On Brendok, the witch Aniseya uses a Force vergence to create twin daughters, Osha and Mae, whom her partner Koril carries and bears. The girls are raised within the coven's fortress.",
+  "wp": "Verosha Aniseya",
+  "places": [
+   "Brendok"
+  ],
+  "people": [
+   "Verosha Aniseya",
+   "Mae-ho Aniseya",
+   "Aniseya",
+   "Koril"
+  ],
+  "sources": [
+   "Destiny (The Acolyte)",
+   "Star Wars: The Acolyte: The Visual Guide"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "brendok-coven-destroyed",
+  "title": "Tragedy on Brendok",
+  "y": -148,
+  "yText": "148 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Set sixteen years before The Acolyte, which is placed in 132 BBY (a century before The Phantom Menace).",
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Investigating a Force vergence on Brendok, Jedi Sol, Indara, Torbin and Kelnacca find a coven raising twin girls. Their attempt to take Osha for training ends in fire and killings that destroy the coven; Osha joins the Order believing Mae dead.",
+  "wp": "Mission to Brendok",
+  "places": [
+   "Brendok"
+  ],
+  "people": [
+   "Sol",
+   "Indara",
+   "Torbin",
+   "Kelnacca",
+   "Verosha Aniseya",
+   "Mae-ho Aniseya",
+   "Aniseya"
+  ],
+  "sources": [
+   "Destiny (The Acolyte)",
+   "Choice"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "mae-becomes-strangers-acolyte",
+  "title": "Mae becomes the Stranger's acolyte",
+  "y": -134,
+  "yText": "134 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "The Visual Guide says she began training two years before the series' 132 BBY events.",
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Mae Aniseya, secretly alive, becomes apprentice to a Sith Lord called only the Stranger, who poses as the antiques dealer Qimir. He schools her in dark-side lore and bladework, and aims her revenge at the Brendok Jedi.",
+  "wp": "The Stranger",
+  "places": [],
+  "people": [
+   "Mae-ho Aniseya",
+   "The Stranger"
+  ],
+  "sources": [
+   "Star Wars: The Acolyte: The Visual Guide",
+   "Star Wars: The Acolyte"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "indara-murdered",
+  "title": "Mae murders Jedi Master Indara",
+  "y": -132,
+  "yText": "132 BBY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "The Acolyte is dated to 132 BBY as a century before The Phantom Menace.",
+  "category": "death",
+  "polity": "Jedi Order",
+  "summary": "Sent to avenge Brendok, Mae kills Jedi Master Indara in a noodle shop on Ueda. The Jedi, with no record of Mae, arrest her twin Osha, now a ship mechanic, until Master Sol comes to believe Mae survived.",
+  "wp": "Indara's murder",
+  "places": [
+   "Ueda"
+  ],
+  "people": [
+   "Indara",
+   "Mae-ho Aniseya",
+   "Verosha Aniseya",
+   "Sol",
+   "Yord Fandar"
+  ],
+  "sources": [
+   "Lost / Found"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "khofar-massacre",
+  "title": "The Stranger slaughters the Jedi on Khofar",
+  "y": -132,
+  "yText": "132 BBY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "battle",
+  "polity": "Sith",
+  "summary": "After Torbin's death on Olega, Mae balks at killing Kelnacca on Khofar, but the Stranger kills him anyway. He then wipes out the Jedi team that arrives too late, including Jecki Lon and Yord Fandar; only Sol and Osha survive.",
+  "wp": "Mission to Khofar",
+  "places": [
+   "Khofar",
+   "Olega"
+  ],
+  "people": [
+   "The Stranger",
+   "Kelnacca",
+   "Mae-ho Aniseya",
+   "Torbin",
+   "Jecki Lon",
+   "Yord Fandar",
+   "Sol",
+   "Verosha Aniseya"
+  ],
+  "sources": [
+   "Revenge / Justice",
+   "Day (episode)",
+   "Night"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "duel-on-brendok",
+  "title": "Sol dies on Brendok; the Jedi cover up",
+  "y": -132,
+  "yText": "132 BBY",
+  "frac": 0.75,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "sith",
+  "polity": "Jedi Order",
+  "summary": "Back on Brendok, Sol admits killing the twins' mother, and Osha strikes him down. The Stranger wipes Mae's memory and takes Osha as his apprentice. Vernestra Rwoh blames the Jedi deaths on Sol to head off a Senate inquiry.",
+  "wp": "Duel on Brendok",
+  "places": [
+   "Brendok"
+  ],
+  "people": [
+   "Sol",
+   "Verosha Aniseya",
+   "Mae-ho Aniseya",
+   "The Stranger",
+   "Vernestra Rwoh"
+  ],
+  "sources": [
+   "The Acolyte (episode)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "republic-mandalore-treaty",
+  "title": "A treaty shields Mandalore from Republic invasion",
+  "y": -119,
+  "yText": "c. 119 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Only known to be in force at least a century before the 19 BBY Siege of Mandalore.",
+  "category": "treaty",
+  "polity": "Mandalorians",
+  "summary": "By now a treaty forbids the Republic to invade Mandalore. A century later, the Republic-backed campaign to oust Maul from Mandalore will be called a breach of it.",
+  "wp": "Republic–Mandalore treaty",
+  "places": [
+   "Mandalore"
+  ],
+  "people": [],
+  "sources": [
+   "Old Friends Not Forgotten",
+   "Star Wars: Galactic Atlas"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "dooku-born",
+  "title": "Dooku is born on Serenno",
+  "y": -102,
+  "yText": "102 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "Serenno",
+  "summary": "Dooku is born into House Serenno. Alarmed by the baby's Force powers, Count Gora leaves him in the forest outside the palace, where a Jedi seeker finds him and brings him to the Jedi on Coruscant. He will become Count Dooku.",
+  "wp": "Dooku",
+  "places": [
+   "Serenno"
+  ],
+  "people": [
+   "Dooku",
+   "Gora"
+  ],
+  "sources": [
+   "Dooku: Jedi Lost",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "sifo-dyas-born",
+  "title": "Sifo-Dyas is born",
+  "y": -102,
+  "yText": "102 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "Jedi Order",
+  "summary": "On Minashee, Sifo-Dyas is born. Raised a Jedi alongside Dooku, he will one day secretly order the clone army that fights the Clone Wars.",
+  "wp": "Sifo-Dyas",
+  "places": [
+   "Minashee"
+  ],
+  "people": [
+   "Sifo-Dyas"
+  ],
+  "sources": [
+   "Dooku: Jedi Lost",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null,
+  "weight": 1
+ }
+]
