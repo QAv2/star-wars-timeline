@@ -14,6 +14,7 @@ CUR = os.path.join(ROOT, "data", "curated")
 # lane id, short label, full name, colour token
 LANES = [
     ("HISTORY", "CHRONICLE", "Galactic history", "hist"),
+    ("LEGENDS", "LEGENDS", "Legends continuity (layer)", "leg"),
     ("FILM", "FILMS", "The films", "film"),
     ("YJA", "YOUNG JEDI", "Young Jedi Adventures", "yja"),
     ("ACO", "ACOLYTE", "The Acolyte", "aco"),
@@ -30,7 +31,6 @@ LANES = [
     ("SKC", "SKELETON", "Skeleton Crew", "skc"),
     ("AHS", "AHSOKA", "Ahsoka", "ahs"),
     ("RES", "RESISTANCE", "Resistance", "res"),
-    ("LEGENDS", "LEGENDS", "Legends continuity (layer)", "leg"),
 ]
 NARROW = {"HISTORY": "HIST", "YJA": "YJA", "TCW": "TCW", "TBB": "TBB", "MAN": "MANDO", "BOBF": "BOBF", "SKC": "SKC",
           "RES": "RES", "FOD": "FOD", "ACO": "ACO"}
