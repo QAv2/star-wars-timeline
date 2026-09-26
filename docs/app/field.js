@@ -568,7 +568,7 @@ export class Field {
     const people = new Set(this.worlds.map((w) => w.p.k));
     let base = this.mode === 'visions' ? 0.7 : 0.16;
     if (this.worlds.length) base = 0.08;
-    if (selV || selRec) base *= 0.55;
+    if (selV) base = 0.09; else if (selRec) base *= 0.55;
     for (const g of this.legs) {
       const geo = this.arcGeo(g);
       if (!geo) continue;

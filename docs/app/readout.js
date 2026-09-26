@@ -165,7 +165,6 @@ export class Readout {
   // ── a vision or crossing ──────────────────────────────────────────
   vision(v) {
     const k = VISION_KINDS[v.kind] || VISION_KINDS.vision, col = visionColor(v.kind);
-    const lane = (id) => (this.S.laneById.get(id) || {}).sub || id;
     const legs = v.legs.map((g) => `<div class="leg">
         <div class="end" style="border-left-color:${col}"><div class="k">${esc(g.mode || 'from')}${g.from.place ? ', ' + esc(g.from.place) : ''}</div><div class="v">${esc(g.from.tText)}</div></div>
         <div class="arrow"></div>
@@ -174,7 +173,7 @@ export class Readout {
     const html = `
       <div class="series-tag"><i style="background:${col}"></i>${esc(k.label)}</div>
       <h2>${esc(v.title)}</h2>
-      <div class="cells">${cell('Came true', v.fulfilled)}${cell('Dating', CONF[v.confidence] || v.confidence)}${cell('Lane', lane(v.legs[0].fromLane))}</div>
+      <div class="cells">${cell('Came true', v.fulfilled && v.fulfilled !== 'n/a' ? v.fulfilled : null)}${cell('Dating', CONF[v.confidence] || v.confidence)}${cell('Seen in', v.srcRecs[0] ? v.srcRecs[0].ti : null)}</div>
       <div class="legs">${legs}</div>
       <p class="lead">${esc(v.summary)}</p>
       ${v.note ? `<p class="note">${esc(v.note)}</p>` : ''}

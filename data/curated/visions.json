@@ -1,0 +1,4415 @@
+[
+ {
+  "id": "ezra-hears-voices-across-time",
+  "title": "Ezra hears echoes of past and future",
+  "kind": "wbw",
+  "legs": [
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.45,
+     "place": "Lothal"
+    },
+    "to": {
+     "y": -20,
+     "yText": "Clone Wars era (c. 22–19 BBY)",
+     "frac": null,
+     "place": null
+    },
+    "mode": "hears",
+    "note": "Past: Qui-Gon, Anakin, Yoda and the Mortis Father and Daughter; individual lines are not dated."
+   },
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.45,
+     "place": "Lothal"
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": null,
+     "place": null
+    },
+    "mode": "hears",
+    "note": "Present: Kanan Jarrus, plus Jyn Erso and Chirrut Îmwe, all living in Ezra's own year."
+   },
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.45,
+     "place": "Lothal"
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": null,
+     "place": null
+    },
+    "mode": "hears",
+    "note": "Future: Kylo Ren, Rey, Finn, Poe Dameron, Maz Kanata and Leia, all sequel-era speakers."
+   }
+  ],
+  "experiencers": [
+   "Ezra Bridger"
+  ],
+  "reached": [
+   "Qui-Gon Jinn",
+   "Anakin Skywalker",
+   "Yoda",
+   "Father (Mortis)",
+   "Daughter",
+   "Jyn Erso",
+   "Chirrut Îmwe",
+   "Kanan Jarrus",
+   "Leia Skywalker Organa Solo",
+   "Maz Kanata",
+   "Finn",
+   "Rey Skywalker",
+   "Poe Dameron",
+   "Ben Solo"
+  ],
+  "record": "A World Between Worlds",
+  "summary": "Drawn through the Lothal temple's painted gateway, Ezra crosses a starry void threaded with walkways and doors. Voices spill in from every age: Jedi from the Republic's last years, rebels of his own moment, heroes of battles decades away. It is the first sign the realm touches all times.",
+  "fulfilled": "n/a",
+  "confidence": "estimated",
+  "note": "The voices are archival film and series audio; eras are assigned by speaker, not by scene.",
+  "sources": [
+   "A World Between Worlds",
+   "Wolves and a Door"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "ezra-pulls-ahsoka-from-malachor",
+  "title": "Ezra pulls Ahsoka out of Malachor",
+  "kind": "wbw",
+  "legs": [
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.45,
+     "place": "Lothal"
+    },
+    "to": {
+     "y": -3,
+     "yText": "3 BBY",
+     "frac": 0.6,
+     "place": "Malachor"
+    },
+    "mode": "walks",
+    "note": "Through a doorway Ezra reaches the Malachor duel and hauls Ahsoka clear as Vader drops into the pit."
+   },
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.45,
+     "place": null
+    },
+    "to": {
+     "y": -3,
+     "yText": "3 BBY",
+     "frac": 0.6,
+     "place": "Malachor"
+    },
+    "mode": "returns",
+    "note": "Ahsoka steps back through her own doorway into the Sith temple, alive, and walks into its depths."
+   },
+   {
+    "from": {
+     "y": -3,
+     "yText": "3 BBY",
+     "frac": 0.6,
+     "place": "Malachor"
+    },
+    "to": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.82,
+     "place": "Lothal"
+    },
+    "mode": "returns",
+    "note": "Keeping her promise to find Ezra, she reappears on Lothal after the Empire's fall."
+   }
+  ],
+  "experiencers": [
+   "Ezra Bridger",
+   "Ahsoka Tano"
+  ],
+  "reached": [
+   "Ahsoka Tano",
+   "Anakin Skywalker"
+  ],
+  "record": "A World Between Worlds",
+  "summary": "Following the convor Morai, Ezra finds a door opening onto Ahsoka's fight with Darth Vader two years earlier and drags her out before the fatal blow. After they escape Palpatine she goes back to that instant alive, which is how she can resurface years later.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": "Twilight of the Apprentice shows the original duel; the Rebels epilogue is dated 9 ABY.",
+  "sources": [
+   "A World Between Worlds",
+   "Twilight of the Apprentice",
+   "Family Reunion – and Farewell"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "ezra-watches-kanans-last-stand",
+  "title": "Ezra watches Kanan's sacrifice through a doorway",
+  "kind": "wbw",
+  "legs": [
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.45,
+     "place": null
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.4,
+     "place": "Lothal"
+    },
+    "mode": "sees",
+    "note": "A doorway shows Kanan holding back the fuel-depot fireball; Ezra decides not to pull him out."
+   }
+  ],
+  "experiencers": [
+   "Ezra Bridger",
+   "Ahsoka Tano"
+  ],
+  "reached": [
+   "Kanan Jarrus"
+  ],
+  "record": "A World Between Worlds",
+  "summary": "Having saved Ahsoka, Ezra wants to rescue his own master and finds the moment Kanan shields the rebels from the burning depot. Ahsoka warns that changing it would doom everyone Kanan saved. Ezra lets the moment stand and understands it as Kanan's last lesson.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": "frac values only order Kanan's death (Jedi Night) before Ezra's visit within 1 BBY.",
+  "sources": [
+   "A World Between Worlds",
+   "Jedi Night"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "palpatine-breaches-the-world-between-worlds",
+  "title": "Palpatine breaks into the realm between worlds",
+  "kind": "wbw",
+  "legs": [
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.45,
+     "place": "Coruscant"
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.45,
+     "place": null
+    },
+    "mode": "sees",
+    "note": "From a ritual chamber on Coruscant, Sidious looks through Kanan's doorway and sends fire after them."
+   }
+  ],
+  "experiencers": [
+   "Darth Sidious"
+  ],
+  "reached": [
+   "Ezra Bridger",
+   "Ahsoka Tano"
+  ],
+  "record": "A World Between Worlds",
+  "summary": "Working Sith sorcery far away on Coruscant, the Emperor forces an opening into the realm and tries to seize both Force users with blue flame. Ahsoka slashes it apart, the pair split for their own doors, and Ezra seals the Lothal gateway by bringing the temple down.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "A World Between Worlds"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "emperor-tempts-ezra-with-his-parents",
+  "title": "The Emperor tempts Ezra with his parents",
+  "kind": "wbw",
+  "legs": [
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.5,
+     "place": "Lothal"
+    },
+    "to": {
+     "y": -12,
+     "yText": "before 12 BBY",
+     "frac": null,
+     "place": "Lothal"
+    },
+    "mode": "sees",
+    "note": "A temple fragment rebuilt aboard the Chimaera opens on Mira and Ephraim calling their son home."
+   }
+  ],
+  "experiencers": [
+   "Ezra Bridger"
+  ],
+  "reached": [
+   "Mira Bridger",
+   "Ephraim Bridger",
+   "Darth Sidious"
+  ],
+  "record": "Family Reunion – and Farewell",
+  "summary": "Aboard the Chimaera, a hologram of Palpatine shows Ezra a rebuilt piece of the Lothal temple and a gateway where his parents wait, promising he can undo the past. Ezra, who felt them die, tells them goodbye and tears the structure down.",
+  "fulfilled": "no",
+  "confidence": "inferred",
+  "note": "The gateway's destination is never dated; placing it before the parents' arrest is an inference.",
+  "sources": [
+   "Family Reunion – and Farewell"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "anakins-final-lesson-for-ahsoka",
+  "title": "Anakin's final lesson for Ahsoka",
+  "kind": "wbw",
+  "legs": [
+   {
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.6,
+     "place": "Endor"
+    },
+    "to": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.87,
+     "place": null
+    },
+    "mode": "returns",
+    "note": "Dead since Endor, Anakin's spirit meets Ahsoka in the realm and demands she fight him."
+   },
+   {
+    "from": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.87,
+     "place": null
+    },
+    "to": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.42,
+     "place": "Teth"
+    },
+    "mode": "walks",
+    "note": "She relives the Battle of Teth, an early mission, beside her younger master."
+   },
+   {
+    "from": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.87,
+     "place": null
+    },
+    "to": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.46,
+     "place": "Ryloth"
+    },
+    "mode": "walks",
+    "note": "A field station on Ryloth, where she counts the clones lost under her orders."
+   },
+   {
+    "from": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.87,
+     "place": null
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.21,
+     "place": "Mandalore"
+    },
+    "mode": "walks",
+    "note": "Mandalore's siege, a battle Anakin never saw because they had already parted."
+   },
+   {
+    "from": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.87,
+     "place": "Seatos"
+    },
+    "to": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.87,
+     "place": null
+    },
+    "mode": "hears",
+    "note": "On Seatos, Jacen Syndulla, then Hera, hear the lightsaber duel ringing up from the water."
+   }
+  ],
+  "experiencers": [
+   "Ahsoka Tano",
+   "Jacen Syndulla",
+   "Hera Syndulla"
+  ],
+  "reached": [
+   "Anakin Skywalker",
+   "Rex"
+  ],
+  "record": "Part Five: Shadow Warrior",
+  "summary": "Beaten by Baylan Skoll and sunk off Seatos, Ahsoka wakes in the realm between worlds facing Anakin's spirit. He duels her through scenes of her war until she lets his red blade fall into the dark and chooses to live; then the water carries her home.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": "Ryloth has no year in its own article; the episode dates its flashbacks to 22–19 BBY.",
+  "sources": [
+   "Part Five: Shadow Warrior",
+   "Part Four: Fallen Jedi"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "son-shows-anakin-his-future",
+  "title": "The Son shows Anakin his future",
+  "kind": "mortis",
+  "legs": [
+   {
+    "from": {
+     "y": -20,
+     "yText": "20 BBY",
+     "frac": 0.12,
+     "place": "Mortis"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.28,
+     "place": "Coruscant"
+    },
+    "mode": "sees",
+    "note": "Jedi dying and a clash with Darth Sidious: the Order's end."
+   },
+   {
+    "from": {
+     "y": -20,
+     "yText": "20 BBY",
+     "frac": 0.12,
+     "place": "Mortis"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.33,
+     "place": "Mustafar"
+    },
+    "mode": "sees",
+    "note": "Betrayal on Mustafar, the turn that seals his life as Vader."
+   },
+   {
+    "from": {
+     "y": -20,
+     "yText": "20 BBY",
+     "frac": 0.12,
+     "place": "Mortis"
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.95,
+     "place": "Alderaan"
+    },
+    "mode": "sees",
+    "note": "Alderaan blown apart by the Empire's first battle station."
+   }
+  ],
+  "experiencers": [
+   "Anakin Skywalker"
+  ],
+  "reached": [
+   "Darth Sidious",
+   "Obi-Wan Kenobi"
+  ],
+  "record": "Ghosts of Mortis",
+  "summary": "Deep in the planet's dark-side well, the Son spreads Anakin's future before him: slain Jedi, a fight with Sidious, betrayal on Mustafar, a world blown apart. Horrified, Anakin sides with the Son to change it, until the Father wipes the memory and the future stands.",
+  "fulfilled": "yes",
+  "confidence": "explicit",
+  "note": "Alderaan's destruction is dated 1 BBY by the updated Galactic Atlas.",
+  "sources": [
+   "Ghosts of Mortis"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "ahsoka-warned-by-her-older-self",
+  "title": "Ahsoka's older self warns her away",
+  "kind": "mortis",
+  "legs": [
+   {
+    "from": {
+     "y": -20,
+     "yText": "20 BBY",
+     "frac": 0.12,
+     "place": "Mortis"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.05,
+     "place": "Coruscant"
+    },
+    "mode": "hears",
+    "note": "Her adult self says staying Anakin's student may cost her a future; she leaves the Jedi in 19 BBY."
+   }
+  ],
+  "experiencers": [
+   "Ahsoka Tano"
+  ],
+  "reached": [
+   "Ahsoka Tano"
+  ],
+  "record": "Overlords",
+  "summary": "Sheltering on Mortis, Ahsoka is visited by a grown version of herself who says Anakin's darkness will corrupt her and urges her to leave him. Ahsoka defends her master. She does later leave the Order, and outlives his fall.",
+  "fulfilled": "partly",
+  "confidence": "inferred",
+  "note": "No source ties the warning to a date; linking it to her departure in The Wrong Jedi is interpretive.",
+  "sources": [
+   "Overlords",
+   "The Wrong Jedi"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "qui-gon-appears-on-mortis",
+  "title": "Qui-Gon's likeness appears on Mortis",
+  "kind": "mortis",
+  "legs": [
+   {
+    "from": {
+     "y": -32,
+     "yText": "32 BBY",
+     "frac": null,
+     "place": "Naboo"
+    },
+    "to": {
+     "y": -20,
+     "yText": "20 BBY",
+     "frac": 0.12,
+     "place": "Mortis"
+    },
+    "mode": "speaks",
+    "note": "Twelve years after Naboo, Qui-Gon warns Obi-Wan the planet may corrupt an unbalanced Anakin."
+   },
+   {
+    "from": {
+     "y": -32,
+     "yText": "32 BBY",
+     "frac": null,
+     "place": "Naboo"
+    },
+    "to": {
+     "y": -20,
+     "yText": "20 BBY",
+     "frac": 0.12,
+     "place": "Mortis"
+    },
+    "mode": "speaks",
+    "note": "Later he sends Anakin to confront his demons in the planet's dark-side well."
+   }
+  ],
+  "experiencers": [
+   "Obi-Wan Kenobi",
+   "Anakin Skywalker"
+  ],
+  "reached": [
+   "Qui-Gon Jinn"
+  ],
+  "record": "Overlords",
+  "summary": "Mortis magnifies the Force enough for Qui-Gon to stand before Obi-Wan and, later, Anakin. He says the realm will test whether Anakin can find balance. Back home Obi-Wan calls him an illusion drawn from their memories; Anakin is less sure.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "Overlords",
+   "Ghosts of Mortis",
+   "Voices"
+  ],
+  "conflict": "Wookieepedia's Qui-Gon article says it truly was him; the Force spirit article calls it a vision wrongly taken for a real manifestation; Obi-Wan tells the Council it was an illusion (Voices).",
+  "weight": 2
+ },
+ {
+  "id": "shmi-appears-to-anakin-on-mortis",
+  "title": "Shmi's apparition confronts Anakin's guilt",
+  "kind": "mortis",
+  "legs": [
+   {
+    "from": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.08,
+     "place": "Tatooine"
+    },
+    "to": {
+     "y": -20,
+     "yText": "20 BBY",
+     "frac": 0.12,
+     "place": "Mortis"
+    },
+    "mode": "speaks",
+    "note": "Two years after Shmi's death on Tatooine, a figure of his mother comes to Anakin's room."
+   }
+  ],
+  "experiencers": [
+   "Anakin Skywalker"
+  ],
+  "reached": [
+   "Shmi Skywalker Lars"
+  ],
+  "record": "Overlords",
+  "summary": "In the Father's monastery a figure of Shmi visits Anakin at night. He pours out his guilt over the Tusken killings and his hidden marriage; she tells him that guilt is tearing him in two, then twists into something monstrous and is gone.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": "Whether this is Shmi or a Mortis illusion is left open.",
+  "sources": [
+   "Overlords"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "fathers-dying-prophecy",
+  "title": "The Father foretells balance for the galaxy",
+  "kind": "mortis",
+  "legs": [
+   {
+    "from": {
+     "y": -20,
+     "yText": "20 BBY",
+     "frac": 0.12,
+     "place": "Mortis"
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.6,
+     "place": "Endor"
+    },
+    "mode": "speaks",
+    "note": "Dying, the Father says Anakin balanced Mortis and will one day balance the whole galaxy."
+   }
+  ],
+  "experiencers": [
+   "Father (Mortis)"
+  ],
+  "reached": [
+   "Anakin Skywalker"
+  ],
+  "record": "Ghosts of Mortis",
+  "summary": "Having turned the dagger on himself to drain the Son's borrowed power, the Father names Anakin the Chosen One: he restored balance on Mortis and will someday bring the whole galaxy into balance too; he must beware his own heart. Both halves come true.",
+  "fulfilled": "yes",
+  "confidence": "inferred",
+  "note": "The episode gives no date; Endor as the fulfilment follows the Chosen One article.",
+  "sources": [
+   "Ghosts of Mortis",
+   "Star Wars: Episode VI Return of the Jedi"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "daughter-gives-ahsoka-her-life",
+  "title": "The Daughter gives Ahsoka her life",
+  "kind": "mortis",
+  "legs": [
+   {
+    "from": {
+     "y": -20,
+     "yText": "20 BBY",
+     "frac": 0.12,
+     "place": "Mortis"
+    },
+    "to": {
+     "y": -20,
+     "yText": "20 BBY",
+     "frac": 0.121,
+     "place": "Mortis"
+    },
+    "mode": "returns",
+    "note": "Killed by the Son, Ahsoka revives as the dying Daughter channels her last strength into her."
+   },
+   {
+    "from": {
+     "y": -20,
+     "yText": "20 BBY",
+     "frac": 0.12,
+     "place": "Mortis"
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.45,
+     "place": null
+    },
+    "mode": "sees",
+    "note": "Morai, a convor tied to the Daughter, guides Ezra to the door where Ahsoka is about to fall."
+   },
+   {
+    "from": {
+     "y": -20,
+     "yText": "20 BBY",
+     "frac": 0.12,
+     "place": "Mortis"
+    },
+    "to": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.94,
+     "place": "Peridea"
+    },
+    "mode": "sees",
+    "note": "Morai still watches over Ahsoka on Peridea, a galaxy away."
+   }
+  ],
+  "experiencers": [
+   "Ahsoka Tano",
+   "Daughter"
+  ],
+  "reached": [
+   "Ahsoka Tano"
+  ],
+  "record": "Altar of Mortis (episode)",
+  "summary": "Drained by the Son, Ahsoka lies dead until the stabbed Daughter, using Anakin as a conduit, pours what life she has left into her. Ahsoka wakes remembering nothing. The convor Morai, bound to the Daughter, keeps turning up at her side for decades.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": "The Morai–Daughter link is speculation in-universe (Hydan), recorded as belief by Wookieepedia.",
+  "sources": [
+   "Altar of Mortis (episode)",
+   "A World Between Worlds",
+   "Part Eight: The Jedi, the Witch, and the Warlord"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "anakin-dreams-of-shmis-suffering",
+  "title": "Anakin dreams of his mother's pain",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.06,
+     "place": "Naboo"
+    },
+    "to": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.08,
+     "place": "Tatooine"
+    },
+    "mode": "sees",
+    "note": "The nightmares show Shmi in agony; he finds her dying, a Tusken captive."
+   }
+  ],
+  "experiencers": [
+   "Anakin Skywalker"
+  ],
+  "reached": [
+   "Shmi Skywalker Lars"
+  ],
+  "record": "Star Wars: Episode II Attack of the Clones",
+  "summary": "Guarding Padmé, Anakin keeps dreaming of his mother suffering. He leaves his post for Tatooine, learns Tusken Raiders seized her a month before, and reaches her just as her life ebbs away; the grief drives the slaughter that follows.",
+  "fulfilled": "yes",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "anakin-foresees-padme-dying",
+  "title": "Anakin foresees Padmé dying in childbirth",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.25,
+     "place": "Coruscant"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.34,
+     "place": "Polis Massa"
+    },
+    "mode": "sees",
+    "note": "The dream comes true on Polis Massa after the twins are born, brought on by his own choices."
+   }
+  ],
+  "experiencers": [
+   "Anakin Skywalker"
+  ],
+  "reached": [
+   "Padmé Amidala Naberrie"
+  ],
+  "record": "Star Wars: Episode III Revenge of the Sith",
+  "summary": "Anakin dreams that Padmé dies giving birth and swears to stop it at any cost. That fear carries him to Palpatine and darkness; on Mustafar he chokes her, and she dies on Polis Massa after the twins arrive. Fighting the vision fulfils it.",
+  "fulfilled": "yes",
+  "confidence": "explicit",
+  "note": "frac values give relative order only.",
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "ahsoka-dreams-of-padmes-assassin",
+  "title": "Ahsoka dreams of Padmé's assassin",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -21,
+     "yText": "21 BBY",
+     "frac": 0.94,
+     "place": "Coruscant"
+    },
+    "to": {
+     "y": -21,
+     "yText": "21 BBY",
+     "frac": 0.95,
+     "place": "Alderaan"
+    },
+    "mode": "sees",
+    "note": "Dreams of Aurra Sing lead Ahsoka to a refugee summit on Alderaan, where Sing strikes."
+   }
+  ],
+  "experiencers": [
+   "Ahsoka Tano"
+  ],
+  "reached": [
+   "Aurra Sing",
+   "Padmé Amidala Naberrie"
+  ],
+  "record": "Assassin (episode)",
+  "summary": "Put on rest, Ahsoka keeps dreaming that the mercenary Aurra Sing is stalking someone close to her, and works out that the target is Padmé. She joins the senator's trip to Alderaan; the attack comes as foreseen, and Ahsoka keeps her alive.",
+  "fulfilled": "partly",
+  "confidence": "explicit",
+  "note": "The attempt happens and Padmé is wounded, but the killing is prevented.",
+  "sources": [
+   "Assassin (episode)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "sifo-dyas-foresees-the-clone-wars",
+  "title": "Sifo-Dyas foresees a galactic war",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -32,
+     "yText": "before 32 BBY",
+     "frac": null,
+     "place": null
+    },
+    "to": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": null,
+     "place": "Geonosis"
+    },
+    "mode": "sees",
+    "note": "His warning is dismissed; the war begins at Geonosis a decade later, fought by his clones."
+   }
+  ],
+  "experiencers": [
+   "Sifo-Dyas"
+  ],
+  "reached": [],
+  "record": "The Lost One",
+  "summary": "Before Naboo was invaded, Sifo-Dyas sensed a vast war ahead and pressed for a Republic army. The Council judged him extreme and removed him, yet he secretly ordered clones from Kamino. The war he saw began at Geonosis, fought by that army.",
+  "fulfilled": "yes",
+  "confidence": "estimated",
+  "note": "The vision is only dated 'before the Invasion of Naboo'; he died in 32 BBY.",
+  "sources": [
+   "The Lost One",
+   "Star Wars: Episode II Attack of the Clones"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "pong-krell-foresees-the-empire",
+  "title": "Pong Krell foresees the Republic's fall",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -20,
+     "yText": "20 BBY",
+     "frac": null,
+     "place": "Umbara"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.29,
+     "place": "Coruscant"
+    },
+    "mode": "sees",
+    "note": "Krell's vision of the Order destroyed and an Empire rising comes true within a year."
+   }
+  ],
+  "experiencers": [
+   "Pong Krell"
+  ],
+  "reached": [],
+  "record": "Carnage of Krell",
+  "summary": "Exposed as a traitor on Umbara, Krell tells Rex he has seen the Jedi exterminated and the Republic torn apart from within and remade as an Empire; he sabotaged his own troops hoping to serve the coming order. The clones execute him, but his vision holds.",
+  "fulfilled": "yes",
+  "confidence": "explicit",
+  "note": "The vision is described, not shown.",
+  "sources": [
+   "Carnage of Krell"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "maul-foresees-anakins-fall",
+  "title": "Maul foresees Anakin as Sidious's apprentice",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.21,
+     "place": "Mandalore"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.28,
+     "place": "Coruscant"
+    },
+    "mode": "sees",
+    "note": "Days later Anakin kneels to Sidious, as Maul warned during the siege."
+   }
+  ],
+  "experiencers": [
+   "Maul"
+  ],
+  "reached": [
+   "Anakin Skywalker",
+   "Darth Sidious"
+  ],
+  "record": "The Phantom Apprentice",
+  "summary": "Near the war's end Maul has seen that Sidious means to make Anakin his new apprentice. He lays a trap on Mandalore to kill Anakin and Kenobi before it can happen, and tells Ahsoka what is coming; she cannot act on it in time.",
+  "fulfilled": "yes",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "The Phantom Apprentice"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "yoda-sees-the-purge-on-dagobah",
+  "title": "Yoda glimpses the Jedi's destruction on Dagobah",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.1,
+     "place": "Dagobah"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.28,
+     "place": "Coruscant"
+    },
+    "mode": "sees",
+    "note": "Clones turn on Jedi and Sidious cuts down Jedi Masters, as happens at the war's end."
+   }
+  ],
+  "experiencers": [
+   "Yoda"
+  ],
+  "reached": [
+   "Darth Sidious",
+   "Mace Windu"
+  ],
+  "record": "Voices",
+  "summary": "Sent by Qui-Gon's voice into a cave on Dagobah, Yoda is overwhelmed by images of clones fighting Jedi and a Sith Lord killing a group of Masters. He stumbles out shaken, sure the Sith plan is close but unable to say when.",
+  "fulfilled": "yes",
+  "confidence": "explicit",
+  "note": "The same cave, later called the Cave of Evil, tests Luke in 3 ABY.",
+  "sources": [
+   "Voices"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "yoda-hears-his-last-words",
+  "title": "Yoda hears his own last words",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.12,
+     "place": "Moraband"
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.55,
+     "place": "Dagobah"
+    },
+    "mode": "hears",
+    "note": "He hears 'There is another Skywalker', which he will say to Luke while dying on Dagobah."
+   }
+  ],
+  "experiencers": [
+   "Yoda"
+  ],
+  "reached": [
+   "Luke Skywalker"
+  ],
+  "record": "Sacrifice (episode)",
+  "summary": "After passing the Priestesses' last trial, Yoda briefly sees ahead and hears himself speak of another Skywalker, the words he will give Luke twenty-three years later in his final moments on Dagobah.",
+  "fulfilled": "yes",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "Sacrifice (episode)",
+   "Star Wars: Episode VI Return of the Jedi"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "bane-and-sidious-test-yoda",
+  "title": "Bane's spectre and Sidious's illusion test Yoda",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.12,
+     "place": "Moraband"
+    },
+    "to": {
+     "y": -1019,
+     "yText": "a millennium before the Empire (c. 1019 BBY)",
+     "frac": null,
+     "place": "Ambria"
+    },
+    "mode": "hears",
+    "note": "Darth Bane's apparition, dead about a millennium, recounts devising the Rule of Two."
+   },
+   {
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.12,
+     "place": "Coruscant"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.12,
+     "place": "Moraband"
+    },
+    "mode": "sees",
+    "note": "Sidious and Dooku project a false battle where Yoda can end the Sith by letting Anakin fall."
+   }
+  ],
+  "experiencers": [
+   "Yoda"
+  ],
+  "reached": [
+   "Darth Bane",
+   "Darth Sidious",
+   "Anakin Skywalker"
+  ],
+  "record": "Sacrifice (episode)",
+  "summary": "On Moraband, cradle of the Sith, Yoda meets the apparition of Darth Bane, then a false present conjured by Sidious in which he can destroy the Sith only by letting Anakin die. Yoda gives himself up to save Anakin, the illusion collapses, and the trial is passed.",
+  "fulfilled": "no",
+  "confidence": "estimated",
+  "note": "Bane's death is dated only as a millennium before the Empire, allegedly on Ambria.",
+  "sources": [
+   "Sacrifice (episode)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "luke-in-the-cave-of-evil",
+  "title": "Luke meets himself behind Vader's mask",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": 3,
+     "yText": "3 ABY",
+     "frac": 0.47,
+     "place": "Dagobah"
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.6,
+     "place": "Endor"
+    },
+    "mode": "sees",
+    "note": "The warning plays out aboard Palpatine's new battle station, where Luke's rage nearly makes him his father."
+   }
+  ],
+  "experiencers": [
+   "Luke Skywalker"
+  ],
+  "reached": [
+   "Anakin Skywalker"
+  ],
+  "record": "Star Wars: Episode V The Empire Strikes Back",
+  "summary": "Sent into a dark cave on Dagobah, Luke meets a phantom Darth Vader, strikes its head off and sees his own face inside the cracked helmet. The image warns of the darkness in him, which surfaces the next year as he hacks off Vader's hand in fury.",
+  "fulfilled": "partly",
+  "confidence": "inferred",
+  "note": "Tying the vision to Luke's near-fall at Endor is interpretive; the film does not say so.",
+  "sources": [
+   "Star Wars: Episode V The Empire Strikes Back",
+   "Star Wars: Episode VI Return of the Jedi"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "luke-foresees-friends-at-cloud-city",
+  "title": "Luke sees his friends suffering in Cloud City",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": 3,
+     "yText": "3 ABY",
+     "frac": 0.49,
+     "place": "Dagobah"
+    },
+    "to": {
+     "y": 3,
+     "yText": "3 ABY",
+     "frac": 0.5,
+     "place": "Bespin"
+    },
+    "mode": "sees",
+    "note": "He sees Han and Leia suffering in a floating city, where Vader is torturing Han."
+   }
+  ],
+  "experiencers": [
+   "Luke Skywalker"
+  ],
+  "reached": [
+   "Han Solo",
+   "Leia Skywalker Organa Solo"
+  ],
+  "record": "Star Wars: Episode V The Empire Strikes Back",
+  "summary": "Training on Dagobah, Luke glimpses Han and Leia in agony in a city among the clouds. Yoda says the future is hard to see, but Luke leaves for Bespin, walks into Vader's trap, loses his hand and learns who his father is.",
+  "fulfilled": "yes",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "Star Wars: Episode V The Empire Strikes Back"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "reys-vision-at-mazs-castle",
+  "title": "Rey touches the Skywalker lightsaber",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.46,
+     "place": "Takodana"
+    },
+    "to": {
+     "y": 3,
+     "yText": "3 ABY",
+     "frac": 0.5,
+     "place": "Bespin"
+    },
+    "mode": "sees",
+    "note": "A Cloud City corridor, echoing with Luke's cry on learning Vader is his father."
+   },
+   {
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.46,
+     "place": "Takodana"
+    },
+    "to": {
+     "y": 28,
+     "yText": "28 ABY",
+     "frac": null,
+     "place": "Ossus"
+    },
+    "mode": "sees",
+    "note": "Luke with R2-D2 by his burning temple; then the Knights of Ren standing among the dead."
+   },
+   {
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.46,
+     "place": "Takodana"
+    },
+    "to": {
+     "y": 21,
+     "yText": "21 ABY",
+     "frac": null,
+     "place": "Jakku"
+    },
+    "mode": "sees",
+    "note": "Herself as a child on Jakku, screaming as her parents' ship leaves."
+   },
+   {
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.46,
+     "place": "Takodana"
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.47,
+     "place": "Ilum"
+    },
+    "mode": "sees",
+    "note": "Kylo Ren stalking her through a snowy forest, as happens on Starkiller Base days later."
+   },
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.97,
+     "place": null
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.46,
+     "place": "Takodana"
+    },
+    "mode": "hears",
+    "note": "Obi-Wan's voice, old and young together, calls her name; Yoda's voice is heard too."
+   }
+  ],
+  "experiencers": [
+   "Rey Skywalker"
+  ],
+  "reached": [
+   "Luke Skywalker",
+   "R2-D2",
+   "Ben Solo",
+   "Unkar Plutt",
+   "Obi-Wan Kenobi",
+   "Yoda"
+  ],
+  "record": "Star Wars: Episode VII The Force Awakens",
+  "summary": "Pulled to a box in Maz Kanata's cellar, Rey grips the lost lightsaber and is flung through scenes she cannot place: Cloud City, Luke's ruined temple, her own abandonment on Jakku, a snowy forest where Kylo Ren hunts her. Obi-Wan and Yoda speak through it.",
+  "fulfilled": "yes",
+  "confidence": "estimated",
+  "note": "The Knights of Ren scene is undated and grouped with the temple's fall (28 ABY).",
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens",
+   "Star Wars: The Force Awakens (novelization)"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "luke-glimpses-bens-future",
+  "title": "Luke glimpses the ruin Ben will bring",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": 28,
+     "yText": "28 ABY",
+     "frac": null,
+     "place": "Ossus"
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.47,
+     "place": "Ilum"
+    },
+    "mode": "sees",
+    "note": "The death Luke foresaw comes home when Ben kills Han on Starkiller Base."
+   }
+  ],
+  "experiencers": [
+   "Luke Skywalker"
+  ],
+  "reached": [
+   "Ben Solo",
+   "Han Solo"
+  ],
+  "record": "Star Wars: Episode VIII The Last Jedi",
+  "summary": "Reaching into his sleeping nephew's mind, Luke finds Snoke already there and feels the death and loss Ben will cause. For an instant he raises his saber; Ben wakes, fights back and brings the temple down, setting that very future in motion.",
+  "fulfilled": "yes",
+  "confidence": "inferred",
+  "note": "The vision is vague; Han's death is one inferred fulfilment among many.",
+  "sources": [
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: The Last Jedi: Expanded Edition"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "rey-and-kylo-touch-hands",
+  "title": "Rey and Kylo glimpse each other's future",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.5,
+     "place": "Ahch-To"
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.45,
+     "place": "Kef Bir"
+    },
+    "mode": "sees",
+    "note": "Rey foresees Ben coming back from darkness; it happens a year later, not on the Supremacy."
+   },
+   {
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.5,
+     "place": null
+    },
+    "to": {
+     "y": 21,
+     "yText": "21 ABY",
+     "frac": null,
+     "place": "Jakku"
+    },
+    "mode": "sees",
+    "note": "Kylo sees Rey's parents and calls them nobodies who sold her and died on Jakku."
+   },
+   {
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.5,
+     "place": null
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.48,
+     "place": "Exegol"
+    },
+    "mode": "sees",
+    "note": "Kylo expects Rey to turn and stand with him; she never takes the dark path."
+   }
+  ],
+  "experiencers": [
+   "Rey Skywalker",
+   "Ben Solo"
+  ],
+  "reached": [
+   "Ben Solo",
+   "Rey Skywalker",
+   "Dathan",
+   "Miramir"
+  ],
+  "record": "Star Wars: Episode VIII The Last Jedi",
+  "summary": "When their hands meet across the Force-bond, both see something. Rey becomes certain Ben will refuse Snoke and turn; Kylo learns of her parents and becomes certain she will join him. Each acts on it aboard the Supremacy, and both are wrong that day.",
+  "fulfilled": "partly",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: The Last Jedi: Expanded Edition",
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": "Episode VIII has Kylo call her parents junk traders who sold her; Episode IX makes them Palpatine's son and his partner, who left her on Jakku for her safety.",
+  "weight": 3
+ },
+ {
+  "id": "rey-sees-her-parents-killed",
+  "title": "Ochi's dagger shows Rey her parents' deaths",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.43,
+     "place": null
+    },
+    "to": {
+     "y": 21,
+     "yText": "21 ABY",
+     "frac": null,
+     "place": "Jakku"
+    },
+    "mode": "sees",
+    "note": "Gripping the blade on the Steadfast, Rey sees Ochi kill her parents in the Jakku system."
+   }
+  ],
+  "experiencers": [
+   "Rey Skywalker"
+  ],
+  "reached": [
+   "Dathan",
+   "Miramir",
+   "Ochi"
+  ],
+  "record": "Star Wars: Episode IX The Rise of Skywalker",
+  "summary": "Aboard Kylo's Star Destroyer, Rey picks up the blade that Ochi of Bestoon once carried and sees what became of her parents: captured by the hunter after hiding her, they refuse to give her up and are killed.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": "Their deaths are dated 21 ABY, aboard the Bestoon Legacy in the Jakku system.",
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: The Rise of Skywalker: Expanded Edition",
+   "Shadow of the Sith"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "rey-faces-a-dark-future-self",
+  "title": "Rey faces a dark future self",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.44,
+     "place": "Kef Bir"
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.48,
+     "place": "Exegol"
+    },
+    "mode": "sees",
+    "note": "The Sith Rey she fights is the empress Palpatine tries to crown on Exegol; she refuses."
+   }
+  ],
+  "experiencers": [
+   "Rey Skywalker"
+  ],
+  "reached": [
+   "Darth Sidious"
+  ],
+  "record": "Star Wars: Episode IX The Rise of Skywalker",
+  "summary": "In the Emperor's vault inside the Death Star wreck, Rey takes his wayfinder and meets herself hooded in black, a hinged red saberstaff in hand: a possible future. She loses that fight, but on Exegol she refuses the throne that future would have given her.",
+  "fulfilled": "no",
+  "confidence": "inferred",
+  "note": "Sources call it her possible future; the tie to the Exegol offer is interpretive.",
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "ben-meets-the-memory-of-han",
+  "title": "Ben Solo meets the memory of Han",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.47,
+     "place": "Ilum"
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.45,
+     "place": "Kef Bir"
+    },
+    "mode": "speaks",
+    "note": "A year after Ben killed him, Han appears to his son on the wrecked battle station."
+   }
+  ],
+  "experiencers": [
+   "Ben Solo"
+  ],
+  "reached": [
+   "Han Solo"
+  ],
+  "record": "Star Wars: Episode IX The Rise of Skywalker",
+  "summary": "After Leia spends her life reaching him, Ben stands on the wreckage and his father is there, calling him son. Han asks him to come home; Ben hurls his lightsaber into the waves and becomes himself again.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": "Sources call Han a memory, not a Force spirit.",
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: The Rise of Skywalker: Expanded Edition"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "ahsoka-sees-anakin-become-vader",
+  "title": "Ahsoka's vision of Anakin turns into Vader",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -3,
+     "yText": "3 BBY",
+     "frac": 0.55,
+     "place": "Lothal"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.28,
+     "place": "Coruscant"
+    },
+    "mode": "sees",
+    "note": "The vision confirms what happened when Anakin fell during the Order's destruction."
+   }
+  ],
+  "experiencers": [
+   "Ahsoka Tano"
+  ],
+  "reached": [
+   "Anakin Skywalker"
+  ],
+  "record": "Shroud of Darkness",
+  "summary": "Meditating in the Lothal temple, Ahsoka hears Anakin ask why she left him and whether she understands what he turned into. His figure becomes Darth Vader's. She spins with a blade lit and finds nothing, but can no longer deny who Vader is.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": "Reveals a past truth rather than a future.",
+  "sources": [
+   "Shroud of Darkness"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "kanan-knighted-by-the-sentinel",
+  "title": "A temple guard's vision knights Kanan",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -3,
+     "yText": "3 BBY",
+     "frac": 0.55,
+     "place": "Lothal"
+    },
+    "to": {
+     "y": -19,
+     "yText": "before 19 BBY",
+     "frac": null,
+     "place": "Coruscant"
+    },
+    "mode": "sees",
+    "note": "The Sentinel has the Grand Inquisitor's face, from the years he guarded the Jedi Temple."
+   },
+   {
+    "from": {
+     "y": -3,
+     "yText": "3 BBY",
+     "frac": 0.55,
+     "place": "Lothal"
+    },
+    "to": {
+     "y": -3,
+     "yText": "3 BBY",
+     "frac": 0.6,
+     "place": "Malachor"
+    },
+    "mode": "hears",
+    "note": "The Sentinel warns Ezra may fall; Ezra reaches for dark power on Malachor that year."
+   }
+  ],
+  "experiencers": [
+   "Kanan Jarrus"
+  ],
+  "reached": [
+   "Grand Inquisitor",
+   "Ezra Bridger"
+  ],
+  "record": "Shroud of Darkness",
+  "summary": "Kanan duels a masked Temple Guard called the Sentinel, who says he cannot keep Ezra safe from darkness. When Kanan accepts that, the guard knights him and unmasks, revealing the Grand Inquisitor's face, the enemy Kanan killed, from the days before the Purge.",
+  "fulfilled": "partly",
+  "confidence": "inferred",
+  "note": "The Grand Inquisitor died in 4 BBY; tying the warning to Malachor is interpretive.",
+  "sources": [
+   "Shroud of Darkness",
+   "Twilight of the Apprentice"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "yoda-shows-ezra-the-clone-wars",
+  "title": "Yoda shows Ezra the Jedi at war",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -3,
+     "yText": "3 BBY",
+     "frac": 0.55,
+     "place": "Lothal"
+    },
+    "to": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": null,
+     "place": null
+    },
+    "mode": "sees",
+    "note": "Clones massing and Jedi in battle: Yoda's lesson on how fear drew the Order into war."
+   },
+   {
+    "from": {
+     "y": -3,
+     "yText": "3 BBY",
+     "frac": 0.55,
+     "place": "Lothal"
+    },
+    "to": {
+     "y": -3,
+     "yText": "3 BBY",
+     "frac": 0.6,
+     "place": "Malachor"
+    },
+    "mode": "hears",
+    "note": "Yoda's last word, Malachor, sends the Jedi to the Sith world."
+   }
+  ],
+  "experiencers": [
+   "Ezra Bridger"
+  ],
+  "reached": [
+   "Yoda"
+  ],
+  "record": "Shroud of Darkness",
+  "summary": "Speaking to Ezra from afar inside the Lothal temple, Yoda shows him clone armies and fighting Jedi and explains that fear led the Order into the war that undid it. Pressed for a way to beat Vader, he reluctantly names Malachor.",
+  "fulfilled": "n/a",
+  "confidence": "estimated",
+  "note": null,
+  "sources": [
+   "Shroud of Darkness",
+   "Twilight of the Apprentice"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "holocrons-reveal-the-twin-suns",
+  "title": "Fused holocrons point Maul to Tatooine",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.55,
+     "place": null
+    },
+    "to": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.75,
+     "place": "Tatooine"
+    },
+    "mode": "sees",
+    "note": "The joined Jedi and Sith holocrons show twin suns; Maul realizes Kenobi is alive."
+   },
+   {
+    "from": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.7,
+     "place": "Dathomir"
+    },
+    "to": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.75,
+     "place": "Tatooine"
+    },
+    "mode": "sees",
+    "note": "A Nightsister spell completes the vision: a desert world under two suns."
+   }
+  ],
+  "experiencers": [
+   "Ezra Bridger",
+   "Maul"
+  ],
+  "reached": [
+   "Obi-Wan Kenobi"
+  ],
+  "record": "The Holocrons of Fate",
+  "summary": "Maul makes Ezra fuse his Jedi holocron with the Sith one, and the merged light shows each what he wants. Ezra pulls away, but Maul sees enough to know Kenobi lives. A Nightsister ritual finishes the picture, and Maul goes to Tatooine to die at Kenobi's hand.",
+  "fulfilled": "yes",
+  "confidence": "explicit",
+  "note": "The holocron meeting takes place at a Mandalorian asteroid outpost, so no planet is given.",
+  "sources": [
+   "The Holocrons of Fate",
+   "Visions and Voices",
+   "Twin Suns (episode)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "ezra-hears-his-parents-in-a-keycard",
+  "title": "Ezra hears his parents in an old keycard",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -4,
+     "yText": "4 BBY",
+     "frac": null,
+     "place": "Lothal"
+    },
+    "to": {
+     "y": -12,
+     "yText": "before 12 BBY",
+     "frac": null,
+     "place": "Lothal"
+    },
+    "mode": "hears",
+    "note": "A keycard in his old tower replays his parents with Tseebo, planning to resist the Empire."
+   }
+  ],
+  "experiencers": [
+   "Ezra Bridger"
+  ],
+  "reached": [
+   "Ephraim Bridger",
+   "Mira Bridger",
+   "Tseebo"
+  ],
+  "record": "Empire Day (episode)",
+  "summary": "On the Empire's anniversary, Ezra handles an old keycard and hears his mother and father talking with their friend Tseebo about resisting Imperial rule, years before they were taken. The echo tells him where Tseebo is hiding.",
+  "fulfilled": "n/a",
+  "confidence": "estimated",
+  "note": "Untrained psychometry; the parents were taken by 12 BBY, so the echo predates that.",
+  "sources": [
+   "Empire Day (episode)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "ezras-visions-of-his-parents",
+  "title": "Ezra's visions lead him to his parents' fate",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -3,
+     "yText": "3 BBY",
+     "frac": 0.28,
+     "place": null
+    },
+    "to": {
+     "y": -3,
+     "yText": "3 BBY",
+     "frac": 0.3,
+     "place": "Garel"
+    },
+    "mode": "sees",
+    "note": "A dream of his imprisoned parents, a pale Loth-cat and a battle on Garel starts the search."
+   },
+   {
+    "from": {
+     "y": -3,
+     "yText": "3 BBY",
+     "frac": 0.25,
+     "place": null
+    },
+    "to": {
+     "y": -3,
+     "yText": "3 BBY",
+     "frac": 0.32,
+     "place": "Lothal"
+    },
+    "mode": "speaks",
+    "note": "After learning they died freeing prisoners, Ezra sees his parents once more; they are proud."
+   }
+  ],
+  "experiencers": [
+   "Ezra Bridger"
+  ],
+  "reached": [
+   "Ephraim Bridger",
+   "Mira Bridger",
+   "Ryder Azadi"
+  ],
+  "record": "Legacy (episode)",
+  "summary": "A dream shows Ezra his imprisoned parents, a pale Loth-cat and a battle on Garel. Following it to Lothal he finds Ryder Azadi, who says the Bridgers died so other prisoners could escape. That night his mother and father visit him in a vision, proud of their son.",
+  "fulfilled": "yes",
+  "confidence": "explicit",
+  "note": "The second vision is of the dead, but sources treat it as a vision rather than a Force spirit.",
+  "sources": [
+   "Legacy (episode)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "grogu-remembers-order-66",
+  "title": "Grogu remembers the Jedi Temple's last night",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.3,
+     "place": "Corvus"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.28,
+     "place": "Coruscant"
+    },
+    "mode": "sees",
+    "note": "Ahsoka reads his mind: raised in the Temple, hidden after the Purge, his memories full of fear."
+   },
+   {
+    "from": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.55,
+     "place": "Ossus"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.28,
+     "place": "Coruscant"
+    },
+    "mode": "sees",
+    "note": "Luke helps him recall clones gunning down the Jedi who stood in front of him."
+   },
+   {
+    "from": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.68,
+     "place": null
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.28,
+     "place": "Coruscant"
+    },
+    "mode": "sees",
+    "note": "The Armorer's forge brings back Kelleran Beq carrying him to safety."
+   }
+  ],
+  "experiencers": [
+   "Din Grogu",
+   "Ahsoka Tano",
+   "Luke Skywalker"
+  ],
+  "reached": [
+   "Kelleran Beq"
+  ],
+  "record": "Chapter 20: The Foundling",
+  "summary": "Three times Grogu's past surfaces: Ahsoka learns his name and history through a mind touch, Luke draws out images of clones storming the Temple, and a pounding forge brings back the Jedi who died shielding him and the Master who spirited him away.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": "Legs follow release order: Mandalorian Chapter 13, then Boba Fett's Chapter 6, then Mandalorian Chapter 20.",
+  "sources": [
+   "Chapter 13: The Jedi",
+   "Chapter 6: From the Desert Comes a Stranger",
+   "Chapter 20: The Foundling"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "cal-reads-echoes-of-the-purge",
+  "title": "Cal's echoes of the Purge and Trilla's fall",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -14,
+     "yText": "14 BBY",
+     "frac": null,
+     "place": "Dathomir"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.28,
+     "place": null
+    },
+    "mode": "sees",
+    "note": "A flashback returns Cal to Order 66, when Master Jaro Tapal died shielding him."
+   },
+   {
+    "from": {
+     "y": -14,
+     "yText": "14 BBY",
+     "frac": null,
+     "place": "Bogano"
+    },
+    "to": {
+     "y": -19,
+     "yText": "c. 19 BBY",
+     "frac": null,
+     "place": "Nur"
+    },
+    "mode": "sees",
+    "note": "Holding Trilla's lightsaber, Cal sees her tortured until she becomes the Second Sister."
+   },
+   {
+    "from": {
+     "y": -14,
+     "yText": "14 BBY",
+     "frac": null,
+     "place": "Bogano"
+    },
+    "to": {
+     "y": -14,
+     "yText": "possible future",
+     "frac": null,
+     "place": null
+    },
+    "mode": "sees",
+    "note": "At the vault he sees the younglings he might gather being hunted; he later destroys the holocron."
+   }
+  ],
+  "experiencers": [
+   "Cal Kestis"
+  ],
+  "reached": [
+   "Jaro Tapal",
+   "Second Sister",
+   "Cere Junda"
+  ],
+  "record": null,
+  "summary": "Cal can read the past in objects. On Dathomir he relives the day clones killed his master and faces Tapal's spirit underground; at the Bogano vault, Trilla's saber shows how torture remade her, and another vision shows what gathering the listed children would cost.",
+  "fulfilled": "no",
+  "confidence": "estimated",
+  "note": "Tapal died aboard the Albedo Brave in the Bracca system. 'No' refers to the averted future vision.",
+  "sources": [
+   "Star Wars Jedi: Fallen Order"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "cal-sees-the-high-republic-on-koboh",
+  "title": "Cal glimpses the High Republic on Koboh",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -9,
+     "yText": "9 BBY",
+     "frac": null,
+     "place": "Koboh"
+    },
+    "to": {
+     "y": -232,
+     "yText": "232 BBY",
+     "frac": null,
+     "place": "Tanalorr"
+    },
+    "mode": "sees",
+    "note": "Touching Dagan's bacta tank, Cal sees the Nihil attack on Tanalorr and Dagan's past."
+   },
+   {
+    "from": {
+     "y": -9,
+     "yText": "9 BBY",
+     "frac": null,
+     "place": "Koboh"
+    },
+    "to": {
+     "y": -233,
+     "yText": "c. 233 BBY",
+     "frac": null,
+     "place": "Koboh"
+    },
+    "mode": "sees",
+    "note": "On the Shattered Moon he sees Santari Khri maim Dagan and seal him in bacta."
+   }
+  ],
+  "experiencers": [
+   "Cal Kestis"
+  ],
+  "reached": [
+   "Dagan Gera",
+   "Santari Khri"
+  ],
+  "record": null,
+  "summary": "Psychometry on Koboh pulls Cal two centuries back: Santari Khri's droid, Dagan Gera's discovery of Tanalorr, the Nihil raid on it, and at last Santari cutting down her obsessed friend and sealing him in bacta, where Cal has just found him still alive.",
+  "fulfilled": "n/a",
+  "confidence": "estimated",
+  "note": null,
+  "sources": [
+   "Star Wars Jedi: Survivor"
+  ],
+  "conflict": "The Attack on Tanalorr is dated 232 BBY, yet Dagan Gera's article counts 224 years of stasis before 9 BBY (233 BBY), although he was sealed away after the attack.",
+  "weight": 2
+ },
+ {
+  "id": "vader-walks-momins-portal",
+  "title": "Vader walks Momin's portal through his life",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -12,
+     "yText": "12 BBY",
+     "frac": null,
+     "place": "Mustafar"
+    },
+    "to": {
+     "y": -41,
+     "yText": "c. 41 BBY",
+     "frac": null,
+     "place": "Tatooine"
+    },
+    "mode": "sees",
+    "note": "His pregnant mother, and Sidious hinted as the hand behind his conception."
+   },
+   {
+    "from": {
+     "y": -12,
+     "yText": "12 BBY",
+     "frac": null,
+     "place": "Mustafar"
+    },
+    "to": {
+     "y": -32,
+     "yText": "32 BBY",
+     "frac": null,
+     "place": "Tatooine"
+    },
+    "mode": "sees",
+    "note": "Doorways onto his podracing days and first moments with Padmé and Obi-Wan."
+   },
+   {
+    "from": {
+     "y": -12,
+     "yText": "12 BBY",
+     "frac": null,
+     "place": "Mustafar"
+    },
+    "to": {
+     "y": -3,
+     "yText": "3 BBY",
+     "frac": null,
+     "place": "Malachor"
+    },
+    "mode": "sees",
+    "note": "A glimpse ahead to his duel with Ahsoka on Malachor."
+   },
+   {
+    "from": {
+     "y": -12,
+     "yText": "12 BBY",
+     "frac": null,
+     "place": "Mustafar"
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.52,
+     "place": null
+    },
+    "mode": "hears",
+    "note": "Cutting down phantom Jedi, he hears his grandson's voice: let the past die."
+   }
+  ],
+  "experiencers": [
+   "Anakin Skywalker"
+  ],
+  "reached": [
+   "Shmi Skywalker Lars",
+   "Darth Sidious",
+   "Padmé Amidala Naberrie",
+   "Ahsoka Tano",
+   "Ben Solo",
+   "Luke Skywalker"
+  ],
+  "record": null,
+  "summary": "After killing Darth Momin, Vader walks through the Sith's dark side gateway hoping to bring Padmé back. He drifts past scenes of his life and ahead to Malachor, slays phantom Jedi as Kylo Ren's words sound, loses Padmé again, and a vision of Luke casts him out.",
+  "fulfilled": "partly",
+  "confidence": "explicit",
+  "note": "Timelines places the issue in 12 BBY; sources call it a dark side portal, not the World Between Worlds.",
+  "sources": [
+   "Darth Vader (2017) 25"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "kylo-tested-in-the-cave-of-evil",
+  "title": "Kylo Ren's test in Dagobah's dark cave",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": 31,
+     "yText": "between c. 28 and 34 ABY",
+     "frac": null,
+     "place": "Dagobah"
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.52,
+     "place": null
+    },
+    "mode": "sees",
+    "note": "Sparing his parents' phantoms foreshadows Kylo turning on Snoke aboard the Supremacy."
+   }
+  ],
+  "experiencers": [
+   "Ben Solo"
+  ],
+  "reached": [
+   "Snoke",
+   "Luke Skywalker",
+   "Leia Skywalker Organa Solo",
+   "Han Solo"
+  ],
+  "record": null,
+  "summary": "Snoke brings Kylo to the cave on Dagobah where Luke once met his own face. Kylo kills a vision of Luke but cannot strike down the phantoms of Han and Leia, then hides that by wrecking the cave; the concealed mercy anticipates the day he kills Snoke.",
+  "fulfilled": "yes",
+  "confidence": "inferred",
+  "note": "The comic is dated only between c. 28 and 34 ABY; 31 is a placeholder midpoint.",
+  "sources": [
+   "Age of Resistance - Supreme Leader Snoke 1"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "obi-wans-dying-visions",
+  "title": "Obi-Wan's life flashes by as he dies",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.97,
+     "place": null
+    },
+    "to": {
+     "y": -32,
+     "yText": "32 BBY",
+     "frac": null,
+     "place": "Naboo"
+    },
+    "mode": "sees",
+    "note": "Qui-Gon dying after the duel with Maul, and the funeral pyre that followed."
+   },
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.97,
+     "place": null
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.34,
+     "place": "Polis Massa"
+    },
+    "mode": "sees",
+    "note": "Newborn Luke in his arms as Padmé breathes her last."
+   },
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.97,
+     "place": null
+    },
+    "to": {
+     "y": -16,
+     "yText": "16 BBY",
+     "frac": null,
+     "place": "Tatooine"
+    },
+    "mode": "hears",
+    "note": "Qui-Gon's voice wakes him to defend three-year-old Luke from raiders at the Lars farm."
+   }
+  ],
+  "experiencers": [
+   "Obi-Wan Kenobi"
+  ],
+  "reached": [
+   "Qui-Gon Jinn",
+   "Padmé Amidala Naberrie",
+   "Luke Skywalker",
+   "Owen Lars"
+  ],
+  "record": null,
+  "summary": "As Vader's blade falls on the Death Star, Obi-Wan's mind races through his life: Qui-Gon's death, Luke's birth, early years watching the boy, a bandit raid he was warned of. Then his old master tells him to let his life go, and he passes into the Force.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "Time of Death",
+   "From a Certain Point of View"
+  ],
+  "conflict": "Time of Death has Qui-Gon's voice guide Obi-Wan in 16 BBY; the Kenobi series shows no contact with Qui-Gon before 9 BBY. Author Cavan Scott (2026) was unsure whether it had been retconned.",
+  "weight": 2
+ },
+ {
+  "id": "karr-nuq-sin-touches-the-jedi-past",
+  "title": "Karr Nuq Sin's objects show the Jedi past",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": 32,
+     "yText": "32 ABY",
+     "frac": null,
+     "place": null
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": null,
+     "place": "Utapau"
+    },
+    "mode": "sees",
+    "note": "Tion Medon's staff shows Obi-Wan's first meeting with the port master during the war."
+   },
+   {
+    "from": {
+     "y": 32,
+     "yText": "32 ABY",
+     "frac": null,
+     "place": "Jakku"
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.97,
+     "place": null
+    },
+    "mode": "sees",
+    "note": "Inside the Millennium Falcon he sees Obi-Wan's first lightsaber lesson for Luke."
+   }
+  ],
+  "experiencers": [
+   "Karr Nuq Sin"
+  ],
+  "reached": [
+   "Obi-Wan Kenobi",
+   "Tion Medon",
+   "Luke Skywalker"
+  ],
+  "record": null,
+  "summary": "A teenager on Merokia, Karr blacks out whenever he touches certain objects, until he realizes he is seeing their history. A staff from Utapau, the Millennium Falcon's hold and an Inquisitor's broken saber show him Jedi he thought were legends, and one vision seems to show himself.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "Force Collector"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "luke-foresees-exegol",
+  "title": "Luke's visions of a hidden Sith world",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": 21,
+     "yText": "21 ABY",
+     "frac": null,
+     "place": "Ossus"
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.48,
+     "place": "Exegol"
+    },
+    "mode": "sees",
+    "note": "Luke senses a dark world and a growing secret; Palpatine's hidden fleet rises there in 35 ABY."
+   }
+  ],
+  "experiencers": [
+   "Luke Skywalker"
+  ],
+  "reached": [
+   "Darth Sidious"
+  ],
+  "record": null,
+  "summary": "Long before the Emperor's return is known, Luke is troubled by visions of a dead world heavy with dark power. A possessed archaeologist's memories and a seeing stone on Tython carry him there in spirit, where Sith wraiths nearly overwhelm him.",
+  "fulfilled": "yes",
+  "confidence": "inferred",
+  "note": "Timelines places the novel in 21 ABY; linking it to 35 ABY is interpretive.",
+  "sources": [
+   "Shadow of the Sith"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "maul-faces-phantoms-in-a-sith-castle",
+  "title": "Maul faces phantoms in a Sith castle",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -12,
+     "yText": "between 19 and 5 BBY",
+     "frac": null,
+     "place": "Damanos"
+    },
+    "to": {
+     "y": -32,
+     "yText": "32 BBY",
+     "frac": null,
+     "place": "Naboo"
+    },
+    "mode": "sees",
+    "note": "A phantom Qui-Gon, whom Maul killed, offers him freedom from the past; Maul attacks."
+   },
+   {
+    "from": {
+     "y": -12,
+     "yText": "between 19 and 5 BBY",
+     "frac": null,
+     "place": "Damanos"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": null,
+     "place": "Dathomir"
+    },
+    "mode": "sees",
+    "note": "A phantom Grievous mocks him over the killing of Mother Talzin."
+   },
+   {
+    "from": {
+     "y": -12,
+     "yText": "between 19 and 5 BBY",
+     "frac": null,
+     "place": "Damanos"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": null,
+     "place": "Mandalore"
+    },
+    "mode": "sees",
+    "note": "A phantom Savage Opress calls Maul's drive weakness, not vengeance."
+   }
+  ],
+  "experiencers": [
+   "Maul"
+  ],
+  "reached": [
+   "Qui-Gon Jinn",
+   "Grievous",
+   "Savage Opress",
+   "Talzin"
+  ],
+  "record": null,
+  "summary": "Hunting for power after the Republic's fall, Maul enters a Sith castle that raises figures from his past: his brother Savage, the cyborg who killed his mother, and Qui-Gon offering release from hatred. He attacks each, and leaves with nothing gained.",
+  "fulfilled": "n/a",
+  "confidence": "estimated",
+  "note": "The story is dated only between 19 and 5 BBY; 12 BBY is a placeholder midpoint.",
+  "sources": [
+   "The Ghosts of Maul",
+   "Stories of Jedi and Sith"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "cordova-foresees-the-orders-fall",
+  "title": "Eno Cordova foresees the Jedi Order's fall",
+  "kind": "vision",
+  "legs": [
+   {
+    "from": {
+     "y": -19,
+     "yText": "before 19 BBY",
+     "frac": null,
+     "place": null
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.28,
+     "place": "Coruscant"
+    },
+    "mode": "sees",
+    "note": "The Council ignores him; Order 66 proves him right."
+   }
+  ],
+  "experiencers": [
+   "Eno Cordova"
+  ],
+  "reached": [
+   "Jocasta Nu"
+  ],
+  "record": null,
+  "summary": "Exploring a Zeffo temple, Cordova foresees the Jedi Order's end and hurries to warn the Council, which dismisses him. Only the archivist Jocasta Nu believes him, copying for him the holocron that names Force-sensitive children, which he hides on Bogano.",
+  "fulfilled": "yes",
+  "confidence": "estimated",
+  "note": "The vision's year is not given beyond predating the Purge.",
+  "sources": [
+   "Star Wars Jedi: Fallen Order"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "the-chosen-one-prophecy",
+  "title": "The Chosen One will bring balance",
+  "kind": "prophecy",
+  "legs": [
+   {
+    "from": {
+     "y": -32,
+     "yText": "32 BBY",
+     "frac": null,
+     "place": "Tatooine"
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.6,
+     "place": "Endor"
+    },
+    "mode": "speaks",
+    "note": "Qui-Gon names Anakin the Chosen One; Anakin destroys Sidious above Endor's moon."
+   },
+   {
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.33,
+     "place": "Mustafar"
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.6,
+     "place": "Endor"
+    },
+    "mode": "speaks",
+    "note": "Obi-Wan cries that the Chosen One failed; Endor shows the prophecy delayed, not broken."
+   },
+   {
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.6,
+     "place": "Endor"
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.48,
+     "place": "Exegol"
+    },
+    "mode": "speaks",
+    "note": "Anakin's voice urges Rey to restore balance, just as he had."
+   }
+  ],
+  "experiencers": [
+   "Qui-Gon Jinn",
+   "Obi-Wan Kenobi"
+  ],
+  "reached": [
+   "Anakin Skywalker",
+   "Rey Skywalker"
+  ],
+  "record": "Star Wars: Episode I The Phantom Menace",
+  "summary": "An ancient Jedi prophecy, kept on a holocron, speaks of one born of the Force and destined to end the Sith. Qui-Gon finds Anakin on Tatooine and believes it. Anakin becomes a Sith instead, until at Endor he throws Sidious down a shaft to protect Luke.",
+  "fulfilled": "yes",
+  "confidence": "explicit",
+  "note": "The prophecy's utterance is undated, so legs start at its recorded invocations.",
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Star Wars: Episode III Revenge of the Sith",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Twin Suns (episode)",
+   "Ghosts of Mortis"
+  ],
+  "conflict": "Most sources credit Anakin at Endor, but Sidious returns in 35 ABY; art director Rick Carter credits Rey, Kenobi believes it is Luke (Twin Suns), and Lucas once suggested Leia.",
+  "weight": 3
+ },
+ {
+  "id": "priestesses-foretell-yodas-destiny",
+  "title": "The Force Priestesses foretell Yoda's destiny",
+  "kind": "prophecy",
+  "legs": [
+   {
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.11,
+     "place": "Wellspring of Life"
+    },
+    "to": {
+     "y": 3,
+     "yText": "3 ABY",
+     "frac": 0.46,
+     "place": "Dagobah"
+    },
+    "mode": "speaks",
+    "note": "They accept Yoda because he will train someone vital to the galaxy: Luke."
+   },
+   {
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.12,
+     "place": "Moraband"
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.55,
+     "place": "Dagobah"
+    },
+    "mode": "speaks",
+    "note": "They promise Qui-Gon will teach him to endure after death; he does so when he dies."
+   }
+  ],
+  "experiencers": [
+   "Force Priestesses"
+  ],
+  "reached": [
+   "Yoda",
+   "Luke Skywalker",
+   "Qui-Gon Jinn"
+  ],
+  "record": "Destiny (The Clone Wars)",
+  "summary": "On the world where midi-chlorians arise, five masked Priestesses take Yoda on because he will one day teach someone crucial to the galaxy. After his final trial they add that Qui-Gon will teach him to live on after death. Both come to pass on Dagobah.",
+  "fulfilled": "yes",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "Destiny (The Clone Wars)",
+   "Sacrifice (episode)",
+   "Star Wars: Episode V The Empire Strikes Back",
+   "Star Wars: Episode VI Return of the Jedi"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "bendu-foresees-thrawns-defeat",
+  "title": "The Bendu foresees Thrawn's cold embrace",
+  "kind": "prophecy",
+  "legs": [
+   {
+    "from": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.85,
+     "place": "Atollon"
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.5,
+     "place": "Lothal"
+    },
+    "mode": "speaks",
+    "note": "The 'many arms' are purrgil that seize the Chimaera above Lothal and carry Thrawn away."
+   }
+  ],
+  "experiencers": [
+   "Bendu"
+  ],
+  "reached": [
+   "Mitth'raw'nuruodo",
+   "Ezra Bridger"
+  ],
+  "record": "Zero Hour",
+  "summary": "Wounded after the fight on Atollon, the Bendu tells Thrawn he can see his defeat: many arms closing around him in an icy hold. Then he vanishes, laughing. A year later purrgil called by Ezra coil around the Chimaera and drag it into hyperspace.",
+  "fulfilled": "yes",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "Zero Hour",
+   "Family Reunion – and Farewell"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "dying-maul-foretells-vengeance",
+  "title": "Dying Maul foretells the Sith's end",
+  "kind": "prophecy",
+  "legs": [
+   {
+    "from": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.75,
+     "place": "Tatooine"
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.6,
+     "place": "Endor"
+    },
+    "mode": "speaks",
+    "note": "Maul trusts the Chosen One Kenobi guards will avenge them; Sidious dies at Endor."
+   }
+  ],
+  "experiencers": [
+   "Maul"
+  ],
+  "reached": [
+   "Luke Skywalker",
+   "Darth Sidious"
+  ],
+  "record": "Twin Suns (episode)",
+  "summary": "Struck down by Obi-Wan in a single exchange, Maul asks if the old Jedi is protecting the Chosen One. Told yes, he says with his last breath that he will avenge them both. Six years later Luke's refusal to kill leads Anakin to destroy Sidious.",
+  "fulfilled": "yes",
+  "confidence": "inferred",
+  "note": "Maul means Luke; that the vengeance comes through Anakin and Luke together is interpretive.",
+  "sources": [
+   "Twin Suns (episode)",
+   "Star Wars: Episode VI Return of the Jedi"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "frangawl-prophecy-and-talzin",
+  "title": "Talzin and the Frangawl prophecy",
+  "kind": "prophecy",
+  "legs": [
+   {
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.15,
+     "place": "Bardotta"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.16,
+     "place": "Zardossa Stix"
+    },
+    "mode": "speaks",
+    "note": "The foretold vanishing of the Masters and queen is staged by the cult; Talzin's ritual is stopped."
+   },
+   {
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.15,
+     "place": "Bardotta"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.29,
+     "place": "Coruscant"
+    },
+    "mode": "speaks",
+    "note": "The promised era of darkness arrives anyway when the Republic becomes the Empire."
+   }
+  ],
+  "experiencers": [
+   "Julia",
+   "Talzin"
+  ],
+  "reached": [
+   "Mace Windu",
+   "Jar Jar Binks"
+  ],
+  "record": "The Disappeared, Part I",
+  "summary": "Bardotta's queen warns that the vanishing of the Dagoyan Masters fulfils an old prophecy: lose the queen and darkness will spread through the galaxy. The prophecy came from the Frangawl Cult, who seize her so Mother Talzin can take her life force; Windu and Binks stop it.",
+  "fulfilled": "partly",
+  "confidence": "inferred",
+  "note": "Reading the 'era of darkness' as the Empire is an inference, not stated in the episodes.",
+  "sources": [
+   "The Disappeared, Part I",
+   "The Disappeared, Part II"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "sith-eternal-prophesied-dyad",
+  "title": "The Sith Eternal's prophesied dyad",
+  "kind": "prophecy",
+  "legs": [
+   {
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.46,
+     "place": "Takodana"
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.48,
+     "place": "Exegol"
+    },
+    "mode": "speaks",
+    "note": "Kylo first feels the bond probing Rey on Takodana; Sidious names the dyad on Exegol."
+   }
+  ],
+  "experiencers": [
+   "Ben Solo",
+   "Rey Skywalker"
+  ],
+  "reached": [
+   "Darth Sidious"
+  ],
+  "record": "Star Wars: Episode IX The Rise of Skywalker",
+  "summary": "Sith Eternal lore foretold a Force dyad: two beings bound as one, unseen for generations. The bond Rey and Ben have felt since their first meeting proves to be it. Sidious drinks their shared life to restore himself, and their union then helps end him.",
+  "fulfilled": "yes",
+  "confidence": "estimated",
+  "note": "The prophecy's origin in Sith Eternal lore is undated; legs start at the bond's first sign.",
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: Episode VII The Force Awakens",
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "mythosaur-heralds-a-new-mandalore",
+  "title": "A living mythosaur heralds a new Mandalore",
+  "kind": "prophecy",
+  "legs": [
+   {
+    "from": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.66,
+     "place": "Mandalore"
+    },
+    "to": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.8,
+     "place": "Mandalore"
+    },
+    "mode": "sees",
+    "note": "The Armorer reads Bo-Katan's sighting as the promised sign; Mandalore is retaken that year."
+   }
+  ],
+  "experiencers": [
+   "Bo-Katan Kryze",
+   "The Armorer"
+  ],
+  "reached": [
+   "Din Djarin"
+  ],
+  "record": "Chapter 18: The Mines of Mandalore",
+  "summary": "Old Mandalorian songs tell of the mythosaur rising to announce a new era. Diving after Din Djarin in the mines' sacred pool, Bo-Katan sees one alive. The Armorer takes it as the sign that Bo-Katan should unite their people, and the reconquest of Mandalore follows.",
+  "fulfilled": "partly",
+  "confidence": "estimated",
+  "note": "The songs are undated; 'partly' because a new age begins, but is not completed, on screen.",
+  "sources": [
+   "Chapter 18: The Mines of Mandalore",
+   "Chapter 21: The Pirate",
+   "Chapter 24: The Return"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "qui-gon-cries-out-to-anakin",
+  "title": "Qui-Gon's voice cries out to Anakin",
+  "kind": "force-ghost",
+  "legs": [
+   {
+    "from": {
+     "y": -32,
+     "yText": "32 BBY",
+     "frac": null,
+     "place": "Naboo"
+    },
+    "to": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.08,
+     "place": "Tatooine"
+    },
+    "mode": "speaks",
+    "note": "During the Tusken massacre Qui-Gon begs Anakin to stop; Yoda hears the cry on Coruscant."
+   }
+  ],
+  "experiencers": [
+   "Anakin Skywalker",
+   "Yoda"
+  ],
+  "reached": [
+   "Qui-Gon Jinn"
+  ],
+  "record": "Star Wars: Episode II Attack of the Clones",
+  "summary": "As Anakin slaughters the Tusken camp, Qui-Gon, ten years dead, calls his name and begs him to stop. Meditating on Coruscant, Yoda hears the cry and feels Anakin's pain without grasping it; Anakin tells himself he imagined it.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": "Later canon identifies the voice as Qui-Gon's.",
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Voices"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "qui-gon-guides-yoda",
+  "title": "Qui-Gon's voice guides Yoda's last quest",
+  "kind": "force-ghost",
+  "legs": [
+   {
+    "from": {
+     "y": -32,
+     "yText": "32 BBY",
+     "frac": null,
+     "place": "Naboo"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.08,
+     "place": "Coruscant"
+    },
+    "mode": "speaks",
+    "note": "In the Temple, Qui-Gon lifts Yoda and nearby objects to prove he is there; Anakin hears him too."
+   },
+   {
+    "from": {
+     "y": -32,
+     "yText": "32 BBY",
+     "frac": null,
+     "place": "Naboo"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.1,
+     "place": "Dagobah"
+    },
+    "mode": "speaks",
+    "note": "On Dagobah he shows himself as a swarm of lights and sends Yoda to the Priestesses."
+   }
+  ],
+  "experiencers": [
+   "Yoda",
+   "Anakin Skywalker"
+  ],
+  "reached": [
+   "Qui-Gon Jinn"
+  ],
+  "record": "Voices",
+  "summary": "Late in the war Yoda hears Qui-Gon say he now belongs to the Living Force. The Council fears a Sith trick, but Yoda slips away to Dagobah, where Qui-Gon, still unable to take form, starts him toward keeping his identity after death.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "Voices",
+   "The Lost One",
+   "Destiny (The Clone Wars)"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "qui-gon-appears-to-obi-wan",
+  "title": "Qui-Gon finally appears to Obi-Wan",
+  "kind": "force-ghost",
+  "legs": [
+   {
+    "from": {
+     "y": -32,
+     "yText": "32 BBY",
+     "frac": null,
+     "place": "Naboo"
+    },
+    "to": {
+     "y": -16,
+     "yText": "16 BBY",
+     "frac": null,
+     "place": "Tatooine"
+    },
+    "mode": "speaks",
+    "note": "A voice warns Obi-Wan that three-year-old Luke is in danger from raiders."
+   },
+   {
+    "from": {
+     "y": -32,
+     "yText": "32 BBY",
+     "frac": null,
+     "place": "Naboo"
+    },
+    "to": {
+     "y": -9,
+     "yText": "9 BBY",
+     "frac": null,
+     "place": "Tatooine"
+    },
+    "mode": "speaks",
+    "note": "After facing Vader, Obi-Wan sees Qui-Gon near Beggar's Canyon, who says he was always there."
+   },
+   {
+    "from": {
+     "y": -32,
+     "yText": "32 BBY",
+     "frac": null,
+     "place": "Naboo"
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": null,
+     "place": "Tatooine"
+    },
+    "mode": "speaks",
+    "note": "As Luke races home, Qui-Gon appears nearly solid and hints they will soon be together."
+   }
+  ],
+  "experiencers": [
+   "Obi-Wan Kenobi"
+  ],
+  "reached": [
+   "Qui-Gon Jinn"
+  ],
+  "record": "Part VI",
+  "summary": "For a decade on Tatooine Obi-Wan calls to his old master without an answer he can trust. Only after he confronts Vader and accepts Anakin's fall does Qui-Gon stand before him in the desert. Tie-in stories add an earlier warning and a last visit before the Death Star.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "Part VI",
+   "Time of Death",
+   "Master and Apprentice (short story)",
+   "From a Certain Point of View"
+  ],
+  "conflict": "Time of Death has Qui-Gon speak to Obi-Wan in 16 BBY; the Kenobi series shows him unreachable until 9 BBY. Author Cavan Scott (2026) was unsure whether it had been retconned.",
+  "weight": 3
+ },
+ {
+  "id": "obi-wans-voice-guides-luke",
+  "title": "Obi-Wan's voice guides Luke at Yavin",
+  "kind": "force-ghost",
+  "legs": [
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.97,
+     "place": null
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.98,
+     "place": null
+    },
+    "mode": "speaks",
+    "note": "Just after dying, Obi-Wan tells Luke to run for the Falcon."
+   },
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.97,
+     "place": null
+    },
+    "to": {
+     "y": 0,
+     "yText": "0 BBY (Battle of Yavin)",
+     "frac": 0.0,
+     "place": null
+    },
+    "mode": "speaks",
+    "note": "In the trench run he tells Luke to trust the Force; Luke switches off his targeting computer."
+   }
+  ],
+  "experiencers": [
+   "Luke Skywalker"
+  ],
+  "reached": [
+   "Obi-Wan Kenobi"
+  ],
+  "record": "Star Wars: Episode IV A New Hope",
+  "summary": "Struck down by Vader, Obi-Wan vanishes, and at once his voice tells Luke to run. Over Yavin it speaks again, urging Luke to lean on the Force; he shuts off his targeting computer and destroys the Death Star.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": "The updated Galactic Atlas puts this film's pre-battle events in 1 BBY, placing the battle itself at year 0.",
+  "sources": [
+   "Star Wars: Episode IV A New Hope"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "obi-wan-sends-luke-to-dagobah",
+  "title": "Obi-Wan's spirit sends Luke to Yoda",
+  "kind": "force-ghost",
+  "legs": [
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.97,
+     "place": null
+    },
+    "to": {
+     "y": 3,
+     "yText": "3 ABY",
+     "frac": 0.42,
+     "place": "Hoth"
+    },
+    "mode": "speaks",
+    "note": "Freezing in the snow, Luke sees Obi-Wan and is told to go find Yoda on Dagobah."
+   },
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.97,
+     "place": null
+    },
+    "to": {
+     "y": 3,
+     "yText": "3 ABY",
+     "frac": 0.49,
+     "place": "Dagobah"
+    },
+    "mode": "speaks",
+    "note": "Obi-Wan appears beside Yoda to warn Luke not to abandon his training."
+   }
+  ],
+  "experiencers": [
+   "Luke Skywalker"
+  ],
+  "reached": [
+   "Obi-Wan Kenobi"
+  ],
+  "record": "Star Wars: Episode V The Empire Strikes Back",
+  "summary": "Years after his death, Obi-Wan's shimmering figure finds Luke dying of cold on Hoth and sends him to Dagobah to learn from Yoda. Later, as a spirit beside Yoda, he pleads with Luke not to rush to Bespin; Luke goes anyway.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "Star Wars: Episode V The Empire Strikes Back"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "obi-wan-reveals-luke-has-a-sister",
+  "title": "Obi-Wan's spirit tells Luke of his sister",
+  "kind": "force-ghost",
+  "legs": [
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.97,
+     "place": null
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.55,
+     "place": "Dagobah"
+    },
+    "mode": "speaks",
+    "note": "After Yoda's death, Obi-Wan explains Anakin's fall and confirms Leia is Luke's twin."
+   }
+  ],
+  "experiencers": [
+   "Luke Skywalker"
+  ],
+  "reached": [
+   "Obi-Wan Kenobi",
+   "Leia Skywalker Organa Solo"
+  ],
+  "record": "Star Wars: Episode VI Return of the Jedi",
+  "summary": "Moments after Yoda dies and vanishes, Obi-Wan appears on Dagobah to face Luke's anger: Vader really is his father, and Obi-Wan's earlier words were only half the truth. He adds that Luke's twin sister is Leia, and that Luke must confront Vader again.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "Star Wars: Episode VI Return of the Jedi"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "three-spirits-at-endor",
+  "title": "Obi-Wan, Yoda and Anakin appear at Endor",
+  "kind": "force-ghost",
+  "legs": [
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.97,
+     "place": null
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.61,
+     "place": "Endor"
+    },
+    "mode": "returns",
+    "note": "Obi-Wan, dead for five years."
+   },
+   {
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.55,
+     "place": "Dagobah"
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.61,
+     "place": "Endor"
+    },
+    "mode": "returns",
+    "note": "Yoda, dead since shortly before the battle."
+   },
+   {
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.6,
+     "place": "Endor"
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.61,
+     "place": "Endor"
+    },
+    "mode": "returns",
+    "note": "Anakin, redeemed and dead only hours, kept whole by his old masters' teaching."
+   }
+  ],
+  "experiencers": [
+   "Luke Skywalker"
+  ],
+  "reached": [
+   "Obi-Wan Kenobi",
+   "Yoda",
+   "Anakin Skywalker"
+  ],
+  "record": "Star Wars: Episode VI Return of the Jedi",
+  "summary": "As the rebels celebrate on the forest moon, Luke looks up to see three shining figures watching him: Obi-Wan, Yoda and, restored to his younger self, Anakin Skywalker, redeemed, who perished on the battle station that day.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": "Canon says Obi-Wan and Yoda preserved Anakin's identity, since he never learned the skill.",
+  "sources": [
+   "Star Wars: Episode VI Return of the Jedi"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "yoda-visits-luke-on-ahch-to",
+  "title": "Yoda's spirit visits Luke on Ahch-To",
+  "kind": "force-ghost",
+  "legs": [
+   {
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.55,
+     "place": "Dagobah"
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.5,
+     "place": "Ahch-To"
+    },
+    "mode": "returns",
+    "note": "Thirty years dead, Yoda calls lightning down on the old Jedi tree and teaches Luke once more."
+   }
+  ],
+  "experiencers": [
+   "Luke Skywalker"
+  ],
+  "reached": [
+   "Yoda"
+  ],
+  "record": "Star Wars: Episode VIII The Last Jedi",
+  "summary": "As Luke moves to burn the ancient Jedi tree, Yoda appears, cackling, and does it for him with a lightning strike. He reminds his old pupil that failing is how masters learn and that Rey needs him, freeing Luke to face Kylo Ren one last time.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": "The sacred texts were already safe aboard the Millennium Falcon.",
+  "sources": [
+   "Star Wars: Episode VIII The Last Jedi"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "luke-appears-to-rey-on-ahch-to",
+  "title": "Luke's spirit ends Rey's exile",
+  "kind": "force-ghost",
+  "legs": [
+   {
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.52,
+     "place": "Ahch-To"
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.46,
+     "place": "Ahch-To"
+    },
+    "mode": "returns",
+    "note": "One year after dying, Luke catches his father's lightsaber and raises his sunken fighter."
+   }
+  ],
+  "experiencers": [
+   "Rey Skywalker"
+  ],
+  "reached": [
+   "Luke Skywalker"
+  ],
+  "record": "Star Wars: Episode IX The Rise of Skywalker",
+  "summary": "Horrified to learn she is Palpatine's granddaughter, Rey hides on Ahch-To and tosses Anakin's lightsaber into a fire. Luke's spirit catches it, admits he was wrong to hide, gives her Leia's saber, and hauls his old fighter up from the depths so she can reach Exegol.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "jedi-voices-rise-on-exegol",
+  "title": "Generations of Jedi speak to Rey",
+  "kind": "force-ghost",
+  "legs": [
+   {
+    "from": {
+     "y": -32,
+     "yText": "32 BBY",
+     "frac": null,
+     "place": "Naboo"
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.48,
+     "place": "Exegol"
+    },
+    "mode": "speaks",
+    "note": "Qui-Gon: every past Jedi lives on inside her."
+   },
+   {
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.28,
+     "place": null
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.48,
+     "place": "Exegol"
+    },
+    "mode": "speaks",
+    "note": "Mace Windu, Aayla Secura, Adi Gallia and Luminara Unduli, all dead by the Purge."
+   },
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.97,
+     "place": null
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.48,
+     "place": "Exegol"
+    },
+    "mode": "speaks",
+    "note": "Obi-Wan, heard in both his older and younger voice."
+   },
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.4,
+     "place": "Lothal"
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.48,
+     "place": "Exegol"
+    },
+    "mode": "speaks",
+    "note": "Kanan Jarrus tells her a Jedi's strength lies in the heart."
+   },
+   {
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.6,
+     "place": "Endor"
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.48,
+     "place": "Exegol"
+    },
+    "mode": "speaks",
+    "note": "Anakin asks her to bring balance back, as he once had; Yoda says she was never alone."
+   },
+   {
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.52,
+     "place": "Ahch-To"
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.48,
+     "place": "Exegol"
+    },
+    "mode": "speaks",
+    "note": "Luke's voice closes the chorus with a blessing."
+   }
+  ],
+  "experiencers": [
+   "Rey Skywalker"
+  ],
+  "reached": [
+   "Qui-Gon Jinn",
+   "Mace Windu",
+   "Aayla Secura",
+   "Adi Gallia",
+   "Luminara Unduli",
+   "Obi-Wan Kenobi",
+   "Kanan Jarrus",
+   "Anakin Skywalker",
+   "Yoda",
+   "Luke Skywalker",
+   "Ahsoka Tano"
+  ],
+  "record": "Star Wars: Episode IX The Rise of Skywalker",
+  "summary": "Drained and beaten beneath Palpatine's citadel, Rey asks the Jedi to be with her. Voices from generations she knows only by name answer: Qui-Gon, Mace, Obi-Wan, Kanan, Ahsoka, Anakin, Yoda, Luke. Lifted by them, she stands and turns Palpatine's lightning back on him.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": "Adi Gallia died in 19 BBY; Luminara Unduli between 19 and 18 BBY; both grouped at 19 BBY.",
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: The Rise of Skywalker: Expanded Edition"
+  ],
+  "conflict": "Ahsoka Tano's voice is among them, though no canon source shows her death by 35 ABY; the Force spirit article also notes some speakers, like Mace Windu, were voices rather than full spirits.",
+  "weight": 3
+ },
+ {
+  "id": "luke-and-leia-at-the-lars-homestead",
+  "title": "Luke and Leia watch Rey become a Skywalker",
+  "kind": "force-ghost",
+  "legs": [
+   {
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.52,
+     "place": "Ahch-To"
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.5,
+     "place": "Tatooine"
+    },
+    "mode": "returns",
+    "note": "Luke, dead since his standoff with Kylo at Crait."
+   },
+   {
+    "from": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.45,
+     "place": "Ajan Kloss"
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.5,
+     "place": "Tatooine"
+    },
+    "mode": "returns",
+    "note": "Leia, who gave her life reaching Ben only days before."
+   }
+  ],
+  "experiencers": [
+   "Rey Skywalker"
+  ],
+  "reached": [
+   "Luke Skywalker",
+   "Leia Skywalker Organa Solo"
+  ],
+  "record": "Star Wars: Episode IX The Rise of Skywalker",
+  "summary": "At the empty Lars homestead, Rey buries the twins' lightsabers in the sand. When a passing woman asks her name, she glances up and sees Luke's and Leia's spirits watching, and answers: Rey Skywalker.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "anakin-watches-over-ahsoka-on-peridea",
+  "title": "Anakin's spirit watches Ahsoka on Peridea",
+  "kind": "force-ghost",
+  "legs": [
+   {
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.6,
+     "place": "Endor"
+    },
+    "to": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.94,
+     "place": "Peridea"
+    },
+    "mode": "returns",
+    "note": "Stranded with Sabine after the battle, Ahsoka is watched over by her master's spirit."
+   }
+  ],
+  "experiencers": [
+   "Ahsoka Tano",
+   "Sabine Wren"
+  ],
+  "reached": [
+   "Anakin Skywalker"
+  ],
+  "record": "Part Eight: The Jedi, the Witch, and the Warlord",
+  "summary": "Left behind on Peridea after Thrawn escapes and Ezra slips home, Ahsoka and Sabine gaze at an alien sky. Unseen by them, Anakin's spirit stands close by, keeping watch over his old apprentice in another galaxy.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "Part Eight: The Jedi, the Witch, and the Warlord"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "kanans-will-speaks-through-dume",
+  "title": "Kanan's will speaks through the wolf Dume",
+  "kind": "force-ghost",
+  "legs": [
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.4,
+     "place": "Lothal"
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.42,
+     "place": "Lothal"
+    },
+    "mode": "speaks",
+    "note": "In a dream, the white wolf bearing Kanan's birth name hands Ezra the temple's key stone."
+   },
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.4,
+     "place": "Lothal"
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.45,
+     "place": "Lothal"
+    },
+    "mode": "hears",
+    "note": "Collapsing after the temple is sealed, Ezra hears Kanan's voice bless him one last time."
+   }
+  ],
+  "experiencers": [
+   "Ezra Bridger"
+  ],
+  "reached": [
+   "Kanan Jarrus",
+   "Dume"
+  ],
+  "record": "DUME",
+  "summary": "After Kanan dies saving his friends, a huge white Loth-wolf calling itself Dume, Kanan's birth name, finds Ezra and points him toward the temple to set the past right and save the future. Ahsoka later explains the wolf carries Kanan's will.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": "Not a classic Force spirit: sources call Dume a manifestation of Kanan's will.",
+  "sources": [
+   "DUME",
+   "A World Between Worlds",
+   "Wolves and a Door"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "anakin-rescues-luke-from-exegol",
+  "title": "Anakin's spirit rescues Luke from Exegol",
+  "kind": "force-ghost",
+  "legs": [
+   {
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.6,
+     "place": "Endor"
+    },
+    "to": {
+     "y": 21,
+     "yText": "21 ABY",
+     "frac": null,
+     "place": "Exegol"
+    },
+    "mode": "returns",
+    "note": "Anakin scatters Sith wraiths with a lightsaber and sends Luke's spirit back to Tython."
+   }
+  ],
+  "experiencers": [
+   "Luke Skywalker"
+  ],
+  "reached": [
+   "Anakin Skywalker"
+  ],
+  "record": null,
+  "summary": "Meditating on a seeing stone on Tython, Luke finds himself on Exegol, where nine wraiths close in and his blade passes through them. His father appears with a lightsaber, drives them off and returns Luke to Tython, spending nearly all his strength to do it.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": "The novel is dated 21 ABY by Star Wars: Timelines.",
+  "sources": [
+   "Shadow of the Sith"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "nightsister-spirits-demand-payment",
+  "title": "Nightsister spirits claim a debt on Dathomir",
+  "kind": "force-ghost",
+  "legs": [
+   {
+    "from": {
+     "y": -20,
+     "yText": "20 BBY",
+     "frac": null,
+     "place": "Dathomir"
+    },
+    "to": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.7,
+     "place": "Dathomir"
+    },
+    "mode": "returns",
+    "note": "Spirits of Nightsisters, whose clan was massacred in the war, possess Kanan and Sabine."
+   }
+  ],
+  "experiencers": [
+   "Ezra Bridger",
+   "Kanan Jarrus",
+   "Sabine Wren",
+   "Maul"
+  ],
+  "reached": [],
+  "record": "Visions and Voices",
+  "summary": "Maul's borrowed Nightsister spell works, but the dead witches who fed it want flesh as payment. Two spirits rise from the altar and take over Kanan and Sabine. Ezra offers himself instead, then smashes the altar; the witches vanish screaming.",
+  "fulfilled": "n/a",
+  "confidence": "estimated",
+  "note": "Dark-side spirits, not Force spirits; the Nightsister massacre is dated 20 BBY (Massacre).",
+  "sources": [
+   "Visions and Voices"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "kenobis-warning-to-surviving-jedi",
+  "title": "Kenobi's warning to surviving Jedi",
+  "kind": "echo",
+  "legs": [
+   {
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.29,
+     "place": "Coruscant"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.3,
+     "place": null
+    },
+    "mode": "speaks",
+    "note": "Caleb Dume, bound for Coruscant through hyperspace, receives the warning and turns away."
+   },
+   {
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.29,
+     "place": "Coruscant"
+    },
+    "to": {
+     "y": -14,
+     "yText": "14 BBY",
+     "frac": null,
+     "place": null
+    },
+    "mode": "speaks",
+    "note": "Cere Junda saved the broadcast to a holocron; it plays during Cal Kestis's mission."
+   },
+   {
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.29,
+     "place": "Coruscant"
+    },
+    "to": {
+     "y": -5,
+     "yText": "5 BBY",
+     "frac": null,
+     "place": "Lothal"
+    },
+    "mode": "speaks",
+    "note": "Ezra opens Kanan's holocron and hears the message; Kanan later plays it in full."
+   },
+   {
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.29,
+     "place": "Coruscant"
+    },
+    "to": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.72,
+     "place": "Atollon"
+    },
+    "mode": "speaks",
+    "note": "The holocron replays the warning in the night, starting Ezra's search for Kenobi."
+   }
+  ],
+  "experiencers": [
+   "Kanan Jarrus",
+   "Cere Junda",
+   "Cal Kestis",
+   "Ezra Bridger"
+  ],
+  "reached": [
+   "Obi-Wan Kenobi"
+  ],
+  "record": "Star Wars Rebels: Spark of Rebellion",
+  "summary": "In the fallen Temple, Obi-Wan and Yoda turn the recall beacon into a warning, and Obi-Wan records a message: the Order has fallen, stay away, trust the Force, a new hope will come. Survivors catch it that day, and holocron copies carry it to new Jedi years later.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": "Episode III shows the beacon being changed; the recorded wording is heard in Rebels.",
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith",
+   "Star Wars Rebels: Spark of Rebellion",
+   "Twin Suns (episode)",
+   "Kanan 2",
+   "Star Wars Jedi: Fallen Order"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leias-plea-reaches-obi-wan",
+  "title": "Leia's hidden plea reaches Obi-Wan",
+  "kind": "echo",
+  "legs": [
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.92,
+     "place": null
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.94,
+     "place": "Tatooine"
+    },
+    "mode": "speaks",
+    "note": "Recorded into R2-D2 aboard the Tantive IV, it reaches Kenobi through Luke days later."
+   }
+  ],
+  "experiencers": [
+   "Obi-Wan Kenobi",
+   "Luke Skywalker"
+  ],
+  "reached": [
+   "Leia Skywalker Organa Solo"
+  ],
+  "record": "Star Wars: Episode IV A New Hope",
+  "summary": "As Vader's troops storm her ship, Leia records a plea into R2-D2 and sends him to Tatooine with the stolen plans. The droid shows a fragment to Luke, then the whole message to Obi-Wan, who answers the call and ends his exile.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": "Spans days, not years; included as the saga's founding message across distance.",
+  "sources": [
+   "Star Wars: Episode IV A New Hope"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "ezras-farewell-hologram",
+  "title": "Ezra's farewell hologram outlives his disappearance",
+  "kind": "echo",
+  "legs": [
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.5,
+     "place": "Lothal"
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.51,
+     "place": "Lothal"
+    },
+    "mode": "speaks",
+    "note": "Chopper plays it right after the Chimaera vanishes: Ezra had to go, and hopes to come home."
+   },
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.5,
+     "place": "Lothal"
+    },
+    "to": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.84,
+     "place": "Lothal"
+    },
+    "mode": "speaks",
+    "note": "Sabine is still replaying it in her tower a decade later."
+   },
+   {
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.5,
+     "place": "Lothal"
+    },
+    "to": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.85,
+     "place": "Lothal"
+    },
+    "mode": "speaks",
+    "note": "Ahsoka switches it on while searching Sabine's home for clues."
+   }
+  ],
+  "experiencers": [
+   "Hera Syndulla",
+   "Sabine Wren",
+   "Garazeb Orrelios",
+   "Ahsoka Tano"
+  ],
+  "reached": [
+   "Ezra Bridger"
+  ],
+  "record": "Family Reunion – and Farewell",
+  "summary": "Before letting the purrgil carry him and Thrawn away, Ezra records a goodbye: he had to choose this path, he left fruit for Hera, and he is counting on Sabine. Years later she still watches it, alone in her Lothal tower.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "Family Reunion – and Farewell",
+   "Part One: Master and Apprentice",
+   "Part Two: Toil and Trouble"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "anakins-training-holograms",
+  "title": "Anakin's training holograms outlast his fall",
+  "kind": "echo",
+  "legs": [
+   {
+    "from": {
+     "y": -20,
+     "yText": "Clone Wars era (c. 22–19 BBY)",
+     "frac": null,
+     "place": null
+    },
+    "to": {
+     "y": -3,
+     "yText": "3 BBY",
+     "frac": 0.55,
+     "place": null
+    },
+    "mode": "speaks",
+    "note": "Ezra and Ahsoka study recordings of Anakin's saber lessons aboard Hera's ship."
+   },
+   {
+    "from": {
+     "y": -20,
+     "yText": "Clone Wars era (c. 22–19 BBY)",
+     "frac": null,
+     "place": null
+    },
+    "to": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.9,
+     "place": null
+    },
+    "mode": "speaks",
+    "note": "Riding a purrgil between galaxies, Ahsoka spars against her master's hologram."
+   }
+  ],
+  "experiencers": [
+   "Ahsoka Tano",
+   "Ezra Bridger"
+  ],
+  "reached": [
+   "Anakin Skywalker"
+  ],
+  "record": "Shroud of Darkness",
+  "summary": "Anakin's recorded dueling lessons survive him. Ezra studies them to fight better, and Ahsoka, who has not seen her master in years, watches them in Kanan's cabin; a decade later she still trains against the hologram in deep space.",
+  "fulfilled": "n/a",
+  "confidence": "estimated",
+  "note": "The recordings are undated; in Part Seven Anakin names Grievous, Ventress and Dooku, placing them in the war.",
+  "sources": [
+   "Shroud of Darkness",
+   "Part Seven: Dreams and Madness"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "the-sacred-jedi-texts",
+  "title": "The sacred Jedi texts pass to Rey",
+  "kind": "echo",
+  "legs": [
+   {
+    "from": {
+     "y": -4965,
+     "yText": "more than 5,000 years before 35 ABY",
+     "frac": null,
+     "place": null
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.5,
+     "place": "Ahch-To"
+    },
+    "mode": "speaks",
+    "note": "Books from the Order's dawn, gathered by Luke in the Ahch-To tree, are taken by Rey."
+   },
+   {
+    "from": {
+     "y": -4965,
+     "yText": "more than 5,000 years before 35 ABY",
+     "frac": null,
+     "place": null
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": null,
+     "place": "Ajan Kloss"
+    },
+    "mode": "speaks",
+    "note": "Rey studies them at the Resistance base, relearning forgotten techniques."
+   }
+  ],
+  "experiencers": [
+   "Luke Skywalker",
+   "Rey Skywalker"
+  ],
+  "reached": [],
+  "record": "Star Wars: Episode VIII The Last Jedi",
+  "summary": "Eight books and scrolls from the Jedi Order's earliest days sit in a hollow tree on Ahch-To, collected by Luke. When Yoda's lightning burns the tree, Rey has already hidden them aboard the Falcon, and she later pores over them to recover lost skills.",
+  "fulfilled": "n/a",
+  "confidence": "inferred",
+  "note": "Dated from the Rammahgon, whose original was lost over five millennia before 35 ABY; the collection may be older.",
+  "sources": [
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "sifo-dyas-final-message",
+  "title": "Sifo-Dyas's final message, found twice",
+  "kind": "echo",
+  "legs": [
+   {
+    "from": {
+     "y": -32,
+     "yText": "32 BBY",
+     "frac": null,
+     "place": "Oba Diah"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": null,
+     "place": "Oba Diah"
+    },
+    "mode": "speaks",
+    "note": "A signal from his downed shuttle leads Plo Koon to Sifo-Dyas's lightsaber."
+   },
+   {
+    "from": {
+     "y": -32,
+     "yText": "32 BBY",
+     "frac": null,
+     "place": "Oba Diah"
+    },
+    "to": {
+     "y": 32,
+     "yText": "32 ABY",
+     "frac": null,
+     "place": "Oba Diah"
+    },
+    "mode": "speaks",
+    "note": "Karr Nuq Sin digs up a holoprojector holding the Jedi's last message about the clones."
+   }
+  ],
+  "experiencers": [
+   "Plo Koon",
+   "Karr Nuq Sin"
+  ],
+  "reached": [
+   "Sifo-Dyas"
+  ],
+  "record": "The Lost One",
+  "summary": "Shot down over a moon of Oba Diah, Sifo-Dyas left a wreck that kept signalling. Near the war's end it draws Plo Koon to his lightsaber, reopening the question of who ordered the clones; decades later a boy finds his recorded message buried in the sand.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": "The site is a moon of Oba Diah; the planet stands in as place.",
+  "sources": [
+   "The Lost One",
+   "Force Collector"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "eno-cordovas-recorded-trail",
+  "title": "Eno Cordova's recordings lead Cal on",
+  "kind": "echo",
+  "legs": [
+   {
+    "from": {
+     "y": -19,
+     "yText": "before 19 BBY",
+     "frac": null,
+     "place": "Bogano"
+    },
+    "to": {
+     "y": -14,
+     "yText": "14 BBY",
+     "frac": null,
+     "place": "Bogano"
+    },
+    "mode": "speaks",
+    "note": "BD-1 plays Cordova's first message; later ones on Zeffo, Kashyyyk and Dathomir guide Cal."
+   }
+  ],
+  "experiencers": [
+   "Cal Kestis"
+  ],
+  "reached": [
+   "Eno Cordova"
+  ],
+  "record": null,
+  "summary": "Before the Purge, Eno Cordova hid a holocron naming Force-sensitive children inside a Zeffo vault and had BD-1 record messages about his journey, a trail of tests for whoever followed. Five years into the Empire, Cal traces them one by one.",
+  "fulfilled": "n/a",
+  "confidence": "estimated",
+  "note": "The recordings predate the Purge but carry no exact date; Cordova himself lived until 9 BBY.",
+  "sources": [
+   "Star Wars Jedi: Fallen Order"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "santari-khris-message-to-dagan",
+  "title": "Santari Khri's message waits two centuries",
+  "kind": "echo",
+  "legs": [
+   {
+    "from": {
+     "y": -233,
+     "yText": "c. 233 BBY",
+     "frac": null,
+     "place": "Koboh"
+    },
+    "to": {
+     "y": -9,
+     "yText": "9 BBY",
+     "frac": null,
+     "place": "Koboh"
+    },
+    "mode": "speaks",
+    "note": "Dagan watches her recording in the observatory; Cal's crew finds the full version and its route."
+   }
+  ],
+  "experiencers": [
+   "Dagan Gera",
+   "Cal Kestis"
+  ],
+  "reached": [
+   "Santari Khri"
+  ],
+  "record": null,
+  "summary": "Having sealed Dagan Gera in bacta rather than kill him, Santari Khri left a message for his waking: seek her out, or keep chasing Tanalorr. Two hundred years later he watches part of it before his last duel, and Cal's crew uses the rest to chart a route to Tanalorr.",
+  "fulfilled": "n/a",
+  "confidence": "estimated",
+  "note": "Recording date follows Dagan's stasis count (224 years before 9 BBY).",
+  "sources": [
+   "Star Wars Jedi: Survivor"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "obi-wans-journal-for-luke",
+  "title": "Obi-Wan's journal left for Luke",
+  "kind": "echo",
+  "legs": [
+   {
+    "from": {
+     "y": -9,
+     "yText": "9 or 8 BBY",
+     "frac": null,
+     "place": "Tatooine"
+    },
+    "to": {
+     "y": 0,
+     "yText": "0 ABY",
+     "frac": null,
+     "place": "Tatooine"
+    },
+    "mode": "speaks",
+    "note": "Luke reads Ben's account of looking after him years before, among other stories from exile."
+   }
+  ],
+  "experiencers": [
+   "Luke Skywalker"
+  ],
+  "reached": [
+   "Obi-Wan Kenobi"
+  ],
+  "record": null,
+  "summary": "During his exile Obi-Wan kept a journal of his Tatooine years: quiet rescues, attempts to reach Qui-Gon, notes on lightsaber building. After Yavin, Luke recovers it from Ben's home, where it was left for him, and reads his guardian's stories.",
+  "fulfilled": "n/a",
+  "confidence": "estimated",
+  "note": "Entries span the whole exile; the first story told is dated 9 or 8 BBY.",
+  "sources": [
+   "Star Wars (2015) 6",
+   "Star Wars (2015) 7"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "luke-meets-yoda-hologram-and-elzar-mann",
+  "title": "A holocron leads Luke to Elzar Mann",
+  "kind": "echo",
+  "legs": [
+   {
+    "from": {
+     "y": -19,
+     "yText": "before 19 BBY",
+     "frac": null,
+     "place": null
+    },
+    "to": {
+     "y": 3,
+     "yText": "3 ABY",
+     "frac": null,
+     "place": null
+    },
+    "mode": "speaks",
+    "note": "A recorded Yoda in a Jedi holocron teaches Luke about visions and names Gazian."
+   },
+   {
+    "from": {
+     "y": -230,
+     "yText": "High Republic Era (c. 230 BBY)",
+     "frac": null,
+     "place": "Gazian"
+    },
+    "to": {
+     "y": 3,
+     "yText": "3 ABY",
+     "frac": null,
+     "place": "Gazian"
+    },
+    "mode": "speaks",
+    "note": "The living planet kept Elzar Mann's mind as he was; the imprint talks with Luke."
+   }
+  ],
+  "experiencers": [
+   "Luke Skywalker"
+  ],
+  "reached": [
+   "Yoda",
+   "Elzar Mann"
+  ],
+  "record": null,
+  "summary": "A Yoda recording in a holocron sends Luke to Gazian, a living vergence. Trapped there, he meets the preserved mind of Elzar Mann, a Jedi of the Republic's golden era, who guesses he must be long dead and tells Luke the path is hard but worth it.",
+  "fulfilled": "n/a",
+  "confidence": "estimated",
+  "note": "Neither recording is dated; Elzar Mann flourished during the High Republic, c. 232 BBY onward.",
+  "sources": [
+   "Star Wars (2020) 19",
+   "Star Wars (2020) 20"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "palpatine-returns-from-death",
+  "title": "Palpatine returns from death",
+  "kind": "return",
+  "legs": [
+   {
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.6,
+     "place": "Endor"
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.4,
+     "place": "Exegol"
+    },
+    "mode": "returns",
+    "note": "Killed at Endor, Sidious lives on in a failing clone; a galaxy-wide broadcast announces him."
+   },
+   {
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.6,
+     "place": "Endor"
+    },
+    "to": {
+     "y": 21,
+     "yText": "21 ABY",
+     "frac": null,
+     "place": null
+    },
+    "mode": "speaks",
+    "note": "Already reborn, he reaches Ochi in a spiritual encounter and orders Rey's capture."
+   }
+  ],
+  "experiencers": [
+   "Darth Sidious"
+  ],
+  "reached": [
+   "Ben Solo",
+   "Rey Skywalker",
+   "Ochi"
+  ],
+  "record": "Star Wars: Episode IX The Rise of Skywalker",
+  "summary": "Hurled down a reactor shaft at Endor, Sidious moves his essence into a cloned body on Exegol, kept alive by the Sith Eternal. Decades later a broadcast reveals him, and at the end he feeds on Rey and Ben's bond to make himself whole.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: The Rise of Skywalker: Expanded Edition",
+   "Shadow of the Sith",
+   "Star Wars: The Secrets of the Sith"
+  ],
+  "conflict": "Wookieepedia articles differ on timing: one has him transfer just before his original body's destruction, another after its death. The film itself gives no mechanism.",
+  "weight": 3
+ },
+ {
+  "id": "darth-momin-reborn",
+  "title": "Darth Momin is reborn on Mustafar",
+  "kind": "return",
+  "legs": [
+   {
+    "from": {
+     "y": -1050,
+     "yText": "c. 1100–1000 BBY",
+     "frac": null,
+     "place": null
+    },
+    "to": {
+     "y": -12,
+     "yText": "12 BBY",
+     "frac": null,
+     "place": "Mustafar"
+    },
+    "mode": "returns",
+    "note": "Bodiless for a millennium in his mask, Momin uses Vader's fortress to rebuild himself, then dies again."
+   }
+  ],
+  "experiencers": [
+   "Darth Momin"
+  ],
+  "reached": [
+   "Anakin Skywalker"
+  ],
+  "record": null,
+  "summary": "Destroyed by his own city-killing weapon a millennium earlier, Momin lives on as a mind in his mask. Given to Vader, the mask shapes Fortress Vader into a gateway of dark power, and Momin uses it to regain a body before Vader kills him once more.",
+  "fulfilled": "n/a",
+  "confidence": "estimated",
+  "note": "Star Wars: Timelines dates his first death to c. 1100–1000 BBY; 1050 is a placeholder midpoint.",
+  "sources": [
+   "Darth Vader (2017) 24",
+   "Darth Vader (2017) 22",
+   "Darth Vader (2017) 25"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "ventress-returns-to-life",
+  "title": "Ventress chooses to return to life",
+  "kind": "return",
+  "legs": [
+   {
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.19,
+     "place": "Christophsis"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.25,
+     "place": "Dathomir"
+    },
+    "mode": "returns",
+    "note": "Laid in Dathomir's waters months after dying, she is offered a way back."
+   },
+   {
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": null,
+     "place": "Dathomir"
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.25,
+     "place": "Dathomir"
+    },
+    "mode": "speaks",
+    "note": "Mother Talzin, herself dead, speaks from beyond and names the price: her heart's desire."
+   },
+   {
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.25,
+     "place": "Dathomir"
+    },
+    "to": {
+     "y": -18,
+     "yText": "18 BBY or later",
+     "frac": null,
+     "place": null
+    },
+    "mode": "returns",
+    "note": "Alive again, she resurfaces in the Empire's early years and meets the Bad Batch."
+   }
+  ],
+  "experiencers": [
+   "Asajj Ventress"
+  ],
+  "reached": [
+   "Talzin",
+   "Quinlan Vos"
+  ],
+  "record": "A Way Forward",
+  "summary": "Killed saving Quinlan Vos, Ventress is carried home and laid to rest in her clan's sacred pools. There, dead, she hears Mother Talzin: Vos's love is a gift, and she may go back at the cost of what she most wants. She steps back into life and a quiet existence.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "A Way Forward",
+   "Dark Disciple",
+   "The Harbinger"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "ben-gives-his-life-for-rey",
+  "title": "Ben Solo gives his life to revive Rey",
+  "kind": "return",
+  "legs": [
+   {
+    "from": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.48,
+     "place": "Exegol"
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.481,
+     "place": "Exegol"
+    },
+    "mode": "returns",
+    "note": "Rey dies destroying Palpatine; Ben pours his own life into her, and she wakes as he fades."
+   }
+  ],
+  "experiencers": [
+   "Rey Skywalker",
+   "Ben Solo"
+  ],
+  "reached": [
+   "Ben Solo"
+  ],
+  "record": "Star Wars: Episode IX The Rise of Skywalker",
+  "summary": "Climbing from the pit after Palpatine's end, Ben finds Rey lifeless. He uses the healing she once used on him, giving his own life force. She wakes, they embrace, and he dies and vanishes, the final heir of Anakin's line.",
+  "fulfilled": "n/a",
+  "confidence": "explicit",
+  "note": null,
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null,
+  "weight": 2
+ }
+]
