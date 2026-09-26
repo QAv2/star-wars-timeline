@@ -1,0 +1,4350 @@
+{
+ "apprenticeships": [
+  {
+   "id": "silandra-sho-rooper-nitani",
+   "master": "Silandra Sho",
+   "apprentice": "Rooper Nitani",
+   "tradition": "Jedi",
+   "from": {
+    "y": -389,
+    "yText": "c. 389 BBY"
+   },
+   "to": {
+    "y": -377,
+    "yText": "c. 377 BBY"
+   },
+   "end": "knighted",
+   "note": "Apprenticed at eight; her knighthood tale falls roughly five years past the fighting on Jedha.",
+   "confidence": "estimated",
+   "sources": [
+    "The High Republic: Quest for the Hidden City",
+    "The High Republic: Quest for Planet X"
+   ]
+  },
+  {
+   "id": "zallah-macri-kevmo-zink",
+   "master": "Zallah Macri",
+   "apprentice": "Kevmo Zink",
+   "tradition": "Jedi",
+   "from": {
+    "y": -384,
+    "yText": "c. 384 BBY"
+   },
+   "to": {
+    "y": -382,
+    "yText": "382 BBY"
+   },
+   "end": "apprentice died",
+   "note": "Taken on roughly two years before Path of Deceit; master and Padawan both die in the fighting on Dalna.",
+   "confidence": "inferred",
+   "sources": [
+    "The High Republic: Path of Deceit",
+    "The High Republic: Path of Vengeance"
+   ]
+  },
+  {
+   "id": "yaddle-cippa-tarko",
+   "master": "Yaddle",
+   "apprentice": "Cippa Tarko",
+   "tradition": "Jedi",
+   "from": {
+    "y": -382,
+    "yText": "382 BBY"
+   },
+   "to": null,
+   "end": "unknown",
+   "note": "Yaddle takes charge of the unusually gifted Arkanian initiate around the Dalna crisis; how long it lasted is unrecorded.",
+   "confidence": "inferred",
+   "sources": [
+    "The High Republic: Cataclysm"
+   ]
+  },
+  {
+   "id": "rana-kant-stellan-gios",
+   "master": "Rana Kant",
+   "apprentice": "Stellan Gios",
+   "tradition": "Jedi",
+   "from": {
+    "y": -250,
+    "yText": "c. 250 BBY (est.)"
+   },
+   "to": {
+    "y": -240,
+    "yText": "c. 240 BBY (est.)"
+   },
+   "end": "knighted",
+   "note": "Undated in canon; bracketed by his agemate Avar Kriss (born c. 262 BBY) and his own mastery by 233 BBY.",
+   "confidence": "estimated",
+   "sources": [
+    "Star Wars: The Lightsaber Collection",
+    "The High Republic: Light of the Jedi"
+   ]
+  },
+  {
+   "id": "cherff-maota-avar-kriss",
+   "master": "Cherff Maota",
+   "apprentice": "Avar Kriss",
+   "tradition": "Jedi",
+   "from": {
+    "y": -250,
+    "yText": "c. 250 BBY (est.)"
+   },
+   "to": {
+    "y": -240,
+    "yText": "c. 240 BBY (est.)"
+   },
+   "end": "knighted",
+   "note": "Undated; Kriss, born about 262 BBY, trained alongside Gios and Mann before all three were knighted.",
+   "confidence": "estimated",
+   "sources": [
+    "The High Republic: The Rising Storm"
+   ]
+  },
+  {
+   "id": "roland-quarry-elzar-mann",
+   "master": "Roland Quarry",
+   "apprentice": "Elzar Mann",
+   "tradition": "Jedi",
+   "from": {
+    "y": -250,
+    "yText": "c. 250 BBY (est.)"
+   },
+   "to": {
+    "y": -240,
+    "yText": "c. 240 BBY (est.)"
+   },
+   "end": "knighted",
+   "note": "Undated; Mann trained in the same years as Kriss and Gios and was knighted when his training ended.",
+   "confidence": "estimated",
+   "sources": [
+    "The High Republic: The Rising Storm"
+   ]
+  },
+  {
+   "id": "sskeer-keeve-trennis",
+   "master": "Sskeer",
+   "apprentice": "Keeve Trennis",
+   "tradition": "Jedi",
+   "from": {
+    "y": -238,
+    "yText": "by 238 BBY"
+   },
+   "to": {
+    "y": -232,
+    "yText": "232 BBY"
+   },
+   "end": "knighted",
+   "note": "Already his Padawan on Kirima in 238 BBY; knighted after she saves the Ximpi of Shuraden.",
+   "confidence": "inferred",
+   "sources": [
+    "The High Republic (2021) 1"
+   ]
+  },
+  {
+   "id": "stellan-gios-vernestra-rwoh",
+   "master": "Stellan Gios",
+   "apprentice": "Vernestra Rwoh",
+   "tradition": "Jedi",
+   "from": {
+    "y": -233,
+    "yText": "by 233 BBY",
+    "frac": 0.1
+   },
+   "to": {
+    "y": -233,
+    "yText": "c. 233 BBY",
+    "frac": 0.8
+   },
+   "end": "knighted",
+   "note": "Born c. 248 BBY and knighted at fifteen, the youngest Knight in generations; the start is not fixed.",
+   "confidence": "inferred",
+   "sources": [
+    "The High Republic: A Test of Courage",
+    "The High Republic: Light of the Jedi"
+   ]
+  },
+  {
+   "id": "douglas-sunvale-imri-cantaros",
+   "master": "Douglas Sunvale",
+   "apprentice": "Imri Cantaros",
+   "tradition": "Jedi",
+   "from": null,
+   "to": {
+    "y": -232,
+    "yText": "232 BBY"
+   },
+   "end": "master died",
+   "note": "Sunvale dies when the Steady Wing is bombed on the way to Starlight Beacon; when training began is unrecorded.",
+   "confidence": "inferred",
+   "sources": [
+    "The High Republic: A Test of Courage"
+   ]
+  },
+  {
+   "id": "vernestra-rwoh-imri-cantaros",
+   "master": "Vernestra Rwoh",
+   "apprentice": "Imri Cantaros",
+   "tradition": "Jedi",
+   "from": {
+    "y": -232,
+    "yText": "232 BBY"
+   },
+   "to": {
+    "y": -229,
+    "yText": "c. 229 BBY"
+   },
+   "end": "knighted",
+   "note": "Rwoh claims him at Starlight's dedication and knights him in the Occlusion Zone after the station is lost.",
+   "confidence": "estimated",
+   "sources": [
+    "The High Republic: A Test of Courage",
+    "The High Republic: Defy the Storm"
+   ]
+  },
+  {
+   "id": "jora-malli-reath-silas",
+   "master": "Jora Malli",
+   "apprentice": "Reath Silas",
+   "tradition": "Jedi",
+   "from": null,
+   "to": {
+    "y": -232,
+    "yText": "232 BBY"
+   },
+   "end": "master died",
+   "note": "Malli falls fighting the Nihil at Kur; Silas, born c. 249 BBY, had served her for years.",
+   "confidence": "inferred",
+   "sources": [
+    "The High Republic: Light of the Jedi"
+   ]
+  },
+  {
+   "id": "cohmac-vitus-reath-silas",
+   "master": "Cohmac Vitus",
+   "apprentice": "Reath Silas",
+   "tradition": "Jedi",
+   "from": {
+    "y": -232,
+    "yText": "232 BBY"
+   },
+   "to": {
+    "y": -230,
+    "yText": "c. 230 BBY"
+   },
+   "end": "knighted",
+   "note": "Vitus takes over after Malli's death; right after the knighting on Corellia, Vitus quits the Order.",
+   "confidence": "estimated",
+   "sources": [
+    "The High Republic: Into the Dark",
+    "The High Republic: Midnight Horizon"
+   ]
+  },
+  {
+   "id": "loden-greatstorm-bell-zettifar",
+   "master": "Loden Greatstorm",
+   "apprentice": "Bell Zettifar",
+   "tradition": "Jedi",
+   "from": null,
+   "to": {
+    "y": -232,
+    "yText": "232 BBY"
+   },
+   "end": "master died",
+   "note": "Greatstorm is lost fighting the Nihil and presumed dead; he actually dies in their hands in 231 BBY.",
+   "confidence": "inferred",
+   "sources": [
+    "The High Republic: Light of the Jedi"
+   ]
+  },
+  {
+   "id": "indeera-stokes-bell-zettifar",
+   "master": "Indeera Stokes",
+   "apprentice": "Bell Zettifar",
+   "tradition": "Jedi",
+   "from": {
+    "y": -232,
+    "yText": "232 BBY"
+   },
+   "to": {
+    "y": -230,
+    "yText": "230 BBY"
+   },
+   "end": "knighted",
+   "note": "Stokes takes over his training; he is knighted at the Temple two months after Starlight Beacon falls.",
+   "confidence": "inferred",
+   "sources": [
+    "The High Republic: Light of the Jedi",
+    "The High Republic – Shadows of Starlight 3"
+   ]
+  },
+  {
+   "id": "nib-assek-burryaga-agaburry",
+   "master": "Nib Assek",
+   "apprentice": "Burryaga Agaburry",
+   "tradition": "Jedi",
+   "from": null,
+   "to": {
+    "y": -230,
+    "yText": "230 BBY"
+   },
+   "end": "master died",
+   "note": "Assek dies when Starlight Beacon falls; Burryaga is knighted beside Bell Zettifar two months later.",
+   "confidence": "inferred",
+   "sources": [
+    "The High Republic: Light of the Jedi",
+    "The High Republic – Shadows of Starlight 3"
+   ]
+  },
+  {
+   "id": "kantam-sy-lula-mrala-talisola",
+   "master": "Kantam Sy",
+   "apprentice": "Lula Mrala-Talisola",
+   "tradition": "Jedi",
+   "from": {
+    "y": -231,
+    "yText": "by 231 BBY"
+   },
+   "to": null,
+   "end": "unknown",
+   "note": "Sy returns to the Order for her sake and trains her; Talisola later turns down knighthood.",
+   "confidence": "inferred",
+   "sources": [
+    "The High Republic: Midnight Horizon",
+    "The High Republic Adventures (2021) 1"
+   ]
+  },
+  {
+   "id": "zia-zaldor-zanna-kai-brightstar",
+   "master": "Zia Zaldor Zanna",
+   "apprentice": "Kai Brightstar",
+   "tradition": "Jedi",
+   "from": {
+    "y": -233,
+    "yText": "c. 233 BBY"
+   },
+   "to": null,
+   "end": "unknown",
+   "note": "Zia mentors Kai and his classmates once they are sent to the Tenoo temple.",
+   "confidence": "inferred",
+   "sources": [
+    "The Young Jedi"
+   ]
+  },
+  {
+   "id": "imri-cantaros-tep-tep",
+   "master": "Imri Cantaros",
+   "apprentice": "Tep Tep",
+   "tradition": "Jedi",
+   "from": {
+    "y": -228,
+    "yText": "c. 228 BBY"
+   },
+   "to": null,
+   "end": "unknown",
+   "note": "Cantaros asks her to be his Padawan after the Stormwall falls and the Blight is evacuated.",
+   "confidence": "estimated",
+   "sources": [
+    "The High Republic: A Valiant Vow"
+   ]
+  },
+  {
+   "id": "lulad-yarzion-vell",
+   "master": "Lulad",
+   "apprentice": "Yarzion Vell",
+   "tradition": "Jedi",
+   "from": null,
+   "to": {
+    "y": -230,
+    "yText": "230 BBY"
+   },
+   "end": "master died",
+   "note": "Lulad dies when Starlight Beacon falls; Vell's own article puts her death in 232 BBY.",
+   "confidence": "inferred",
+   "sources": [
+    "The Acolyte - Kelnacca 1"
+   ]
+  },
+  {
+   "id": "kelnacca-yarzion-vell",
+   "master": "Kelnacca",
+   "apprentice": "Yarzion Vell",
+   "tradition": "Jedi",
+   "from": {
+    "y": -230,
+    "yText": "230 BBY"
+   },
+   "to": {
+    "y": -229,
+    "yText": "229 BBY"
+   },
+   "end": "knighted",
+   "note": "The Wookiee takes over and knights Vell on Veek after he saves their droid from a fire.",
+   "confidence": "inferred",
+   "sources": [
+    "The Acolyte - Kelnacca 1"
+   ]
+  },
+  {
+   "id": "indara-torbin",
+   "master": "Indara",
+   "apprentice": "Torbin",
+   "tradition": "Jedi",
+   "from": {
+    "y": -158,
+    "yText": "c. 158–157 BBY"
+   },
+   "to": {
+    "y": -147,
+    "yText": "c. 147 BBY"
+   },
+   "end": "knighted",
+   "note": "Knighted about a year after the 148 BBY Brendok mission; he later takes the Barash Vow.",
+   "confidence": "inferred",
+   "sources": [
+    "Star Wars: The Acolyte: The Visual Guide",
+    "Destiny (The Acolyte)"
+   ]
+  },
+  {
+   "id": "yarzion-vell-ordea",
+   "master": "Yarzion Vell",
+   "apprentice": "Ordea",
+   "tradition": "Jedi",
+   "from": null,
+   "to": {
+    "y": -149,
+    "yText": "c. 149 BBY"
+   },
+   "end": "master died",
+   "note": "Vell's illness ends it; dying, he tells Ordea the story of his own training.",
+   "confidence": "inferred",
+   "sources": [
+    "The Acolyte - Kelnacca 1"
+   ]
+  },
+  {
+   "id": "kelnacca-ordea",
+   "master": "Kelnacca",
+   "apprentice": "Ordea",
+   "tradition": "Jedi",
+   "from": {
+    "y": -149,
+    "yText": "c. 149 BBY"
+   },
+   "to": {
+    "y": -148,
+    "yText": "c. 148 BBY"
+   },
+   "end": "knighted",
+   "note": "Kelnacca finishes the training of his late student's Padawan.",
+   "confidence": "inferred",
+   "sources": [
+    "The Acolyte - Kelnacca 1",
+    "Star Wars: The Acolyte: The Visual Guide"
+   ]
+  },
+  {
+   "id": "sol-verosha-aniseya",
+   "master": "Sol",
+   "apprentice": "Verosha Aniseya",
+   "tradition": "Jedi",
+   "from": {
+    "y": -148,
+    "yText": "148 BBY"
+   },
+   "to": {
+    "y": -138,
+    "yText": "c. 138 BBY"
+   },
+   "end": "left",
+   "note": "Sol brings the orphaned twin from Brendok into the Order; she quits about six years before 132 BBY.",
+   "confidence": "inferred",
+   "sources": [
+    "Destiny (The Acolyte)",
+    "Lost / Found"
+   ]
+  },
+  {
+   "id": "elishe-yord-fandar",
+   "master": "Elishe",
+   "apprentice": "Yord Fandar",
+   "tradition": "Jedi",
+   "from": {
+    "y": -145,
+    "yText": "c. 145 BBY (est.)"
+   },
+   "to": {
+    "y": -133,
+    "yText": "c. 133 BBY"
+   },
+   "end": "knighted",
+   "note": "A long-serving Padawan by 134 BBY; a Knight with his own student by 132 BBY.",
+   "confidence": "estimated",
+   "sources": [
+    "The Acolyte: The Crystal Crown"
+   ]
+  },
+  {
+   "id": "yord-fandar-tasi-lowa",
+   "master": "Yord Fandar",
+   "apprentice": "Tasi Lowa",
+   "tradition": "Jedi",
+   "from": {
+    "y": -132,
+    "yText": "by 132 BBY",
+    "frac": 0.1
+   },
+   "to": {
+    "y": -132,
+    "yText": "132 BBY",
+    "frac": 0.5
+   },
+   "end": "master died",
+   "note": "Fandar is killed by the Stranger on Khofar.",
+   "confidence": "inferred",
+   "sources": [
+    "The Acolyte: The Crystal Crown",
+    "Night"
+   ]
+  },
+  {
+   "id": "sol-jecki-lon",
+   "master": "Sol",
+   "apprentice": "Jecki Lon",
+   "tradition": "Jedi",
+   "from": {
+    "y": -132,
+    "yText": "by 132 BBY",
+    "frac": 0.1
+   },
+   "to": {
+    "y": -132,
+    "yText": "132 BBY",
+    "frac": 0.5
+   },
+   "end": "apprentice died",
+   "note": "Jecki dies defending her master against the Stranger on Khofar.",
+   "confidence": "inferred",
+   "sources": [
+    "Revenge / Justice",
+    "Night"
+   ]
+  },
+  {
+   "id": "vernestra-rwoh-the-stranger",
+   "master": "Vernestra Rwoh",
+   "apprentice": "The Stranger",
+   "tradition": "Jedi",
+   "from": null,
+   "to": {
+    "y": -134,
+    "yText": "before 134 BBY"
+   },
+   "end": "expelled",
+   "note": "He begins as her Padawan and is cast out of the Order; undated, but over before he takes Mae in 134 BBY.",
+   "confidence": "inferred",
+   "sources": [
+    "The Acolyte (episode)"
+   ]
+  },
+  {
+   "id": "darth-plagueis-the-stranger",
+   "master": "Darth Plagueis",
+   "apprentice": "The Stranger",
+   "tradition": "Sith",
+   "from": null,
+   "to": {
+    "y": -132,
+    "yText": "fl. 132 BBY"
+   },
+   "end": "unknown",
+   "note": "Based on the showrunner's account plus Sidious's own history book; Plagueis is glimpsed watching him on Brendok.",
+   "confidence": "inferred",
+   "sources": [
+    "The Acolyte (episode)",
+    "Star Wars: The Secrets of the Sith: The Chronicles of Emperor Palpatine"
+   ]
+  },
+  {
+   "id": "the-stranger-mae-ho-aniseya",
+   "master": "The Stranger",
+   "apprentice": "Mae-ho Aniseya",
+   "tradition": "Sith",
+   "from": {
+    "y": -134,
+    "yText": "134 BBY"
+   },
+   "to": {
+    "y": -132,
+    "yText": "132 BBY",
+    "frac": 0.7
+   },
+   "end": "left",
+   "note": "Trains Mae in secret for two years; she breaks with him by trading places with Osha.",
+   "confidence": "inferred",
+   "sources": [
+    "Lost / Found",
+    "The Acolyte (episode)",
+    "Star Wars: The Acolyte: The Visual Guide"
+   ]
+  },
+  {
+   "id": "the-stranger-verosha-aniseya",
+   "master": "The Stranger",
+   "apprentice": "Verosha Aniseya",
+   "tradition": "Sith",
+   "from": {
+    "y": -132,
+    "yText": "132 BBY",
+    "frac": 0.8
+   },
+   "to": null,
+   "end": "ongoing",
+   "note": "Osha accepts him as her master after killing Sol on Brendok.",
+   "confidence": "explicit",
+   "sources": [
+    "The Acolyte (episode)"
+   ]
+  },
+  {
+   "id": "yoda-dooku",
+   "master": "Yoda",
+   "apprentice": "Dooku",
+   "tradition": "Jedi",
+   "from": {
+    "y": -89,
+    "yText": "c. 89 BBY (est.)"
+   },
+   "to": {
+    "y": -81,
+    "yText": "82–c. 80 BBY"
+   },
+   "end": "knighted",
+   "note": "Still an initiate at twelve in 90 BBY; completes his training between 82 and about 80 BBY.",
+   "confidence": "estimated",
+   "sources": [
+    "Dooku: Jedi Lost",
+    "Star Wars: Episode II Attack of the Clones"
+   ]
+  },
+  {
+   "id": "dooku-rael-averross",
+   "master": "Dooku",
+   "apprentice": "Rael Averross",
+   "tradition": "Jedi",
+   "from": {
+    "y": -80,
+    "yText": "c. 80 BBY"
+   },
+   "to": {
+    "y": -70,
+    "yText": "c. 70 BBY"
+   },
+   "end": "knighted",
+   "note": "Timelines places the start around 80 BBY; ten years of training lead to knighthood.",
+   "confidence": "estimated",
+   "sources": [
+    "Master & Apprentice",
+    "Dooku: Jedi Lost"
+   ]
+  },
+  {
+   "id": "dooku-qui-gon-jinn",
+   "master": "Dooku",
+   "apprentice": "Qui-Gon Jinn",
+   "tradition": "Jedi",
+   "from": {
+    "y": -68,
+    "yText": "c. 68 BBY"
+   },
+   "to": {
+    "y": -58,
+    "yText": "c. 58 BBY"
+   },
+   "end": "knighted",
+   "note": "Apprenticed at twelve; reaches knighthood around 58 BBY.",
+   "confidence": "inferred",
+   "sources": [
+    "Dooku: Jedi Lost",
+    "Justice (episode)"
+   ]
+  },
+  {
+   "id": "cyslin-myr-mace-windu",
+   "master": "Cyslin Myr",
+   "apprentice": "Mace Windu",
+   "tradition": "Jedi",
+   "from": {
+    "y": -60,
+    "yText": "by 60 BBY"
+   },
+   "to": null,
+   "end": "unknown",
+   "note": "Windu is Myr's Padawan in 60 BBY; Yoda later completes his training.",
+   "confidence": "inferred",
+   "sources": [
+    "Jedi of the Republic – Mace Windu 4"
+   ]
+  },
+  {
+   "id": "yoda-mace-windu",
+   "master": "Yoda",
+   "apprentice": "Mace Windu",
+   "tradition": "Jedi",
+   "from": null,
+   "to": {
+    "y": -50,
+    "yText": "by c. 50 BBY"
+   },
+   "end": "knighted",
+   "note": "Yoda guides the last stage of Windu's training; he is a Knight by about 50 BBY.",
+   "confidence": "estimated",
+   "sources": [
+    "Star Wars: The Complete Visual Dictionary, New Edition"
+   ]
+  },
+  {
+   "id": "mace-windu-depa-billaba",
+   "master": "Mace Windu",
+   "apprentice": "Depa Billaba",
+   "tradition": "Jedi",
+   "from": {
+    "y": -50,
+    "yText": "c. 50 BBY (est.)"
+   },
+   "to": {
+    "y": -45,
+    "yText": "c. 45 BBY (est.)"
+   },
+   "end": "knighted",
+   "note": "Bounded by Windu's own knighthood (c. 50 BBY) and Billaba's High Council seat by 40 BBY.",
+   "confidence": "estimated",
+   "sources": [
+    "The Secret Jedi: The Adventures of Kanan Jarrus: Rebel Leader",
+    "Master & Apprentice"
+   ]
+  },
+  {
+   "id": "rael-averross-nim-pianna",
+   "master": "Rael Averross",
+   "apprentice": "Nim Pianna",
+   "tradition": "Jedi",
+   "from": {
+    "y": -49,
+    "yText": "49 BBY"
+   },
+   "to": {
+    "y": -48,
+    "yText": "48 BBY"
+   },
+   "end": "apprentice died",
+   "note": "Pianna is killed on Advent a year into her training.",
+   "confidence": "explicit",
+   "sources": [
+    "Master & Apprentice"
+   ]
+  },
+  {
+   "id": "ky-narec-asajj-ventress",
+   "master": "Ky Narec",
+   "apprentice": "Asajj Ventress",
+   "tradition": "Jedi",
+   "from": {
+    "y": -44,
+    "yText": "44 BBY"
+   },
+   "to": {
+    "y": -34,
+    "yText": "34 BBY"
+   },
+   "end": "master died",
+   "note": "The stranded Knight trains her on Rattatak for ten years until warlords kill him.",
+   "confidence": "explicit",
+   "sources": [
+    "Dark Disciple",
+    "Nightsisters (episode)"
+   ]
+  },
+  {
+   "id": "qui-gon-jinn-obi-wan-kenobi",
+   "master": "Qui-Gon Jinn",
+   "apprentice": "Obi-Wan Kenobi",
+   "tradition": "Jedi",
+   "from": {
+    "y": -44,
+    "yText": "44 BBY"
+   },
+   "to": {
+    "y": -32,
+    "yText": "32 BBY",
+    "frac": 0.6
+   },
+   "end": "master died",
+   "note": "Jinn falls to Maul on Naboo; Kenobi is knighted in the aftermath.",
+   "confidence": "explicit",
+   "sources": [
+    "Master & Apprentice",
+    "Padawan (novel)",
+    "Star Wars: Episode I The Phantom Menace"
+   ]
+  },
+  {
+   "id": "eno-cordova-cere-junda",
+   "master": "Eno Cordova",
+   "apprentice": "Cere Junda",
+   "tradition": "Jedi",
+   "from": {
+    "y": -41,
+    "yText": "by 41 BBY"
+   },
+   "to": null,
+   "end": "knighted",
+   "note": "His Padawan on the Nameel peace mission of 41 BBY; she is later knighted.",
+   "confidence": "inferred",
+   "sources": [
+    "Jedi Fallen Order - Dark Temple 1"
+   ]
+  },
+  {
+   "id": "tyvokka-plo-koon",
+   "master": "Tyvokka",
+   "apprentice": "Plo Koon",
+   "tradition": "Jedi",
+   "from": null,
+   "to": null,
+   "end": "unknown",
+   "note": "Undated; Koon is already a Master when he finds the young Ahsoka Tano on Shili.",
+   "confidence": "inferred",
+   "sources": [
+    "Star Wars Workbook: 2nd Grade Reading"
+   ]
+  },
+  {
+   "id": "tholme-quinlan-vos",
+   "master": "Tholme",
+   "apprentice": "Quinlan Vos",
+   "tradition": "Jedi",
+   "from": null,
+   "to": null,
+   "end": "knighted",
+   "note": "Undated; Vos is a Knight before he takes on Aayla Secura, and Tholme dies in 22 BBY.",
+   "confidence": "inferred",
+   "sources": [
+    "Dark Disciple"
+   ]
+  },
+  {
+   "id": "quinlan-vos-aayla-secura",
+   "master": "Quinlan Vos",
+   "apprentice": "Aayla Secura",
+   "tradition": "Jedi",
+   "from": null,
+   "to": {
+    "y": -22,
+    "yText": "before 22 BBY"
+   },
+   "end": "knighted",
+   "note": "Vos brings her from Ryloth's underworld to the Temple; she is a Knight before the war starts.",
+   "confidence": "inferred",
+   "sources": [
+    "Dark Disciple"
+   ]
+  },
+  {
+   "id": "qui-gon-jinn-anakin-skywalker",
+   "master": "Qui-Gon Jinn",
+   "apprentice": "Anakin Skywalker",
+   "tradition": "Jedi",
+   "from": {
+    "y": -32,
+    "yText": "32 BBY",
+    "frac": 0.2
+   },
+   "to": {
+    "y": -32,
+    "yText": "32 BBY",
+    "frac": 0.6
+   },
+   "end": "master died",
+   "note": "Informal: Jinn frees the boy on Tatooine and vows to train him, then dies on Naboo.",
+   "confidence": "explicit",
+   "sources": [
+    "Star Wars: Episode I The Phantom Menace"
+   ]
+  },
+  {
+   "id": "obi-wan-kenobi-anakin-skywalker",
+   "master": "Obi-Wan Kenobi",
+   "apprentice": "Anakin Skywalker",
+   "tradition": "Jedi",
+   "from": {
+    "y": -32,
+    "yText": "32 BBY",
+    "frac": 0.6
+   },
+   "to": {
+    "y": -22,
+    "yText": "22 BBY"
+   },
+   "end": "knighted",
+   "note": "Given informal knighthood in the war's opening months, when the Order needed more field commanders.",
+   "confidence": "inferred",
+   "sources": [
+    "Star Wars: Episode II Attack of the Clones",
+    "Brotherhood (novel)"
+   ]
+  },
+  {
+   "id": "yaddle-jaro-tapal",
+   "master": "Yaddle",
+   "apprentice": "Jaro Tapal",
+   "tradition": "Jedi",
+   "from": null,
+   "to": {
+    "y": -32,
+    "yText": "by 32 BBY"
+   },
+   "end": "unknown",
+   "note": "Undated; Tapal keeps copies of her writings, and her death in 32 BBY is the latest possible end.",
+   "confidence": "inferred",
+   "sources": [
+    "Star Wars Jedi: Survivor"
+   ]
+  },
+  {
+   "id": "plo-koon-bultar-swan",
+   "master": "Plo Koon",
+   "apprentice": "Bultar Swan",
+   "tradition": "Jedi",
+   "from": null,
+   "to": {
+    "y": -22,
+    "yText": "by 22 BBY"
+   },
+   "end": "knighted",
+   "note": "Swan has only just been knighted when the Jedi strike at Geonosis.",
+   "confidence": "inferred",
+   "sources": [
+    "Star Wars Workbook: 2nd Grade Reading",
+    "Star Wars: On the Front Lines"
+   ]
+  },
+  {
+   "id": "luminara-unduli-barriss-offee",
+   "master": "Luminara Unduli",
+   "apprentice": "Barriss Offee",
+   "tradition": "Jedi",
+   "from": {
+    "y": -22,
+    "yText": "by 22 BBY"
+   },
+   "to": {
+    "y": -19,
+    "yText": "19 BBY"
+   },
+   "end": "fell to the dark side",
+   "note": "Already Unduli's Padawan at Geonosis; she bombs the Temple hangar and is arrested.",
+   "confidence": "inferred",
+   "sources": [
+    "Star Wars: Episode II Attack of the Clones",
+    "The Wrong Jedi"
+   ]
+  },
+  {
+   "id": "anakin-skywalker-ahsoka-tano",
+   "master": "Anakin Skywalker",
+   "apprentice": "Ahsoka Tano",
+   "tradition": "Jedi",
+   "from": {
+    "y": -22,
+    "yText": "22 BBY"
+   },
+   "to": {
+    "y": -19,
+    "yText": "19 BBY"
+   },
+   "end": "left",
+   "note": "Assigned to him at Christophsis; she walks away from the Order after being cleared of the Temple bombing.",
+   "confidence": "explicit",
+   "sources": [
+    "Star Wars: The Clone Wars (film)",
+    "The Wrong Jedi"
+   ]
+  },
+  {
+   "id": "jaro-tapal-cal-kestis",
+   "master": "Jaro Tapal",
+   "apprentice": "Cal Kestis",
+   "tradition": "Jedi",
+   "from": {
+    "y": -22,
+    "yText": "after 22 BBY"
+   },
+   "to": {
+    "y": -19,
+    "yText": "19 BBY"
+   },
+   "end": "master died",
+   "note": "Kestis is an initiate as the war opens; Tapal dies saving him during Order 66.",
+   "confidence": "inferred",
+   "sources": [
+    "Star Wars Jedi: Fallen Order"
+   ]
+  },
+  {
+   "id": "kit-fisto-nahdar-vebb",
+   "master": "Kit Fisto",
+   "apprentice": "Nahdar Vebb",
+   "tradition": "Jedi",
+   "from": null,
+   "to": {
+    "y": -21,
+    "yText": "before 21 BBY"
+   },
+   "end": "left",
+   "note": "Called away, Fisto leaves Vebb to finish training alone; they reunite on Vassek 3.",
+   "confidence": "estimated",
+   "sources": [
+    "Lair of Grievous"
+   ]
+  },
+  {
+   "id": "depa-billaba-kanan-jarrus",
+   "master": "Depa Billaba",
+   "apprentice": "Kanan Jarrus",
+   "tradition": "Jedi",
+   "from": {
+    "y": -20,
+    "yText": "c. 20 BBY"
+   },
+   "to": {
+    "y": -19,
+    "yText": "19 BBY"
+   },
+   "end": "master died",
+   "note": "Billaba picks young Caleb Dume mid-war and dies shielding him on Kaller when Order 66 comes.",
+   "confidence": "estimated",
+   "sources": [
+    "A New Dawn",
+    "Kanan 1"
+   ]
+  },
+  {
+   "id": "cere-junda-second-sister",
+   "master": "Cere Junda",
+   "apprentice": "Second Sister",
+   "tradition": "Jedi",
+   "from": null,
+   "to": {
+    "y": -19,
+    "yText": "c. 19 BBY"
+   },
+   "end": "fell to the dark side",
+   "note": "Both are captured after Order 66; Junda breaks under torture and Trilla Suduri is turned.",
+   "confidence": "inferred",
+   "sources": [
+    "Star Wars Jedi: Fallen Order"
+   ]
+  },
+  {
+   "id": "eeko-dio-daki-devon-izara",
+   "master": "Eeko-Dio Daki",
+   "apprentice": "Devon Izara",
+   "tradition": "Jedi",
+   "from": {
+    "y": -19,
+    "yText": "by 19 BBY"
+   },
+   "to": {
+    "y": -15,
+    "yText": "17–c. 13 BBY"
+   },
+   "end": "master died",
+   "note": "Master and Padawan hide on Janix after the purge; Daki dies there.",
+   "confidence": "inferred",
+   "sources": [
+    "Star Wars: Maul - Shadow Lord"
+   ]
+  },
+  {
+   "id": "cere-junda-cal-kestis",
+   "master": "Cere Junda",
+   "apprentice": "Cal Kestis",
+   "tradition": "Jedi",
+   "from": {
+    "y": -14,
+    "yText": "14 BBY"
+   },
+   "to": {
+    "y": -9,
+    "yText": "9 BBY"
+   },
+   "end": "master died",
+   "note": "Informal mentorship; Junda is killed on Jedha.",
+   "confidence": "explicit",
+   "sources": [
+    "Star Wars Jedi: Fallen Order",
+    "Star Wars Jedi: Survivor"
+   ]
+  },
+  {
+   "id": "kanan-jarrus-ezra-bridger",
+   "master": "Kanan Jarrus",
+   "apprentice": "Ezra Bridger",
+   "tradition": "Jedi",
+   "from": {
+    "y": -5,
+    "yText": "5 BBY"
+   },
+   "to": {
+    "y": -1,
+    "yText": "1 BBY"
+   },
+   "end": "master died",
+   "note": "Jarrus dies shielding the Ghost crew from the fuel-depot blast on Lothal.",
+   "confidence": "explicit",
+   "sources": [
+    "Star Wars Rebels: Spark of Rebellion",
+    "Jedi Night"
+   ]
+  },
+  {
+   "id": "kanan-jarrus-sabine-wren",
+   "master": "Kanan Jarrus",
+   "apprentice": "Sabine Wren",
+   "tradition": "Jedi",
+   "from": {
+    "y": -2,
+    "yText": "2 BBY",
+    "frac": 0.3
+   },
+   "to": {
+    "y": -2,
+    "yText": "2 BBY",
+    "frac": 0.5
+   },
+   "end": "unknown",
+   "note": "A short course in lightsaber combat so she can wield the Darksaber.",
+   "confidence": "explicit",
+   "sources": [
+    "Trials of the Darksaber"
+   ]
+  },
+  {
+   "id": "bendu-kanan-jarrus",
+   "master": "Bendu",
+   "apprentice": "Kanan Jarrus",
+   "tradition": "Other Force tradition",
+   "from": {
+    "y": -2,
+    "yText": "2 BBY",
+    "frac": 0.1
+   },
+   "to": {
+    "y": -2,
+    "yText": "2 BBY",
+    "frac": 0.3
+   },
+   "end": "left",
+   "note": "The Bendu teaches the newly blinded Jarrus to sense his surroundings with the Force.",
+   "confidence": "explicit",
+   "sources": [
+    "Steps Into Shadow"
+   ]
+  },
+  {
+   "id": "obi-wan-kenobi-luke-skywalker",
+   "master": "Obi-Wan Kenobi",
+   "apprentice": "Luke Skywalker",
+   "tradition": "Jedi",
+   "from": {
+    "y": -1,
+    "yText": "1 BBY",
+    "frac": 0.9
+   },
+   "to": {
+    "y": -1,
+    "yText": "1 BBY",
+    "frac": 0.97
+   },
+   "end": "master died",
+   "note": "A few days of lessons before Vader cuts Kenobi down aboard the battle station; he later guides Luke as a spirit.",
+   "confidence": "explicit",
+   "sources": [
+    "Star Wars: Episode IV A New Hope"
+   ]
+  },
+  {
+   "id": "yoda-luke-skywalker",
+   "master": "Yoda",
+   "apprentice": "Luke Skywalker",
+   "tradition": "Jedi",
+   "from": {
+    "y": 3,
+    "yText": "3 ABY"
+   },
+   "to": {
+    "y": 4,
+    "yText": "4 ABY"
+   },
+   "end": "master died",
+   "note": "Trains Luke on Dagobah and dies soon after his return.",
+   "confidence": "explicit",
+   "sources": [
+    "Star Wars: Episode V The Empire Strikes Back",
+    "Star Wars: Episode VI Return of the Jedi"
+   ]
+  },
+  {
+   "id": "luke-skywalker-leia-skywalker-organa-solo",
+   "master": "Luke Skywalker",
+   "apprentice": "Leia Skywalker Organa Solo",
+   "tradition": "Jedi",
+   "from": {
+    "y": 4,
+    "yText": "4 ABY"
+   },
+   "to": {
+    "y": 5,
+    "yText": "5 ABY"
+   },
+   "end": "left",
+   "note": "Trains after Endor and sets it aside around Ben's birth in 5 ABY.",
+   "confidence": "explicit",
+   "sources": [
+    "Star Wars: Episode IX The Rise of Skywalker"
+   ]
+  },
+  {
+   "id": "ahsoka-tano-sabine-wren",
+   "master": "Ahsoka Tano",
+   "apprentice": "Sabine Wren",
+   "tradition": "Jedi",
+   "from": {
+    "y": 5,
+    "yText": "after 5 ABY"
+   },
+   "to": null,
+   "end": "ongoing",
+   "note": "Begins after the Galactic Civil War, breaks off on bad terms, and resumes around 9 ABY.",
+   "confidence": "inferred",
+   "sources": [
+    "Part One: Master and Apprentice",
+    "Part Eight: The Jedi, the Witch, and the Warlord"
+   ]
+  },
+  {
+   "id": "luke-skywalker-din-grogu",
+   "master": "Luke Skywalker",
+   "apprentice": "Din Grogu",
+   "tradition": "Jedi",
+   "from": {
+    "y": 9,
+    "yText": "9 ABY",
+    "frac": 0.3
+   },
+   "to": {
+    "y": 9,
+    "yText": "9 ABY",
+    "frac": 0.7
+   },
+   "end": "left",
+   "note": "Grogu picks Djarin's beskar gift over Yoda's lightsaber and leaves Luke's temple.",
+   "confidence": "explicit",
+   "sources": [
+    "Chapter 16: The Rescue",
+    "Chapter 6: From the Desert Comes a Stranger"
+   ]
+  },
+  {
+   "id": "luke-skywalker-ben-solo",
+   "master": "Luke Skywalker",
+   "apprentice": "Ben Solo",
+   "tradition": "Jedi",
+   "from": {
+    "y": 15,
+    "yText": "15 ABY"
+   },
+   "to": {
+    "y": 28,
+    "yText": "28 ABY"
+   },
+   "end": "fell to the dark side",
+   "note": "Ends with the burning of Luke's temple.",
+   "confidence": "explicit",
+   "sources": [
+    "Star Wars: Episode VIII The Last Jedi",
+    "The Rise of Kylo Ren 1"
+   ]
+  },
+  {
+   "id": "luke-skywalker-hennix",
+   "master": "Luke Skywalker",
+   "apprentice": "Hennix",
+   "tradition": "Jedi",
+   "from": {
+    "y": 16,
+    "yText": "c. 16 ABY"
+   },
+   "to": {
+    "y": 28,
+    "yText": "28 ABY"
+   },
+   "end": "apprentice died",
+   "note": "One of Luke's first students; killed in 28 ABY after the temple falls.",
+   "confidence": "inferred",
+   "sources": [
+    "The Rise of Kylo Ren 1"
+   ]
+  },
+  {
+   "id": "luke-skywalker-tai",
+   "master": "Luke Skywalker",
+   "apprentice": "Tai",
+   "tradition": "Jedi",
+   "from": {
+    "y": 16,
+    "yText": "c. 16 ABY"
+   },
+   "to": {
+    "y": 28,
+    "yText": "28 ABY"
+   },
+   "end": "apprentice died",
+   "note": "A first-generation student of the new temple; dies in 28 ABY.",
+   "confidence": "inferred",
+   "sources": [
+    "The Rise of Kylo Ren 1"
+   ]
+  },
+  {
+   "id": "luke-skywalker-voe",
+   "master": "Luke Skywalker",
+   "apprentice": "Voe",
+   "tradition": "Jedi",
+   "from": {
+    "y": 16,
+    "yText": "c. 16 ABY"
+   },
+   "to": {
+    "y": 28,
+    "yText": "28 ABY"
+   },
+   "end": "apprentice died",
+   "note": "A first-generation student; Ben Solo kills her with Ren's lightsaber in 28 ABY.",
+   "confidence": "inferred",
+   "sources": [
+    "The Rise of Kylo Ren 1"
+   ]
+  },
+  {
+   "id": "luke-skywalker-rey-skywalker",
+   "master": "Luke Skywalker",
+   "apprentice": "Rey Skywalker",
+   "tradition": "Jedi",
+   "from": {
+    "y": 34,
+    "yText": "34 ABY",
+    "frac": 0.4
+   },
+   "to": {
+    "y": 34,
+    "yText": "34 ABY",
+    "frac": 0.7
+   },
+   "end": "master died",
+   "note": "Reluctant lessons on Ahch-To; Luke dies after projecting himself to Crait.",
+   "confidence": "explicit",
+   "sources": [
+    "Star Wars: Episode VIII The Last Jedi"
+   ]
+  },
+  {
+   "id": "leia-skywalker-organa-solo-rey-skywalker",
+   "master": "Leia Skywalker Organa Solo",
+   "apprentice": "Rey Skywalker",
+   "tradition": "Jedi",
+   "from": {
+    "y": 34,
+    "yText": "34 ABY",
+    "frac": 0.8
+   },
+   "to": {
+    "y": 35,
+    "yText": "35 ABY"
+   },
+   "end": "master died",
+   "note": "Leia trains Rey at the Resistance base until her death.",
+   "confidence": "explicit",
+   "sources": [
+    "Star Wars: Episode IX The Rise of Skywalker"
+   ]
+  },
+  {
+   "id": "darth-shaa-darth-momin",
+   "master": "Darth Shaa",
+   "apprentice": "Darth Momin",
+   "tradition": "Sith",
+   "from": null,
+   "to": {
+    "y": -1100,
+    "yText": "c. 1100–1032 BBY"
+   },
+   "end": "master died",
+   "note": "Shaa frees the imprisoned sculptor and trains him; Momin later kills her.",
+   "confidence": "inferred",
+   "sources": [
+    "Darth Vader (2017) 22"
+   ]
+  },
+  {
+   "id": "darth-bane-darth-zannah",
+   "master": "Darth Bane",
+   "apprentice": "Darth Zannah",
+   "tradition": "Sith",
+   "from": {
+    "y": -1032,
+    "yText": "after 1032 BBY"
+   },
+   "to": null,
+   "end": "master died",
+   "note": "Bane's apprentice under the Rule of Two; Secrets of the Sith says she struck him down to take his place.",
+   "confidence": "inferred",
+   "sources": [
+    "Sacrifice (episode)",
+    "Star Wars: The Secrets of the Sith: The Chronicles of Emperor Palpatine"
+   ]
+  },
+  {
+   "id": "darth-tenebrous-darth-plagueis",
+   "master": "Darth Tenebrous",
+   "apprentice": "Darth Plagueis",
+   "tradition": "Sith",
+   "from": null,
+   "to": null,
+   "end": "unknown",
+   "note": "Undated; canon names Tenebrous only as the Muun's master.",
+   "confidence": "inferred",
+   "sources": [
+    "Star Wars: Build the Millennium Falcon 44"
+   ]
+  },
+  {
+   "id": "darth-plagueis-darth-sidious",
+   "master": "Darth Plagueis",
+   "apprentice": "Darth Sidious",
+   "tradition": "Sith",
+   "from": {
+    "y": -52,
+    "yText": "by 52 BBY"
+   },
+   "to": {
+    "y": -32,
+    "yText": "c. 40–32 BBY"
+   },
+   "end": "master died",
+   "note": "Sidious murders his master sometime between about 40 and 32 BBY.",
+   "confidence": "estimated",
+   "sources": [
+    "Star Wars: Episode III Revenge of the Sith",
+    "Star Wars: The Secrets of the Sith: The Chronicles of Emperor Palpatine"
+   ]
+  },
+  {
+   "id": "darth-sidious-maul",
+   "master": "Darth Sidious",
+   "apprentice": "Maul",
+   "tradition": "Sith",
+   "from": {
+    "y": -40,
+    "yText": "c. 40 BBY"
+   },
+   "to": {
+    "y": -32,
+    "yText": "32 BBY",
+    "frac": 0.6
+   },
+   "end": "expelled",
+   "note": "Taken from Dathomir as a boy; after Naboo, Sidious counts him dead and replaces him with Dooku.",
+   "confidence": "inferred",
+   "sources": [
+    "Star Wars: Episode I The Phantom Menace",
+    "The Lawless"
+   ]
+  },
+  {
+   "id": "darth-sidious-dooku",
+   "master": "Darth Sidious",
+   "apprentice": "Dooku",
+   "tradition": "Sith",
+   "from": {
+    "y": -32,
+    "yText": "c. 32 BBY",
+    "frac": 0.7
+   },
+   "to": {
+    "y": -19,
+    "yText": "19 BBY"
+   },
+   "end": "apprentice died",
+   "note": "Anakin Skywalker beheads him aboard the Invisible Hand at Sidious's urging.",
+   "confidence": "inferred",
+   "sources": [
+    "Star Wars: Episode II Attack of the Clones",
+    "Star Wars: Episode III Revenge of the Sith"
+   ]
+  },
+  {
+   "id": "dooku-asajj-ventress",
+   "master": "Dooku",
+   "apprentice": "Asajj Ventress",
+   "tradition": "Sith",
+   "from": {
+    "y": -23,
+    "yText": "23 BBY"
+   },
+   "to": {
+    "y": -20,
+    "yText": "20 BBY"
+   },
+   "end": "expelled",
+   "note": "Sidious orders Dooku to discard her; he leaves her for dead after Sullust.",
+   "confidence": "explicit",
+   "sources": [
+    "Star Wars: The Clone Wars (film)",
+    "Nightsisters (episode)"
+   ]
+  },
+  {
+   "id": "dooku-grievous",
+   "master": "Dooku",
+   "apprentice": "Grievous",
+   "tradition": "Sith",
+   "from": null,
+   "to": {
+    "y": -19,
+    "yText": "19 BBY"
+   },
+   "end": "master died",
+   "note": "Lightsaber instruction for the cyborg general, begun before the war and ended by Dooku's death.",
+   "confidence": "inferred",
+   "sources": [
+    "Star Wars: Episode III Revenge of the Sith"
+   ]
+  },
+  {
+   "id": "viscus-savage-opress",
+   "master": "Viscus",
+   "apprentice": "Savage Opress",
+   "tradition": "Nightsisters",
+   "from": null,
+   "to": {
+    "y": -20,
+    "yText": "20 BBY",
+    "frac": 0.3
+   },
+   "end": "left",
+   "note": "Viscus heads Savage's Nightbrother clan until Ventress chooses Savage.",
+   "confidence": "inferred",
+   "sources": [
+    "Monster"
+   ]
+  },
+  {
+   "id": "asajj-ventress-savage-opress",
+   "master": "Asajj Ventress",
+   "apprentice": "Savage Opress",
+   "tradition": "Nightsisters",
+   "from": {
+    "y": -20,
+    "yText": "20 BBY",
+    "frac": 0.35
+   },
+   "to": {
+    "y": -20,
+    "yText": "20 BBY",
+    "frac": 0.45
+   },
+   "end": "left",
+   "note": "Ventress selects and tests Savage for Talzin's plot against Dooku.",
+   "confidence": "explicit",
+   "sources": [
+    "Monster"
+   ]
+  },
+  {
+   "id": "dooku-savage-opress",
+   "master": "Dooku",
+   "apprentice": "Savage Opress",
+   "tradition": "Sith",
+   "from": {
+    "y": -20,
+    "yText": "20 BBY",
+    "frac": 0.45
+   },
+   "to": {
+    "y": -20,
+    "yText": "20 BBY",
+    "frac": 0.55
+   },
+   "end": "left",
+   "note": "Talzin's enchanted plant turns on Dooku soon after joining him.",
+   "confidence": "explicit",
+   "sources": [
+    "Monster",
+    "Witches of the Mist"
+   ]
+  },
+  {
+   "id": "maul-savage-opress",
+   "master": "Maul",
+   "apprentice": "Savage Opress",
+   "tradition": "Sith",
+   "from": {
+    "y": -20,
+    "yText": "20 BBY",
+    "frac": 0.7
+   },
+   "to": {
+    "y": -19,
+    "yText": "19 BBY"
+   },
+   "end": "apprentice died",
+   "note": "Sidious kills Savage when he confronts the brothers on Mandalore.",
+   "confidence": "explicit",
+   "sources": [
+    "Revival (episode)",
+    "The Lawless"
+   ]
+  },
+  {
+   "id": "darth-sidious-anakin-skywalker",
+   "master": "Darth Sidious",
+   "apprentice": "Anakin Skywalker",
+   "tradition": "Sith",
+   "from": {
+    "y": -19,
+    "yText": "19 BBY"
+   },
+   "to": {
+    "y": 4,
+    "yText": "4 ABY"
+   },
+   "end": "master died",
+   "note": "Vader hurls Sidious down the Death Star II reactor shaft and dies of his wounds.",
+   "confidence": "explicit",
+   "sources": [
+    "Star Wars: Episode III Revenge of the Sith",
+    "Star Wars: Episode VI Return of the Jedi"
+   ]
+  },
+  {
+   "id": "dooku-quinlan-vos",
+   "master": "Dooku",
+   "apprentice": "Quinlan Vos",
+   "tradition": "Sith",
+   "from": {
+    "y": -19,
+    "yText": "19 BBY",
+    "frac": 0.3
+   },
+   "to": {
+    "y": -19,
+    "yText": "19 BBY",
+    "frac": 0.5
+   },
+   "end": "left",
+   "note": "Vos poses as Dooku's apprentice, genuinely falls, then is drawn back by Ventress.",
+   "confidence": "inferred",
+   "sources": [
+    "Dark Disciple"
+   ]
+  },
+  {
+   "id": "asajj-ventress-quinlan-vos",
+   "master": "Asajj Ventress",
+   "apprentice": "Quinlan Vos",
+   "tradition": "Nightsisters",
+   "from": {
+    "y": -19,
+    "yText": "19 BBY",
+    "frac": 0.2
+   },
+   "to": {
+    "y": -19,
+    "yText": "19 BBY",
+    "frac": 0.6
+   },
+   "end": "master died",
+   "note": "She teaches him dark-side techniques for their hunt; she dies saving him.",
+   "confidence": "explicit",
+   "sources": [
+    "Dark Disciple"
+   ]
+  },
+  {
+   "id": "maul-devon-izara",
+   "master": "Maul",
+   "apprentice": "Devon Izara",
+   "tradition": "Sith",
+   "from": {
+    "y": -15,
+    "yText": "17–c. 13 BBY"
+   },
+   "to": null,
+   "end": "unknown",
+   "note": "Maul draws the jailed Padawan into his orbit on Janix.",
+   "confidence": "inferred",
+   "sources": [
+    "Chapter 10: The Dark Lord"
+   ]
+  },
+  {
+   "id": "snoke-ben-solo",
+   "master": "Snoke",
+   "apprentice": "Ben Solo",
+   "tradition": "Sith Eternal",
+   "from": {
+    "y": 28,
+    "yText": "28 ABY"
+   },
+   "to": {
+    "y": 34,
+    "yText": "34 ABY"
+   },
+   "end": "master died",
+   "note": "Snoke, a strandcast proxy for Sidious, trains Kylo Ren until Ren cuts him in half.",
+   "confidence": "explicit",
+   "sources": [
+    "Star Wars: Episode VII The Force Awakens",
+    "Star Wars: Episode VIII The Last Jedi"
+   ]
+  },
+  {
+   "id": "anakin-skywalker-the-grand-inquisitor",
+   "master": "Anakin Skywalker",
+   "apprentice": "The Grand Inquisitor",
+   "tradition": "Inquisitorius",
+   "from": {
+    "y": -19,
+    "yText": "c. 19 BBY"
+   },
+   "to": {
+    "y": -4,
+    "yText": "4 BBY"
+   },
+   "end": "apprentice died",
+   "note": "Leads Vader's Jedi hunters; he lets himself fall to his death rather than face Vader after failing.",
+   "confidence": "inferred",
+   "sources": [
+    "Gathering Forces",
+    "Fire Across the Galaxy"
+   ]
+  },
+  {
+   "id": "anakin-skywalker-fifth-brother",
+   "master": "Anakin Skywalker",
+   "apprentice": "Fifth Brother",
+   "tradition": "Inquisitorius",
+   "from": {
+    "y": -19,
+    "yText": "c. 19 BBY"
+   },
+   "to": {
+    "y": -3,
+    "yText": "3 BBY"
+   },
+   "end": "apprentice died",
+   "note": "Killed by Maul on Malachor.",
+   "confidence": "inferred",
+   "sources": [
+    "Darth Vader (2017) 6",
+    "Twilight of the Apprentice"
+   ]
+  },
+  {
+   "id": "anakin-skywalker-seventh-sister",
+   "master": "Anakin Skywalker",
+   "apprentice": "Seventh Sister",
+   "tradition": "Inquisitorius",
+   "from": {
+    "y": -19,
+    "yText": "c. 19 BBY"
+   },
+   "to": {
+    "y": -3,
+    "yText": "3 BBY"
+   },
+   "end": "apprentice died",
+   "note": "A Mirialan survivor of the purge; Maul kills her on Malachor.",
+   "confidence": "inferred",
+   "sources": [
+    "Darth Vader (2017) 6",
+    "Twilight of the Apprentice"
+   ]
+  },
+  {
+   "id": "anakin-skywalker-eighth-brother",
+   "master": "Anakin Skywalker",
+   "apprentice": "Eighth Brother",
+   "tradition": "Inquisitorius",
+   "from": {
+    "y": -19,
+    "yText": "c. 19 BBY"
+   },
+   "to": {
+    "y": -3,
+    "yText": "3 BBY"
+   },
+   "end": "apprentice died",
+   "note": "Dies on Malachor when his spinning-blade escape fails.",
+   "confidence": "inferred",
+   "sources": [
+    "Darth Vader (2017) 6",
+    "Twilight of the Apprentice"
+   ]
+  },
+  {
+   "id": "anakin-skywalker-ninth-sister",
+   "master": "Anakin Skywalker",
+   "apprentice": "Ninth Sister",
+   "tradition": "Inquisitorius",
+   "from": {
+    "y": -19,
+    "yText": "c. 19 BBY"
+   },
+   "to": {
+    "y": -9,
+    "yText": "9 BBY"
+   },
+   "end": "apprentice died",
+   "note": "A fallen Dowutin Jedi; Cal Kestis kills her on Coruscant.",
+   "confidence": "inferred",
+   "sources": [
+    "Darth Vader (2017) 6",
+    "Star Wars Jedi: Survivor"
+   ]
+  },
+  {
+   "id": "the-grand-inquisitor-reva-sevander",
+   "master": "The Grand Inquisitor",
+   "apprentice": "Reva Sevander",
+   "tradition": "Inquisitorius",
+   "from": {
+    "y": -19,
+    "yText": "after 19 BBY"
+   },
+   "to": {
+    "y": -9,
+    "yText": "9 BBY"
+   },
+   "end": "left",
+   "note": "He trains the youngling survivor as an Inquisitor; she runs him through in 9 BBY.",
+   "confidence": "inferred",
+   "sources": [
+    "Star Wars: Dawn of Rebellion: The Visual Guide",
+    "Part I"
+   ]
+  },
+  {
+   "id": "anakin-skywalker-reva-sevander",
+   "master": "Anakin Skywalker",
+   "apprentice": "Reva Sevander",
+   "tradition": "Inquisitorius",
+   "from": {
+    "y": -19,
+    "yText": "after 19 BBY"
+   },
+   "to": {
+    "y": -9,
+    "yText": "9 BBY"
+   },
+   "end": "left",
+   "note": "She hides her aim of avenging the younglings; Vader defeats her and leaves her for dead.",
+   "confidence": "inferred",
+   "sources": [
+    "Part II",
+    "Part VI"
+   ]
+  },
+  {
+   "id": "anakin-skywalker-barriss-offee",
+   "master": "Anakin Skywalker",
+   "apprentice": "Barriss Offee",
+   "tradition": "Inquisitorius",
+   "from": {
+    "y": -19,
+    "yText": "c. 19 BBY"
+   },
+   "to": null,
+   "end": "left",
+   "note": "Vader forges the imprisoned ex-Padawan into an Inquisitor; she later abandons the role to heal.",
+   "confidence": "inferred",
+   "sources": [
+    "Devoted"
+   ]
+  },
+  {
+   "id": "anakin-skywalker-second-sister",
+   "master": "Anakin Skywalker",
+   "apprentice": "Second Sister",
+   "tradition": "Inquisitorius",
+   "from": {
+    "y": -18,
+    "yText": "by c. 18 BBY"
+   },
+   "to": {
+    "y": -14,
+    "yText": "14 BBY"
+   },
+   "end": "apprentice died",
+   "note": "Vader kills her on Nur after Cal Kestis defeats her.",
+   "confidence": "inferred",
+   "sources": [
+    "Star Wars Jedi: Fallen Order"
+   ]
+  },
+  {
+   "id": "ren-human-ben-solo",
+   "master": "Ren (human)",
+   "apprentice": "Ben Solo",
+   "tradition": "Knights of Ren",
+   "from": {
+    "y": 28,
+    "yText": "28 ABY",
+    "frac": 0.5
+   },
+   "to": {
+    "y": 28,
+    "yText": "28 ABY",
+    "frac": 0.9
+   },
+   "end": "master died",
+   "note": "Ben trains with the Knights, then kills Ren and takes the name.",
+   "confidence": "explicit",
+   "sources": [
+    "The Rise of Kylo Ren 3",
+    "The Rise of Kylo Ren 4"
+   ]
+  },
+  {
+   "id": "ben-solo-itai",
+   "master": "Ben Solo",
+   "apprentice": "Itai",
+   "tradition": "Knights of Ren",
+   "from": {
+    "y": 35,
+    "yText": "by 35 ABY",
+    "frac": 0.1
+   },
+   "to": {
+    "y": 35,
+    "yText": "35 ABY",
+    "frac": 0.8
+   },
+   "end": "unknown",
+   "note": "A hopeful prospect serving under Kylo Ren before the war's end.",
+   "confidence": "inferred",
+   "sources": [
+    "Path of the Lightsaber, Vol. 1"
+   ]
+  },
+  {
+   "id": "jaste-jango-fett",
+   "master": "Jaste",
+   "apprentice": "Jango Fett",
+   "tradition": "Mandalorian",
+   "from": null,
+   "to": null,
+   "end": "unknown",
+   "note": "Only part of the mentor's name survives, written into Boba Fett's chain code.",
+   "confidence": "inferred",
+   "sources": [
+    "Chapter 14: The Tragedy"
+   ]
+  },
+  {
+   "id": "jango-fett-boba-fett",
+   "master": "Jango Fett",
+   "apprentice": "Boba Fett",
+   "tradition": "Mandalorian",
+   "from": {
+    "y": -32,
+    "yText": "32 BBY"
+   },
+   "to": {
+    "y": -22,
+    "yText": "22 BBY"
+   },
+   "end": "master died",
+   "note": "Jango raises his unaltered clone as son and trainee until Mace Windu kills him on Geonosis.",
+   "confidence": "explicit",
+   "sources": [
+    "Star Wars: Episode II Attack of the Clones",
+    "Age of Republic - Jango Fett 1"
+   ]
+  },
+  {
+   "id": "din-djarin-din-grogu",
+   "master": "Din Djarin",
+   "apprentice": "Din Grogu",
+   "tradition": "Mandalorian",
+   "from": {
+    "y": 9,
+    "yText": "9 ABY",
+    "frac": 0.9
+   },
+   "to": null,
+   "end": "ongoing",
+   "note": "Grogu becomes Djarin's apprentice once Mandalore is retaken.",
+   "confidence": "explicit",
+   "sources": [
+    "Chapter 24: The Return",
+    "Star Wars: The Mandalorian and Grogu"
+   ]
+  },
+  {
+   "id": "baylan-skoll-shin-hati",
+   "master": "Baylan Skoll",
+   "apprentice": "Shin Hati",
+   "tradition": "Dark Jedi",
+   "from": {
+    "y": 9,
+    "yText": "by 9 ABY",
+    "frac": 0.1
+   },
+   "to": {
+    "y": 9,
+    "yText": "9 ABY",
+    "frac": 0.8
+   },
+   "end": "left",
+   "note": "The ex-Jedi trains her as a mercenary; they part ways on Peridea.",
+   "confidence": "inferred",
+   "sources": [
+    "Part One: Master and Apprentice",
+    "Part Eight: The Jedi, the Witch, and the Warlord"
+   ]
+  },
+  {
+   "id": "dryden-vos-qi-ra",
+   "master": "Dryden Vos",
+   "apprentice": "Qi'ra",
+   "tradition": "Crimson Dawn",
+   "from": {
+    "y": -12,
+    "yText": "13–10 BBY"
+   },
+   "to": {
+    "y": -10,
+    "yText": "10 BBY",
+    "frac": 0.8
+   },
+   "end": "master died",
+   "note": "Vos schools the former slave in hand-to-hand combat; she kills him aboard the First Light.",
+   "confidence": "inferred",
+   "sources": [
+    "Solo: A Star Wars Story"
+   ]
+  },
+  {
+   "id": "maul-qi-ra",
+   "master": "Maul",
+   "apprentice": "Qi'ra",
+   "tradition": "Crimson Dawn",
+   "from": {
+    "y": -10,
+    "yText": "10 BBY",
+    "frac": 0.8
+   },
+   "to": {
+    "y": -2,
+    "yText": "2 BBY"
+   },
+   "end": "master died",
+   "note": "After she kills Vos, Maul makes her his lieutenant; his death on Tatooine ends it.",
+   "confidence": "inferred",
+   "sources": [
+    "Solo: A Star Wars Story",
+    "Crimson Reign 5"
+   ]
+  },
+  {
+   "id": "tobias-beckett-han-solo",
+   "master": "Tobias Beckett",
+   "apprentice": "Han Solo",
+   "tradition": "Underworld",
+   "from": {
+    "y": -10,
+    "yText": "10 BBY",
+    "frac": 0.2
+   },
+   "to": {
+    "y": -10,
+    "yText": "10 BBY",
+    "frac": 0.8
+   },
+   "end": "master died",
+   "note": "Beckett mentors Han through the Kessel job; Han shoots him on Savareen.",
+   "confidence": "explicit",
+   "sources": [
+    "Solo: A Star Wars Story"
+   ]
+  },
+  {
+   "id": "saw-gerrera-jyn-erso",
+   "master": "Saw Gerrera",
+   "apprentice": "Jyn Erso",
+   "tradition": "Partisans",
+   "from": {
+    "y": -13,
+    "yText": "13 BBY"
+   },
+   "to": {
+    "y": -5,
+    "yText": "c. 5 BBY"
+   },
+   "end": "left",
+   "note": "Gerrera rescues eight-year-old Jyn from Lah'mu and abandons her at sixteen.",
+   "confidence": "inferred",
+   "sources": [
+    "Rogue One: A Star Wars Story",
+    "Rebel Rising"
+   ]
+  }
+ ],
+ "lines": [
+  {
+   "id": "rule-of-two",
+   "title": "The Rule of Two",
+   "kind": "sith",
+   "members": [
+    "Darth Bane",
+    "Darth Zannah",
+    "Darth Tenebrous",
+    "Darth Plagueis",
+    "The Stranger",
+    "Darth Sidious",
+    "Maul",
+    "Dooku",
+    "Anakin Skywalker"
+   ],
+   "links": [
+    {
+     "a": "Darth Bane",
+     "b": "Darth Zannah",
+     "relation": "master",
+     "y": -1032
+    },
+    {
+     "a": "Darth Tenebrous",
+     "b": "Darth Plagueis",
+     "relation": "master",
+     "y": null
+    },
+    {
+     "a": "Darth Plagueis",
+     "b": "The Stranger",
+     "relation": "master",
+     "y": null
+    },
+    {
+     "a": "Darth Plagueis",
+     "b": "Darth Sidious",
+     "relation": "master",
+     "y": -52
+    },
+    {
+     "a": "Darth Sidious",
+     "b": "Maul",
+     "relation": "master",
+     "y": -40
+    },
+    {
+     "a": "Darth Sidious",
+     "b": "Dooku",
+     "relation": "master",
+     "y": -32
+    },
+    {
+     "a": "Darth Sidious",
+     "b": "Anakin Skywalker",
+     "relation": "master",
+     "y": -19
+    }
+   ],
+   "summary": "Bane caps the Sith at a single master and a single apprentice, the student destined to overthrow the teacher. After Zannah, canon is silent until Tenebrous, whose pupil Plagueis trains both the Stranger and Sidious. Sidious then takes Maul, Dooku and finally Vader, who ends the line by killing him.",
+   "sources": [
+    "Sacrifice (episode)",
+    "Star Wars: The Secrets of the Sith: The Chronicles of Emperor Palpatine",
+    "Star Wars: Episode III Revenge of the Sith",
+    "The Acolyte (episode)"
+   ],
+   "conflict": "Canon names nobody between Zannah and Tenebrous, a gap of roughly a thousand years; the Stranger's tie to Plagueis rests on creator statements and Secrets of the Sith, not on screen."
+  },
+  {
+   "id": "yoda-to-rey",
+   "title": "Yoda to Rey",
+   "kind": "jedi",
+   "members": [
+    "Yoda",
+    "Dooku",
+    "Qui-Gon Jinn",
+    "Obi-Wan Kenobi",
+    "Anakin Skywalker",
+    "Ahsoka Tano",
+    "Luke Skywalker",
+    "Leia Skywalker Organa Solo",
+    "Sabine Wren",
+    "Din Grogu",
+    "Ben Solo",
+    "Rey Skywalker"
+   ],
+   "links": [
+    {
+     "a": "Yoda",
+     "b": "Dooku",
+     "relation": "master",
+     "y": -89
+    },
+    {
+     "a": "Dooku",
+     "b": "Qui-Gon Jinn",
+     "relation": "master",
+     "y": -68
+    },
+    {
+     "a": "Qui-Gon Jinn",
+     "b": "Obi-Wan Kenobi",
+     "relation": "master",
+     "y": -44
+    },
+    {
+     "a": "Qui-Gon Jinn",
+     "b": "Anakin Skywalker",
+     "relation": "master",
+     "y": -32
+    },
+    {
+     "a": "Obi-Wan Kenobi",
+     "b": "Anakin Skywalker",
+     "relation": "master",
+     "y": -32
+    },
+    {
+     "a": "Anakin Skywalker",
+     "b": "Ahsoka Tano",
+     "relation": "master",
+     "y": -22
+    },
+    {
+     "a": "Obi-Wan Kenobi",
+     "b": "Luke Skywalker",
+     "relation": "master",
+     "y": -1
+    },
+    {
+     "a": "Yoda",
+     "b": "Luke Skywalker",
+     "relation": "master",
+     "y": 3
+    },
+    {
+     "a": "Luke Skywalker",
+     "b": "Leia Skywalker Organa Solo",
+     "relation": "master",
+     "y": 4
+    },
+    {
+     "a": "Ahsoka Tano",
+     "b": "Sabine Wren",
+     "relation": "master",
+     "y": 5
+    },
+    {
+     "a": "Luke Skywalker",
+     "b": "Din Grogu",
+     "relation": "master",
+     "y": 9
+    },
+    {
+     "a": "Luke Skywalker",
+     "b": "Ben Solo",
+     "relation": "master",
+     "y": 15
+    },
+    {
+     "a": "Luke Skywalker",
+     "b": "Rey Skywalker",
+     "relation": "master",
+     "y": 34
+    },
+    {
+     "a": "Leia Skywalker Organa Solo",
+     "b": "Rey Skywalker",
+     "relation": "master",
+     "y": 34
+    }
+   ],
+   "summary": "One thread runs from Yoda through Dooku, Qui-Gon, Obi-Wan and Anakin to Ahsoka and, decades later, Sabine. Obi-Wan and Yoda also teach Luke, whose own students include Leia, Grogu and Ben; Luke and then Leia train Rey, who closes the saga.",
+   "sources": [
+    "Star Wars: Episode I The Phantom Menace",
+    "Star Wars: Episode V The Empire Strikes Back",
+    "Star Wars: Episode IX The Rise of Skywalker",
+    "Dooku: Jedi Lost",
+    "Part One: Master and Apprentice"
+   ],
+   "conflict": null
+  },
+  {
+   "id": "mace-windu-to-ezra",
+   "title": "Mace Windu to Ezra Bridger",
+   "kind": "jedi",
+   "members": [
+    "Cyslin Myr",
+    "Yoda",
+    "Mace Windu",
+    "Depa Billaba",
+    "Kanan Jarrus",
+    "Ezra Bridger",
+    "Sabine Wren"
+   ],
+   "links": [
+    {
+     "a": "Cyslin Myr",
+     "b": "Mace Windu",
+     "relation": "master",
+     "y": -60
+    },
+    {
+     "a": "Yoda",
+     "b": "Mace Windu",
+     "relation": "master",
+     "y": null
+    },
+    {
+     "a": "Mace Windu",
+     "b": "Depa Billaba",
+     "relation": "master",
+     "y": -50
+    },
+    {
+     "a": "Depa Billaba",
+     "b": "Kanan Jarrus",
+     "relation": "master",
+     "y": -20
+    },
+    {
+     "a": "Kanan Jarrus",
+     "b": "Ezra Bridger",
+     "relation": "master",
+     "y": -5
+    },
+    {
+     "a": "Kanan Jarrus",
+     "b": "Sabine Wren",
+     "relation": "master",
+     "y": -2
+    }
+   ],
+   "summary": "Windu, begun by Cyslin Myr and finished by Yoda, trains Depa Billaba, who in the war's last year takes Caleb Dume. Surviving Order 66 as Kanan Jarrus, he passes the line to Ezra Bridger and gives Sabine Wren the swordwork to carry the Darksaber.",
+   "sources": [
+    "Jedi of the Republic – Mace Windu 4",
+    "A New Dawn",
+    "Star Wars Rebels: Spark of Rebellion",
+    "Trials of the Darksaber"
+   ],
+   "conflict": null
+  },
+  {
+   "id": "kestis-line",
+   "title": "Yaddle and Eno Cordova to Cal Kestis",
+   "kind": "jedi",
+   "members": [
+    "Yaddle",
+    "Eno Cordova",
+    "Jaro Tapal",
+    "Cere Junda",
+    "Second Sister",
+    "Cal Kestis",
+    "Anakin Skywalker"
+   ],
+   "links": [
+    {
+     "a": "Yaddle",
+     "b": "Jaro Tapal",
+     "relation": "master",
+     "y": null
+    },
+    {
+     "a": "Eno Cordova",
+     "b": "Cere Junda",
+     "relation": "master",
+     "y": -41
+    },
+    {
+     "a": "Cere Junda",
+     "b": "Second Sister",
+     "relation": "master",
+     "y": null
+    },
+    {
+     "a": "Jaro Tapal",
+     "b": "Cal Kestis",
+     "relation": "master",
+     "y": -22
+    },
+    {
+     "a": "Anakin Skywalker",
+     "b": "Second Sister",
+     "relation": "master",
+     "y": -18
+    },
+    {
+     "a": "Cere Junda",
+     "b": "Cal Kestis",
+     "relation": "master",
+     "y": -14
+    }
+   ],
+   "summary": "Two survivor threads meet in Cal Kestis. Yaddle's student Jaro Tapal dies saving Cal on Order 66's day; Eno Cordova's student Cere Junda sees her Padawan Trilla remade as Vader's Second Sister, then takes Cal on in 14 BBY.",
+   "sources": [
+    "Star Wars Jedi: Fallen Order",
+    "Star Wars Jedi: Survivor",
+    "Jedi Fallen Order - Dark Temple 1"
+   ],
+   "conflict": null
+  },
+  {
+   "id": "gios-to-the-stranger",
+   "title": "Stellan Gios to the Stranger",
+   "kind": "other",
+   "members": [
+    "Rana Kant",
+    "Stellan Gios",
+    "Vernestra Rwoh",
+    "Douglas Sunvale",
+    "Imri Cantaros",
+    "Tep Tep",
+    "Sol",
+    "Verosha Aniseya",
+    "The Stranger",
+    "Darth Plagueis",
+    "Mae-ho Aniseya",
+    "Jecki Lon"
+   ],
+   "links": [
+    {
+     "a": "Rana Kant",
+     "b": "Stellan Gios",
+     "relation": "master",
+     "y": -250
+    },
+    {
+     "a": "Stellan Gios",
+     "b": "Vernestra Rwoh",
+     "relation": "master",
+     "y": -233
+    },
+    {
+     "a": "Douglas Sunvale",
+     "b": "Imri Cantaros",
+     "relation": "master",
+     "y": null
+    },
+    {
+     "a": "Vernestra Rwoh",
+     "b": "Imri Cantaros",
+     "relation": "master",
+     "y": -232
+    },
+    {
+     "a": "Imri Cantaros",
+     "b": "Tep Tep",
+     "relation": "master",
+     "y": -228
+    },
+    {
+     "a": "Sol",
+     "b": "Verosha Aniseya",
+     "relation": "master",
+     "y": -148
+    },
+    {
+     "a": "Vernestra Rwoh",
+     "b": "The Stranger",
+     "relation": "master",
+     "y": null
+    },
+    {
+     "a": "Darth Plagueis",
+     "b": "The Stranger",
+     "relation": "master",
+     "y": null
+    },
+    {
+     "a": "The Stranger",
+     "b": "Mae-ho Aniseya",
+     "relation": "master",
+     "y": -134
+    },
+    {
+     "a": "Sol",
+     "b": "Jecki Lon",
+     "relation": "master",
+     "y": -132
+    },
+    {
+     "a": "The Stranger",
+     "b": "Verosha Aniseya",
+     "relation": "master",
+     "y": -132
+    }
+   ],
+   "summary": "Gios's prodigy Vernestra Rwoh trains Imri Cantaros in the Nihil years and, decades later, a Padawan she expels who becomes the Stranger. Schooled by Plagueis, he makes Mae his secret acolyte and ends up with her twin Osha, once Sol's student.",
+   "sources": [
+    "The High Republic: A Test of Courage",
+    "The Acolyte (episode)",
+    "Lost / Found"
+   ],
+   "conflict": "The Acolyte's finale ties Rwoh's former Padawan to the Stranger, but when he trained and when he was expelled are unrecorded."
+  },
+  {
+   "id": "kelnacca-line",
+   "title": "Lulad and Kelnacca to Ordea",
+   "kind": "jedi",
+   "members": [
+    "Lulad",
+    "Kelnacca",
+    "Yarzion Vell",
+    "Ordea"
+   ],
+   "links": [
+    {
+     "a": "Lulad",
+     "b": "Yarzion Vell",
+     "relation": "master",
+     "y": null
+    },
+    {
+     "a": "Kelnacca",
+     "b": "Yarzion Vell",
+     "relation": "master",
+     "y": -230
+    },
+    {
+     "a": "Yarzion Vell",
+     "b": "Ordea",
+     "relation": "master",
+     "y": null
+    },
+    {
+     "a": "Kelnacca",
+     "b": "Ordea",
+     "relation": "master",
+     "y": -149
+    }
+   ],
+   "summary": "The long-lived Wookiee Kelnacca finishes two generations of training. He knights Yarzion Vell after Lulad dies at Starlight Beacon, then, some eighty years on, completes the training of Vell's own Padawan, Ordea.",
+   "sources": [
+    "The Acolyte - Kelnacca 1",
+    "Star Wars: The Acolyte: The Visual Guide"
+   ],
+   "conflict": "Vell's article dates Lulad's death to 232 BBY; Lulad's own article gives 230 BBY, the year Starlight Beacon fell."
+  },
+  {
+   "id": "dooku-acolytes",
+   "title": "Dooku's dark acolytes",
+   "kind": "sith",
+   "members": [
+    "Ky Narec",
+    "Darth Sidious",
+    "Dooku",
+    "Asajj Ventress",
+    "Grievous",
+    "Viscus",
+    "Savage Opress",
+    "Maul",
+    "Tholme",
+    "Quinlan Vos"
+   ],
+   "links": [
+    {
+     "a": "Ky Narec",
+     "b": "Asajj Ventress",
+     "relation": "master",
+     "y": -44
+    },
+    {
+     "a": "Darth Sidious",
+     "b": "Dooku",
+     "relation": "master",
+     "y": -32
+    },
+    {
+     "a": "Dooku",
+     "b": "Asajj Ventress",
+     "relation": "master",
+     "y": -23
+    },
+    {
+     "a": "Dooku",
+     "b": "Grievous",
+     "relation": "master",
+     "y": null
+    },
+    {
+     "a": "Viscus",
+     "b": "Savage Opress",
+     "relation": "master",
+     "y": null
+    },
+    {
+     "a": "Asajj Ventress",
+     "b": "Savage Opress",
+     "relation": "master",
+     "y": -20
+    },
+    {
+     "a": "Dooku",
+     "b": "Savage Opress",
+     "relation": "master",
+     "y": -20
+    },
+    {
+     "a": "Maul",
+     "b": "Savage Opress",
+     "relation": "master",
+     "y": -20
+    },
+    {
+     "a": "Tholme",
+     "b": "Quinlan Vos",
+     "relation": "master",
+     "y": null
+    },
+    {
+     "a": "Dooku",
+     "b": "Quinlan Vos",
+     "relation": "master",
+     "y": -19
+    },
+    {
+     "a": "Asajj Ventress",
+     "b": "Quinlan Vos",
+     "relation": "master",
+     "y": -19
+    }
+   ],
+   "summary": "Denied a true apprentice under Bane's two-Sith rule, Dooku still gathers dark agents: Ventress, a Nightsister first taught by a Jedi; the saber-trained cyborg Grievous; Savage Opress, Talzin's plant; and Quinlan Vos, who falls and returns. Several switch masters as loyalties shift.",
+   "sources": [
+    "Star Wars: The Clone Wars (film)",
+    "Monster",
+    "Revival (episode)",
+    "Dark Disciple"
+   ],
+   "conflict": null
+  },
+  {
+   "id": "vader-inquisitors",
+   "title": "Vader's Inquisitors",
+   "kind": "other",
+   "members": [
+    "Darth Sidious",
+    "Luminara Unduli",
+    "Cere Junda",
+    "Anakin Skywalker",
+    "The Grand Inquisitor",
+    "Fifth Brother",
+    "Seventh Sister",
+    "Eighth Brother",
+    "Ninth Sister",
+    "Barriss Offee",
+    "Reva Sevander",
+    "Second Sister"
+   ],
+   "links": [
+    {
+     "a": "Luminara Unduli",
+     "b": "Barriss Offee",
+     "relation": "master",
+     "y": -22
+    },
+    {
+     "a": "Cere Junda",
+     "b": "Second Sister",
+     "relation": "master",
+     "y": null
+    },
+    {
+     "a": "Darth Sidious",
+     "b": "Anakin Skywalker",
+     "relation": "master",
+     "y": -19
+    },
+    {
+     "a": "Anakin Skywalker",
+     "b": "The Grand Inquisitor",
+     "relation": "master",
+     "y": -19
+    },
+    {
+     "a": "Anakin Skywalker",
+     "b": "Fifth Brother",
+     "relation": "master",
+     "y": -19
+    },
+    {
+     "a": "Anakin Skywalker",
+     "b": "Seventh Sister",
+     "relation": "master",
+     "y": -19
+    },
+    {
+     "a": "Anakin Skywalker",
+     "b": "Eighth Brother",
+     "relation": "master",
+     "y": -19
+    },
+    {
+     "a": "Anakin Skywalker",
+     "b": "Ninth Sister",
+     "relation": "master",
+     "y": -19
+    },
+    {
+     "a": "Anakin Skywalker",
+     "b": "Barriss Offee",
+     "relation": "master",
+     "y": -19
+    },
+    {
+     "a": "The Grand Inquisitor",
+     "b": "Reva Sevander",
+     "relation": "master",
+     "y": -19
+    },
+    {
+     "a": "Anakin Skywalker",
+     "b": "Reva Sevander",
+     "relation": "master",
+     "y": -19
+    },
+    {
+     "a": "Anakin Skywalker",
+     "b": "Second Sister",
+     "relation": "master",
+     "y": -18
+    }
+   ],
+   "summary": "After Order 66, Vader drills fallen Jedi and captured survivors into Jedi hunters. Some were Padawans of other Jedi, such as Trilla Suduri of Cere Junda and Barriss Offee of Luminara Unduli. Reva, recruited by the Grand Inquisitor, turns on Vader; most of the rest are dead by 3 BBY.",
+   "sources": [
+    "Darth Vader (2017) 6",
+    "Star Wars Jedi: Fallen Order",
+    "Part II",
+    "Devoted",
+    "Twilight of the Apprentice"
+   ],
+   "conflict": null
+  },
+  {
+   "id": "ben-solo-teachers",
+   "title": "Ben Solo's teachers",
+   "kind": "other",
+   "members": [
+    "Darth Sidious",
+    "Snoke",
+    "Luke Skywalker",
+    "Ben Solo",
+    "Ren (human)",
+    "Itai"
+   ],
+   "links": [
+    {
+     "a": "Darth Sidious",
+     "b": "Snoke",
+     "relation": "master",
+     "y": null
+    },
+    {
+     "a": "Luke Skywalker",
+     "b": "Ben Solo",
+     "relation": "master",
+     "y": 15
+    },
+    {
+     "a": "Ren (human)",
+     "b": "Ben Solo",
+     "relation": "master",
+     "y": 28
+    },
+    {
+     "a": "Snoke",
+     "b": "Ben Solo",
+     "relation": "master",
+     "y": 28
+    },
+    {
+     "a": "Ben Solo",
+     "b": "Itai",
+     "relation": "master",
+     "y": 35
+    }
+   ],
+   "summary": "Ben trains under his uncle from 15 ABY while Snoke, secretly built by Sidious's cult, works on him from afar. After the temple burns he joins Ren's Knights, kills their leader to inherit the name, and serves Snoke until he kills him too.",
+   "sources": [
+    "The Rise of Kylo Ren 1",
+    "The Rise of Kylo Ren 4",
+    "Star Wars: Episode VIII The Last Jedi",
+    "Star Wars: Episode IX The Rise of Skywalker"
+   ],
+   "conflict": null
+  },
+  {
+   "id": "skywalker-family",
+   "title": "The Skywalker family",
+   "kind": "family",
+   "members": [
+    "Shmi Skywalker Lars",
+    "Cliegg Lars",
+    "Owen Lars",
+    "Beru Whitesun Lars",
+    "Padmé Amidala Naberrie",
+    "Anakin Skywalker",
+    "Bail Prestor Organa",
+    "Breha Organa",
+    "Han Solo",
+    "Luke Skywalker",
+    "Leia Skywalker Organa Solo",
+    "Ben Solo",
+    "Rey Skywalker"
+   ],
+   "links": [
+    {
+     "a": "Shmi Skywalker Lars",
+     "b": "Anakin Skywalker",
+     "relation": "parent",
+     "y": -41
+    },
+    {
+     "a": "Shmi Skywalker Lars",
+     "b": "Cliegg Lars",
+     "relation": "spouse",
+     "y": null
+    },
+    {
+     "a": "Cliegg Lars",
+     "b": "Owen Lars",
+     "relation": "parent",
+     "y": null
+    },
+    {
+     "a": "Owen Lars",
+     "b": "Beru Whitesun Lars",
+     "relation": "spouse",
+     "y": null
+    },
+    {
+     "a": "Anakin Skywalker",
+     "b": "Padmé Amidala Naberrie",
+     "relation": "spouse",
+     "y": -22
+    },
+    {
+     "a": "Anakin Skywalker",
+     "b": "Luke Skywalker",
+     "relation": "parent",
+     "y": -19
+    },
+    {
+     "a": "Padmé Amidala Naberrie",
+     "b": "Luke Skywalker",
+     "relation": "parent",
+     "y": -19
+    },
+    {
+     "a": "Anakin Skywalker",
+     "b": "Leia Skywalker Organa Solo",
+     "relation": "parent",
+     "y": -19
+    },
+    {
+     "a": "Padmé Amidala Naberrie",
+     "b": "Leia Skywalker Organa Solo",
+     "relation": "parent",
+     "y": -19
+    },
+    {
+     "a": "Owen Lars",
+     "b": "Luke Skywalker",
+     "relation": "adoptive",
+     "y": -19
+    },
+    {
+     "a": "Beru Whitesun Lars",
+     "b": "Luke Skywalker",
+     "relation": "adoptive",
+     "y": -19
+    },
+    {
+     "a": "Bail Prestor Organa",
+     "b": "Leia Skywalker Organa Solo",
+     "relation": "adoptive",
+     "y": -19
+    },
+    {
+     "a": "Breha Organa",
+     "b": "Leia Skywalker Organa Solo",
+     "relation": "adoptive",
+     "y": -19
+    },
+    {
+     "a": "Han Solo",
+     "b": "Leia Skywalker Organa Solo",
+     "relation": "spouse",
+     "y": 4
+    },
+    {
+     "a": "Leia Skywalker Organa Solo",
+     "b": "Ben Solo",
+     "relation": "parent",
+     "y": 5
+    },
+    {
+     "a": "Han Solo",
+     "b": "Ben Solo",
+     "relation": "parent",
+     "y": 5
+    },
+    {
+     "a": "Leia Skywalker Organa Solo",
+     "b": "Rey Skywalker",
+     "relation": "adoptive",
+     "y": 35
+    }
+   ],
+   "summary": "Shmi's son Anakin secretly weds Padmé; their twins are split at birth, Luke to Owen and Beru Lars, Leia to the Organas. Leia and Han's son Ben ends the bloodline in 35 ABY, and Rey, Leia's Palpatine-born student, takes the name as a chosen heir.",
+   "sources": [
+    "Star Wars: Episode II Attack of the Clones",
+    "Star Wars: Episode III Revenge of the Sith",
+    "Star Wars: Episode VII The Force Awakens",
+    "Star Wars: Episode IX The Rise of Skywalker"
+   ],
+   "conflict": null
+  },
+  {
+   "id": "palpatine-family",
+   "title": "The Palpatine bloodline",
+   "kind": "family",
+   "members": [
+    "Darth Sidious",
+    "Dathan",
+    "Miramir",
+    "Rey Skywalker"
+   ],
+   "links": [
+    {
+     "a": "Darth Sidious",
+     "b": "Dathan",
+     "relation": "clone",
+     "y": -12
+    },
+    {
+     "a": "Dathan",
+     "b": "Miramir",
+     "relation": "spouse",
+     "y": null
+    },
+    {
+     "a": "Dathan",
+     "b": "Rey Skywalker",
+     "relation": "parent",
+     "y": 15
+    },
+    {
+     "a": "Miramir",
+     "b": "Rey Skywalker",
+     "relation": "parent",
+     "y": 15
+    }
+   ],
+   "summary": "Canon names no parents for Sheev Palpatine. The Sith Eternal grow Dathan in 12 BBY from Sidious's genetic template; he and Miramir hide their daughter Rey on Jakku before they are killed, and Rey destroys her grandfather on Exegol in 35 ABY.",
+   "sources": [
+    "Star Wars: Episode IX The Rise of Skywalker",
+    "Shadow of the Sith"
+   ],
+   "conflict": null
+  },
+  {
+   "id": "ro-family",
+   "title": "The Ro family",
+   "kind": "family",
+   "members": [
+    "Shalla Ro",
+    "Asgar Ro",
+    "Marchion Ro"
+   ],
+   "links": [
+    {
+     "a": "Shalla Ro",
+     "b": "Asgar Ro",
+     "relation": "parent",
+     "y": null
+    },
+    {
+     "a": "Asgar Ro",
+     "b": "Marchion Ro",
+     "relation": "parent",
+     "y": null
+    }
+   ],
+   "summary": "Three generations hand down the Nihil's secret hyperspace Paths and the title of Eye. Shalla dies in 252 BBY, Asgar in 242 BBY, and Marchion turns an inherited role into command of every Tempest before the Jedi finally imprison him.",
+   "sources": [
+    "The High Republic: Eye of the Storm 1",
+    "The High Republic: The Fallen Star",
+    "The High Republic: Trials of the Jedi"
+   ],
+   "conflict": null
+  },
+  {
+   "id": "fett-line",
+   "title": "The Fett line",
+   "kind": "family",
+   "members": [
+    "Jaste",
+    "Jango Fett",
+    "Boba Fett",
+    "Omega",
+    "Rex"
+   ],
+   "links": [
+    {
+     "a": "Jaste",
+     "b": "Jango Fett",
+     "relation": "adoptive",
+     "y": null
+    },
+    {
+     "a": "Jango Fett",
+     "b": "Boba Fett",
+     "relation": "clone",
+     "y": -32
+    },
+    {
+     "a": "Jango Fett",
+     "b": "Omega",
+     "relation": "clone",
+     "y": null
+    },
+    {
+     "a": "Jango Fett",
+     "b": "Rex",
+     "relation": "clone",
+     "y": -32
+    }
+   ],
+   "summary": "Jango, an orphaned foundling raised by a mentor known only as 'Jaste', becomes the template of the Republic's clone army. He keeps one unaltered clone, Boba, as his son; Omega is a second pure copy, and troopers like Rex carry his genome.",
+   "sources": [
+    "Star Wars: Episode II Attack of the Clones",
+    "Chapter 14: The Tragedy",
+    "Kamino Lost"
+   ],
+   "conflict": null
+  },
+  {
+   "id": "mandalorian-houses",
+   "title": "Houses Kryze and Wren, and Clan Mudhorn",
+   "kind": "family",
+   "members": [
+    "Adonai Kryze",
+    "Satine Kryze",
+    "Bo-Katan Kryze",
+    "Ursa Wren",
+    "Alrich Wren",
+    "Sabine Wren",
+    "Tristan Wren",
+    "Din Djarin",
+    "Din Grogu"
+   ],
+   "links": [
+    {
+     "a": "Adonai Kryze",
+     "b": "Satine Kryze",
+     "relation": "parent",
+     "y": null
+    },
+    {
+     "a": "Adonai Kryze",
+     "b": "Bo-Katan Kryze",
+     "relation": "parent",
+     "y": null
+    },
+    {
+     "a": "Ursa Wren",
+     "b": "Alrich Wren",
+     "relation": "spouse",
+     "y": null
+    },
+    {
+     "a": "Ursa Wren",
+     "b": "Sabine Wren",
+     "relation": "parent",
+     "y": -21
+    },
+    {
+     "a": "Alrich Wren",
+     "b": "Sabine Wren",
+     "relation": "parent",
+     "y": -21
+    },
+    {
+     "a": "Ursa Wren",
+     "b": "Tristan Wren",
+     "relation": "parent",
+     "y": null
+    },
+    {
+     "a": "Alrich Wren",
+     "b": "Tristan Wren",
+     "relation": "parent",
+     "y": null
+    },
+    {
+     "a": "Din Djarin",
+     "b": "Din Grogu",
+     "relation": "adoptive",
+     "y": 9
+    }
+   ],
+   "summary": "Duke Adonai's daughters Satine and Bo-Katan lead House Kryze, one a pacifist duchess and the other a warrior. Clan Wren's Ursa and Alrich raise Sabine and Tristan and die in the Great Purge. Din Djarin founds Clan Mudhorn with Grogu, formally adopting him after Mandalore is freed.",
+   "sources": [
+    "The Mandalore Plot",
+    "Legacy of Mandalore",
+    "Family Reunion – and Farewell",
+    "Chapter 24: The Return"
+   ],
+   "conflict": null
+  }
+ ],
+ "offices": [
+  {
+   "id": "supreme-chancellor",
+   "title": "Supreme Chancellor of the Galactic Republic",
+   "polity": "Galactic Republic",
+   "summary": "Head of the Republic and presiding officer of the Senate, elected to four-year terms that could be renewed once. Palpatine is the last holder; he converts the post into the throne of the Empire.",
+   "holders": [
+    {
+     "who": "Chasen Piian",
+     "from": {
+      "y": -1300,
+      "yText": "c. 1300 BBY"
+     },
+     "to": null,
+     "how": "unknown",
+     "note": "Earliest chancellor canon names.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Tarsus Valorum",
+     "from": {
+      "y": -1032,
+      "yText": "after 1032 BBY"
+     },
+     "to": null,
+     "how": "unknown",
+     "note": "Leads the Republic as it rebuilds after the Sith wars.",
+     "confidence": "inferred"
+    },
+    {
+     "who": "Kyong Greylark",
+     "from": {
+      "y": -392,
+      "yText": "by c. 392 BBY"
+     },
+     "to": {
+      "y": -382,
+      "yText": "382 BBY"
+     },
+     "how": "elected",
+     "note": "Co-chancellor with Mollo; leaves office in 382 BBY to help her son.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Orlen Mollo",
+     "from": {
+      "y": -392,
+      "yText": "by c. 392 BBY"
+     },
+     "to": null,
+     "how": "elected",
+     "note": "Serves jointly with Greylark, then alone after 382 BBY.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Digrenara",
+     "from": null,
+     "to": {
+      "y": -234,
+      "yText": "by c. 234 BBY"
+     },
+     "how": "unknown",
+     "note": "Precedes Lina Soh; dates unknown.",
+     "confidence": "inferred"
+    },
+    {
+     "who": "Lina Soh",
+     "from": {
+      "y": -234,
+      "yText": "c. 234 BBY"
+     },
+     "to": {
+      "y": -229,
+      "yText": "fl. 229 BBY"
+     },
+     "how": "elected",
+     "note": "Builds Starlight Beacon; in office through the Nihil war.",
+     "confidence": "inferred"
+    },
+    {
+     "who": "Veeth Drellik",
+     "from": {
+      "y": -132,
+      "yText": "c. 132 BBY",
+      "frac": 0.2
+     },
+     "to": {
+      "y": -132,
+      "yText": "c. 132 BBY",
+      "frac": 0.8
+     },
+     "how": "unknown",
+     "note": "Holds the Senate tribunal on the Jedi killings.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Skor Kalpana",
+     "from": {
+      "y": -42,
+      "yText": "42 BBY"
+     },
+     "to": {
+      "y": -40,
+      "yText": "–40 BBY",
+      "frac": 0.1
+     },
+     "how": "unknown",
+     "note": "In office when Dooku leaves the Order.",
+     "confidence": "estimated"
+    },
+    {
+     "who": "Kirames Kaj",
+     "from": {
+      "y": -40,
+      "yText": "40 BBY",
+      "frac": 0.1
+     },
+     "to": {
+      "y": -40,
+      "yText": "40 BBY",
+      "frac": 0.5
+     },
+     "how": "unknown",
+     "note": "Announces she will not seek another term.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Finis Valorum",
+     "from": {
+      "y": -40,
+      "yText": "40 BBY",
+      "frac": 0.5
+     },
+     "to": {
+      "y": -32,
+      "yText": "32 BBY",
+      "frac": 0.5
+     },
+     "how": "elected",
+     "note": "Re-elected in 36 BBY; ousted by a no-confidence vote.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Darth Sidious",
+     "from": {
+      "y": -32,
+      "yText": "32 BBY",
+      "frac": 0.6
+     },
+     "to": {
+      "y": -19,
+      "yText": "19 BBY"
+     },
+     "how": "elected",
+     "note": "Wartime powers let him outlast his term and declare the Empire.",
+     "confidence": "explicit"
+    }
+   ],
+   "sources": [
+    "Star Wars: Episode I The Phantom Menace",
+    "Star Wars: Episode III Revenge of the Sith",
+    "The High Republic: Light of the Jedi",
+    "The High Republic: Convergence",
+    "Master & Apprentice",
+    "Dooku: Jedi Lost",
+    "The Acolyte (episode)",
+    "Star Wars: Timelines"
+   ],
+   "conflict": "Articles order the last chancellors before Valorum inconsistently: Kaj is dated to 40 BBY and named as Valorum's predecessor in her own article, while Valorum's article gives that place to Skor Kalpana."
+  },
+  {
+   "id": "jedi-grand-master",
+   "title": "Grand Master of the Jedi Order",
+   "polity": "Jedi Order",
+   "summary": "The Order's most senior Master. In the High Republic several Jedi share the rank at once; in the Republic's last decades only Yoda holds it.",
+   "holders": [
+    {
+     "who": "Yoda",
+     "from": {
+      "y": -232,
+      "yText": "by 232 BBY"
+     },
+     "to": {
+      "y": -19,
+      "yText": "19 BBY"
+     },
+     "how": "unknown",
+     "note": "Sole Grand Master by 32 BBY; exiled after Order 66.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Xo Lahru",
+     "from": {
+      "y": -232,
+      "yText": "by 232 BBY"
+     },
+     "to": null,
+     "how": "unknown",
+     "note": "One of several Grand Masters when the Legacy Run disaster strikes.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Pra-Tre Veter",
+     "from": {
+      "y": -232,
+      "yText": "by 232 BBY"
+     },
+     "to": {
+      "y": -229,
+      "yText": "229 BBY"
+     },
+     "how": "unknown",
+     "note": "Captured by the Nihil and killed in 229 BBY.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Ry Ki-Sakka",
+     "from": {
+      "y": -229,
+      "yText": "229 BBY"
+     },
+     "to": null,
+     "how": "appointed",
+     "note": "Named after Veter's capture.",
+     "confidence": "inferred"
+    }
+   ],
+   "sources": [
+    "The High Republic: Light of the Jedi",
+    "The High Republic: The Eye of Darkness",
+    "Star Wars: Episode I The Phantom Menace",
+    "Star Wars: Episode III Revenge of the Sith"
+   ],
+   "conflict": "The Grand Master article ends Yoda's tenure in 19 BBY; his own article carries the title to his death in 4 ABY."
+  },
+  {
+   "id": "galactic-emperor",
+   "title": "Galactic Emperor",
+   "polity": "Galactic Empire",
+   "summary": "Absolute ruler of the Empire, created when Palpatine remakes the Republic in 19 BBY. After Endor, others govern in his name; Sidious claims the throne again from Exegol in 35 ABY.",
+   "holders": [
+    {
+     "who": "Darth Sidious",
+     "from": {
+      "y": -19,
+      "yText": "19 BBY"
+     },
+     "to": {
+      "y": 4,
+      "yText": "4 ABY"
+     },
+     "how": "claimed",
+     "note": "Proclaims the New Order with the Senate's cheers; killed at Endor.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Mas Amedda",
+     "from": {
+      "y": 4,
+      "yText": "4 ABY"
+     },
+     "to": {
+      "y": 5,
+      "yText": "5 ABY"
+     },
+     "how": "succeeded",
+     "note": "Proxy ruler as Grand Vizier, trapped on Coruscant.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Gallius Rax",
+     "from": {
+      "y": 5,
+      "yText": "5 ABY",
+      "frac": 0.1
+     },
+     "to": {
+      "y": 5,
+      "yText": "5 ABY",
+      "frac": 0.8
+     },
+     "how": "seized",
+     "note": "Governs from behind a figurehead under a counselor's title; dies at Jakku.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Darth Sidious",
+     "from": {
+      "y": 35,
+      "yText": "35 ABY",
+      "frac": 0.2
+     },
+     "to": {
+      "y": 35,
+      "yText": "35 ABY",
+      "frac": 0.7
+     },
+     "how": "claimed",
+     "note": "Returns from Exegol; destroyed by Rey.",
+     "confidence": "explicit"
+    }
+   ],
+   "sources": [
+    "Star Wars: Episode III Revenge of the Sith",
+    "Star Wars: Episode VI Return of the Jedi",
+    "Aftermath: Life Debt",
+    "Aftermath: Empire's End",
+    "Star Wars: Episode IX The Rise of Skywalker"
+   ],
+   "conflict": "Amedda and Rax are listed as holders only in effect: Amedda as the Grand Vizier acting for the dead Emperor, Rax under the title Counselor to the Empire."
+  },
+  {
+   "id": "chancellor-new-republic",
+   "title": "Chancellor of the New Republic",
+   "polity": "New Republic",
+   "summary": "Mon Mothma drops 'Supreme' from the old title when the Rebel Alliance's chancellorship becomes the New Republic's highest office. The office ends with Hosnian Prime in 34 ABY.",
+   "holders": [
+    {
+     "who": "Mon Mothma",
+     "from": {
+      "y": 4,
+      "yText": "4 ABY"
+     },
+     "to": {
+      "y": 9,
+      "yText": "some time after 9 ABY",
+      "frac": 0.99
+     },
+     "how": "succeeded",
+     "note": "Carries over from leading the Rebel Alliance; still in office in 9 ABY, end unrecorded.",
+     "confidence": "inferred"
+    },
+    {
+     "who": "Lanever Villecham",
+     "from": {
+      "y": 32,
+      "yText": "32 ABY"
+     },
+     "to": {
+      "y": 34,
+      "yText": "34 ABY"
+     },
+     "how": "elected",
+     "note": "Killed when Starkiller Base destroys Hosnian Prime.",
+     "confidence": "explicit"
+    }
+   ],
+   "sources": [
+    "Aftermath (novel)",
+    "Bloodline (novel)",
+    "Star Wars: Episode VII The Force Awakens",
+    "Star Wars: Timelines"
+   ],
+   "conflict": null
+  },
+  {
+   "id": "supreme-leader",
+   "title": "Supreme Leader of the First Order",
+   "polity": "First Order",
+   "summary": "The First Order's absolute ruler. Snoke, secretly a creation of Sidious's cult, holds it until his apprentice kills him and takes the post.",
+   "holders": [
+    {
+     "who": "Snoke",
+     "from": {
+      "y": 24,
+      "yText": "by 24 ABY"
+     },
+     "to": {
+      "y": 34,
+      "yText": "34 ABY"
+     },
+     "how": "seized",
+     "note": "Outmaneuvers Sloane and Hux; title attested by 24 ABY.",
+     "confidence": "inferred"
+    },
+    {
+     "who": "Ben Solo",
+     "from": {
+      "y": 34,
+      "yText": "34 ABY",
+      "frac": 0.6
+     },
+     "to": {
+      "y": 35,
+      "yText": "35 ABY"
+     },
+     "how": "seized",
+     "note": "Kills Snoke aboard the Supremacy; renounces the dark side in 35 ABY.",
+     "confidence": "explicit"
+    }
+   ],
+   "sources": [
+    "Star Wars: Episode VII The Force Awakens",
+    "Star Wars: Episode VIII The Last Jedi",
+    "Star Wars: Episode IX The Rise of Skywalker"
+   ],
+   "conflict": null
+  },
+  {
+   "id": "mandalor",
+   "title": "Mand'alor",
+   "polity": "Mandalorians",
+   "summary": "Sole leader of all Mandalorians, a claim bound up with possession of the Darksaber. Holders include legendary ancient rulers, Death Watch's Pre Vizsla, Maul, and Bo-Katan Kryze, who takes the title twice.",
+   "holders": [
+    {
+     "who": "Mandalore the Great",
+     "from": null,
+     "to": null,
+     "how": "unknown",
+     "note": "Legendary ruler who wars on the Jedi; undated.",
+     "confidence": "inferred"
+    },
+    {
+     "who": "Tarre Vizsla",
+     "from": null,
+     "to": {
+      "y": -1032,
+      "yText": "before 1032 BBY"
+     },
+     "how": "unknown",
+     "note": "The first Mandalorian Jedi; creator of the Darksaber.",
+     "confidence": "inferred"
+    },
+    {
+     "who": "Pre Vizsla",
+     "from": {
+      "y": -19,
+      "yText": "19 BBY",
+      "frac": 0.2
+     },
+     "to": {
+      "y": -19,
+      "yText": "19 BBY",
+      "frac": 0.3
+     },
+     "how": "seized",
+     "note": "Death Watch takes Mandalore from Satine.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Maul",
+     "from": {
+      "y": -19,
+      "yText": "19 BBY",
+      "frac": 0.3
+     },
+     "to": {
+      "y": -19,
+      "yText": "19 BBY",
+      "frac": 0.8
+     },
+     "how": "won in combat",
+     "note": "Beheads Vizsla; Bo-Katan's faction refuses him.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Bo-Katan Kryze",
+     "from": {
+      "y": -1,
+      "yText": "1 BBY"
+     },
+     "to": {
+      "y": 4,
+      "yText": "4–5 ABY"
+     },
+     "how": "claimed",
+     "note": "Accepts the Darksaber from Sabine; loses it in the Great Purge.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Bo-Katan Kryze",
+     "from": {
+      "y": 9,
+      "yText": "9 ABY",
+      "frac": 0.6
+     },
+     "to": null,
+     "how": "won in combat",
+     "note": "Retakes the Darksaber and reunites the Mandalorians.",
+     "confidence": "explicit"
+    }
+   ],
+   "sources": [
+    "Shades of Reason",
+    "The Lawless",
+    "Heroes of Mandalore",
+    "Chapter 24: The Return"
+   ],
+   "conflict": "Djarin's orthodox covert rejects Bo-Katan's first claim because the blade was handed to her, not won; Djarin himself held it in 9 ABY without taking the title."
+  },
+  {
+   "id": "ruler-of-mandalore",
+   "title": "Ruler of Mandalore",
+   "polity": "Mandalore",
+   "summary": "Who actually governs the Mandalorian homeworld, under shifting titles: duke, duchess, Death Watch warlord, puppet prime minister, Jedi-appointed regent, Imperial viceroy and governor, and finally Mand'alor.",
+   "holders": [
+    {
+     "who": "Adonai Kryze",
+     "from": null,
+     "to": {
+      "y": -41,
+      "yText": "41–40 BBY"
+     },
+     "how": "unknown",
+     "note": "Duke of Kalevala; killed in the civil war.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Satine Kryze",
+     "from": {
+      "y": -41,
+      "yText": "41–40 BBY",
+      "frac": 0.5
+     },
+     "to": {
+      "y": -19,
+      "yText": "19 BBY",
+      "frac": 0.2
+     },
+     "how": "inherited",
+     "note": "Her disputed inheritance fuels the war; deposed and later killed by Maul.",
+     "confidence": "inferred"
+    },
+    {
+     "who": "Pre Vizsla",
+     "from": {
+      "y": -19,
+      "yText": "19 BBY",
+      "frac": 0.2
+     },
+     "to": {
+      "y": -19,
+      "yText": "19 BBY",
+      "frac": 0.3
+     },
+     "how": "seized",
+     "note": "Death Watch coup backed by Maul's Shadow Collective.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Maul",
+     "from": {
+      "y": -19,
+      "yText": "19 BBY",
+      "frac": 0.3
+     },
+     "to": {
+      "y": -19,
+      "yText": "19 BBY",
+      "frac": 0.5
+     },
+     "how": "won in combat",
+     "note": "Rules through a puppet prime minister.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Almec",
+     "from": {
+      "y": -19,
+      "yText": "19 BBY",
+      "frac": 0.5
+     },
+     "to": {
+      "y": -19,
+      "yText": "19 BBY",
+      "frac": 0.6
+     },
+     "how": "appointed",
+     "note": "Left in charge while Sidious holds Maul captive.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Bo-Katan Kryze",
+     "from": {
+      "y": -19,
+      "yText": "19 BBY",
+      "frac": 0.9
+     },
+     "to": null,
+     "how": "appointed",
+     "note": "Named regent by the Jedi; forced out once the Empire rises.",
+     "confidence": "inferred"
+    },
+    {
+     "who": "Gar Saxon",
+     "from": {
+      "y": -6,
+      "yText": "c. 6 BBY"
+     },
+     "to": {
+      "y": -2,
+      "yText": "2 BBY"
+     },
+     "how": "appointed",
+     "note": "Installed by Palpatine; killed on Krownest.",
+     "confidence": "estimated"
+    },
+    {
+     "who": "Tiber Saxon",
+     "from": {
+      "y": -2,
+      "yText": "2 BBY"
+     },
+     "to": {
+      "y": -1,
+      "yText": "1 BBY"
+     },
+     "how": "succeeded",
+     "note": "Takes his brother's post; killed when Sabine Wren's team sabotages his Star Destroyer.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Bo-Katan Kryze",
+     "from": {
+      "y": -1,
+      "yText": "1 BBY"
+     },
+     "to": {
+      "y": 4,
+      "yText": "4–5 ABY"
+     },
+     "how": "claimed",
+     "note": "Rules as Mand'alor until the Great Purge.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Bo-Katan Kryze",
+     "from": {
+      "y": 9,
+      "yText": "9 ABY",
+      "frac": 0.6
+     },
+     "to": null,
+     "how": "won in combat",
+     "note": "Returns after the Liberation of Mandalore.",
+     "confidence": "explicit"
+    }
+   ],
+   "sources": [
+    "The Mandalore Plot",
+    "Shades of Reason",
+    "Old Friends Not Forgotten",
+    "Imperial Supercommandos",
+    "Heroes of Mandalore",
+    "Chapter 24: The Return"
+   ],
+   "conflict": "Who, if anyone, ruled Mandalore between Bo-Katan's removal as regent and Gar Saxon's appointment around 6 BBY is not recorded."
+  },
+  {
+   "id": "monarch-of-naboo",
+   "title": "Monarch of Naboo",
+   "polity": "Naboo",
+   "summary": "Naboo elects its kings and queens, often very young, to set terms. The Empire strips the post to a figurehead; Kylo Ren later crowns himself king by conquest.",
+   "holders": [
+    {
+     "who": "Jafan",
+     "from": null,
+     "to": null,
+     "how": "unknown",
+     "note": "Ancient king; undated.",
+     "confidence": "inferred"
+    },
+    {
+     "who": "Yram",
+     "from": null,
+     "to": null,
+     "how": "unknown",
+     "note": "Undated early queen.",
+     "confidence": "inferred"
+    },
+    {
+     "who": "Bon Tapalo",
+     "from": null,
+     "to": null,
+     "how": "unknown",
+     "note": "Undated early king.",
+     "confidence": "inferred"
+    },
+    {
+     "who": "Ars Veruna",
+     "from": null,
+     "to": null,
+     "how": "unknown",
+     "note": "Undated; his family later profits under the Empire.",
+     "confidence": "inferred"
+    },
+    {
+     "who": "Yovité",
+     "from": {
+      "y": -132,
+      "yText": "by 132 BBY"
+     },
+     "to": null,
+     "how": "unknown",
+     "note": null,
+     "confidence": "explicit"
+    },
+    {
+     "who": "Ekay",
+     "from": {
+      "y": -44,
+      "yText": "44 BBY"
+     },
+     "to": {
+      "y": -40,
+      "yText": "40 BBY"
+     },
+     "how": "elected",
+     "note": null,
+     "confidence": "explicit"
+    },
+    {
+     "who": "Ameé",
+     "from": {
+      "y": -40,
+      "yText": "40 BBY"
+     },
+     "to": {
+      "y": -36,
+      "yText": "36 BBY"
+     },
+     "how": "elected",
+     "note": null,
+     "confidence": "explicit"
+    },
+    {
+     "who": "Réillata",
+     "from": {
+      "y": -36,
+      "yText": "36 BBY"
+     },
+     "to": {
+      "y": -34,
+      "yText": "34 BBY"
+     },
+     "how": "elected",
+     "note": "First of two separate terms.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Sanandrassa",
+     "from": {
+      "y": -34,
+      "yText": "34 BBY"
+     },
+     "to": {
+      "y": -32,
+      "yText": "32 BBY"
+     },
+     "how": "elected",
+     "note": null,
+     "confidence": "explicit"
+    },
+    {
+     "who": "Padmé Amidala Naberrie",
+     "from": {
+      "y": -32,
+      "yText": "32 BBY"
+     },
+     "to": {
+      "y": -28,
+      "yText": "28 BBY"
+     },
+     "how": "elected",
+     "note": "Two terms; retakes her planet from the Trade Federation.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Nute Gunray",
+     "from": {
+      "y": -32,
+      "yText": "32 BBY",
+      "frac": 0.3
+     },
+     "to": {
+      "y": -32,
+      "yText": "32 BBY",
+      "frac": 0.6
+     },
+     "how": "seized",
+     "note": "Claims the throne during the occupation.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Réillata",
+     "from": {
+      "y": -28,
+      "yText": "28 BBY"
+     },
+     "to": {
+      "y": -26,
+      "yText": "26 BBY"
+     },
+     "how": "elected",
+     "note": "Wins a second term after Amidala.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Jamillia",
+     "from": {
+      "y": -26,
+      "yText": "26 BBY"
+     },
+     "to": {
+      "y": -22,
+      "yText": "22 BBY"
+     },
+     "how": "elected",
+     "note": null,
+     "confidence": "explicit"
+    },
+    {
+     "who": "Neeyutnee",
+     "from": {
+      "y": -22,
+      "yText": "22 BBY"
+     },
+     "to": {
+      "y": -20,
+      "yText": "20 BBY"
+     },
+     "how": "elected",
+     "note": null,
+     "confidence": "explicit"
+    },
+    {
+     "who": "Apailana",
+     "from": {
+      "y": -20,
+      "yText": "20 BBY"
+     },
+     "to": {
+      "y": -18,
+      "yText": "18 BBY"
+     },
+     "how": "elected",
+     "note": null,
+     "confidence": "explicit"
+    },
+    {
+     "who": "Dalné",
+     "from": {
+      "y": -3,
+      "yText": "by 3 BBY"
+     },
+     "to": null,
+     "how": "unknown",
+     "note": "Resents her figurehead role under the Empire.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Sosha Soruna",
+     "from": {
+      "y": 4,
+      "yText": "by 4 ABY"
+     },
+     "to": null,
+     "how": "unknown",
+     "note": null,
+     "confidence": "explicit"
+    },
+    {
+     "who": "Ben Solo",
+     "from": {
+      "y": 34,
+      "yText": "34 ABY"
+     },
+     "to": null,
+     "how": "seized",
+     "note": "As Supreme Leader, declares himself king of Naboo.",
+     "confidence": "explicit"
+    }
+   ],
+   "sources": [
+    "Star Wars: Episode I The Phantom Menace",
+    "Queen's Shadow",
+    "Queen's Peril",
+    "Star Wars: Episode II Attack of the Clones",
+    "Star Wars: Episode III Revenge of the Sith"
+   ],
+   "conflict": "Ekay's article places Queen Yram shortly before her, while the list of rulers puts Yram among undated early monarchs ahead of Yovité (by 132 BBY)."
+  },
+  {
+   "id": "eye-of-the-nihil",
+   "title": "Eye of the Nihil",
+   "polity": "Nihil",
+   "summary": "Keeper of the Nihil's Paths through hyperspace, passed from parent to child in the Ro family. Marchion Ro turns the post into command of the whole raider fleet.",
+   "holders": [
+    {
+     "who": "Shalla Ro",
+     "from": null,
+     "to": {
+      "y": -252,
+      "yText": "252 BBY"
+     },
+     "how": "unknown",
+     "note": null,
+     "confidence": "explicit"
+    },
+    {
+     "who": "Asgar Ro",
+     "from": {
+      "y": -252,
+      "yText": "252 BBY"
+     },
+     "to": {
+      "y": -242,
+      "yText": "242 BBY"
+     },
+     "how": "inherited",
+     "note": "Dies in No-Space.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Marchion Ro",
+     "from": {
+      "y": -242,
+      "yText": "242 BBY"
+     },
+     "to": {
+      "y": -228,
+      "yText": "after 228 BBY"
+     },
+     "how": "inherited",
+     "note": "Hides behind Lourna Dee, then unmasks after Starlight falls; ends in prison.",
+     "confidence": "inferred"
+    }
+   ],
+   "sources": [
+    "The High Republic: Light of the Jedi",
+    "The High Republic: Eye of the Storm 1",
+    "The High Republic: The Fallen Star",
+    "The High Republic: Trials of the Jedi"
+   ],
+   "conflict": "For years the Jedi took Lourna Dee for the Eye; Marchion Ro concealed his role until Starlight Beacon had fallen."
+  },
+  {
+   "id": "grand-inquisitor",
+   "title": "Grand Inquisitor",
+   "polity": "Inquisitorius",
+   "summary": "Head of the Empire's Jedi-hunting Inquisitors, answerable to Vader. Reva briefly holds the title in 9 BBY before the Pau'an original returns to reclaim it.",
+   "holders": [
+    {
+     "who": "The Grand Inquisitor",
+     "from": {
+      "y": -19,
+      "yText": "19 BBY"
+     },
+     "to": {
+      "y": -9,
+      "yText": "9 BBY",
+      "frac": 0.3
+     },
+     "how": "appointed",
+     "note": "Chosen by the Emperor to stand beside Vader.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Reva Sevander",
+     "from": {
+      "y": -9,
+      "yText": "9 BBY",
+      "frac": 0.4
+     },
+     "to": {
+      "y": -9,
+      "yText": "9 BBY",
+      "frac": 0.7
+     },
+     "how": "appointed",
+     "note": "Promoted by Vader, then defeated after she attacks him.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "The Grand Inquisitor",
+     "from": {
+      "y": -9,
+      "yText": "9 BBY",
+      "frac": 0.7
+     },
+     "to": {
+      "y": -4,
+      "yText": "4 BBY"
+     },
+     "how": "claimed",
+     "note": "Recovers and takes back the insignia; dies hunting the Lothal rebels.",
+     "confidence": "explicit"
+    }
+   ],
+   "sources": [
+    "Part II",
+    "Part VI",
+    "Star Wars Rebels: Spark of Rebellion",
+    "Fire Across the Galaxy"
+   ],
+   "conflict": null
+  },
+  {
+   "id": "daimyo",
+   "title": "Daimyo of Tatooine",
+   "polity": "Tatooine underworld",
+   "summary": "Self-given title of the crime lord who rules Tatooine through tribute from vassals and officials. It passes from Jabba to his majordomo and then to Boba Fett.",
+   "holders": [
+    {
+     "who": "Jabba Desilijic Tiure",
+     "from": null,
+     "to": {
+      "y": 4,
+      "yText": "4 ABY"
+     },
+     "how": "unknown",
+     "note": "Strangled by Leia aboard his sail barge above the Sarlacc.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Bib Fortuna",
+     "from": {
+      "y": 4,
+      "yText": "c. 4 ABY"
+     },
+     "to": {
+      "y": 9,
+      "yText": "c. 9 ABY"
+     },
+     "how": "seized",
+     "note": "Jabba's majordomo takes the palace.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Boba Fett",
+     "from": {
+      "y": 9,
+      "yText": "c. 9 ABY"
+     },
+     "to": null,
+     "how": "won in combat",
+     "note": "Kills Fortuna and claims the throne.",
+     "confidence": "explicit"
+    }
+   ],
+   "sources": [
+    "Star Wars: Episode VI Return of the Jedi",
+    "Chapter 1: Stranger in a Strange Land",
+    "Chapter 3: The Streets of Mos Espa"
+   ],
+   "conflict": null
+  },
+  {
+   "id": "master-of-the-knights-of-ren",
+   "title": "Master of the Knights of Ren (\"Ren\")",
+   "polity": "Knights of Ren",
+   "summary": "The Knights' leader holds the name Ren and its red lightsaber, both taken from the previous holder. Ben Solo kills the last human Ren to become Kylo Ren.",
+   "holders": [
+    {
+     "who": "Ren (human)",
+     "from": {
+      "y": 3,
+      "yText": "by c. 3 ABY (Galactic Civil War)"
+     },
+     "to": {
+      "y": 28,
+      "yText": "28 ABY"
+     },
+     "how": "won in combat",
+     "note": "Took the name and saber from his own predecessor.",
+     "confidence": "estimated"
+    },
+    {
+     "who": "Ben Solo",
+     "from": {
+      "y": 28,
+      "yText": "28 ABY",
+      "frac": 0.9
+     },
+     "to": {
+      "y": 35,
+      "yText": "35 ABY"
+     },
+     "how": "won in combat",
+     "note": "Kills Ren; the title lapses when he returns to the light.",
+     "confidence": "explicit"
+    }
+   ],
+   "sources": [
+    "Crimson Reign 4",
+    "The Rise of Kylo Ren 3",
+    "The Rise of Kylo Ren 4",
+    "Star Wars: Episode IX The Rise of Skywalker"
+   ],
+   "conflict": null
+  },
+  {
+   "id": "crimson-dawn-leader",
+   "title": "Leader of Crimson Dawn",
+   "polity": "Crimson Dawn",
+   "summary": "Head of the most powerful crime syndicate of the Imperial era. Maul rules it from the shadows while Dryden Vos fronts it; Qi'ra rebuilds it after both are gone.",
+   "holders": [
+    {
+     "who": "Rintero",
+     "from": null,
+     "to": {
+      "y": -15,
+      "yText": "17–c. 13 BBY"
+     },
+     "how": "unknown",
+     "note": "Displaced when Maul and Vos take over the syndicate.",
+     "confidence": "inferred"
+    },
+    {
+     "who": "Maul",
+     "from": {
+      "y": -15,
+      "yText": "17–c. 13 BBY"
+     },
+     "to": {
+      "y": -2,
+      "yText": "2 BBY"
+     },
+     "how": "seized",
+     "note": "Secret ruler; dies on Tatooine.",
+     "confidence": "inferred"
+    },
+    {
+     "who": "Dryden Vos",
+     "from": {
+      "y": -15,
+      "yText": "17–c. 13 BBY"
+     },
+     "to": {
+      "y": -10,
+      "yText": "10 BBY"
+     },
+     "how": "appointed",
+     "note": "Public face of the syndicate; killed by Qi'ra.",
+     "confidence": "inferred"
+    },
+    {
+     "who": "Qi'ra",
+     "from": {
+      "y": -10,
+      "yText": "10 BBY",
+      "frac": 0.8
+     },
+     "to": {
+      "y": 3,
+      "yText": "c. 3 ABY"
+     },
+     "how": "succeeded",
+     "note": "Maul's lieutenant, then sole leader until the syndicate dissolves.",
+     "confidence": "inferred"
+    }
+   ],
+   "sources": [
+    "Solo: A Star Wars Story",
+    "Chapter 9: Strange Allies",
+    "Crimson Reign 1",
+    "War of the Bounty Hunters 1"
+   ],
+   "conflict": null
+  },
+  {
+   "id": "cis-head-of-state",
+   "title": "Head of State of the Confederacy of Independent Systems",
+   "polity": "Confederacy of Independent Systems",
+   "summary": "Leader of the Separatist government through the Clone Wars. The post changes hands twice in its final year as Sidious disposes of his pawns.",
+   "holders": [
+    {
+     "who": "Dooku",
+     "from": {
+      "y": -24,
+      "yText": "24 BBY"
+     },
+     "to": {
+      "y": -19,
+      "yText": "19 BBY",
+      "frac": 0.2
+     },
+     "how": "unknown",
+     "note": "Founds the movement; killed over Coruscant.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Grievous",
+     "from": {
+      "y": -19,
+      "yText": "19 BBY",
+      "frac": 0.2
+     },
+     "to": {
+      "y": -19,
+      "yText": "19 BBY",
+      "frac": 0.35
+     },
+     "how": "succeeded",
+     "note": "Killed on Utapau by Obi-Wan Kenobi.",
+     "confidence": "explicit"
+    },
+    {
+     "who": "Nute Gunray",
+     "from": {
+      "y": -19,
+      "yText": "19 BBY",
+      "frac": 0.35
+     },
+     "to": {
+      "y": -19,
+      "yText": "19 BBY",
+      "frac": 0.4
+     },
+     "how": "succeeded",
+     "note": "Slain on Mustafar by Vader.",
+     "confidence": "explicit"
+    }
+   ],
+   "sources": [
+    "Star Wars: Episode II Attack of the Clones",
+    "Star Wars: Episode III Revenge of the Sith"
+   ],
+   "conflict": null
+  }
+ ]
+}

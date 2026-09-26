@@ -259,7 +259,7 @@ export class Readout {
   }
   office(o) {
     const rows = o.holders.map((h) => `<li><button class="row" data-go="#/p/${enc(h.p.k)}">${this.chip('HELD', token('--frame-hi'))}
-      <span class="t">${esc(h.p.name)}<small>${esc(h.note || h.how || '')}</small></span><span class="d">${esc(span(h.from && h.from.tText, h.to && h.to.tText))}</span></button></li>`).join('');
+      <span class="t">${esc(h.p.name)}<small>${esc(h.note || h.how || '')}</small></span><span class="d wrap">${esc(span(h.from && h.from.tText, h.to && h.to.tText))}</span></button></li>`).join('');
     this.set(this.W.lineages, `<div class="series-tag">${esc(o.polity || 'Office')}</div><h2>${esc(o.title)}</h2>
       ${o.summary ? `<p class="lead">${esc(o.summary)}</p>` : ''}${this.conflict(o.conflict)}<ul class="list">${rows}</ul>${this.sources(o.sources)}`, this.back('#/lineages', 'All lineages'));
   }
@@ -267,7 +267,7 @@ export class Readout {
   // ── a relic ───────────────────────────────────────────────────────
   relic(a) {
     const rows = a.custody.map((c) => `<li><button class="row" data-go="#/p/${enc(c.p.k)}">${this.chip((c.how || 'held').split(' ')[0].toUpperCase().slice(0, 8), token('--frame-hi'))}
-      <span class="t">${esc(c.p.name)}<small>${esc(c.note || '')}</small></span><span class="d">${esc(span(c.from && c.from.tText, c.to && c.to.tText))}</span></button></li>`).join('');
+      <span class="t">${esc(c.p.name)}<small>${esc(c.note || '')}</small></span><span class="d wrap">${esc(span(c.from && c.from.tText, c.to && c.to.tText))}</span></button></li>`).join('');
     const html = `<div class="series-tag">${esc(a.kind || 'Relic')}</div><h2>${esc(a.name || a.title)}</h2>
       <div class="cells">${cell('Made', a.made && (a.made.tText || a.made.yText), 'loc')}${cell('Made by', a.made && a.made.by)}${cell('Fate', a.fate && (a.fate.text || a.fate.tText))}</div>
       <p class="lead">${esc(a.summary || '')}</p>${this.conflict(a.conflict)}

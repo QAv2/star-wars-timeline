@@ -1,0 +1,4114 @@
+[
+ {
+  "id": "darksaber",
+  "wp": "Darksaber",
+  "name": "The Darksaber",
+  "kind": "lightsaber",
+  "made": {
+   "y": -1050,
+   "yText": "c. 1050 BBY",
+   "by": "Tarre Vizsla"
+  },
+  "fate": {
+   "y": 9,
+   "yText": "9 ABY",
+   "frac": 0.9,
+   "text": "Crushed in Moff Gideon's armored grip during the retaking of Mandalore."
+  },
+  "summary": "A black-bladed saber crafted by Tarre Vizsla, the Jedi Order's first Mandalorian member. His clan later raids the Jedi Temple to reclaim it, and it becomes a token of rule: whoever defeats its holder in a fight inherits the claim to lead Mandalore.",
+  "custody": [
+   {
+    "holder": "Tarre Vizsla",
+    "from": {
+     "y": -1050,
+     "yText": "c. 1050 BBY",
+     "frac": 0.0
+    },
+    "to": {
+     "y": -1045,
+     "yText": "his death, date unknown"
+    },
+    "how": "forged",
+    "place": null,
+    "record": null,
+    "note": "Crafts the singular dark blade while serving as a Jedi Knight.",
+    "confidence": "estimated",
+    "sources": [
+     "Trials of the Darksaber",
+     "Star Wars: Timelines"
+    ]
+   },
+   {
+    "holder": "Jedi Order",
+    "from": {
+     "y": -1045,
+     "yText": "after Tarre's death"
+    },
+    "to": {
+     "y": -1040,
+     "yText": "between c. 1050 and 1032 BBY"
+    },
+    "how": "inherited",
+    "place": "Coruscant",
+    "record": null,
+    "note": "The Jedi keep their fallen Knight's saber inside their Temple.",
+    "confidence": "estimated",
+    "sources": [
+     "Trials of the Darksaber"
+    ]
+   },
+   {
+    "holder": "House Vizsla",
+    "from": {
+     "y": -1040,
+     "yText": "between c. 1050 and 1032 BBY"
+    },
+    "to": {
+     "y": -21,
+     "yText": "handed down to Pre Vizsla"
+    },
+    "how": "stolen",
+    "place": "Coruscant",
+    "record": null,
+    "note": "Vizsla raiders take it in a sacking of the Temple; generations of the house carry it.",
+    "confidence": "estimated",
+    "sources": [
+     "Trials of the Darksaber",
+     "The Mandalore Plot"
+    ]
+   },
+   {
+    "holder": "Pre Vizsla",
+    "from": {
+     "y": -21,
+     "yText": "by 21 BBY",
+     "frac": 0.5
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.2
+    },
+    "how": "inherited",
+    "place": "Concordia",
+    "record": "The Mandalore Plot",
+    "note": "The Death Watch leader fights Kenobi, and later Ahsoka, with it.",
+    "confidence": "inferred",
+    "sources": [
+     "The Mandalore Plot",
+     "A Friend in Need"
+    ]
+   },
+   {
+    "holder": "Maul",
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.2
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.3
+    },
+    "how": "won in combat",
+    "place": "Mandalore",
+    "record": "Shades of Reason",
+    "note": "Kills Vizsla in a duel for command of Death Watch and takes the blade.",
+    "confidence": "explicit",
+    "sources": [
+     "Shades of Reason"
+    ]
+   },
+   {
+    "holder": "Almec",
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.35
+    },
+    "how": "recovered",
+    "place": "Mandalore",
+    "record": null,
+    "note": "Picks it up with the super commandos after Sidious captures Maul.",
+    "confidence": "explicit",
+    "sources": [
+     "The Lawless",
+     "Darth Maul — Son of Dathomir 1"
+    ]
+   },
+   {
+    "holder": "Maul",
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.35
+    },
+    "to": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.5
+    },
+    "how": "recovered",
+    "place": null,
+    "record": null,
+    "note": "Reclaims it once freed from the Spire; in the Imperial Era it lies in a Nightsister lair.",
+    "confidence": "explicit",
+    "sources": [
+     "Darth Maul — Son of Dathomir 1",
+     "Visions and Voices"
+    ]
+   },
+   {
+    "holder": "Sabine Wren",
+    "from": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.5
+    },
+    "to": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.52
+    },
+    "how": "found",
+    "place": "Dathomir",
+    "record": "Visions and Voices",
+    "note": "Wields it while a Nightsister spirit possesses her, then carries it away.",
+    "confidence": "explicit",
+    "sources": [
+     "Visions and Voices"
+    ]
+   },
+   {
+    "holder": "Kanan Jarrus",
+    "from": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.52
+    },
+    "to": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.6
+    },
+    "how": "entrusted",
+    "place": "Atollon",
+    "record": "Visions and Voices",
+    "note": "Unwilling to wield it yet, Sabine asks him to hold it.",
+    "confidence": "explicit",
+    "sources": [
+     "Visions and Voices",
+     "Trials of the Darksaber"
+    ]
+   },
+   {
+    "holder": "Sabine Wren",
+    "from": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.6
+    },
+    "to": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.7
+    },
+    "how": "given",
+    "place": "Atollon",
+    "record": "Trials of the Darksaber",
+    "note": "Trains with it under Kanan to rally Clan Wren behind the rebellion.",
+    "confidence": "explicit",
+    "sources": [
+     "Trials of the Darksaber"
+    ]
+   },
+   {
+    "holder": "Ursa Wren",
+    "from": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.7
+    },
+    "to": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.71
+    },
+    "how": "given",
+    "place": "Krownest",
+    "record": "Legacy of Mandalore",
+    "note": "Surrendered at the Wren stronghold; Ursa trades it to the Imperials to protect Sabine.",
+    "confidence": "explicit",
+    "sources": [
+     "Legacy of Mandalore"
+    ]
+   },
+   {
+    "holder": "Gar Saxon",
+    "from": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.71
+    },
+    "to": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.72
+    },
+    "how": "given",
+    "place": "Krownest",
+    "record": "Legacy of Mandalore",
+    "note": "A Wren guard hands it to him; he ignites it as the signal for a massacre.",
+    "confidence": "explicit",
+    "sources": [
+     "Legacy of Mandalore"
+    ]
+   },
+   {
+    "holder": "Sabine Wren",
+    "from": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.72
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.1
+    },
+    "how": "won in combat",
+    "place": "Krownest",
+    "record": "Legacy of Mandalore",
+    "note": "Beats Saxon on the ice using Ezra's lightsaber and takes it back.",
+    "confidence": "explicit",
+    "sources": [
+     "Legacy of Mandalore"
+    ]
+   },
+   {
+    "holder": "Bo-Katan Kryze",
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.1
+    },
+    "to": {
+     "y": 4,
+     "yText": "between 4 and 5 ABY",
+     "frac": 0.5
+    },
+    "how": "given",
+    "place": "Mandalore",
+    "record": "Heroes of Mandalore",
+    "note": "Accepts it once the clans pledge to follow her.",
+    "confidence": "explicit",
+    "sources": [
+     "Heroes of Mandalore"
+    ]
+   },
+   {
+    "holder": "Gideon",
+    "from": {
+     "y": 4,
+     "yText": "between 4 and 5 ABY",
+     "frac": 0.5
+    },
+    "to": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.3
+    },
+    "how": "given",
+    "place": null,
+    "record": "Chapter 23: The Spies",
+    "note": "Bo-Katan yields it hoping to halt the Purge; the Empire keeps killing anyway.",
+    "confidence": "explicit",
+    "sources": [
+     "Chapter 23: The Spies",
+     "Chapter 8: Redemption"
+    ]
+   },
+   {
+    "holder": "Din Djarin",
+    "from": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.55
+    },
+    "how": "won in combat",
+    "place": null,
+    "record": "Chapter 16: The Rescue",
+    "note": "Defeats Gideon with his beskar spear; Bo-Katan will not take it as a gift.",
+    "confidence": "explicit",
+    "sources": [
+     "Chapter 16: The Rescue"
+    ]
+   },
+   {
+    "holder": "Bo-Katan Kryze",
+    "from": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.55
+    },
+    "to": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.56
+    },
+    "how": "recovered",
+    "place": "Mandalore",
+    "record": "Chapter 18: The Mines of Mandalore",
+    "note": "Whips it off the ground to kill the cyborg holding Din, then hands it back.",
+    "confidence": "explicit",
+    "sources": [
+     "Chapter 18: The Mines of Mandalore"
+    ]
+   },
+   {
+    "holder": "Din Djarin",
+    "from": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.56
+    },
+    "to": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.7
+    },
+    "how": "given",
+    "place": "Mandalore",
+    "record": "Chapter 18: The Mines of Mandalore",
+    "note": "Later argues that her rescue of him makes the blade rightly hers.",
+    "confidence": "explicit",
+    "sources": [
+     "Chapter 18: The Mines of Mandalore",
+     "Chapter 22: Guns for Hire"
+    ]
+   },
+   {
+    "holder": "Bo-Katan Kryze",
+    "from": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.7
+    },
+    "to": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.9
+    },
+    "how": "given",
+    "place": "Plazir-15",
+    "record": "Chapter 22: Guns for Hire",
+    "note": "Din presents it before the Mandalorian fleet, which accepts her as its bearer.",
+    "confidence": "explicit",
+    "sources": [
+     "Chapter 22: Guns for Hire",
+     "Chapter 24: The Return"
+    ]
+   }
+  ],
+  "sources": [
+   "Trials of the Darksaber",
+   "Star Wars: Timelines",
+   "The Mandalore Plot",
+   "A Friend in Need",
+   "Shades of Reason",
+   "The Lawless",
+   "Darth Maul — Son of Dathomir 1",
+   "Visions and Voices",
+   "Legacy of Mandalore",
+   "Heroes of Mandalore",
+   "Chapter 23: The Spies",
+   "Chapter 8: Redemption",
+   "Chapter 16: The Rescue",
+   "Chapter 18: The Mines of Mandalore",
+   "Chapter 22: Guns for Hire",
+   "Chapter 24: The Return"
+  ],
+  "conflict": "Star Wars: Timelines places both Tarre Vizsla's induction as a child and the saber's creation around 1050 BBY; he made it later as a Knight, so the creation date is approximate."
+ },
+ {
+  "id": "skywalker-lightsaber",
+  "wp": "Skywalker lightsaber",
+  "name": "The Skywalker lightsaber",
+  "kind": "lightsaber",
+  "made": {
+   "y": -22,
+   "yText": "22 BBY",
+   "by": "Anakin Skywalker"
+  },
+  "fate": {
+   "y": 35,
+   "yText": "35 ABY",
+   "frac": 0.9,
+   "text": "Buried beside Leia's saber at the old Lars farm on Tatooine."
+  },
+  "summary": "Anakin's blue saber from his Clone Wars campaigns. On Mustafar Obi-Wan takes it, later giving it to Luke, who loses it at Cloud City. Decades later it calls to Rey from Maz Kanata's vault, splits in two, is mended, and is finally laid to rest on Tatooine.",
+  "custody": [
+   {
+    "holder": "Anakin Skywalker",
+    "from": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.4
+    },
+    "to": {
+     "y": -21,
+     "yText": "21 BBY",
+     "frac": 0.8
+    },
+    "how": "built",
+    "place": null,
+    "record": null,
+    "note": "Made to replace the first saber he lost on Geonosis.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode II Attack of the Clones",
+     "Star Wars Adventures: The Clone Wars – Battle Tales 1",
+     "Star Wars: Timelines"
+    ]
+   },
+   {
+    "holder": "Padmé Amidala Naberrie",
+    "from": {
+     "y": -21,
+     "yText": "21 BBY",
+     "frac": 0.8
+    },
+    "to": {
+     "y": -21,
+     "yText": "21 BBY",
+     "frac": 0.81
+    },
+    "how": "entrusted",
+    "place": "Coruscant",
+    "record": "Hostage Crisis",
+    "note": "Anakin leaves it with her as a token of trust; she hides it through Cad Bane's raid.",
+    "confidence": "explicit",
+    "sources": [
+     "Hostage Crisis"
+    ]
+   },
+   {
+    "holder": "Anakin Skywalker",
+    "from": {
+     "y": -21,
+     "yText": "21 BBY",
+     "frac": 0.81
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.3
+    },
+    "how": "recovered",
+    "place": "Coruscant",
+    "record": "Hostage Crisis",
+    "note": "Fights the rest of the war with it and beheads Count Dooku.",
+    "confidence": "explicit",
+    "sources": [
+     "Hostage Crisis",
+     "Star Wars: Episode III Revenge of the Sith"
+    ]
+   },
+   {
+    "holder": "Grievous",
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.31
+    },
+    "how": "seized",
+    "place": "Coruscant",
+    "record": "Star Wars: Episode III Revenge of the Sith",
+    "note": "Droids take it from the captured Anakin for Grievous's collection; Kenobi snatches it back.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode III Revenge of the Sith"
+    ]
+   },
+   {
+    "holder": "Anakin Skywalker",
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.31
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.5
+    },
+    "how": "recovered",
+    "place": "Coruscant",
+    "record": "Star Wars: Episode III Revenge of the Sith",
+    "note": "As Darth Vader he turns it on the Jedi Temple and on Mustafar.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode III Revenge of the Sith"
+    ]
+   },
+   {
+    "holder": "Obi-Wan Kenobi",
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.5
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY, days before Yavin",
+     "frac": 0.97
+    },
+    "how": "taken in battle",
+    "place": "Mustafar",
+    "record": "Star Wars: Episode III Revenge of the Sith",
+    "note": "Picks it up from the ashy shore; keeps it in a chest buried in Tatooine's desert.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode III Revenge of the Sith",
+     "Part I"
+    ]
+   },
+   {
+    "holder": "Luke Skywalker",
+    "from": {
+     "y": -1,
+     "yText": "1 BBY, days before Yavin",
+     "frac": 0.97
+    },
+    "to": {
+     "y": 0,
+     "yText": "0 ABY",
+     "frac": 0.3
+    },
+    "how": "given",
+    "place": "Tatooine",
+    "record": "Star Wars: Episode IV A New Hope",
+    "note": "Obi-Wan hands it over as the weapon Luke's father intended for him.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IV A New Hope"
+    ]
+   },
+   {
+    "holder": "Grakkus Jahibakti Tingi",
+    "from": {
+     "y": 0,
+     "yText": "0 ABY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": 0,
+     "yText": "0 ABY",
+     "frac": 0.35
+    },
+    "how": "seized",
+    "place": "Nar Shaddaa",
+    "record": null,
+    "note": "A thief grabs it in a bar fight; the Hutt claims it until R2-D2 slips it back to Luke.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars (2015) 8",
+     "Star Wars (2015) 12"
+    ]
+   },
+   {
+    "holder": "Luke Skywalker",
+    "from": {
+     "y": 0,
+     "yText": "0 ABY",
+     "frac": 0.35
+    },
+    "to": {
+     "y": 3,
+     "yText": "3 ABY",
+     "frac": 0.5
+    },
+    "how": "recovered",
+    "place": "Nar Shaddaa",
+    "record": null,
+    "note": "Uses it until Vader cuts off his hand, and the saber with it, at Cloud City.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars (2015) 12",
+     "Star Wars: Episode V The Empire Strikes Back"
+    ]
+   },
+   {
+    "holder": "Ugnaught",
+    "from": {
+     "y": 3,
+     "yText": "c. 3 ABY",
+     "frac": 0.55
+    },
+    "to": {
+     "y": 3,
+     "yText": "c. 3 ABY",
+     "frac": 0.6
+    },
+    "how": "found",
+    "place": "Bespin",
+    "record": null,
+    "note": "Falls into the city's depths; an Ugnaught scrap worker turns it up after Luke quits searching.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars (2020) 4",
+     "Star Wars: Timelines"
+    ]
+   },
+   {
+    "holder": "Maz Kanata",
+    "from": {
+     "y": 34,
+     "yText": "by 34 ABY",
+     "frac": 0.0
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.3
+    },
+    "how": "unknown",
+    "place": "Takodana",
+    "record": "Star Wars: Episode VII The Force Awakens",
+    "note": "Stored in a box in her castle's lower vault; she never explains how she got it.",
+    "confidence": "inferred",
+    "sources": [
+     "Star Wars: Episode VII The Force Awakens",
+     "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+    ]
+   },
+   {
+    "holder": "Finn",
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.32
+    },
+    "how": "given",
+    "place": "Takodana",
+    "record": "Star Wars: Episode VII The Force Awakens",
+    "note": "Maz passes it to him after Rey refuses it; he fights Kylo Ren with it.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode VII The Force Awakens"
+    ]
+   },
+   {
+    "holder": "Rey Skywalker",
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.32
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.6
+    },
+    "how": "claimed",
+    "place": "Starkiller Base",
+    "record": "Star Wars: Episode VII The Force Awakens",
+    "note": "It flies past Kylo Ren into her hand; she carries it to Luke on Ahch-To.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode VII The Force Awakens",
+     "Star Wars: Episode VIII The Last Jedi"
+    ]
+   },
+   {
+    "holder": "Ben Solo",
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.6
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.61
+    },
+    "how": "given",
+    "place": null,
+    "record": "Star Wars: Episode VIII The Last Jedi",
+    "note": "Rey surrenders it aboard the Supremacy on the way to Snoke.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode VIII The Last Jedi"
+    ]
+   },
+   {
+    "holder": "Snoke",
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.61
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.62
+    },
+    "how": "seized",
+    "place": null,
+    "record": "Star Wars: Episode VIII The Last Jedi",
+    "note": "Pulls it to his throne; Ren secretly turns it and slices him through.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode VIII The Last Jedi"
+    ]
+   },
+   {
+    "holder": "Rey Skywalker",
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.62
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.2
+    },
+    "how": "recovered",
+    "place": null,
+    "record": "Star Wars: Episode VIII The Last Jedi",
+    "note": "Splits in a Force tug-of-war with Ren; she mends it using lore from the Jedi texts.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode VIII The Last Jedi",
+     "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+    ]
+   },
+   {
+    "holder": "Leia Skywalker Organa Solo",
+    "from": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.2
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.25
+    },
+    "how": "given",
+    "place": "Ajan Kloss",
+    "record": "Star Wars: Episode IX The Rise of Skywalker",
+    "note": "Rey gives it back, vowing to earn it; Leia returns it before the Pasaana mission.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IX The Rise of Skywalker"
+    ]
+   },
+   {
+    "holder": "Rey Skywalker",
+    "from": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.25
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.8
+    },
+    "how": "given",
+    "place": "Ajan Kloss",
+    "record": "Star Wars: Episode IX The Rise of Skywalker",
+    "note": "Carries it to Pasaana, Kijimi and Kef Bir, then to Exegol beside Leia's saber.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IX The Rise of Skywalker"
+    ]
+   },
+   {
+    "holder": "Ben Solo",
+    "from": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.8
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.82
+    },
+    "how": "given",
+    "place": "Exegol",
+    "record": "Star Wars: Episode IX The Rise of Skywalker",
+    "note": "Rey passes it to him through their Force bond; he kills the Knights of Ren with it.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IX The Rise of Skywalker",
+     "Star Wars: The Rise of Skywalker: Expanded Edition"
+    ]
+   },
+   {
+    "holder": "Rey Skywalker",
+    "from": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.82
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.9
+    },
+    "how": "recovered",
+    "place": "Exegol",
+    "record": "Star Wars: Episode IX The Rise of Skywalker",
+    "note": "Gathers both Skywalker sabers after Palpatine falls and Ben dies.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IX The Rise of Skywalker"
+    ]
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Star Wars Adventures: The Clone Wars – Battle Tales 1",
+   "Star Wars: Timelines",
+   "Hostage Crisis",
+   "Star Wars: Episode III Revenge of the Sith",
+   "Part I",
+   "Star Wars: Episode IV A New Hope",
+   "Star Wars (2015) 8",
+   "Star Wars (2015) 12",
+   "Star Wars: Episode V The Empire Strikes Back",
+   "Star Wars (2020) 4",
+   "Star Wars: Episode VII The Force Awakens",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary",
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: The Rise of Skywalker: Expanded Edition"
+  ],
+  "conflict": null
+ },
+ {
+  "id": "luke-green-lightsaber",
+  "wp": "Luke Skywalker's green lightsaber",
+  "name": "Luke Skywalker's green lightsaber",
+  "kind": "lightsaber",
+  "made": {
+   "y": 4,
+   "yText": "4 ABY",
+   "by": "Luke Skywalker"
+  },
+  "fate": {
+   "y": 34,
+   "yText": "34 ABY",
+   "frac": 0.95,
+   "text": "Kept by the Caretakers in their island repository on Ahch-To."
+  },
+  "summary": "The saber Luke builds after losing his father's at Cloud City, with a hilt patterned on Obi-Wan's and a crystal that turns green for him. He wins his last duel with Vader with it, trains Grogu with it, and carries it to his island exile on Ahch-To.",
+  "custody": [
+   {
+    "holder": "Luke Skywalker",
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.1
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.3
+    },
+    "how": "built",
+    "place": null,
+    "record": null,
+    "note": "Dr. Cuata on Christophsis gives him a blank crystal; the rest he gathers himself.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars (2020) 35",
+     "Star Wars: Episode VI Return of the Jedi"
+    ]
+   },
+   {
+    "holder": "R2-D2",
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.31
+    },
+    "how": "entrusted",
+    "place": "Tatooine",
+    "record": "Star Wars: Episode VI Return of the Jedi",
+    "note": "Smuggled into Jabba's palace in the droid's dome and launched to Luke at the Great Pit.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode VI Return of the Jedi"
+    ]
+   },
+   {
+    "holder": "Luke Skywalker",
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.31
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.9
+    },
+    "how": "recovered",
+    "place": "Tatooine",
+    "record": "Star Wars: Episode VI Return of the Jedi",
+    "note": "Faces Vader at Endor, rescues Grogu, and brings it to his island hermitage.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode VI Return of the Jedi",
+     "Chapter 16: The Rescue",
+     "Star Wars: Episode VIII The Last Jedi"
+    ]
+   },
+   {
+    "holder": "Caretakers",
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.9
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.95
+    },
+    "how": "claimed",
+    "place": "Ahch-To",
+    "record": null,
+    "note": "Their matron Alcida-Auka has it gathered with Luke's other belongings.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: The Last Jedi: Expanded Edition"
+    ]
+   }
+  ],
+  "sources": [
+   "Star Wars (2020) 35",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Chapter 16: The Rescue",
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: The Last Jedi: Expanded Edition"
+  ],
+  "conflict": null
+ },
+ {
+  "id": "leia-lightsaber",
+  "wp": "Leia's lightsaber",
+  "name": "Leia's lightsaber",
+  "kind": "lightsaber",
+  "made": {
+   "y": 4,
+   "yText": "4 ABY",
+   "by": "Leia Skywalker Organa Solo"
+  },
+  "fate": {
+   "y": 35,
+   "yText": "35 ABY",
+   "frac": 0.9,
+   "text": "Buried with the Skywalker saber at the Lars homestead, Tatooine."
+  },
+  "summary": "Leia builds this blue-bladed saber while training under Luke after Endor. Foreseeing her son's death where that path ends, she stops and gives it to Luke, who keeps it hidden until his spirit hands it to Rey for the fight on Exegol.",
+  "custody": [
+   {
+    "holder": "Leia Skywalker Organa Solo",
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.6
+    },
+    "to": {
+     "y": 5,
+     "yText": "5 ABY",
+     "frac": 0.5
+    },
+    "how": "built",
+    "place": "Ajan Kloss",
+    "record": null,
+    "note": "Spends weeks building it with her brother's help during her Jedi training.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: The Rise of Skywalker: The Visual Dictionary",
+     "Star Wars: Episode IX The Rise of Skywalker"
+    ]
+   },
+   {
+    "holder": "Luke Skywalker",
+    "from": {
+     "y": 5,
+     "yText": "5 ABY",
+     "frac": 0.5
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.9
+    },
+    "how": "given",
+    "place": "Ajan Kloss",
+    "record": null,
+    "note": "She asks him to pass it to a worthy student; he stores it in his Ahch-To hut.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IX The Rise of Skywalker",
+     "Star Wars: The Rise of Skywalker: Expanded Edition"
+    ]
+   },
+   {
+    "holder": "Rey Skywalker",
+    "from": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.7
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.9
+    },
+    "how": "given",
+    "place": "Ahch-To",
+    "record": "Star Wars: Episode IX The Rise of Skywalker",
+    "note": "Luke's spirit gives it to her; she wields it with the Skywalker saber against Palpatine.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IX The Rise of Skywalker"
+    ]
+   }
+  ],
+  "sources": [
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: The Rise of Skywalker: Expanded Edition"
+  ],
+  "conflict": null
+ },
+ {
+  "id": "ahsoka-lightsabers",
+  "wp": "Ahsoka Tano's lightsabers",
+  "name": "Ahsoka Tano's Clone Wars lightsabers",
+  "kind": "lightsaber",
+  "made": {
+   "y": -22,
+   "yText": "before 22 BBY",
+   "by": "Ahsoka Tano"
+  },
+  "fate": {
+   "y": -19,
+   "yText": "Imperial Era (date unknown)",
+   "frac": 0.99,
+   "text": "Carried off by Darth Vader from the snowbound wreck; later fate unknown."
+  },
+  "summary": "Ahsoka's green saber, later paired with a yellow-green shoto. The main blade passes through thieves' hands on Coruscant; both stay with Anakin when she leaves the Order and come back blue. After Order 66 she leaves them at the clone graves, where Vader later finds the main saber.",
+  "custody": [
+   {
+    "holder": "Ahsoka Tano",
+    "from": {
+     "y": -22,
+     "yText": "before 22 BBY",
+     "frac": 0.4
+    },
+    "to": {
+     "y": -21,
+     "yText": "21 BBY",
+     "frac": 0.5
+    },
+    "how": "built",
+    "place": null,
+    "record": null,
+    "note": "Built around an Ilum crystal; a shoto follows when she takes up Jar'Kai.",
+    "confidence": "explicit",
+    "sources": [
+     "Ahsoka (novel)",
+     "Star Wars: The Clone Wars (film)"
+    ]
+   },
+   {
+    "holder": "Bannamu",
+    "from": {
+     "y": -21,
+     "yText": "21 BBY",
+     "frac": 0.5
+    },
+    "to": {
+     "y": -21,
+     "yText": "21 BBY",
+     "frac": 0.51
+    },
+    "how": "stolen",
+    "place": "Coruscant",
+    "record": "Lightsaber Lost",
+    "note": "The Patrolian pickpocket lifts it outside a cantina in a Coruscant slum district.",
+    "confidence": "explicit",
+    "sources": [
+     "Lightsaber Lost"
+    ]
+   },
+   {
+    "holder": "Nack Movers",
+    "from": {
+     "y": -21,
+     "yText": "21 BBY",
+     "frac": 0.51
+    },
+    "to": {
+     "y": -21,
+     "yText": "21 BBY",
+     "frac": 0.52
+    },
+    "how": "bought",
+    "place": "Coruscant",
+    "record": "Lightsaber Lost",
+    "note": "The Trandoshan assassin buys it from Bannamu.",
+    "confidence": "explicit",
+    "sources": [
+     "Lightsaber Lost"
+    ]
+   },
+   {
+    "holder": "Cassilyda Cryar",
+    "from": {
+     "y": -21,
+     "yText": "21 BBY",
+     "frac": 0.52
+    },
+    "to": {
+     "y": -21,
+     "yText": "21 BBY",
+     "frac": 0.53
+    },
+    "how": "stolen",
+    "place": "Coruscant",
+    "record": "Lightsaber Lost",
+    "note": "Takes it after Movers is murdered; Tera Sinube disarms her at a train station.",
+    "confidence": "explicit",
+    "sources": [
+     "Lightsaber Lost"
+    ]
+   },
+   {
+    "holder": "Ahsoka Tano",
+    "from": {
+     "y": -21,
+     "yText": "21 BBY",
+     "frac": 0.53
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.3
+    },
+    "how": "recovered",
+    "place": "Coruscant",
+    "record": "Lightsaber Lost",
+    "note": "Fights with both blades until she is framed for the Temple bombing.",
+    "confidence": "explicit",
+    "sources": [
+     "Lightsaber Lost",
+     "The Wrong Jedi"
+    ]
+   },
+   {
+    "holder": "Anakin Skywalker",
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.4
+    },
+    "how": "entrusted",
+    "place": "Coruscant",
+    "record": "The Wrong Jedi",
+    "note": "Left with the Jedi when she quits the Order; Anakin tinkers and the blades turn blue.",
+    "confidence": "explicit",
+    "sources": [
+     "The Wrong Jedi",
+     "Old Friends Not Forgotten"
+    ]
+   },
+   {
+    "holder": "Ahsoka Tano",
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.4
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.6
+    },
+    "how": "given",
+    "place": null,
+    "record": "Old Friends Not Forgotten",
+    "note": "Anakin hands them back as the Mandalore siege begins.",
+    "confidence": "explicit",
+    "sources": [
+     "Old Friends Not Forgotten",
+     "The Phantom Apprentice"
+    ]
+   },
+   {
+    "holder": "Tribunal",
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.6
+    },
+    "to": {
+     "y": -19,
+     "yText": "Imperial Era (date unknown)",
+     "frac": 0.95
+    },
+    "how": "entrusted",
+    "place": null,
+    "record": "Victory and Death",
+    "note": "Laid at the clone graves beside the crashed Star Destroyer, helping fake her death.",
+    "confidence": "explicit",
+    "sources": [
+     "Victory and Death"
+    ]
+   },
+   {
+    "holder": "Anakin Skywalker",
+    "from": {
+     "y": -19,
+     "yText": "Imperial Era (date unknown)",
+     "frac": 0.95
+    },
+    "to": {
+     "y": -19,
+     "yText": "Imperial Era (date unknown)",
+     "frac": 0.99
+    },
+    "how": "found",
+    "place": null,
+    "record": "Victory and Death",
+    "note": "As Vader he finds the corroded main saber at the snowbound wreck and takes it.",
+    "confidence": "estimated",
+    "sources": [
+     "Victory and Death"
+    ]
+   }
+  ],
+  "sources": [
+   "Ahsoka (novel)",
+   "Star Wars: The Clone Wars (film)",
+   "Lightsaber Lost",
+   "The Wrong Jedi",
+   "Old Friends Not Forgotten",
+   "The Phantom Apprentice",
+   "Victory and Death"
+  ],
+  "conflict": "The novel Ahsoka (2016) has her leave the sabers on Mandalore; 'Victory and Death' moves this to the Tribunal crash site. The episode shows only the main saber left behind, while the StarWars.com Databank says she left both."
+ },
+ {
+  "id": "kanan-lightsaber",
+  "wp": "Kanan Jarrus' lightsaber",
+  "name": "Kanan Jarrus's lightsaber",
+  "kind": "lightsaber",
+  "made": {
+   "y": -20,
+   "yText": "before 19 BBY",
+   "by": "Kanan Jarrus"
+  },
+  "fate": {
+   "y": -1,
+   "yText": "1 BBY",
+   "frac": 0.6,
+   "text": "Handed to Thrawn to prove Kanan dead; its later fate is unknown."
+  },
+  "summary": "A blue two-piece saber that Padawan Caleb Dume builds under Huyang's guidance and hides for years after Order 66. As Kanan Jarrus he unmasks himself as a Jedi with it on Kessel, loses it to the Grand Inquisitor, wins it back, and fights with it until his death on Lothal.",
+  "custody": [
+   {
+    "holder": "Kanan Jarrus",
+    "from": {
+     "y": -20,
+     "yText": "before 19 BBY"
+    },
+    "to": {
+     "y": -4,
+     "yText": "4 BBY",
+     "frac": 0.8
+    },
+    "how": "built",
+    "place": null,
+    "record": null,
+    "note": "Built as a Padawan; hidden aboard the Kasmiri and carried in secret for years.",
+    "confidence": "estimated",
+    "sources": [
+     "The Secret Jedi: The Adventures of Kanan Jarrus: Rebel Leader",
+     "Part Eight: The Jedi, the Witch, and the Warlord",
+     "Kanan 3"
+    ]
+   },
+   {
+    "holder": "Grand Inquisitor",
+    "from": {
+     "y": -4,
+     "yText": "4 BBY",
+     "frac": 0.8
+    },
+    "to": {
+     "y": -4,
+     "yText": "4 BBY",
+     "frac": 0.9
+    },
+    "how": "seized",
+    "place": "Lothal",
+    "record": "Call to Action",
+    "note": "Confiscated at Kanan's capture; worn on the Inquisitor's belt as a trophy.",
+    "confidence": "explicit",
+    "sources": [
+     "Call to Action",
+     "Fire Across the Galaxy"
+    ]
+   },
+   {
+    "holder": "Kanan Jarrus",
+    "from": {
+     "y": -4,
+     "yText": "4 BBY",
+     "frac": 0.9
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.5
+    },
+    "how": "recovered",
+    "place": "Mustafar",
+    "record": "Fire Across the Galaxy",
+    "note": "Ezra tugs it free mid-duel; Kanan takes it back and defeats the Inquisitor.",
+    "confidence": "explicit",
+    "sources": [
+     "Fire Across the Galaxy",
+     "Jedi Night"
+    ]
+   },
+   {
+    "holder": "Arihnda Pryce",
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.5
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.55
+    },
+    "how": "recovered",
+    "place": "Lothal",
+    "record": "DUME",
+    "note": "Picks it up after Rukh knocks it away and the fuel depot blast kills Kanan.",
+    "confidence": "explicit",
+    "sources": [
+     "Jedi Night",
+     "DUME"
+    ]
+   },
+   {
+    "holder": "Mitth'raw'nuruodo",
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.55
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.6
+    },
+    "how": "given",
+    "place": "Lothal",
+    "record": "DUME",
+    "note": "Pryce presents it to him as proof that the Jedi is dead.",
+    "confidence": "explicit",
+    "sources": [
+     "DUME"
+    ]
+   }
+  ],
+  "sources": [
+   "The Secret Jedi: The Adventures of Kanan Jarrus: Rebel Leader",
+   "Part Eight: The Jedi, the Witch, and the Warlord",
+   "Kanan 3",
+   "Call to Action",
+   "Fire Across the Galaxy",
+   "Jedi Night",
+   "DUME"
+  ],
+  "conflict": null
+ },
+ {
+  "id": "sabine-lightsaber",
+  "wp": "Sabine Wren's lightsaber",
+  "name": "Ezra's green lightsaber (Sabine's)",
+  "kind": "lightsaber",
+  "made": {
+   "y": -3,
+   "yText": "between 3 and 2 BBY",
+   "by": "Ezra Bridger"
+  },
+  "fate": {
+   "y": 9,
+   "yText": "c. 9 ABY",
+   "frac": 0.9,
+   "text": "Held by Sabine Wren on Peridea as of the latest canon."
+  },
+  "summary": "Ezra builds this green saber after Vader destroys his first on Malachor. Before surrendering to Thrawn he leaves it with Sabine Wren, who adds her own modifications; years later, stranded together on Peridea, Ezra insists it is hers.",
+  "custody": [
+   {
+    "holder": "Ezra Bridger",
+    "from": {
+     "y": -3,
+     "yText": "between 3 and 2 BBY",
+     "frac": 0.9
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.9
+    },
+    "how": "built",
+    "place": null,
+    "record": null,
+    "note": "Replaces the saber lost on Malachor; Sabine borrows it to duel Gar Saxon.",
+    "confidence": "explicit",
+    "sources": [
+     "Steps Into Shadow",
+     "Legacy of Mandalore"
+    ]
+   },
+   {
+    "holder": "Sabine Wren",
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.9
+    },
+    "to": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.4
+    },
+    "how": "entrusted",
+    "place": "Lothal",
+    "record": "Family Reunion – and Farewell",
+    "note": "Ezra leaves it in her hands before going to Thrawn alone; she keeps and modifies it.",
+    "confidence": "explicit",
+    "sources": [
+     "Family Reunion – and Farewell",
+     "Part Two: Toil and Trouble"
+    ]
+   },
+   {
+    "holder": "Baylan Skoll",
+    "from": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.4
+    },
+    "to": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.6
+    },
+    "how": "seized",
+    "place": "Seatos",
+    "record": "Part Four: Fallen Jedi",
+    "note": "Confiscated when Sabine joins Baylan's party; Thrawn's side gives it back on Peridea.",
+    "confidence": "inferred",
+    "sources": [
+     "Part Four: Fallen Jedi",
+     "Part Six: Far, Far Away"
+    ]
+   },
+   {
+    "holder": "Sabine Wren",
+    "from": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.6
+    },
+    "to": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.9
+    },
+    "how": "given",
+    "place": "Peridea",
+    "record": "Part Six: Far, Far Away",
+    "note": "She offers it back to Ezra, who tells her to keep it.",
+    "confidence": "explicit",
+    "sources": [
+     "Part Six: Far, Far Away",
+     "Part Seven: Dreams and Madness"
+    ]
+   }
+  ],
+  "sources": [
+   "Steps Into Shadow",
+   "Legacy of Mandalore",
+   "Family Reunion – and Farewell",
+   "Part Two: Toil and Trouble",
+   "Part Four: Fallen Jedi",
+   "Part Six: Far, Far Away",
+   "Part Seven: Dreams and Madness"
+  ],
+  "conflict": null
+ },
+ {
+  "id": "boba-fett-armor",
+  "wp": "Boba Fett's armor",
+  "name": "Boba Fett's armor",
+  "kind": "armor",
+  "made": {
+   "y": -40,
+   "yText": "before 32 BBY (Mandalorian Civil Wars)",
+   "by": "Mandalorian"
+  },
+  "fate": {
+   "y": 9,
+   "yText": "9 ABY",
+   "frac": 0.9,
+   "text": "Worn by Boba Fett as Daimyo of Tatooine, as of the latest canon."
+  },
+  "summary": "Beskar armor that the Mandalorians give their foundling Jango Fett while he fights in their civil wars. Boba inherits it, loses it to Jawas after escaping the Sarlacc, and it passes through Cobb Vanth and Din Djarin before Boba proves his claim with the chain code.",
+  "custody": [
+   {
+    "holder": "Jango Fett",
+    "from": {
+     "y": -40,
+     "yText": "before 32 BBY"
+    },
+    "to": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.3
+    },
+    "how": "given",
+    "place": null,
+    "record": null,
+    "note": "His Mandalorian elders outfit the foundling while he fights in their civil wars.",
+    "confidence": "estimated",
+    "sources": [
+     "Chapter 14: The Tragedy"
+    ]
+   },
+   {
+    "holder": "Boba Fett",
+    "from": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.3
+    },
+    "how": "inherited",
+    "place": "Geonosis",
+    "record": "Star Wars: Episode II Attack of the Clones",
+    "note": "Takes up his father's gear; Jango's helmet itself is lost in Boba's bomb plot against Windu.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode II Attack of the Clones",
+     "R2 Come Home",
+     "Dark Disciple"
+    ]
+   },
+   {
+    "holder": "Jawa",
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.5
+    },
+    "how": "stolen",
+    "place": "Tatooine",
+    "record": "Chapter 1: Stranger in a Strange Land",
+    "note": "Strip it from Boba after he claws out of the Sarlacc, and leave him for dead.",
+    "confidence": "explicit",
+    "sources": [
+     "Chapter 1: Stranger in a Strange Land"
+    ]
+   },
+   {
+    "holder": "Cobb Vanth",
+    "from": {
+     "y": 4,
+     "yText": "4 ABY, just after Endor",
+     "frac": 0.5
+    },
+    "to": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.2
+    },
+    "how": "bought",
+    "place": "Tatooine",
+    "record": "Chapter 9: The Marshal",
+    "note": "Trades a camtono of silicax crystals for it and marshals Mos Pelgo in it.",
+    "confidence": "explicit",
+    "sources": [
+     "Aftermath (novel)",
+     "Chapter 9: The Marshal"
+    ]
+   },
+   {
+    "holder": "Din Djarin",
+    "from": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.2
+    },
+    "to": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.35
+    },
+    "how": "given",
+    "place": "Tatooine",
+    "record": "Chapter 9: The Marshal",
+    "note": "Vanth hands it over after they kill a krayt dragon together.",
+    "confidence": "explicit",
+    "sources": [
+     "Chapter 9: The Marshal"
+    ]
+   },
+   {
+    "holder": "Boba Fett",
+    "from": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.35
+    },
+    "to": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.9
+    },
+    "how": "claimed",
+    "place": "Tython",
+    "record": "Chapter 14: The Tragedy",
+    "note": "Proves ownership with the armor's chain code, then repaints it.",
+    "confidence": "explicit",
+    "sources": [
+     "Chapter 14: The Tragedy",
+     "Chapter 1: Stranger in a Strange Land"
+    ]
+   }
+  ],
+  "sources": [
+   "Chapter 14: The Tragedy",
+   "Star Wars: Episode II Attack of the Clones",
+   "R2 Come Home",
+   "Dark Disciple",
+   "Chapter 1: Stranger in a Strange Land",
+   "Aftermath (novel)",
+   "Chapter 9: The Marshal"
+  ],
+  "conflict": "The 2018 Complete Visual Dictionary calls the armor durasteel; a 2022 episode of Boba's own series makes it beskar, which Wookieepedia treats as canon."
+ },
+ {
+  "id": "vader-helmet",
+  "wp": "Darth Vader's armor",
+  "name": "Darth Vader's helmet",
+  "kind": "armor",
+  "made": {
+   "y": -19,
+   "yText": "19 BBY",
+   "by": "Cylo"
+  },
+  "fate": {
+   "y": 35,
+   "yText": "35 ABY",
+   "frac": 0.5,
+   "text": "Last seen with Kylo Ren in 35 ABY; its later fate is unrecorded."
+  },
+  "summary": "The mask of Darth Vader's life-support suit. After Endor, Luke burns his father's armor on a pyre, but the blackened helmet survives. Leia briefly picks it up in anger; decades later it stands in Kylo Ren's quarters as a shrine he speaks to.",
+  "custody": [
+   {
+    "holder": "Anakin Skywalker",
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.5
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.4
+    },
+    "how": "given",
+    "place": "Coruscant",
+    "record": "Star Wars: Episode III Revenge of the Sith",
+    "note": "Sealed into the suit after Mustafar; he wears it for over two decades.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode III Revenge of the Sith"
+    ]
+   },
+   {
+    "holder": "Luke Skywalker",
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.4
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.45
+    },
+    "how": "recovered",
+    "place": "Endor",
+    "record": "Star Wars: Episode VI Return of the Jedi",
+    "note": "Carries his father's empty armor to Endor and burns it on a pyre.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode VI Return of the Jedi"
+    ]
+   },
+   {
+    "holder": "Leia Skywalker Organa Solo",
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.45
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.46
+    },
+    "how": "found",
+    "place": "Endor",
+    "record": null,
+    "note": "Lifts the helmet from the pyre, then flings it back into the ashes.",
+    "confidence": "explicit",
+    "sources": [
+     "The Princess and the Scoundrel"
+    ]
+   },
+   {
+    "holder": "Ben Solo",
+    "from": {
+     "y": 34,
+     "yText": "by 34 ABY",
+     "frac": 0.0
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.5
+    },
+    "how": "unknown",
+    "place": null,
+    "record": "Star Wars: Episode VII The Force Awakens",
+    "note": "Someone scavenged it from the pyre; he enshrines it on the Finalizer, later the Steadfast.",
+    "confidence": "inferred",
+    "sources": [
+     "Star Wars: Episode VII The Force Awakens",
+     "Star Wars: The Force Awakens: The Visual Dictionary",
+     "Star Wars: Episode IX The Rise of Skywalker"
+    ]
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith",
+   "Star Wars: Episode VI Return of the Jedi",
+   "The Princess and the Scoundrel",
+   "Star Wars: Episode VII The Force Awakens",
+   "Star Wars: The Force Awakens: The Visual Dictionary",
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null
+ },
+ {
+  "id": "beskar-spear",
+  "wp": "Beskar spear",
+  "name": "The beskar spear",
+  "kind": "weapon",
+  "made": {
+   "y": -9,
+   "yText": "by 9–2 BBY (origin unknown)",
+   "by": null
+  },
+  "fate": {
+   "y": 9,
+   "yText": "c. 9 ABY",
+   "frac": 0.9,
+   "text": "Worn by Grogu as a chainmail shirt, as of the latest canon."
+  },
+  "summary": "A spear forged entirely of beskar that Morgan Elsbeth fights with for years. Ahsoka wins it on Corvus and gives it to Din Djarin; the Armorer later melts it into a chainmail shirt, which reaches Grogu by way of Ahsoka and Luke.",
+  "custody": [
+   {
+    "holder": "Morgan Elsbeth",
+    "from": {
+     "y": -9,
+     "yText": "by 9–2 BBY"
+    },
+    "to": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.1
+    },
+    "how": "unknown",
+    "place": null,
+    "record": "The Path of Anger",
+    "note": "Wields it against the assassin Rukh and later as Magistrate on Corvus.",
+    "confidence": "estimated",
+    "sources": [
+     "The Path of Anger",
+     "Chapter 13: The Jedi"
+    ]
+   },
+   {
+    "holder": "Ahsoka Tano",
+    "from": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.1
+    },
+    "to": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.11
+    },
+    "how": "won in combat",
+    "place": "Corvus",
+    "record": "Chapter 13: The Jedi",
+    "note": "Defeats the Magistrate and gives the staff to Din Djarin.",
+    "confidence": "explicit",
+    "sources": [
+     "Chapter 13: The Jedi"
+    ]
+   },
+   {
+    "holder": "Din Djarin",
+    "from": {
+     "y": 9,
+     "yText": "9 ABY",
+     "frac": 0.11
+    },
+    "to": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.5
+    },
+    "how": "given",
+    "place": "Corvus",
+    "record": "Chapter 13: The Jedi",
+    "note": "Survives the Razor Crest's destruction; he duels Gideon's Darksaber with it.",
+    "confidence": "explicit",
+    "sources": [
+     "Chapter 13: The Jedi",
+     "Chapter 16: The Rescue"
+    ]
+   },
+   {
+    "holder": "The Armorer",
+    "from": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.5
+    },
+    "to": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.51
+    },
+    "how": "entrusted",
+    "place": "Glavis Ringworld",
+    "record": "Chapter 5: Return of the Mandalorian",
+    "note": "Says beskar is for armor, not weapons, and reforges it into chainmail for Grogu.",
+    "confidence": "explicit",
+    "sources": [
+     "Chapter 5: Return of the Mandalorian"
+    ]
+   },
+   {
+    "holder": "Din Djarin",
+    "from": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.51
+    },
+    "to": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.55
+    },
+    "how": "given",
+    "place": "Glavis Ringworld",
+    "record": "Chapter 5: Return of the Mandalorian",
+    "note": "Carries the wrapped shirt to Luke's academy as a gift.",
+    "confidence": "explicit",
+    "sources": [
+     "Chapter 5: Return of the Mandalorian",
+     "Chapter 6: From the Desert Comes a Stranger"
+    ]
+   },
+   {
+    "holder": "Ahsoka Tano",
+    "from": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.55
+    },
+    "to": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.56
+    },
+    "how": "given",
+    "place": "Ossus",
+    "record": "Chapter 6: From the Desert Comes a Stranger",
+    "note": "Stops Din from seeing Grogu and takes the gift herself.",
+    "confidence": "explicit",
+    "sources": [
+     "Chapter 6: From the Desert Comes a Stranger"
+    ]
+   },
+   {
+    "holder": "Luke Skywalker",
+    "from": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.56
+    },
+    "to": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.6
+    },
+    "how": "given",
+    "place": "Ossus",
+    "record": "Chapter 6: From the Desert Comes a Stranger",
+    "note": "Sets it before Grogu opposite Yoda's lightsaber: a Mandalorian life or a Jedi's.",
+    "confidence": "explicit",
+    "sources": [
+     "Chapter 6: From the Desert Comes a Stranger"
+    ]
+   },
+   {
+    "holder": "Din Grogu",
+    "from": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.6
+    },
+    "to": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.9
+    },
+    "how": "claimed",
+    "place": "Ossus",
+    "record": "Chapter 7: In the Name of Honor",
+    "note": "Chooses the shirt over the saber and returns to Din.",
+    "confidence": "explicit",
+    "sources": [
+     "Chapter 7: In the Name of Honor"
+    ]
+   }
+  ],
+  "sources": [
+   "The Path of Anger",
+   "Chapter 13: The Jedi",
+   "Chapter 16: The Rescue",
+   "Chapter 5: Return of the Mandalorian",
+   "Chapter 6: From the Desert Comes a Stranger",
+   "Chapter 7: In the Name of Honor"
+  ],
+  "conflict": null
+ },
+ {
+  "id": "death-star-plans",
+  "wp": "Death Star plans",
+  "name": "The Death Star plans",
+  "kind": "plans",
+  "made": {
+   "y": -22,
+   "yText": "by 22 BBY",
+   "by": "Poggle the Lesser"
+  },
+  "fate": {
+   "y": 0,
+   "yText": "0 BBY",
+   "frac": 0.05,
+   "text": "Its flaw lets Luke destroy the first Death Star over Yavin."
+  },
+  "summary": "Geonosian designs for a planet-killing battle station, passed from Dooku to Sidious and reworked by Galen Erso, who hides a fatal reactor flaw in them. Rogue One steals the file on Scarif, and it reaches the Rebellion inside R2-D2.",
+  "custody": [
+   {
+    "holder": "Poggle the Lesser",
+    "from": {
+     "y": -22,
+     "yText": "by 22 BBY",
+     "frac": 0.2
+    },
+    "to": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.3
+    },
+    "how": "built",
+    "place": "Geonosis",
+    "record": "Star Wars: Episode II Attack of the Clones",
+    "note": "His Geonosian engineers draw up the battle station.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode II Attack of the Clones"
+    ]
+   },
+   {
+    "holder": "Dooku",
+    "from": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.31
+    },
+    "how": "given",
+    "place": "Geonosis",
+    "record": "Star Wars: Episode II Attack of the Clones",
+    "note": "Receives them from Poggle as the clone army storms Geonosis.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode II Attack of the Clones"
+    ]
+   },
+   {
+    "holder": "Darth Sidious",
+    "from": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.31
+    },
+    "to": {
+     "y": -21,
+     "yText": "21 BBY",
+     "frac": 0.3
+    },
+    "how": "given",
+    "place": "Coruscant",
+    "record": "Star Wars: Episode II Attack of the Clones",
+    "note": "Dooku delivers them to his master at the Works.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode II Attack of the Clones",
+     "Star Wars: Episode III Revenge of the Sith"
+    ]
+   },
+   {
+    "holder": "Strategic Advisory Cell",
+    "from": {
+     "y": -21,
+     "yText": "21 BBY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.8
+    },
+    "how": "given",
+    "place": "Coruscant",
+    "record": null,
+    "note": "Palpatine hands the design to this Republic war council, which begins building.",
+    "confidence": "explicit",
+    "sources": [
+     "Catalyst: A Rogue One Novel"
+    ]
+   },
+   {
+    "holder": "Galen Walton Erso",
+    "from": {
+     "y": -13,
+     "yText": "13 BBY",
+     "frac": 0.5
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.9
+    },
+    "how": "entrusted",
+    "place": "Eadu",
+    "record": "Rogue One: A Star Wars Story",
+    "note": "Forced back to lead the kyber research team, he buries a reactor weakness in the design.",
+    "confidence": "inferred",
+    "sources": [
+     "Rogue One: A Star Wars Story",
+     "Catalyst: A Rogue One Novel"
+    ]
+   },
+   {
+    "holder": "Scarif vault",
+    "from": {
+     "y": -1,
+     "yText": "by 1 BBY",
+     "frac": 0.9
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.93
+    },
+    "how": "entrusted",
+    "place": "Scarif",
+    "record": "Rogue One: A Star Wars Story",
+    "note": "The engineering archive sits in the Citadel Tower's data vault.",
+    "confidence": "inferred",
+    "sources": [
+     "Rogue One: A Star Wars Story"
+    ]
+   },
+   {
+    "holder": "Jyn Erso",
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.93
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.935
+    },
+    "how": "stolen",
+    "place": "Scarif",
+    "record": "Rogue One: A Star Wars Story",
+    "note": "With Cassian Andor she pulls the tape and beams it from the tower's dish.",
+    "confidence": "explicit",
+    "sources": [
+     "Rogue One: A Star Wars Story"
+    ]
+   },
+   {
+    "holder": "Profundity",
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.935
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.94
+    },
+    "how": "given",
+    "place": "Scarif",
+    "record": "Rogue One: A Star Wars Story",
+    "note": "Admiral Raddus's flagship receives it; troopers pass the data card hand to hand as Vader boards.",
+    "confidence": "explicit",
+    "sources": [
+     "Rogue One: A Star Wars Story"
+    ]
+   },
+   {
+    "holder": "Leia Skywalker Organa Solo",
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.94
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.95
+    },
+    "how": "given",
+    "place": null,
+    "record": "Rogue One: A Star Wars Story",
+    "note": "Alderaanian troops bring the card aboard her Tantive IV.",
+    "confidence": "explicit",
+    "sources": [
+     "Rogue One: A Star Wars Story",
+     "Star Wars: Episode IV A New Hope"
+    ]
+   },
+   {
+    "holder": "R2-D2",
+    "from": {
+     "y": -1,
+     "yText": "1 BBY, days before Yavin",
+     "frac": 0.95
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY, days before Yavin",
+     "frac": 0.99
+    },
+    "how": "entrusted",
+    "place": "Tatooine",
+    "record": "Star Wars: Episode IV A New Hope",
+    "note": "Carries them via the Jawas, the Lars farm and the Death Star itself.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IV A New Hope"
+    ]
+   },
+   {
+    "holder": "Alliance to Restore the Republic",
+    "from": {
+     "y": -1,
+     "yText": "hours before the Battle of Yavin",
+     "frac": 0.99
+    },
+    "to": {
+     "y": 0,
+     "yText": "0 BBY",
+     "frac": 0.05
+    },
+    "how": "given",
+    "place": "Yavin 4",
+    "record": "Star Wars: Episode IV A New Hope",
+    "note": "Rebel analysts locate Galen's flaw: a tiny exhaust shaft straight to the reactor.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IV A New Hope"
+    ]
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Star Wars: Episode III Revenge of the Sith",
+   "Catalyst: A Rogue One Novel",
+   "Rogue One: A Star Wars Story",
+   "Star Wars: Episode IV A New Hope"
+  ],
+  "conflict": null
+ },
+ {
+  "id": "millennium-falcon",
+  "wp": "Millennium Falcon",
+  "name": "The Millennium Falcon",
+  "kind": "starship",
+  "made": {
+   "y": -60,
+   "yText": "over 90 years before 34 ABY",
+   "by": "Corellian Engineering Corporation"
+  },
+  "fate": {
+   "y": 35,
+   "yText": "35 ABY",
+   "frac": 0.9,
+   "text": "Held by Rey as of the latest canon."
+  },
+  "summary": "A YT-1300 freighter that starts as a container tug. Lando wins it at cards and loses it to Han, who keeps it for decades until a string of thieves leaves it on Jakku with Unkar Plutt. Rey flies it off Jakku and ends up its owner.",
+  "custody": [
+   {
+    "holder": "Corellian Engineering Corporation",
+    "from": {
+     "y": -60,
+     "yText": "over 90 years before 34 ABY"
+    },
+    "to": {
+     "y": -60,
+     "yText": "enters service as a tug",
+     "frac": 0.9
+    },
+    "how": "built",
+    "place": null,
+    "record": null,
+    "note": "Comes off a Corellian yard as a freight tug; several later sales go unrecorded.",
+    "confidence": "estimated",
+    "sources": [
+     "YT-1300 Millennium Falcon Owners' Workshop Manual",
+     "Star Wars: Millennium Falcon: A 3D Owner's Guide"
+    ]
+   },
+   {
+    "holder": "Republic Group",
+    "from": {
+     "y": -22,
+     "yText": "the Clone Wars"
+    },
+    "to": {
+     "y": -19,
+     "yText": "just after the Clone Wars",
+     "frac": 0.8
+    },
+    "how": "unknown",
+    "place": "Ralltiir",
+    "record": null,
+    "note": "Registered as the Stellar Envoy; wrecked in a collision and rebuilt by a salvager.",
+    "confidence": "explicit",
+    "sources": [
+     "YT-1300 Millennium Falcon Owners' Workshop Manual"
+    ]
+   },
+   {
+    "holder": "Landonis Balthazar Calrissian",
+    "from": {
+     "y": -12,
+     "yText": "between 19 and 10 BBY"
+    },
+    "to": {
+     "y": -10,
+     "yText": "10 BBY",
+     "frac": 0.6
+    },
+    "how": "claimed",
+    "place": "Bespin",
+    "record": null,
+    "note": "Wins it at sabacc, names it Millennium Falcon, and refits it as his luxury runner.",
+    "confidence": "estimated",
+    "sources": [
+     "Star Wars: Millennium Falcon 1",
+     "YT-1300 Millennium Falcon Owners' Workshop Manual"
+    ]
+   },
+   {
+    "holder": "Han Solo",
+    "from": {
+     "y": -10,
+     "yText": "10 BBY",
+     "frac": 0.6
+    },
+    "to": {
+     "y": 3,
+     "yText": "3 ABY",
+     "frac": 0.5
+    },
+    "how": "claimed",
+    "place": "Numidian Prime",
+    "record": "Solo: A Star Wars Story",
+    "note": "Wins it from Lando in a sabacc rematch; Chewbacca becomes his co-pilot.",
+    "confidence": "explicit",
+    "sources": [
+     "Solo: A Star Wars Story"
+    ]
+   },
+   {
+    "holder": "Landonis Balthazar Calrissian",
+    "from": {
+     "y": 3,
+     "yText": "3 ABY",
+     "frac": 0.5
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.5
+    },
+    "how": "claimed",
+    "place": "Bespin",
+    "record": "Star Wars: Episode V The Empire Strikes Back",
+    "note": "Takes the helm after Han is frozen; Han lends it back to him for Endor.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode V The Empire Strikes Back",
+     "Star Wars (2020) 1",
+     "Star Wars: Episode VI Return of the Jedi"
+    ]
+   },
+   {
+    "holder": "Han Solo",
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.5
+    },
+    "to": {
+     "y": 31,
+     "yText": "31 ABY",
+     "frac": 0.3
+    },
+    "how": "recovered",
+    "place": null,
+    "record": "Star Wars: Episode VI Return of the Jedi",
+    "note": "Flies it with Chewbacca through the New Republic years.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode VI Return of the Jedi"
+    ]
+   },
+   {
+    "holder": "Gannis Ducain",
+    "from": {
+     "y": 31,
+     "yText": "31 ABY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": 31,
+     "yText": "c. 31 ABY",
+     "frac": 0.5
+    },
+    "how": "stolen",
+    "place": "Christophsis",
+    "record": null,
+    "note": "Signs on as Han's co-pilot, then makes off with the ship.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars Adventures (2017) 18"
+    ]
+   },
+   {
+    "holder": "Irving Boys",
+    "from": {
+     "y": 31,
+     "yText": "c. 31 ABY",
+     "frac": 0.5
+    },
+    "to": {
+     "y": 31,
+     "yText": "c. 31 ABY",
+     "frac": 0.7
+    },
+    "how": "stolen",
+    "place": null,
+    "record": null,
+    "note": "Brothers Vanver and Toursant Irving take it from Ducain.",
+    "confidence": "estimated",
+    "sources": [
+     "Star Wars: The Force Awakens (novelization)"
+    ]
+   },
+   {
+    "holder": "Unkar Plutt",
+    "from": {
+     "y": 31,
+     "yText": "c. 31 ABY",
+     "frac": 0.7
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.2
+    },
+    "how": "stolen",
+    "place": "Jakku",
+    "record": null,
+    "note": "Lets it sit for years at Niima Outpost, hoping for a buyer.",
+    "confidence": "estimated",
+    "sources": [
+     "Star Wars: The Force Awakens (novelization)"
+    ]
+   },
+   {
+    "holder": "Rey Skywalker",
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.2
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.25
+    },
+    "how": "stolen",
+    "place": "Jakku",
+    "record": "Star Wars: Episode VII The Force Awakens",
+    "note": "Flies it off Jakku with Finn and BB-8 under First Order fire.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode VII The Force Awakens"
+    ]
+   },
+   {
+    "holder": "Han Solo",
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.25
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.35
+    },
+    "how": "recovered",
+    "place": null,
+    "record": "Star Wars: Episode VII The Force Awakens",
+    "note": "Locks onto it from his freighter Eravana and reclaims it.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode VII The Force Awakens"
+    ]
+   },
+   {
+    "holder": "Rey Skywalker",
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.35
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.4
+    },
+    "how": "inherited",
+    "place": null,
+    "record": "Star Wars: Episode VII The Force Awakens",
+    "note": "After Han's death she and Chewbacca fly it for the Resistance.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode VII The Force Awakens",
+     "Star Wars: Episode VIII The Last Jedi"
+    ]
+   },
+   {
+    "holder": "First Order",
+    "from": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.4
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.45
+    },
+    "how": "seized",
+    "place": "Pasaana",
+    "record": "Star Wars: Episode IX The Rise of Skywalker",
+    "note": "Captured with Chewbacca and hauled aboard the Steadfast, Kylo Ren's flagship.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IX The Rise of Skywalker"
+    ]
+   },
+   {
+    "holder": "Rey Skywalker",
+    "from": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.45
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.9
+    },
+    "how": "recovered",
+    "place": "Kijimi",
+    "record": "Star Wars: Episode IX The Rise of Skywalker",
+    "note": "Retaken at Kijimi; Lando captains it at Exegol, then returns it to her.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IX The Rise of Skywalker"
+    ]
+   }
+  ],
+  "sources": [
+   "YT-1300 Millennium Falcon Owners' Workshop Manual",
+   "Star Wars: Millennium Falcon: A 3D Owner's Guide",
+   "Star Wars: Millennium Falcon 1",
+   "Solo: A Star Wars Story",
+   "Star Wars: Episode V The Empire Strikes Back",
+   "Star Wars (2020) 1",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Star Wars Adventures (2017) 18",
+   "Star Wars: The Force Awakens (novelization)",
+   "Star Wars: Episode VII The Force Awakens",
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null
+ },
+ {
+  "id": "r2-d2",
+  "wp": "R2-D2",
+  "name": "R2-D2",
+  "kind": "droid",
+  "made": {
+   "y": -32,
+   "yText": "by 32 BBY",
+   "by": "Industrial Automaton"
+  },
+  "fate": {
+   "y": 35,
+   "yText": "35 ABY",
+   "frac": 0.9,
+   "text": "With the Resistance after Exegol, as of the latest canon."
+  },
+  "summary": "An astromech who starts on Queen Amidala's royal ship, becomes Anakin's co-pilot, and never gets a full memory wipe. He smuggles Leia's plea and the stolen battle-station plans to Tatooine, serves Luke for three decades, and rests with the Resistance.",
+  "custody": [
+   {
+    "holder": "Padmé Amidala Naberrie",
+    "from": {
+     "y": -32,
+     "yText": "32 BBY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.3
+    },
+    "how": "unknown",
+    "place": "Naboo",
+    "record": "Star Wars: Episode I The Phantom Menace",
+    "note": "A Royal House of Naboo astromech on the queen's ship who stays in her service.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode I The Phantom Menace",
+     "Star Wars: Episode II Attack of the Clones"
+    ]
+   },
+   {
+    "holder": "Anakin Skywalker",
+    "from": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.8
+    },
+    "how": "given",
+    "place": "Naboo",
+    "record": "Star Wars: Episode II Attack of the Clones",
+    "note": "Padmé's wedding present to her husband, per the official Databank.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode II Attack of the Clones"
+    ]
+   },
+   {
+    "holder": "Grievous",
+    "from": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.8
+    },
+    "to": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.85
+    },
+    "how": "bought",
+    "place": null,
+    "record": "Downfall of a Droid",
+    "note": "Scavenger Gha Nachkt salvages him and sells him to Grievous at Skytop Station.",
+    "confidence": "explicit",
+    "sources": [
+     "Downfall of a Droid"
+    ]
+   },
+   {
+    "holder": "Anakin Skywalker",
+    "from": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.85
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.5
+    },
+    "how": "recovered",
+    "place": null,
+    "record": "Duel of the Droids",
+    "note": "Rescued by Anakin and Ahsoka; he stays loyal even after Anakin falls.",
+    "confidence": "explicit",
+    "sources": [
+     "Duel of the Droids",
+     "Star Wars: Episode III Revenge of the Sith"
+    ]
+   },
+   {
+    "holder": "Bail Prestor Organa",
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.6
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.95
+    },
+    "how": "claimed",
+    "place": null,
+    "record": "Star Wars: Episode III Revenge of the Sith",
+    "note": "Serves on the Tantive IV under Captain Antilles; unlike C-3PO, spared a memory wipe.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode III Revenge of the Sith",
+     "Ahsoka (novel)",
+     "Droids in Distress"
+    ]
+   },
+   {
+    "holder": "Leia Skywalker Organa Solo",
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.95
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY, days before Yavin",
+     "frac": 0.96
+    },
+    "how": "entrusted",
+    "place": null,
+    "record": "Star Wars: Episode IV A New Hope",
+    "note": "Loads the stolen plans into him, with her message for Kenobi.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IV A New Hope"
+    ]
+   },
+   {
+    "holder": "Jawa",
+    "from": {
+     "y": -1,
+     "yText": "1 BBY, days before Yavin",
+     "frac": 0.96
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY, days before Yavin",
+     "frac": 0.962
+    },
+    "how": "seized",
+    "place": "Tatooine",
+    "record": "Star Wars: Episode IV A New Hope",
+    "note": "Stunned by Jawas in the desert canyons and loaded into their sandcrawler.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IV A New Hope"
+    ]
+   },
+   {
+    "holder": "Owen Lars",
+    "from": {
+     "y": -1,
+     "yText": "1 BBY, days before Yavin",
+     "frac": 0.962
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY, days before Yavin",
+     "frac": 0.964
+    },
+    "how": "bought",
+    "place": "Tatooine",
+    "record": "Star Wars: Episode IV A New Hope",
+    "note": "Bought after R5-D4 fakes a blown motivator on R2's behalf.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IV A New Hope",
+     "The Red One"
+    ]
+   },
+   {
+    "holder": "Luke Skywalker",
+    "from": {
+     "y": -1,
+     "yText": "1 BBY, days before Yavin",
+     "frac": 0.964
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.3
+    },
+    "how": "given",
+    "place": "Tatooine",
+    "record": "Star Wars: Episode IV A New Hope",
+    "note": "Owen puts the new droids in his nephew's care; R2 rides Luke's X-wing at Yavin.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IV A New Hope"
+    ]
+   },
+   {
+    "holder": "Jabba Desilijic Tiure",
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.32
+    },
+    "how": "given",
+    "place": "Tatooine",
+    "record": "Star Wars: Episode VI Return of the Jedi",
+    "note": "Offered as a gift in Luke's rescue ruse; serves drinks aboard the sail barge.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode VI Return of the Jedi"
+    ]
+   },
+   {
+    "holder": "Luke Skywalker",
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.32
+    },
+    "to": {
+     "y": 28,
+     "yText": "28 ABY",
+     "frac": 0.5
+    },
+    "how": "recovered",
+    "place": "Tatooine",
+    "record": "Star Wars: Episode VI Return of the Jedi",
+    "note": "Stays at Luke's side until his academy is destroyed.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode VI Return of the Jedi",
+     "Star Wars: Episode VII The Force Awakens"
+    ]
+   },
+   {
+    "holder": "Resistance",
+    "from": {
+     "y": 28,
+     "yText": "c. 28 ABY",
+     "frac": 0.5
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.9
+    },
+    "how": "unknown",
+    "place": "D'Qar",
+    "record": null,
+    "note": "Rests in low-power mode at the D'Qar base until he wakes with the rest of Luke's map.",
+    "confidence": "inferred",
+    "sources": [
+     "Star Wars: Episode VII The Force Awakens",
+     "Star Wars: Episode IX The Rise of Skywalker"
+    ]
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Star Wars: Episode II Attack of the Clones",
+   "Downfall of a Droid",
+   "Duel of the Droids",
+   "Star Wars: Episode III Revenge of the Sith",
+   "Ahsoka (novel)",
+   "Droids in Distress",
+   "Star Wars: Episode IV A New Hope",
+   "The Red One",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Star Wars: Episode VII The Force Awakens",
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null
+ },
+ {
+  "id": "c-3po",
+  "wp": "C-3PO",
+  "name": "C-3PO",
+  "kind": "droid",
+  "made": {
+   "y": -34,
+   "yText": "rebuilt between 34 and 32 BBY",
+   "by": "Anakin Skywalker"
+  },
+  "fate": {
+   "y": 35,
+   "yText": "35 ABY",
+   "frac": 0.9,
+   "text": "Serves the Resistance after Leia's death, as of the latest canon."
+  },
+  "summary": "A protocol droid Anakin rebuilds from scrap in the slave quarters of Mos Espa. He stays with Shmi, serves Padmé, is memory-wiped under Bail Organa, and is sold by Jawas to the Lars farm before decades of service to Luke and Leia.",
+  "custody": [
+   {
+    "holder": "Anakin Skywalker",
+    "from": {
+     "y": -34,
+     "yText": "c. 34 BBY"
+    },
+    "to": {
+     "y": -32,
+     "yText": "32 BBY",
+     "frac": 0.3
+    },
+    "how": "built",
+    "place": "Tatooine",
+    "record": "Star Wars: Episode I The Phantom Menace",
+    "note": "Rebuilds him from scrap to help his mother; an earlier C-3PO served a Manakron negotiator.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode I The Phantom Menace",
+     "Evil Plans",
+     "Star Wars Workbook: 2nd Grade Reading"
+    ]
+   },
+   {
+    "holder": "Shmi Skywalker Lars",
+    "from": {
+     "y": -32,
+     "yText": "32 BBY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.25
+    },
+    "how": "given",
+    "place": "Tatooine",
+    "record": "Star Wars: Episode I The Phantom Menace",
+    "note": "Left behind when Anakin departs; moves with her to Cliegg Lars's farm.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode I The Phantom Menace",
+     "Star Wars: Episode II Attack of the Clones"
+    ]
+   },
+   {
+    "holder": "Padmé Amidala Naberrie",
+    "from": {
+     "y": -22,
+     "yText": "22 BBY",
+     "frac": 0.25
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.5
+    },
+    "how": "given",
+    "place": "Tatooine",
+    "record": "Star Wars: Episode II Attack of the Clones",
+    "note": "Anakin takes him from the Lars farm; he serves Senator Amidala through the Clone Wars.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode II Attack of the Clones",
+     "Hostage Crisis"
+    ]
+   },
+   {
+    "holder": "Bail Prestor Organa",
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.6
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.95
+    },
+    "how": "claimed",
+    "place": null,
+    "record": "Star Wars: Episode III Revenge of the Sith",
+    "note": "Orders his memory wiped and puts him aboard the Tantive IV.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode III Revenge of the Sith"
+    ]
+   },
+   {
+    "holder": "Jawa",
+    "from": {
+     "y": -1,
+     "yText": "1 BBY, days before Yavin",
+     "frac": 0.96
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY, days before Yavin",
+     "frac": 0.962
+    },
+    "how": "seized",
+    "place": "Tatooine",
+    "record": "Star Wars: Episode IV A New Hope",
+    "note": "Captured in the desert after he and R2 part ways; reunited in a sandcrawler.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IV A New Hope"
+    ]
+   },
+   {
+    "holder": "Owen Lars",
+    "from": {
+     "y": -1,
+     "yText": "1 BBY, days before Yavin",
+     "frac": 0.962
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY, days before Yavin",
+     "frac": 0.964
+    },
+    "how": "bought",
+    "place": "Tatooine",
+    "record": "Star Wars: Episode IV A New Hope",
+    "note": "Picked for his vaporator know-how and his Bocce.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IV A New Hope"
+    ]
+   },
+   {
+    "holder": "Luke Skywalker",
+    "from": {
+     "y": -1,
+     "yText": "1 BBY, days before Yavin",
+     "frac": 0.964
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.3
+    },
+    "how": "given",
+    "place": "Tatooine",
+    "record": "Star Wars: Episode IV A New Hope",
+    "note": "Assigned to Luke; he follows him into the Rebellion.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IV A New Hope"
+    ]
+   },
+   {
+    "holder": "Jabba Desilijic Tiure",
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.32
+    },
+    "how": "given",
+    "place": "Tatooine",
+    "record": "Star Wars: Episode VI Return of the Jedi",
+    "note": "Offered as a gift in Luke's rescue ruse; made Jabba's interpreter.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode VI Return of the Jedi"
+    ]
+   },
+   {
+    "holder": "Luke Skywalker",
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.32
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.5
+    },
+    "how": "recovered",
+    "place": "Tatooine",
+    "record": "Star Wars: Episode VI Return of the Jedi",
+    "note": "Freed at the Great Pit; the Ewoks of Endor take him for a god.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode VI Return of the Jedi"
+    ]
+   },
+   {
+    "holder": "Leia Skywalker Organa Solo",
+    "from": {
+     "y": 4,
+     "yText": "after Endor (date unknown)",
+     "frac": 0.5
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.5
+    },
+    "how": "unknown",
+    "place": null,
+    "record": null,
+    "note": "Aide to Senator Organa, then runs her Resistance spy-droid network.",
+    "confidence": "inferred",
+    "sources": [
+     "Bloodline (novel)",
+     "Poe Dameron 8",
+     "Star Wars: Episode IX The Rise of Skywalker"
+    ]
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Evil Plans",
+   "Star Wars Workbook: 2nd Grade Reading",
+   "Star Wars: Episode II Attack of the Clones",
+   "Hostage Crisis",
+   "Star Wars: Episode III Revenge of the Sith",
+   "Star Wars: Episode IV A New Hope",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Bloodline (novel)",
+   "Poe Dameron 8",
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null
+ },
+ {
+  "id": "kanan-holocron",
+  "wp": "Kanan Jarrus' holocron",
+  "name": "Kanan's Jedi holocron",
+  "kind": "holocron",
+  "made": {
+   "y": -19,
+   "yText": "undated; Depa Billaba's by 19 BBY",
+   "by": "Jedi Order"
+  },
+  "fate": {
+   "y": -1,
+   "yText": "1 BBY",
+   "frac": 0.9,
+   "text": "A shard hangs on the Syndulla kalikori; the rest is unrecorded."
+  },
+  "summary": "A Jedi holocron Depa Billaba gives her Padawan as the Clone Wars end. Kanan stores Obi-Wan's warning in it; Ezra pockets it and opens it, and Maul later forces its fusion with a Sith holocron, which damages both.",
+  "custody": [
+   {
+    "holder": "Depa Billaba",
+    "from": {
+     "y": -19,
+     "yText": "by 19 BBY",
+     "frac": 0.0
+    },
+    "to": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.45
+    },
+    "how": "unknown",
+    "place": null,
+    "record": null,
+    "note": "Owned by the Council member, who wants her Padawan to study questioning and dissent.",
+    "confidence": "inferred",
+    "sources": [
+     "Kanan 1"
+    ]
+   },
+   {
+    "holder": "Kanan Jarrus",
+    "from": {
+     "y": -19,
+     "yText": "19 BBY",
+     "frac": 0.45
+    },
+    "to": {
+     "y": -5,
+     "yText": "5 BBY",
+     "frac": 0.3
+    },
+    "how": "given",
+    "place": "Kaller",
+    "record": null,
+    "note": "Loads Kenobi's warning to surviving Jedi into it after Order 66.",
+    "confidence": "explicit",
+    "sources": [
+     "Kanan 1",
+     "Star Wars Rebels: Spark of Rebellion"
+    ]
+   },
+   {
+    "holder": "Ezra Bridger",
+    "from": {
+     "y": -5,
+     "yText": "5 BBY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": -5,
+     "yText": "5 BBY",
+     "frac": 0.32
+    },
+    "how": "stolen",
+    "place": "Lothal",
+    "record": "Star Wars Rebels: Spark of Rebellion",
+    "note": "Senses it aboard the Ghost and pockets it; opening it proves his Force talent.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars Rebels: Spark of Rebellion"
+    ]
+   },
+   {
+    "holder": "Kanan Jarrus",
+    "from": {
+     "y": -5,
+     "yText": "5 BBY",
+     "frac": 0.32
+    },
+    "to": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.5
+    },
+    "how": "recovered",
+    "place": "Lothal",
+    "record": "Star Wars Rebels: Spark of Rebellion",
+    "note": "Uses its temple map and recordings, including Anakin's lesson, to train Ezra.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars Rebels: Spark of Rebellion",
+     "Shroud of Darkness"
+    ]
+   },
+   {
+    "holder": "Maul",
+    "from": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.5
+    },
+    "to": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.52
+    },
+    "how": "seized",
+    "place": null,
+    "record": "The Holocrons of Fate",
+    "note": "Finds it in Kanan's cabin while holding the Ghost crew hostage.",
+    "confidence": "explicit",
+    "sources": [
+     "The Holocrons of Fate"
+    ]
+   },
+   {
+    "holder": "Ezra Bridger",
+    "from": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.52
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.6
+    },
+    "how": "given",
+    "place": null,
+    "record": "The Holocrons of Fate",
+    "note": "Maul has him merge it with its Sith counterpart; the blast cracks both.",
+    "confidence": "explicit",
+    "sources": [
+     "The Holocrons of Fate",
+     "Twin Suns (episode)"
+    ]
+   },
+   {
+    "holder": "Hera Syndulla",
+    "from": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.6
+    },
+    "to": {
+     "y": -1,
+     "yText": "1 BBY",
+     "frac": 0.9
+    },
+    "how": "inherited",
+    "place": "Lothal",
+    "record": "DUME",
+    "note": "Hangs a shard on the Syndulla kalikori in Kanan's memory.",
+    "confidence": "explicit",
+    "sources": [
+     "DUME"
+    ]
+   }
+  ],
+  "sources": [
+   "Kanan 1",
+   "Star Wars Rebels: Spark of Rebellion",
+   "Shroud of Darkness",
+   "The Holocrons of Fate",
+   "Twin Suns (episode)",
+   "DUME"
+  ],
+  "conflict": null
+ },
+ {
+  "id": "malachor-sith-holocron",
+  "wp": "Sith holocron (Malachor)",
+  "name": "The Malachor Sith holocron",
+  "kind": "holocron",
+  "made": {
+   "y": -3966,
+   "yText": "thousands of years BBY (undated)",
+   "by": "Sith"
+  },
+  "fate": {
+   "y": -2,
+   "yText": "2 BBY",
+   "frac": 0.9,
+   "text": "Cracked in the fusion; last seen at Chopper Base, later fate unrecorded."
+  },
+  "summary": "An ancient Sith holocron hidden in the temple on Malachor, able to arm its superweapon. Ezra takes it out with Maul's help and grows drawn to it; Kanan leaves it with the Bendu, and Maul later demands it for a fusion that damages it.",
+  "custody": [
+   {
+    "holder": "Malachor Sith Temple",
+    "from": {
+     "y": -3966,
+     "yText": "thousands of years BBY"
+    },
+    "to": {
+     "y": -3,
+     "yText": "3 BBY",
+     "frac": 0.8
+    },
+    "how": "unknown",
+    "place": "Malachor",
+    "record": null,
+    "note": "Hidden under the temple after the ancient Jedi–Sith battle there.",
+    "confidence": "estimated",
+    "sources": [
+     "Twilight of the Apprentice"
+    ]
+   },
+   {
+    "holder": "Ezra Bridger",
+    "from": {
+     "y": -3,
+     "yText": "3 BBY",
+     "frac": 0.8
+    },
+    "to": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.3
+    },
+    "how": "found",
+    "place": "Malachor",
+    "record": "Twilight of the Apprentice",
+    "note": "Pulls it from a Sith altar with Maul, later pries it from the obelisk with Kanan.",
+    "confidence": "explicit",
+    "sources": [
+     "Twilight of the Apprentice",
+     "Steps Into Shadow"
+    ]
+   },
+   {
+    "holder": "Kanan Jarrus",
+    "from": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.32
+    },
+    "how": "claimed",
+    "place": "Atollon",
+    "record": "Steps Into Shadow",
+    "note": "Takes charge of it after catching Ezra studying its dark lessons.",
+    "confidence": "inferred",
+    "sources": [
+     "Steps Into Shadow"
+    ]
+   },
+   {
+    "holder": "Bendu",
+    "from": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.32
+    },
+    "to": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.5
+    },
+    "how": "entrusted",
+    "place": "Atollon",
+    "record": "Steps Into Shadow",
+    "note": "Stashes it in a cave guarded by krykna spiders.",
+    "confidence": "explicit",
+    "sources": [
+     "Steps Into Shadow"
+    ]
+   },
+   {
+    "holder": "Ezra Bridger",
+    "from": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.5
+    },
+    "to": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.51
+    },
+    "how": "recovered",
+    "place": "Atollon",
+    "record": "The Holocrons of Fate",
+    "note": "Fetches it from the krykna tunnels to ransom his captured friends.",
+    "confidence": "explicit",
+    "sources": [
+     "The Holocrons of Fate"
+    ]
+   },
+   {
+    "holder": "Maul",
+    "from": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.51
+    },
+    "to": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.52
+    },
+    "how": "given",
+    "place": null,
+    "record": "The Holocrons of Fate",
+    "note": "Fused with Kanan's holocron at Maul's demand; the explosion damages both.",
+    "confidence": "explicit",
+    "sources": [
+     "The Holocrons of Fate"
+    ]
+   },
+   {
+    "holder": "Ezra Bridger",
+    "from": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.52
+    },
+    "to": {
+     "y": -2,
+     "yText": "2 BBY",
+     "frac": 0.9
+    },
+    "how": "recovered",
+    "place": "Atollon",
+    "record": null,
+    "note": "The cracked holocron sits at Chopper Base; Maul keeps a shard to reach Ezra's mind.",
+    "confidence": "inferred",
+    "sources": [
+     "Twin Suns (episode)"
+    ]
+   }
+  ],
+  "sources": [
+   "Twilight of the Apprentice",
+   "Steps Into Shadow",
+   "The Holocrons of Fate",
+   "Twin Suns (episode)"
+  ],
+  "conflict": null
+ },
+ {
+  "id": "sacred-jedi-texts",
+  "wp": "Sacred Jedi texts",
+  "name": "The sacred Jedi texts",
+  "kind": "text",
+  "made": {
+   "y": -25025,
+   "yText": "undated; from the Jedi Order's dawn",
+   "by": "Jedi Order"
+  },
+  "fate": {
+   "y": 35,
+   "yText": "35 ABY",
+   "frac": 0.9,
+   "text": "Kept by Rey once Palpatine falls, as of the latest canon."
+  },
+  "summary": "Eight ancient books and scrolls dating to the Jedi Order's beginnings. Luke gathers them across the galaxy and shelves them inside a hollow tree on Ahch-To; Rey quietly takes them aboard the Falcon and uses their lessons to mend her saber and chart a way to Exegol.",
+  "custody": [
+   {
+    "holder": "Jedi Order",
+    "from": {
+     "y": -25025,
+     "yText": "the Order's dawn (undated)"
+    },
+    "to": {
+     "y": -320,
+     "yText": "undated"
+    },
+    "how": "built",
+    "place": null,
+    "record": null,
+    "note": "Written by early sages such as Kli the Elder and Lyr Farseeker.",
+    "confidence": "estimated",
+    "sources": [
+     "Star Wars: The Rise of Skywalker: The Visual Dictionary",
+     "Star Wars: The Rise of Skywalker: A Junior Novel"
+    ]
+   },
+   {
+    "holder": "Ri-Lee Howell",
+    "from": {
+     "y": -320,
+     "yText": "undated; before c. 319 BBY"
+    },
+    "to": {
+     "y": -319,
+     "yText": "c. 319 BBY"
+    },
+    "how": "entrusted",
+    "place": null,
+    "record": null,
+    "note": "A Jedi historian who preserves the two Aionomica volumes; a forged third surfaces c. 319 BBY.",
+    "confidence": "estimated",
+    "sources": [
+     "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+    ]
+   },
+   {
+    "holder": "Luke Skywalker",
+    "from": {
+     "y": 3,
+     "yText": "between 3 and 4 ABY"
+    },
+    "to": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.7
+    },
+    "how": "found",
+    "place": "Gazian",
+    "record": null,
+    "note": "Starts with a book from Gazian's Living Sea, adds the Rammahgon from Ossus, and annotates them.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars (2020) 20",
+     "Star Wars: The Last Jedi: The Visual Dictionary",
+     "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+    ]
+   },
+   {
+    "holder": "Rey Skywalker",
+    "from": {
+     "y": 34,
+     "yText": "34 ABY",
+     "frac": 0.7
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.9
+    },
+    "how": "claimed",
+    "place": "Ahch-To",
+    "record": "Star Wars: Episode VIII The Last Jedi",
+    "note": "Slips them onto the Falcon before Luke tries to burn the library tree.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode VIII The Last Jedi",
+     "Star Wars: Episode IX The Rise of Skywalker"
+    ]
+   }
+  ],
+  "sources": [
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary",
+   "Star Wars: The Rise of Skywalker: A Junior Novel",
+   "Star Wars (2020) 20",
+   "Star Wars: The Last Jedi: The Visual Dictionary",
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null
+ },
+ {
+  "id": "vader-wayfinder",
+  "wp": "Vader's wayfinder",
+  "name": "Vader's wayfinder",
+  "kind": "relic",
+  "made": {
+   "y": 3,
+   "yText": "undated; first held by the Eye of Webbish Bog",
+   "by": "Sith"
+  },
+  "fate": {
+   "y": 35,
+   "yText": "35 ABY",
+   "frac": 0.8,
+   "text": "Guides Rey to Exegol and gives the Resistance the route."
+  },
+  "summary": "One of two Sith wayfinders that chart the hidden route to Exegol. Mustafar's Eye of Webbish Bog gives it to Vader, who later returns it to the Eye's keeping on Mustafar. Kylo Ren takes it decades later, and Rey uses it to reach Palpatine.",
+  "custody": [
+   {
+    "holder": "Eye of Webbish Bog",
+    "from": {
+     "y": 3,
+     "yText": "before 3 ABY (undated)",
+     "frac": 0.0
+    },
+    "to": {
+     "y": 3,
+     "yText": "3 ABY",
+     "frac": 0.5
+    },
+    "how": "unknown",
+    "place": "Mustafar",
+    "record": null,
+    "note": "A Mustafar entity that holds the device before Vader arrives.",
+    "confidence": "estimated",
+    "sources": [
+     "Darth Vader (2020) 8"
+    ]
+   },
+   {
+    "holder": "Anakin Skywalker",
+    "from": {
+     "y": 3,
+     "yText": "3 ABY",
+     "frac": 0.5
+    },
+    "to": {
+     "y": 3,
+     "yText": "after 3 ABY",
+     "frac": 0.9
+    },
+    "how": "given",
+    "place": "Mustafar",
+    "record": null,
+    "note": "As Vader he uses it to learn what his master is doing on Exegol.",
+    "confidence": "explicit",
+    "sources": [
+     "Darth Vader (2020) 8",
+     "Darth Vader (2020) 9"
+    ]
+   },
+   {
+    "holder": "Eye of Webbish Bog",
+    "from": {
+     "y": 3,
+     "yText": "after 3 ABY",
+     "frac": 0.9
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.3
+    },
+    "how": "entrusted",
+    "place": "Mustafar",
+    "record": null,
+    "note": "Vader leaves it in the Eye's care; Alazmec cultists guard Fortress Vader's ruins.",
+    "confidence": "inferred",
+    "sources": [
+     "Star Wars: The Rise of Skywalker: Expanded Edition",
+     "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+    ]
+   },
+   {
+    "holder": "Ben Solo",
+    "from": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.3
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.6
+    },
+    "how": "given",
+    "place": "Mustafar",
+    "record": "Star Wars: Episode IX The Rise of Skywalker",
+    "note": "Cuts through the cultists; the Eye yields it and he flies to Exegol.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IX The Rise of Skywalker",
+     "Star Wars: The Rise of Skywalker: Expanded Edition"
+    ]
+   },
+   {
+    "holder": "Rey Skywalker",
+    "from": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.6
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.8
+    },
+    "how": "recovered",
+    "place": "Ahch-To",
+    "record": "Star Wars: Episode IX The Rise of Skywalker",
+    "note": "Salvages it from Kylo's burning TIE whisper on Ahch-To.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IX The Rise of Skywalker"
+    ]
+   }
+  ],
+  "sources": [
+   "Darth Vader (2020) 8",
+   "Darth Vader (2020) 9",
+   "Star Wars: The Rise of Skywalker: Expanded Edition",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary",
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null
+ },
+ {
+  "id": "emperor-wayfinder",
+  "wp": "Emperor's wayfinder",
+  "name": "The Emperor's wayfinder",
+  "kind": "relic",
+  "made": {
+   "y": 4,
+   "yText": "undated; aboard the second Death Star by 4 ABY",
+   "by": "Sith"
+  },
+  "fate": {
+   "y": 35,
+   "yText": "35 ABY",
+   "frac": 0.43,
+   "text": "Crushed by Kylo Ren on Kef Bir."
+  },
+  "summary": "Palpatine's own wayfinder, kept in the Imperial Vault beside the throne room of the unfinished second Death Star. It survives the station's fall in the wreckage on Kef Bir until Rey finds it; Kylo Ren crushes it to force her to go to Exegol with him.",
+  "custody": [
+   {
+    "holder": "Darth Sidious",
+    "from": {
+     "y": 4,
+     "yText": "by 4 ABY",
+     "frac": 0.0
+    },
+    "to": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.4
+    },
+    "how": "unknown",
+    "place": null,
+    "record": null,
+    "note": "Stored in his throne room's vault on the new battle station.",
+    "confidence": "inferred",
+    "sources": [
+     "Star Wars: Episode IX The Rise of Skywalker"
+    ]
+   },
+   {
+    "holder": "Death Star ruins",
+    "from": {
+     "y": 4,
+     "yText": "4 ABY",
+     "frac": 0.4
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.4
+    },
+    "how": "unknown",
+    "place": "Kef Bir",
+    "record": null,
+    "note": "Survives the station's destruction inside the wreck on Endor's ocean moon.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IX The Rise of Skywalker"
+    ]
+   },
+   {
+    "holder": "Rey Skywalker",
+    "from": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.4
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.42
+    },
+    "how": "found",
+    "place": "Kef Bir",
+    "record": "Star Wars: Episode IX The Rise of Skywalker",
+    "note": "Finds it off the ruined throne room; a dark vision makes her drop it.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IX The Rise of Skywalker"
+    ]
+   },
+   {
+    "holder": "Ben Solo",
+    "from": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.42
+    },
+    "to": {
+     "y": 35,
+     "yText": "35 ABY",
+     "frac": 0.43
+    },
+    "how": "seized",
+    "place": "Kef Bir",
+    "record": "Star Wars: Episode IX The Rise of Skywalker",
+    "note": "Picks it up, then crushes it so she must travel to Exegol with him.",
+    "confidence": "explicit",
+    "sources": [
+     "Star Wars: Episode IX The Rise of Skywalker"
+    ]
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null
+ },
+ {
+  "id": "arcana-star-map",
+  "wp": "Arcana Star Map",
+  "name": "The map to Peridea (Arcana Star Map)",
+  "kind": "map",
+  "made": {
+   "y": -3000,
+   "yText": "thousands of years before 9 ABY (undated)",
+   "by": null
+  },
+  "fate": {
+   "y": 9,
+   "yText": "c. 9 ABY",
+   "frac": 0.43,
+   "text": "Cut apart by Baylan Skoll's lightsaber on Seatos."
+  },
+  "summary": "A golden orb from a Nightsister temple on Arcana that projects the path to Peridea. Ahsoka finds it, Sabine unlocks it, and Shin Hati's droid takes it for Morgan Elsbeth; on Seatos, Sabine hands it to Baylan Skoll for passage to Ezra, and Baylan destroys it.",
+  "custody": [
+   {
+    "holder": "Nightsisters",
+    "from": {
+     "y": -3000,
+     "yText": "thousands of years ago (undated)"
+    },
+    "to": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.1
+    },
+    "how": "unknown",
+    "place": "Arcana",
+    "record": null,
+    "note": "Sealed in a temple built by Morgan Elsbeth's Nightsister ancestors.",
+    "confidence": "estimated",
+    "sources": [
+     "Part One: Master and Apprentice"
+    ]
+   },
+   {
+    "holder": "Ahsoka Tano",
+    "from": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.1
+    },
+    "to": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.12
+    },
+    "how": "found",
+    "place": "Arcana",
+    "record": "Part One: Master and Apprentice",
+    "note": "Recovers it from the temple and fights off assassin droids.",
+    "confidence": "explicit",
+    "sources": [
+     "Part One: Master and Apprentice"
+    ]
+   },
+   {
+    "holder": "Sabine Wren",
+    "from": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.12
+    },
+    "to": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.14
+    },
+    "how": "claimed",
+    "place": "Lothal",
+    "record": "Part One: Master and Apprentice",
+    "note": "Takes it home against Ahsoka's orders and solves its puzzle.",
+    "confidence": "explicit",
+    "sources": [
+     "Part One: Master and Apprentice"
+    ]
+   },
+   {
+    "holder": "Shin Hati",
+    "from": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.14
+    },
+    "to": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.2
+    },
+    "how": "taken in battle",
+    "place": "Lothal",
+    "record": "Part One: Master and Apprentice",
+    "note": "An HK assassin droid grabs it while Hati runs Sabine through.",
+    "confidence": "explicit",
+    "sources": [
+     "Part One: Master and Apprentice",
+     "Part Two: Toil and Trouble"
+    ]
+   },
+   {
+    "holder": "Morgan Elsbeth",
+    "from": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.2
+    },
+    "to": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.4
+    },
+    "how": "given",
+    "place": "Seatos",
+    "record": "Part Two: Toil and Trouble",
+    "note": "Baylan sets it on a pedestal on Seatos, and Elsbeth reads the pathway from it.",
+    "confidence": "explicit",
+    "sources": [
+     "Part Two: Toil and Trouble"
+    ]
+   },
+   {
+    "holder": "Ahsoka Tano",
+    "from": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.4
+    },
+    "to": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.41
+    },
+    "how": "seized",
+    "place": "Seatos",
+    "record": "Part Four: Fallen Jedi",
+    "note": "Grabs the orb to break the projection, burning her hand.",
+    "confidence": "explicit",
+    "sources": [
+     "Part Four: Fallen Jedi"
+    ]
+   },
+   {
+    "holder": "Sabine Wren",
+    "from": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.41
+    },
+    "to": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.42
+    },
+    "how": "entrusted",
+    "place": "Seatos",
+    "record": "Part Four: Fallen Jedi",
+    "note": "Told to destroy it, she holds it at blaster point instead.",
+    "confidence": "inferred",
+    "sources": [
+     "Part Four: Fallen Jedi"
+    ]
+   },
+   {
+    "holder": "Baylan Skoll",
+    "from": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.42
+    },
+    "to": {
+     "y": 9,
+     "yText": "c. 9 ABY",
+     "frac": 0.43
+    },
+    "how": "given",
+    "place": "Seatos",
+    "record": "Part Four: Fallen Jedi",
+    "note": "Sabine hands it over for passage to Ezra; he completes the course, then destroys it.",
+    "confidence": "explicit",
+    "sources": [
+     "Part Four: Fallen Jedi",
+     "Part Five: Shadow Warrior"
+    ]
+   }
+  ],
+  "sources": [
+   "Part One: Master and Apprentice",
+   "Part Two: Toil and Trouble",
+   "Part Four: Fallen Jedi",
+   "Part Five: Shadow Warrior"
+  ],
+  "conflict": null
+ }
+]
