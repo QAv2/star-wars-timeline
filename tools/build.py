@@ -330,7 +330,10 @@ def main():
     anomalies = fix_points(load_json(os.path.join(CUR, "anomalies.json"), []))
     for a in anomalies:
         a["recs"] = src_recs(a)
-    personnel = fix_points(load_json(os.path.join(CUR, "personnel.json"), []))
+    personnel = []
+    for f in sorted(glob.glob(os.path.join(CUR, "personnel*.json"))):
+        personnel += [d for d in load_json(f, []) if isinstance(d, dict)]
+    personnel = fix_points(personnel)
     for d in personnel:
         d["wp"] = key(d.get("wp") or "")
 
