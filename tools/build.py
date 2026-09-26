@@ -349,6 +349,7 @@ def main():
         "series": SERIES, "records": recs, "people": people_out, "places": places_out,
         "events": events, "levents": levents, "visions": visions, "lineages": lineages,
         "artifacts": artifacts, "anomalies": anomalies, "personnel": personnel,
+        "routes": load_json(os.path.join(ROOT, "build", "routes.json"), []),
     }
     os.makedirs(os.path.join(ROOT, "docs", "data"), exist_ok=True)
     out = os.path.join(ROOT, "docs", "data", "archive.json")

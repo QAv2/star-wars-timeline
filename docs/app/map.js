@@ -186,6 +186,25 @@ export class GalaxyMap {
     ctx.fillStyle = token('--c-map-ring-text', '#4f6384');
     ctx.save(); ctx.translate(cx - 9.6 * unit, cy); ctx.rotate(-Math.PI / 2); ctx.fillText('UNKNOWN REGIONS', 0, 0); ctx.restore();
 
+    // the great hyperspace lanes
+    ctx.strokeStyle = token('--c-map-route', 'rgba(223,183,124,.3)'); ctx.lineWidth = clamp(1.1 * Math.sqrt(k), 1.1, 2.4);
+    ctx.lineJoin = 'round'; ctx.lineCap = 'round';
+    const rlabels = [];
+    for (const rt of this.S.routes || []) {
+      const pts = rt.pts.map(([c, r]) => [this.sx(c), this.sy(r)]);
+      ctx.beginPath(); ctx.moveTo(pts[0][0], pts[0][1]);
+      for (let i = 1; i < pts.length; i++) {
+        const p0 = pts[i - 2] || pts[i - 1], p1 = pts[i - 1], p2 = pts[i], p3 = pts[i + 1] || p2;
+        ctx.bezierCurveTo(p1[0] + (p2[0] - p0[0]) / 6, p1[1] + (p2[1] - p0[1]) / 6, p2[0] - (p3[0] - p1[0]) / 6, p2[1] - (p3[1] - p1[1]) / 6, p2[0], p2[1]);
+      }
+      ctx.stroke();
+      const end = pts[pts.length - 1], prev = pts[pts.length - 2];
+      rlabels.push({ name: rt.name.replace(/ Trade Route$/, ''), x: end[0], y: end[1], ang: Math.atan2(end[1] - prev[1], end[0] - prev[0]) });
+    }
+    ctx.fillStyle = token('--c-map-route-text', '#8a7250'); ctx.font = `italic 500 ${clamp(10.5 * Math.sqrt(k), 10.5, 13)}px ${ui}`;
+    ctx.textAlign = 'left'; ctx.textBaseline = 'middle';
+    for (const L of rlabels) { ctx.fillText(L.name, L.x + 6 * Math.cos(L.ang) + 4, L.y + 10 * Math.sin(L.ang)); }
+
     // worlds
     const P = { dot: token('--c-map-planet', '#6f86a3'), lit: token('--c-map-lit', '#7fd8ff'), loc: token('--locator', '#ffcf7a'), ink: token('--ink', '#e8f3f8'), dim: token('--dim', '#92a3b7'), bg: token('--c-map-bg', '#060a12') };
     const labels = [];

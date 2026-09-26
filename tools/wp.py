@@ -165,7 +165,7 @@ def split_params(body):
     return out
 
 
-INFOBOX_RE = (r"TelevisionEpisode|Movie|Film|CelestialBody|StarSystem|Sector|Character|Individual|Droid|Planet|Battle|Mission|Event|War|"
+INFOBOX_RE = (r"TelevisionEpisode|Movie|Film|CelestialBody|StarSystem|Sector|TradeRoute|Character|Individual|Droid|Planet|Battle|Mission|Event|War|"
               r"Organization|Government|Weapon|Lightsaber|Artifact|Device|Ship|Starship|Vehicle|Species|"
               r"Book|Novel|ComicBook|Comic|Game|VideoGame|Holocron|Location|City|System|Sector|Region|"
               r"Religion|Title|Position|Treaty|Law|Duel|Campaign|Holiday|Era|Media|Television|Series|Short story")

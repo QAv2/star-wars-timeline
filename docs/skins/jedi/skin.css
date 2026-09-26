@@ -18,6 +18,7 @@
   --c-ribbon-density: #28436a; --c-ribbon-window: rgba(255, 207, 122, 0.12);
   --c-map-bg: #060a12; --c-map-ring: rgba(127, 216, 255, 0.10); --c-map-ring-text: #4f6384; --c-map-grid: rgba(169, 125, 69, 0.10);
   --c-map-unknown: rgba(3, 5, 10, 0.72); --c-map-planet: #6f86a3; --c-map-lit: #7fd8ff;
+  --c-map-route: rgba(223, 183, 124, 0.36); --c-map-route-text: #a48a62;
   --c-era-blocks: #1a2a44 #203352 #1a2a44 #203352;
 
   /* lanes: a cool holo spectrum; warm tones only where a show's own identity is warm */

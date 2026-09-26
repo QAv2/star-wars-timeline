@@ -35,7 +35,7 @@ export async function loadArchive() {
   const S = {
     meta: A.meta, series: A.series, lanes: A.lanes, laneById: new Map(),
     records: A.records, recById: new Map(), recByWp: new Map(),
-    people: A.people, personByKey: new Map(), places: A.places, placeByKey: new Map(),
+    people: A.people, personByKey: new Map(), places: A.places, placeByKey: new Map(), routes: A.routes || [],
     events: [], levents: [], evById: new Map(), visions: [], visById: new Map(),
     lineages: A.lineages || {}, lines: [], lineById: new Map(), offices: [], officeById: new Map(),
     artifacts: [], artById: new Map(), anomalies: [], anById: new Map(), personnel: A.personnel || [],
