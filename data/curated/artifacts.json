@@ -7,7 +7,8 @@
   "made": {
    "y": -1050,
    "yText": "c. 1050 BBY",
-   "by": "Tarre Vizsla"
+   "by": "Tarre Vizsla",
+   "frac": 0.0
   },
   "fate": {
    "y": 9,
@@ -449,7 +450,8 @@
   "made": {
    "y": -22,
    "yText": "22 BBY",
-   "by": "Anakin Skywalker"
+   "by": "Anakin Skywalker",
+   "frac": 0.4
   },
   "fate": {
    "y": 35,
@@ -919,7 +921,8 @@
   "made": {
    "y": 4,
    "yText": "4 ABY",
-   "by": "Luke Skywalker"
+   "by": "Luke Skywalker",
+   "frac": 0.1
   },
   "fate": {
    "y": 34,
@@ -1034,7 +1037,8 @@
   "made": {
    "y": 4,
    "yText": "4 ABY",
-   "by": "Leia Skywalker Organa Solo"
+   "by": "Leia Skywalker Organa Solo",
+   "frac": 0.6
   },
   "fate": {
    "y": 35,
@@ -1125,7 +1129,8 @@
   "made": {
    "y": -22,
    "yText": "before 22 BBY",
-   "by": "Ahsoka Tano"
+   "by": "Ahsoka Tano",
+   "frac": 0.4
   },
   "fate": {
    "y": -19,
@@ -1482,12 +1487,13 @@
  {
   "id": "sabine-lightsaber",
   "wp": "Sabine Wren's lightsaber",
-  "name": "Ezra's green lightsaber (Sabine's)",
+  "name": "Ezra's second lightsaber (now Sabine's)",
   "kind": "lightsaber",
   "made": {
    "y": -3,
    "yText": "between 3 and 2 BBY",
-   "by": "Ezra Bridger"
+   "by": "Ezra Bridger",
+   "frac": 0.9
   },
   "fate": {
    "y": 9,
@@ -1764,7 +1770,8 @@
   "made": {
    "y": -19,
    "yText": "19 BBY",
-   "by": "Cylo"
+   "by": "Cylo",
+   "frac": 0.5
   },
   "fate": {
    "y": 35,
@@ -2078,7 +2085,8 @@
   "made": {
    "y": -22,
    "yText": "by 22 BBY",
-   "by": "Poggle the Lesser"
+   "by": "Poggle the Lesser",
+   "frac": 0.2
   },
   "fate": {
    "y": 0,
@@ -2671,7 +2679,8 @@
   "made": {
    "y": -32,
    "yText": "by 32 BBY",
-   "by": "Industrial Automaton"
+   "by": "Industrial Automaton",
+   "frac": 0.3
   },
   "fate": {
    "y": 35,
@@ -3056,7 +3065,7 @@
     "how": "claimed",
     "place": null,
     "record": "Star Wars: Episode III Revenge of the Sith",
-    "note": "Orders his memory wiped and puts him aboard the Tantive IV.",
+    "note": "Orders his memory wiped and assigns him to Captain Antilles's corvette.",
     "confidence": "explicit",
     "sources": [
      "Star Wars: Episode III Revenge of the Sith"
@@ -3214,7 +3223,8 @@
   "made": {
    "y": -19,
    "yText": "undated; Depa Billaba's by 19 BBY",
-   "by": "Jedi Order"
+   "by": "Jedi Order",
+   "frac": 0.0
   },
   "fate": {
    "y": -1,
@@ -3679,7 +3689,8 @@
   "made": {
    "y": 3,
    "yText": "undated; first held by the Eye of Webbish Bog",
-   "by": "Sith"
+   "by": "Sith",
+   "frac": 0.0
   },
   "fate": {
    "y": 35,
@@ -3815,7 +3826,8 @@
   "made": {
    "y": 4,
    "yText": "undated; aboard the second Death Star by 4 ABY",
-   "by": "Sith"
+   "by": "Sith",
+   "frac": 0.0
   },
   "fate": {
    "y": 35,
@@ -3823,7 +3835,7 @@
    "frac": 0.43,
    "text": "Crushed by Kylo Ren on Kef Bir."
   },
-  "summary": "Palpatine's own wayfinder, kept in the Imperial Vault beside the throne room of the unfinished second Death Star. It survives the station's fall in the wreckage on Kef Bir until Rey finds it; Kylo Ren crushes it to force her to go to Exegol with him.",
+  "summary": "Palpatine's own wayfinder, kept in the Imperial Vault next to his private throne room on the unfinished second Death Star. It survives the station's fall in the wreckage on Kef Bir until Rey finds it; Kylo Ren crushes it to force her to go to Exegol with him.",
   "custody": [
    {
     "holder": "Darth Sidious",

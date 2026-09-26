@@ -319,9 +319,14 @@ def main():
         for h in o.get("holders", []) or []:
             h["who"] = key(h.get("who"))
     artifacts = fix_points(load_json(os.path.join(CUR, "artifacts.json"), []))
+    appears = collections.defaultdict(list)   # person key → canon records they appear in (droid relics)
+    for x in recs:
+        if not x.get("leg"):
+            for i in x["c"]:
+                appears[people[i]].append(x["id"])
     for a in artifacts:
         k = key(a.get("wp") or "")
-        a["recs"] = [rid for rid, ob in objs_of.items() if k and k in ob]
+        a["recs"] = [rid for rid, ob in objs_of.items() if k and k in ob] or appears.get(k, [])
         for c in a.get("custody", []) or []:
             c["holder"] = key(c.get("holder") or "")
             rec = rec_by_wp.get(c.get("record") or "")
