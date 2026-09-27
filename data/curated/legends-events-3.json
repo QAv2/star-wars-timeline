@@ -1,0 +1,3005 @@
+[
+ {
+  "id": "leg-imperial-civil-war",
+  "title": "Warlords tear the leaderless Empire apart",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.2,
+  "y2": 12,
+  "y2Text": "12 ABY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Empire",
+  "summary": "With Palpatine dead, the Empire loses its center. Advisors, moffs and admirals such as Isard, Zsinj, Krennel and Teradoc carve out rival realms and fight each other as often as the New Republic, until Daala and Pellaeon force the survivors together in 12 ABY.",
+  "wp": "Imperial Civil War",
+  "places": [],
+  "people": [
+   "Ysanne Isard",
+   "Zsinj",
+   "Delak Krennel",
+   "Natasi Daala",
+   "Gilad Pellaeon/Legends"
+  ],
+  "sources": [
+   "Darksaber (novel)",
+   "The New Essential Chronology",
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-nagai-tof-war",
+  "title": "Nagai and Tof invaders strike after Endor",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.2,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Nagai",
+  "summary": "Nagai raiders from a satellite galaxy, allied with the Sith Lady Lumiya, strike the Alliance days after Endor. When their old oppressors, the Tof, follow them in, the Nagai switch sides, and Republic, Mandalorian and Imperial forces drive the Tof from Saijo.",
+  "wp": "Nagai–Tof War",
+  "places": [
+   "Endor/Legends",
+   "Saijo/Legends"
+  ],
+  "people": [
+   "Lumiya",
+   "Fenn Shysa",
+   "Luke Skywalker/Legends",
+   "Gial Ackbar/Legends"
+  ],
+  "sources": [
+   "Star Wars (1977) 88",
+   "Star Wars (1977) 107",
+   "The Forgotten War: The Nagai and the Tofs",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-new-republic-declared",
+  "title": "The Declaration of a New Republic is signed",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "founding",
+  "polity": "New Republic",
+  "summary": "A month after Endor, with the Nagai War raging, Mon Mothma issues the Declaration of a New Republic, turning the interim Alliance of Free Planets into a government under a Chief of State and a Provisional Council. Leia, Borsk Fey'lya, Ackbar and six other delegates sign it.",
+  "wp": "Declaration of a New Republic/Legends",
+  "places": [],
+  "people": [
+   "Mon Mothma/Legends",
+   "Leia Organa Solo/Legends",
+   "Borsk Fey'lya",
+   "Gial Ackbar/Legends"
+  ],
+  "sources": [
+   "Heir to the Empire Sourcebook",
+   "The Forgotten War: The Nagai and the Tofs",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-hett-leaves-korriban",
+  "title": "A'Sharad Hett emerges from Korriban's tombs",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Chasing a bounty onto Korriban, the exiled Jedi A'Sharad Hett studies the dark side under the spirit of the ancient Sith Lady XoXaan. He emerges to find Palpatine and Vader already dead and, denied his revenge, heads into the Unknown Regions.",
+  "wp": "Darth Krayt",
+  "places": [
+   "Korriban/Legends",
+   "Unknown Regions/Legends"
+  ],
+  "people": [
+   "Darth Krayt",
+   "XoXaan"
+  ],
+  "sources": [
+   "Legacy (2006) 17",
+   "Legacy (2006) 18"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-isard-takes-imperial-center",
+  "title": "Ysanne Isard seizes control of Imperial Center",
+  "y": 5,
+  "yText": "5 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Empire",
+  "summary": "Intelligence Director Ysanne Isard undermines Grand Vizier Sate Pestage, who has governed since Palpatine's death, until he flees and the warlord Delak Krennel kills him at Ciutric. Isard has the Ruling Council's leaders picked off and rules Coruscant as empress in all but name.",
+  "wp": "Ysanne Isard",
+  "places": [
+   "Coruscant/Legends",
+   "Ciutric IV"
+  ],
+  "people": [
+   "Ysanne Isard",
+   "Sate Pestage/Legends",
+   "Delak Krennel"
+  ],
+  "sources": [
+   "Star Wars: X-Wing Rogue Squadron: Mandatory Retirement",
+   "Star Wars: X-Wing Rogue Squadron: Masquerade",
+   "The New Essential Guide to Characters"
+  ],
+  "conflict": "Star Wars: X-Wing Rogue Squadron: Mandatory Retirement has Krennel kill Pestage on Ciutric IV in 5 ABY, while The New Essential Guide to Characters places him alive on Byss until 11 ABY; Wookieepedia lists both deaths.",
+  "weight": 1
+ },
+ {
+  "id": "leg-battle-of-mindor",
+  "title": "Luke defeats Lord Shadowspawn at Mindor",
+  "y": 5,
+  "yText": "5.5 ABY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "New Republic",
+  "summary": "General Luke Skywalker leads a task force against Lord Shadowspawn, whose shadow stormtroopers raid the Inner Rim from Mindor. Behind the mask is Cronal, who means to take Luke's body. Luke destroys him, but thousands of Cronal's mind-bound troops die with him.",
+  "wp": "Battle of Mindor",
+  "places": [
+   "Mindor/Legends"
+  ],
+  "people": [
+   "Luke Skywalker/Legends",
+   "Cronal",
+   "Lando Calrissian/Legends",
+   "Fenn Shysa"
+  ],
+  "sources": [
+   "Luke Skywalker and the Shadows of Mindor",
+   "The Essential Guide to Warfare",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-rogue-squadron-reformed",
+  "title": "Wedge Antilles rebuilds Rogue Squadron",
+  "y": 6,
+  "yText": "6.5 ABY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "New Republic",
+  "summary": "Admiral Ackbar has Wedge Antilles rebuild Rogue Squadron from scratch with the best pilots he can find, among them the Corellian ex-security officer Corran Horn. After a costly first strike at Borleias, the new Rogues spearhead the push toward Coruscant.",
+  "wp": "Rogue Squadron/Legends",
+  "places": [
+   "Borleias/Legends"
+  ],
+  "people": [
+   "Wedge Antilles/Legends",
+   "Corran Horn/Legends",
+   "Gial Ackbar/Legends"
+  ],
+  "sources": [
+   "X-Wing: Rogue Squadron",
+   "The New Essential Chronology",
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-hunt-for-zsinj",
+  "title": "Han Solo hunts the warlord Zsinj",
+  "y": 6,
+  "yText": "6.5 ABY",
+  "frac": 0.6,
+  "y2": 8,
+  "y2Text": "8 ABY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "New Republic",
+  "summary": "General Han Solo leads a fleet against Zsinj, the strongest of the warlords, whose Super Star Destroyer Iron Fist raids the Outer Rim. Wraith Squadron and the Rogues join the chase, which ends over Dathomir when Han fires missiles into Zsinj's bridge.",
+  "wp": "Hunt for Zsinj",
+  "places": [
+   "Dathomir/Legends"
+  ],
+  "people": [
+   "Zsinj",
+   "Han Solo/Legends",
+   "Wedge Antilles/Legends"
+  ],
+  "sources": [
+   "X-Wing: Wraith Squadron",
+   "X-Wing: Solo Command",
+   "The Courtship of Princess Leia",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-new-republic-takes-coruscant",
+  "title": "The New Republic takes Coruscant",
+  "y": 7,
+  "yText": "7 ABY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "New Republic",
+  "summary": "Rogue Squadron slips onto Coruscant and brings down its shield by boiling a reservoir with an orbital mirror, raising a storm that wrecks the power grid. Ackbar's forces take the capital, but Isard has already released the Krytos virus, which kills only non-Humans.",
+  "wp": "Liberation of Coruscant (Galactic Civil War)",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Wedge Antilles/Legends",
+   "Corran Horn/Legends",
+   "Ysanne Isard",
+   "Gial Ackbar/Legends"
+  ],
+  "sources": [
+   "X-Wing: Wedge's Gamble",
+   "X-Wing: The Krytos Trap",
+   "The Essential Atlas",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-jagged-fel-born",
+  "title": "Jagged Fel is born on Nirauan",
+  "y": 7,
+  "yText": "7 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "Empire of the Hand",
+  "summary": "Jagged Fel is born in the Unknown Regions to the Imperial ace Soontir Fel and Syal Antilles, Wedge's sister. Raised among the Chiss, he becomes a star pilot, marries Jaina Solo, and in time takes the throne of the Fel Empire.",
+  "wp": "Jagged Fel",
+  "places": [
+   "Nirauan/Legends"
+  ],
+  "people": [
+   "Jagged Fel",
+   "Soontir Fel/Legends",
+   "Syal Antilles Fel"
+  ],
+  "sources": [
+   "The New Essential Chronology",
+   "The New Essential Guide to Characters",
+   "The Complete Star Wars Encyclopedia"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-bacta-war",
+  "title": "Rogue Squadron wages the Bacta War",
+  "y": 7,
+  "yText": "7.5 ABY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "New Republic",
+  "summary": "Isard flees Coruscant and takes over Thyferra and its bacta. When the New Republic will not act, the Rogues resign and fight her privately, raiding convoys until they capture her Super Star Destroyer Lusankya. Isard seems to die escaping; the Rogues are quietly reinstated.",
+  "wp": "Bacta War",
+  "places": [
+   "Thyferra/Legends"
+  ],
+  "people": [
+   "Wedge Antilles/Legends",
+   "Ysanne Isard",
+   "Corran Horn/Legends",
+   "Booster Terrik"
+  ],
+  "sources": [
+   "X-Wing: The Bacta War",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-han-and-leia-marry",
+  "title": "Han and Leia marry after Dathomir",
+  "y": 8,
+  "yText": "8 ABY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "culture",
+  "polity": "New Republic",
+  "summary": "When Prince Isolder offers Leia marriage and the Hapes Consortium's wealth, Han wins the planet Dathomir at sabacc and carries her off there. Luke and Isolder follow, the Nightsisters and Zsinj are beaten, and Han and Leia marry on Coruscant six weeks later.",
+  "wp": "Wedding of Han Solo and Leia Organa/Legends",
+  "places": [
+   "Dathomir/Legends",
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Han Solo/Legends",
+   "Leia Organa Solo/Legends",
+   "Isolder",
+   "Teneniel Djo"
+  ],
+  "sources": [
+   "The Courtship of Princess Leia",
+   "The Essential Chronology (real-world book)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-thrawn-campaign",
+  "title": "Grand Admiral Thrawn nearly topples the Republic",
+  "y": 9,
+  "yText": "9 ABY",
+  "frac": 0.34,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Empire",
+  "summary": "Grand Admiral Thrawn returns from the Unknown Regions to lead the Imperial fleet. With the mad Jedi clone Joruus C'baoth, Force-blocking ysalamiri and clone troops grown on Wayland, he wins battle after battle and besieges Coruscant with cloaked asteroids.",
+  "wp": "Thrawn campaign",
+  "places": [
+   "Wayland/Legends",
+   "Myrkr",
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Mitth'raw'nuruodo/Legends",
+   "Gilad Pellaeon/Legends",
+   "Joruus C'baoth",
+   "Luke Skywalker/Legends",
+   "Talon Karrde"
+  ],
+  "sources": [
+   "Heir to the Empire",
+   "Dark Force Rising",
+   "The Last Command",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-noghri-renounce-empire",
+  "title": "Leia turns the Noghri against the Empire",
+  "y": 9,
+  "yText": "9 ABY",
+  "frac": 0.53,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Noghri",
+  "summary": "On Honoghr, Leia proves to the Noghri, the Empire's commando-assassins, that Imperial droids sent to heal their poisoned world have kept the land barren on purpose. The clans renounce their oath to the Empire and pledge themselves to Leia, Vader's daughter.",
+  "wp": "Noghri revolution",
+  "places": [
+   "Honoghr/Legends"
+  ],
+  "people": [
+   "Leia Organa Solo/Legends",
+   "Khabarakh",
+   "Mitth'raw'nuruodo/Legends",
+   "Chewbacca/Legends"
+  ],
+  "sources": [
+   "Dark Force Rising",
+   "The Last Command",
+   "Heir to the Empire"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-battle-for-katana-fleet",
+  "title": "Thrawn wins the race for the Katana fleet",
+  "y": 9,
+  "yText": "9 ABY",
+  "frac": 0.58,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Empire",
+  "summary": "Both sides race for the Katana fleet, two hundred Old Republic Dreadnaughts lost in deep space for decades. Karrde's smugglers, Bel Iblis and Mara Jade help the Republic win the fight, but only fifteen ships remain: Thrawn has taken the rest and crewed them with clones.",
+  "wp": "Battle for the Katana fleet",
+  "places": [],
+  "people": [
+   "Han Solo/Legends",
+   "Garm Bel Iblis/Legends",
+   "Mara Jade Skywalker",
+   "Talon Karrde",
+   "Borsk Fey'lya"
+  ],
+  "sources": [
+   "Dark Force Rising",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-solo-twins-born",
+  "title": "Jacen and Jaina Solo are born",
+  "y": 9,
+  "yText": "9 ABY",
+  "frac": 0.72,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "New Republic",
+  "summary": "Leia gives birth to twins on Coruscant in the last days of the Thrawn campaign, and Imperial agents sent to seize them for C'baoth fail. Jaina will become the Sword of the Jedi; Jacen will fall to the dark side as Darth Caedus.",
+  "wp": "Jaina Solo Fel",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Jaina Solo Fel",
+   "Darth Caedus",
+   "Leia Organa Solo/Legends",
+   "Han Solo/Legends"
+  ],
+  "sources": [
+   "The Last Command",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-thrawn-dies-at-bilbringi",
+  "title": "Thrawn is killed by his bodyguard at Bilbringi",
+  "y": 9,
+  "yText": "9 ABY",
+  "frac": 0.78,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Empire",
+  "summary": "Thrawn is winning the fight over the Bilbringi shipyards when Rukh, his Noghri bodyguard, stabs him for the Empire's betrayal of his people. Pellaeon pulls the fleet back. On Wayland, Luke and Mara kill Joruus C'baoth and the cloning center falls.",
+  "wp": "Battle of Bilbringi (9 ABY)",
+  "places": [
+   "Bilbringi system/Legends",
+   "Wayland/Legends"
+  ],
+  "people": [
+   "Mitth'raw'nuruodo/Legends",
+   "Rukh/Legends",
+   "Gilad Pellaeon/Legends",
+   "Joruus C'baoth",
+   "Mara Jade Skywalker"
+  ],
+  "sources": [
+   "The Last Command",
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-imperial-mutiny-coruscant",
+  "title": "The Empire retakes Coruscant, then turns on itself",
+  "y": 10,
+  "yText": "10 ABY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Empire",
+  "summary": "Imperial fleets pour out of the Deep Core, secretly steered by a reborn Palpatine, and force the New Republic to abandon Coruscant. With the capital taken, the Imperial factions turn on each other, and their fighting leaves much of the planet in ruins.",
+  "wp": "Second Battle of Coruscant",
+  "places": [
+   "Coruscant/Legends",
+   "Da Soocha V"
+  ],
+  "people": [
+   "Mon Mothma/Legends",
+   "Luke Skywalker/Legends",
+   "Palpatine/Legends"
+  ],
+  "sources": [
+   "Dark Empire 1",
+   "Dark Empire Sourcebook",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-palpatine-reborn",
+  "title": "Palpatine returns in a clone body",
+  "y": 10,
+  "yText": "10 ABY",
+  "frac": 0.3,
+  "y2": 11,
+  "y2Text": "11 ABY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Dark Empire",
+  "summary": "Reborn in a clone body on Byss, Palpatine launches the Dark Empire's offensive. Luke joins him to destroy him from within and truly falls, while World Devastators ravage Mon Calamari. Leia draws Luke back, and together they turn Palpatine's Force storm against him.",
+  "wp": "Operation Shadow Hand",
+  "places": [
+   "Byss/Legends",
+   "Dac/Legends",
+   "Da Soocha V"
+  ],
+  "people": [
+   "Palpatine/Legends",
+   "Luke Skywalker/Legends",
+   "Leia Organa Solo/Legends"
+  ],
+  "sources": [
+   "Dark Empire 1",
+   "Dark Empire 6",
+   "The Essential Atlas",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-anakin-solo-born",
+  "title": "Anakin Solo is born",
+  "y": 10,
+  "yText": "10.5 ABY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "New Republic",
+  "summary": "Leia gives birth to her third child, a son named for his grandfather, at the New Republic's refuge on Nespis VIII as the war with the Dark Empire goes badly. Palpatine soon wants the infant's body for his own.",
+  "wp": "Anakin Solo",
+  "places": [
+   "Nespis VIII"
+  ],
+  "people": [
+   "Anakin Solo",
+   "Leia Organa Solo/Legends",
+   "Han Solo/Legends"
+  ],
+  "sources": [
+   "Dark Empire II 6",
+   "The New Essential Guide to Characters"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-palpatine-final-death",
+  "title": "Palpatine dies for the last time",
+  "y": 11,
+  "yText": "11 ABY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Dark Empire",
+  "summary": "His clone bodies sabotaged, a failing Palpatine attacks the Jedi on Onderon to take the infant Anakin Solo as a host. The Jedi Empatojayos Brand traps his spirit within himself and dies holding it, and R2-D2 sends the Eclipse II crashing into the Galaxy Gun, destroying Byss.",
+  "wp": "Battle of Onderon (Galactic Civil War)",
+  "places": [
+   "Onderon/Legends",
+   "Byss/Legends"
+  ],
+  "people": [
+   "Palpatine/Legends",
+   "Empatojayos Brand",
+   "Anakin Solo",
+   "R2-D2/Legends"
+  ],
+  "sources": [
+   "Empire's End 2",
+   "Empire's End 1",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-crimson-empire",
+  "title": "Kir Kanos hunts the Emperor's betrayers",
+  "y": 11,
+  "yText": "11 ABY",
+  "frac": 0.2,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Empire",
+  "summary": "Carnor Jax, a Royal Guard who helped poison Palpatine's clones, claims the throne. Kir Kanos, the last loyal guardsman, kills him on Yinchorr, then hunts the Interim Ruling Council and executes Xandel Carivus, the last man to call himself Emperor.",
+  "wp": "Kir Kanos",
+  "places": [
+   "Yinchorr/Legends",
+   "Ord Cantrell/Legends"
+  ],
+  "people": [
+   "Kir Kanos",
+   "Carnor Jax",
+   "Xandel Carivus"
+  ],
+  "sources": [
+   "Crimson Empire 6",
+   "Crimson Empire II: Council of Blood 6",
+   "The New Essential Guide to Characters",
+   "Star Wars Handbook 2: Crimson Empire"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-jedi-praxeum-founded",
+  "title": "Luke founds the Jedi Praxeum on Yavin 4",
+  "y": 11,
+  "yText": "11 ABY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Luke gathers Force-sensitives from across the galaxy, among them Gantoris, Streen, Kam Solusar, Tionne and Kyp Durron, and opens an academy in the Massassi temple on Yavin 4. It trains the New Jedi Order's Knights for fifteen years.",
+  "wp": "Jedi Praxeum",
+  "places": [
+   "Yavin 4/Legends"
+  ],
+  "people": [
+   "Luke Skywalker/Legends",
+   "Kyp Durron",
+   "Kam Solusar",
+   "Tionne Solusar",
+   "Gantoris"
+  ],
+  "sources": [
+   "Jedi Search",
+   "Dark Apprentice (novel)",
+   "Champions of the Force",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-daala-leaves-maw",
+  "title": "Admiral Daala breaks out of the Maw",
+  "y": 11,
+  "yText": "11 ABY",
+  "frac": 0.45,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "discovery",
+  "polity": "Empire",
+  "summary": "Escaping Kessel's spice mines, Han, Chewbacca and young Kyp Durron stumble into the Maw Installation, a hidden weapons lab where Admiral Daala has waited since Tarkin's day. They flee with the scientist Qwi Xux and the Sun Crusher, and Daala's fleet breaks out.",
+  "wp": "Maw Installation",
+  "places": [
+   "Maw Cluster/Legends",
+   "Kessel/Legends"
+  ],
+  "people": [
+   "Natasi Daala",
+   "Han Solo/Legends",
+   "Kyp Durron",
+   "Qwi Xux"
+  ],
+  "sources": [
+   "Jedi Search",
+   "Dark Apprentice (novel)",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-carida-destroyed",
+  "title": "Kyp Durron destroys Carida with the Sun Crusher",
+  "y": 11,
+  "yText": "11 ABY",
+  "frac": 0.7,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "Sith",
+  "summary": "Under the sway of Exar Kun's spirit, the Jedi student Kyp Durron takes the Sun Crusher and fires into the sun of Carida, home of the Imperial military academy. The star explodes and destroys the planet with most of its people, Kyp's brother Zeth among them.",
+  "wp": "Destruction of Carida",
+  "places": [
+   "Carida/Legends",
+   "Cauldron Nebula/Legends"
+  ],
+  "people": [
+   "Kyp Durron",
+   "Exar Kun/Legends",
+   "Furgan",
+   "Zeth Durron"
+  ],
+  "sources": [
+   "Dark Apprentice (novel)",
+   "Champions of the Force",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-exar-kun-banished",
+  "title": "Luke's students banish Exar Kun's spirit",
+  "y": 11,
+  "yText": "11 ABY",
+  "frac": 0.8,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "The spirit of Exar Kun, trapped in Yavin 4's temples since the Great Sith War, preys on Luke's first students, killing Gantoris, turning Kyp and leaving Luke in a coma. The others join their strength with Luke's spirit and the ghost of Vodo-Siosk Baas and destroy Kun.",
+  "wp": "Exar Kun/Legends",
+  "places": [
+   "Yavin 4/Legends"
+  ],
+  "people": [
+   "Exar Kun/Legends",
+   "Kyp Durron",
+   "Gantoris",
+   "Luke Skywalker/Legends",
+   "Vodo-Siosk Baas"
+  ],
+  "sources": [
+   "Dark Apprentice (novel)",
+   "Champions of the Force",
+   "Jedi Search"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-leia-chief-of-state",
+  "title": "Leia Organa Solo becomes Chief of State",
+  "y": 11,
+  "yText": "11 ABY",
+  "frac": 0.85,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "New Republic",
+  "summary": "Mon Mothma, slowly failing after the Caridan ambassador Furgan poisons her, resigns as Chief of State and guides the council to choose Leia Organa Solo. Leia leads the New Republic, with short breaks, for most of the next twelve years.",
+  "wp": "Chief of State (New Republic)/Legends",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Leia Organa Solo/Legends",
+   "Mon Mothma/Legends",
+   "Furgan"
+  ],
+  "sources": [
+   "Champions of the Force",
+   "Dark Apprentice (novel)",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-tsoss-beacon-summit",
+  "title": "Daala gasses the warlords at Tsoss Beacon",
+  "y": 12,
+  "yText": "12 ABY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Empire",
+  "summary": "Admiral Daala and Pellaeon lock the thirteen strongest Deep Core warlords in a room on Tsoss Beacon to settle their feuds. When three hours of bickering produce nothing, Daala kills them all with nerve gas and takes their fleets as the United Warlord Fleets.",
+  "wp": "Imperial Reunification",
+  "places": [
+   "Tsoss Beacon/Legends"
+  ],
+  "people": [
+   "Natasi Daala",
+   "Gilad Pellaeon/Legends",
+   "Sander Delvardus"
+  ],
+  "sources": [
+   "Darksaber (novel)",
+   "The Essential Atlas",
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-darksaber-crushed",
+  "title": "Durga the Hutt's Darksaber is crushed",
+  "y": 12,
+  "yText": "12 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "technology",
+  "polity": "Hutts",
+  "summary": "Durga the Hutt hires Bevel Lemelisk, designer of the Death Star, to build a stripped-down superlaser in the Hoth asteroid field. Cheaply built, the Darksaber is a wreck: Crix Madine dies trying to sabotage it, and when its weapon fails, asteroids crush it with Durga aboard.",
+  "wp": "Darksaber (superweapon)",
+  "places": [
+   "Hoth asteroid field/Legends"
+  ],
+  "people": [
+   "Durga Besadii Tai",
+   "Bevel Lemelisk",
+   "Crix Madine/Legends",
+   "Wedge Antilles/Legends"
+  ],
+  "sources": [
+   "Darksaber (novel)",
+   "The New Essential Guide to Characters"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-empire-reborn-desann",
+  "title": "Kyle Katarn stops Desann's Reborn",
+  "y": 12,
+  "yText": "12 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Empire Reborn",
+  "summary": "Kyle Katarn takes up the Force again to stop Desann, a Dark Jedi expelled from Luke's academy, and Admiral Galak Fyyar, who use Force-charged crystals to make Reborn warriors. Their strike on the Yavin 4 academy fails, and Kyle kills Desann in the temple.",
+  "wp": "Empire Reborn campaign",
+  "places": [
+   "Artus Prime",
+   "Yavin 4/Legends"
+  ],
+  "people": [
+   "Kyle Katarn",
+   "Desann",
+   "Galak Fyyar",
+   "Tavion Axmis"
+  ],
+  "sources": [
+   "Star Wars: Jedi Knight II: Jedi Outcast",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-imperial-remnant-formed",
+  "title": "Pellaeon gathers the Empire into the Imperial Remnant",
+  "y": 12,
+  "yText": "12 ABY",
+  "frac": 0.62,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "founding",
+  "polity": "Imperial Remnant",
+  "summary": "Daala's united fleet attacks Yavin 4 and is driven off. Beaten, she hands command to Pellaeon, who pulls the survivors out of the Deep Core, seizes fortified Outer Rim sectors and puts them under a Council of Moffs. The Imperial Remnant is born and the warlord era ends.",
+  "wp": "Imperial Remnant/Legends",
+  "places": [
+   "Yavin 4/Legends",
+   "Orinda/Legends"
+  ],
+  "people": [
+   "Gilad Pellaeon/Legends",
+   "Natasi Daala",
+   "Luke Skywalker/Legends"
+  ],
+  "sources": [
+   "Darksaber (novel)",
+   "The Essential Atlas",
+   "The Essential Guide to Warfare",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-death-seed-nam-chorios",
+  "title": "Seti Ashgad unleashes the Death Seed plague",
+  "y": 13,
+  "yText": "13 ABY",
+  "frac": 0.25,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "New Republic",
+  "summary": "On the prison world Nam Chorios, the exiled politician Seti Ashgad plots with Moff Getelles to spread the Death Seed plague through the Meridian sector ahead of an Imperial invasion. Leia and Luke foil him, and Daala's ships help rout Getelles's fleet.",
+  "wp": "Battle of Nam Chorios",
+  "places": [
+   "Nam Chorios/Legends"
+  ],
+  "people": [
+   "Seti Ashgad/Legends",
+   "Leia Organa Solo/Legends",
+   "Luke Skywalker/Legends",
+   "Natasi Daala"
+  ],
+  "sources": [
+   "Planet of Twilight",
+   "The New Essential Chronology",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-disciples-of-ragnos",
+  "title": "Disciples of Ragnos try to raise Marka Ragnos",
+  "y": 14,
+  "yText": "14 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Disciples of Ragnos",
+  "summary": "Tavion Axmis, once Desann's apprentice, builds a Sith cult that drains Force energy from ancient sites to resurrect the Dark Lord Marka Ragnos. Kyle Katarn's student Jaden Korr tracks the cult across the galaxy; on Korriban it is broken before Ragnos can return.",
+  "wp": "Disciples of Ragnos crisis",
+  "places": [
+   "Korriban/Legends",
+   "Yavin 4/Legends"
+  ],
+  "people": [
+   "Tavion Axmis",
+   "Jaden Korr",
+   "Kyle Katarn",
+   "Marka Ragnos"
+  ],
+  "sources": [
+   "Star Wars: Jedi Knight: Jedi Academy",
+   "Star Wars: Jedi Knight II: Jedi Outcast",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-black-fleet-crisis",
+  "title": "The Yevetha purge the Koornacht Cluster",
+  "y": 16,
+  "yText": "16 ABY",
+  "frac": null,
+  "y2": 17,
+  "y2Text": "17 ABY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Duskhan League",
+  "summary": "Nil Spaar's Yevetha turn a captured Imperial fleet on their neighbors and exterminate every other people in the Koornacht Cluster. With Han a prisoner and the Senate against her, Leia declares war; at N'zoth hidden Imperial crews retake their old ships and the Yevethan fleet is destroyed.",
+  "wp": "Black Fleet Crisis",
+  "places": [
+   "Koornacht Cluster/Legends",
+   "N'zoth"
+  ],
+  "people": [
+   "Nil Spaar",
+   "Leia Organa Solo/Legends",
+   "Han Solo/Legends"
+  ],
+  "sources": [
+   "Before the Storm",
+   "Shield of Lies",
+   "Tyrant's Test",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-almanian-uprising",
+  "title": "Kueller's droid bombs strike the Senate",
+  "y": 17,
+  "yText": "17 ABY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "New Republic",
+  "summary": "Kueller, a fallen student of Luke's who rules Almania, kills nearly everyone on its moon Pydyr and hides bombs in droids from Brakiss's factory, one blast gutting the Senate chamber. Leia defies the Senate to bring a fleet to Almania and shoots Kueller dead.",
+  "wp": "Almanian Uprising",
+  "places": [
+   "Almania",
+   "Pydyr",
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Kueller",
+   "Leia Organa Solo/Legends",
+   "Luke Skywalker/Legends",
+   "Brakiss"
+  ],
+  "sources": [
+   "The New Rebellion",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-battle-of-anx-minor",
+  "title": "Ackbar crushes the Remnant at Anx Minor",
+  "y": 17,
+  "yText": "17 ABY",
+  "frac": 0.8,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "New Republic",
+  "summary": "Pellaeon and Daala launch one last Imperial offensive. Over Anx Minor, deep in Imperial space, Admiral Ackbar's fleet mauls Pellaeon's Star Destroyers, and the Remnant is pushed back to eight backwater Outer Rim sectors, no longer a real threat to the Republic.",
+  "wp": "Battle of Anx Minor",
+  "places": [
+   "Anx Minor/Legends"
+  ],
+  "people": [
+   "Gial Ackbar/Legends",
+   "Gilad Pellaeon/Legends"
+  ],
+  "sources": [
+   "The Essential Guide to Warfare",
+   "The Essential Atlas",
+   "The New Essential Chronology"
+  ],
+  "conflict": "Wookieepedia's Legends timeline lists the battle under 18 ABY; the Battle of Anx Minor article, following The Essential Guide to Warfare, dates it to 17 ABY, two years before the peace.",
+  "weight": 1
+ },
+ {
+  "id": "leg-corellian-crisis",
+  "title": "Rebels seize Centerpoint Station in the Corellian system",
+  "y": 18,
+  "yText": "18 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Sacorrian Triad",
+  "summary": "During a trade summit, Han's cousin Thrackan Sal-Solo declares himself Diktat of Corellia while the Sacorrian Triad uses Centerpoint Station, an ancient relic that can blow up stars, to seal the system. A Bakuran fleet breaks through, the Solo children help, and Thrackan is arrested.",
+  "wp": "Corellian Crisis",
+  "places": [
+   "Corellia/Legends",
+   "Centerpoint Station"
+  ],
+  "people": [
+   "Thrackan Sal-Solo",
+   "Han Solo/Legends",
+   "Leia Organa Solo/Legends",
+   "Anakin Solo"
+  ],
+  "sources": [
+   "Ambush at Corellia",
+   "Assault at Selonia",
+   "Showdown at Centerpoint",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-caamas-document-crisis",
+  "title": "The Caamas Document splits the New Republic",
+  "y": 19,
+  "yText": "19 ABY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "New Republic",
+  "summary": "A damaged Imperial record found on Wayland shows that Bothans helped sabotage Caamas's shields before the Empire burned it. Old grudges flare and the New Republic edges toward civil war, while Moff Disra stokes the fire with a con man posing as Thrawn.",
+  "wp": "Caamas Document Crisis",
+  "places": [
+   "Bothawui/Legends",
+   "Caamas/Legends",
+   "Yaga Minor/Legends"
+  ],
+  "people": [
+   "Borsk Fey'lya",
+   "Leia Organa Solo/Legends",
+   "Gilad Pellaeon/Legends",
+   "Vilim Disra",
+   "Flim (Human)"
+  ],
+  "sources": [
+   "Specter of the Past",
+   "Vision of the Future",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-pellaeon-gavrisom-treaty",
+  "title": "Empire and Republic sign peace aboard Chimaera",
+  "y": 19,
+  "yText": "19 ABY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "treaty",
+  "polity": "New Republic",
+  "summary": "Convinced the Empire cannot win, Supreme Commander Pellaeon exposes Disra's fake Thrawn and sues for peace. He and Chief of State Ponc Gavrisom sign a treaty aboard the Chimaera, with Mon Mothma looking on, ending the Galactic Civil War after more than two decades.",
+  "wp": "Pellaeon–Gavrisom Treaty",
+  "places": [
+   "Nirauan/Legends"
+  ],
+  "people": [
+   "Gilad Pellaeon/Legends",
+   "Ponc Gavrisom",
+   "Mon Mothma/Legends",
+   "Luke Skywalker/Legends",
+   "Mara Jade Skywalker"
+  ],
+  "sources": [
+   "Vision of the Future",
+   "Specter of the Past",
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-luke-marries-mara",
+  "title": "Luke Skywalker marries Mara Jade",
+  "y": 19,
+  "yText": "19 ABY",
+  "frac": 0.75,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "culture",
+  "polity": "Jedi Order",
+  "summary": "Three months after the Caamas crisis, Luke marries Mara Jade, once the Emperor's Hand, on Coruscant: first privately among the Jedi, then at a public ceremony that a band of ex-Moffs fails to disrupt. Talon Karrde gives the bride away.",
+  "wp": "Wedding of Luke Skywalker and Mara Jade",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Luke Skywalker/Legends",
+   "Mara Jade Skywalker",
+   "Kam Solusar",
+   "Talon Karrde"
+  ],
+  "sources": [
+   "Star Wars: Union",
+   "The Essential Chronology (real-world book)"
+  ],
+  "conflict": "The Essential Chronology, which the wedding's Wookieepedia article follows, sets it three months after the Caamas crisis in 19 ABY; Wookieepedia's Legends timeline lists it under 20 ABY.",
+  "weight": 1
+ },
+ {
+  "id": "leg-outbound-flight-found",
+  "title": "Luke and Mara find Outbound Flight's wreck",
+  "y": 22,
+  "yText": "22 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "exploration",
+  "polity": "Chiss Ascendancy",
+  "summary": "Luke and Mara join a Chiss expedition to Outbound Flight, the Old Republic's Jedi colony ship that Thrawn stopped fifty years earlier. They find the survivors' descendants living in the wreck, beat off Vagaari raiders posing as refugees, and see the colonists resettled in the Empire of the Hand.",
+  "wp": "Expedition to Outbound Flight",
+  "places": [
+   "Redoubt"
+  ],
+  "people": [
+   "Luke Skywalker/Legends",
+   "Mara Jade Skywalker",
+   "Chak Fel",
+   "Chaf'orm'bintrano"
+  ],
+  "sources": [
+   "Survivor's Quest",
+   "The Essential Reader's Companion",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-boba-fett-mandalore",
+  "title": "Boba Fett becomes Mandalore",
+  "y": 23,
+  "yText": "23 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "On Shogun, the Mandalorian leader Fenn Shysa is mortally wounded saving Boba Fett and asks him to take his place. Fett ends Shysa's suffering and becomes Mandalore, closing a forty-five-year career as a bounty hunter.",
+  "wp": "Boba Fett/Legends",
+  "places": [
+   "Shogun (planet)"
+  ],
+  "people": [
+   "Boba Fett/Legends",
+   "Fenn Shysa"
+  ],
+  "sources": [
+   "So Uncivilized: Great Gunslingers in Star Wars",
+   "Galaxy at War",
+   "Legacy of the Force: Revelation"
+  ],
+  "conflict": "Galaxy at War dates Fenn Shysa's death to 21 ABY; So Uncivilized: Great Gunslingers in Star Wars gives 23 ABY for Fett's succession, which Wookieepedia follows.",
+  "weight": 1
+ },
+ {
+  "id": "leg-shadow-academy-attacks",
+  "title": "The Shadow Academy assaults Yavin 4",
+  "y": 23,
+  "yText": "23 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Second Imperium",
+  "summary": "Brakiss, once Luke's student, trains Dark Jedi at the Shadow Academy for the Second Imperium, whose returned Emperor is only a hologram. Its recruits, among them the Solo twins' friend Zekk, attack Yavin 4; the assault fails, Brakiss dies and Zekk returns to the light.",
+  "wp": "Third Battle of Yavin",
+  "places": [
+   "Yavin 4/Legends"
+  ],
+  "people": [
+   "Brakiss",
+   "Zekk",
+   "Tamith Kai",
+   "Jaina Solo Fel",
+   "Darth Caedus"
+  ],
+  "sources": [
+   "Young Jedi Knights: Jedi Under Siege",
+   "The Essential Chronology (real-world book)",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-diversity-alliance",
+  "title": "Nolaa Tarkona's Diversity Alliance targets Humans",
+  "y": 23,
+  "yText": "23 ABY",
+  "frac": 0.8,
+  "y2": 24,
+  "y2Text": "24 ABY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Diversity Alliance",
+  "summary": "The Twi'lek Nolaa Tarkona builds the Diversity Alliance, an alien-supremacist movement fed by bitterness at Imperial persecution, and seeks the Emperor's hidden plagues to wipe out Humans. The Solo twins and their friends expose her, and she dies of a disease aimed at her own species.",
+  "wp": "Diversity Alliance",
+  "places": [
+   "Ryloth/Legends",
+   "Gammalin"
+  ],
+  "people": [
+   "Nolaa Tarkona",
+   "Jaina Solo Fel",
+   "Darth Caedus",
+   "Lowbacca"
+  ],
+  "sources": [
+   "Young Jedi Knights: Diversity Alliance",
+   "Young Jedi Knights: Delusions of Grandeur",
+   "Young Jedi Knights: The Emperor's Plague"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-mon-mothma-dies",
+  "title": "Mon Mothma dies in her sleep",
+  "y": 24,
+  "yText": "24 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "death",
+  "polity": "New Republic",
+  "summary": "Mon Mothma, a founder of the Rebel Alliance and the New Republic's first Chief of State, dies quietly in her sleep on the eve of the Yuuzhan Vong invasion, never having recovered from Furgan's poisoning. A New Republic Star Destroyer is named for her.",
+  "wp": "Mon Mothma/Legends",
+  "places": [],
+  "people": [
+   "Mon Mothma/Legends"
+  ],
+  "sources": [
+   "The New Essential Chronology",
+   "The New Jedi Order: Star by Star"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-yuuzhan-vong-invasion",
+  "title": "The Yuuzhan Vong invade the galaxy",
+  "y": 25,
+  "yText": "25 ABY",
+  "frac": 0.4,
+  "y2": 29,
+  "y2Text": "29 ABY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Yuuzhan Vong",
+  "summary": "The Yuuzhan Vong, extragalactic zealots who loathe machines, wield living technology and cannot be sensed through the Force, strike at the galaxy's rim after decades of scouting. Over five years they overrun much of the galaxy; the war kills more than 365 trillion beings before it ends at Coruscant.",
+  "wp": "Yuuzhan Vong War",
+  "places": [
+   "Helska IV",
+   "Belkadan/Legends"
+  ],
+  "people": [
+   "Shimrra Jamaane",
+   "Tsavong Lah",
+   "Nom Anor",
+   "Luke Skywalker/Legends"
+  ],
+  "sources": [
+   "The New Jedi Order: Vector Prime",
+   "The New Jedi Order: The Unifying Force",
+   "The Essential Atlas",
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-chewbacca-dies",
+  "title": "Chewbacca dies as a moon falls on Sernpidal",
+  "y": 25,
+  "yText": "25 ABY",
+  "frac": 0.42,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "death",
+  "polity": "New Republic",
+  "summary": "A Yuuzhan Vong creature drags the moon Dobido down onto Sernpidal. Chewbacca helps Han ferry thousands of refugees off the world, then saves Anakin Solo from the rising winds but is swept out of reach. Anakin has to lift off without him, and the moon strikes.",
+  "wp": "Chewbacca/Legends",
+  "places": [
+   "Sernpidal/Legends"
+  ],
+  "people": [
+   "Chewbacca/Legends",
+   "Han Solo/Legends",
+   "Anakin Solo"
+  ],
+  "sources": [
+   "The New Jedi Order: Vector Prime",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-yavin-becomes-year-zero",
+  "title": "The Historical Council makes Yavin year zero",
+  "y": 25,
+  "yText": "25 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "culture",
+  "polity": "New Republic",
+  "summary": "The New Republic Historical Council publishes its chronicle of galactic history and formally sets the Battle of Yavin as year zero, the reckoning of years before and after Yavin used by later historians. A revised edition follows after the Yuuzhan Vong War.",
+  "wp": "Historical Council",
+  "places": [],
+  "people": [
+   "Voren Na'al/Legends"
+  ],
+  "sources": [
+   "The Essential Chronology (real-world book)",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-battle-of-ithor",
+  "title": "The Yuuzhan Vong poison Ithor",
+  "y": 25,
+  "yText": "25 ABY",
+  "frac": 0.7,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Yuuzhan Vong",
+  "summary": "With Pellaeon leading a joint New Republic and Imperial fleet, the defenders hold Ithor, and Corran Horn kills the Vong commander Shedao Shai in a duel for the planet. The Vong seed Ithor with a bioweapon anyway, killing its sacred forests, and the HoloNet blames Corran.",
+  "wp": "Battle of Ithor",
+  "places": [
+   "Ithor/Legends"
+  ],
+  "people": [
+   "Corran Horn/Legends",
+   "Shedao Shai",
+   "Gilad Pellaeon/Legends"
+  ],
+  "sources": [
+   "The New Jedi Order: Dark Tide II: Ruin",
+   "The New Jedi Order: Agents of Chaos I: Hero's Trial",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-duro-falls",
+  "title": "Duro falls, and the Vong demand the Jedi",
+  "y": 26,
+  "yText": "26 ABY",
+  "frac": 0.25,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Yuuzhan Vong",
+  "summary": "The Yuuzhan Vong take Duro, a Core World where the New Republic is resettling refugees, and drag its orbital cities down onto the surface. Jacen saves Leia from Warmaster Tsavong Lah, who then offers to halt the invasion if the galaxy hands over its Jedi.",
+  "wp": "Battle of Duro (Yuuzhan Vong War)",
+  "places": [
+   "Duro/Legends"
+  ],
+  "people": [
+   "Tsavong Lah",
+   "Leia Organa Solo/Legends",
+   "Darth Caedus",
+   "Nom Anor"
+  ],
+  "sources": [
+   "The New Jedi Order: Balance Point",
+   "The Essential Atlas",
+   "The Essential Reader's Companion"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-yavin-4-overrun",
+  "title": "The Yuuzhan Vong overrun the Yavin 4 academy",
+  "y": 26,
+  "yText": "26 ABY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "fall",
+  "polity": "Jedi Order",
+  "summary": "With the New Republic unwilling to protect the Jedi, the collaborationist Peace Brigade and the Yuuzhan Vong descend on Yavin 4. Karrde's smugglers evacuate most of the students; Anakin Solo goes back for the rest and rescues Tahiri Veila from Vong shapers. The Praxeum is destroyed.",
+  "wp": "Invasion of Yavin 4",
+  "places": [
+   "Yavin 4/Legends"
+  ],
+  "people": [
+   "Anakin Solo",
+   "Tahiri Veila",
+   "Talon Karrde",
+   "Ikrit"
+  ],
+  "sources": [
+   "The New Jedi Order: Edge of Victory I: Conquest",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-ben-skywalker-born",
+  "title": "Ben Skywalker is born aboard the Errant Venture",
+  "y": 26,
+  "yText": "26.5 ABY",
+  "frac": 0.82,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "Jedi Order",
+  "summary": "Mara Jade Skywalker, who has fought off a Yuuzhan Vong-bred disease for more than a year, gives birth to a healthy son aboard Booster Terrik's Star Destroyer, where the Jedi are hiding from an arrest warrant. Luke and Mara name him Ben, after Obi-Wan Kenobi.",
+  "wp": "Ben Skywalker",
+  "places": [],
+  "people": [
+   "Ben Skywalker",
+   "Mara Jade Skywalker",
+   "Luke Skywalker/Legends"
+  ],
+  "sources": [
+   "The New Jedi Order: Edge of Victory II: Rebirth",
+   "The New Jedi Order: Vector Prime"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-one-sith-founded",
+  "title": "Darth Krayt founds the One Sith on Korriban",
+  "y": 27,
+  "yText": "by 27 ABY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "The One Sith article says only that Krayt's order existed by 27 ABY, when its agents Lomi Plo and Welk were already active.",
+  "category": "sith",
+  "polity": "One Sith",
+  "summary": "Freed from Yuuzhan Vong captivity, where Vergere taught him to draw strength from pain, A'Sharad Hett returns to Korriban as Darth Krayt. He founds the One Sith, trading Bane's Rule of Two for a Rule of One: many Sith under one Dark Lord, hidden for a century.",
+  "wp": "One Sith",
+  "places": [
+   "Korriban/Legends"
+  ],
+  "people": [
+   "Darth Krayt",
+   "Vergere"
+  ],
+  "sources": [
+   "Legacy (2006) 18",
+   "Legacy (2006) 1",
+   "Star Wars: Legacy (2006) 0"
+  ],
+  "conflict": "Wookieepedia's Legends timeline dates the founding c. 30 ABY; the One Sith article places it before 27 ABY.",
+  "weight": 2
+ },
+ {
+  "id": "leg-mission-to-myrkr",
+  "title": "Anakin Solo dies killing the voxyn queen",
+  "y": 27,
+  "yText": "27 ABY",
+  "frac": 0.33,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Anakin Solo leads a strike team of young Jedi onto a Yuuzhan Vong worldship above Myrkr to kill the queen of the voxyn, beasts bred to hunt Jedi. They destroy her, but six of the team die, Anakin among them, and Jacen is left behind as a captive.",
+  "wp": "Mission to Myrkr",
+  "places": [
+   "Myrkr"
+  ],
+  "people": [
+   "Anakin Solo",
+   "Jaina Solo Fel",
+   "Darth Caedus",
+   "Vergere"
+  ],
+  "sources": [
+   "The New Jedi Order: Star by Star",
+   "The Essential Atlas",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-coruscant-falls-to-vong",
+  "title": "Coruscant falls to the Yuuzhan Vong",
+  "y": 27,
+  "yText": "27 ABY",
+  "frac": 0.35,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Yuuzhan Vong",
+  "summary": "The Yuuzhan Vong take Coruscant, ramming captured refugee ships into its shields until they fail. Chief of State Borsk Fey'lya refuses to flee and dies setting off a bomb that kills some 25,000 Vong. The invaders remake the capital as Yuuzhan'tar, and the New Republic splinters.",
+  "wp": "Battle of Coruscant (Yuuzhan Vong War)",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Borsk Fey'lya",
+   "Tsavong Lah",
+   "Garm Bel Iblis/Legends",
+   "Leia Organa Solo/Legends"
+  ],
+  "sources": [
+   "The New Jedi Order: Star by Star",
+   "The New Jedi Order: Dark Journey",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-bothans-declare-ar-krai",
+  "title": "The Bothans declare ar'krai on the Vong",
+  "y": 27,
+  "yText": "27 ABY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Bothans",
+  "summary": "After Fey'lya's death on Coruscant, the Bothans declare ar'krai against the Yuuzhan Vong, only the third time in their history: every fit Bothan must serve until the enemy is wiped out to the last being. Bothan hardliners are still hunting the Vong a decade after the war ends.",
+  "wp": "Ar'krai",
+  "places": [
+   "Bothawui/Legends"
+  ],
+  "people": [
+   "Borsk Fey'lya"
+  ],
+  "sources": [
+   "The New Jedi Order: Destiny's Way",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-tenel-ka-queen-mother",
+  "title": "Tenel Ka becomes Queen Mother of Hapes",
+  "y": 27,
+  "yText": "27 ABY",
+  "frac": 0.45,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Hapes Consortium",
+  "summary": "After her mother, Teneniel Djo, is murdered in a plot involving her grandmother Ta'a Chume, the young Jedi Tenel Ka is crowned Queen Mother of the Hapes Consortium. She arrests Ta'a Chume, commits Hapes to the war, and hands a hidden new Hapan fleet to Jagged Fel.",
+  "wp": "Tenel Ka Djo",
+  "places": [
+   "Hapes/Legends"
+  ],
+  "people": [
+   "Tenel Ka Djo",
+   "Teneniel Djo",
+   "Ta'a Chume",
+   "Isolder"
+  ],
+  "sources": [
+   "The New Jedi Order: Dark Journey",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-jacen-captive-vergere",
+  "title": "Vergere remakes Jacen Solo in captivity",
+  "y": 27,
+  "yText": "27 ABY",
+  "frac": 0.5,
+  "y2": 28,
+  "y2Text": "28 ABY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "force",
+  "polity": "Jedi Order",
+  "summary": "Taken at Myrkr, Jacen is tortured in the Embrace of Pain on Yuuzhan'tar. His keeper Vergere, a Jedi who vanished half a century earlier, teaches him that the Force has no light or dark side, only what its users make of it. He escapes a year later, changed.",
+  "wp": "Vergere",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Darth Caedus",
+   "Vergere"
+  ],
+  "sources": [
+   "The New Jedi Order: Traitor",
+   "The New Jedi Order: Destiny's Way"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-battle-of-ebaq-9",
+  "title": "Ackbar's trap breaks the Vong at Ebaq 9",
+  "y": 28,
+  "yText": "28 ABY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "New Republic",
+  "summary": "Following Admiral Ackbar's last battle plan, the New Republic lures Warmaster Tsavong Lah to the moon Ebaq 9 with a fake fortress and traps his fleet. Vergere dies crashing her ship to save Jacen, and Jaina kills Tsavong Lah. The victory turns the tide of the war.",
+  "wp": "Battle of Ebaq",
+  "places": [
+   "Ebaq 9"
+  ],
+  "people": [
+   "Tsavong Lah",
+   "Gial Ackbar/Legends",
+   "Jaina Solo Fel",
+   "Vergere",
+   "Garm Bel Iblis/Legends"
+  ],
+  "sources": [
+   "The New Jedi Order: Destiny's Way",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-galactic-alliance-formed",
+  "title": "The New Republic becomes the Galactic Alliance",
+  "y": 28,
+  "yText": "28 ABY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "founding",
+  "polity": "Galactic Alliance",
+  "summary": "After the victory at Ebaq 9, Chief of State Cal Omas reorganizes the battered New Republic into the Galactic Federation of Free Alliances, a leaner federal union built to survive the war. Luke forms a new Jedi Council, and Jedi Masters join an advisory council to the new government.",
+  "wp": "Galactic Federation of Free Alliances",
+  "places": [
+   "Dac/Legends"
+  ],
+  "people": [
+   "Cal Omas",
+   "Luke Skywalker/Legends"
+  ],
+  "sources": [
+   "The New Jedi Order: Destiny's Way",
+   "The New Jedi Order: Force Heretic I: Remnant",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-ackbar-dies",
+  "title": "Admiral Ackbar dies of old age",
+  "y": 29,
+  "yText": "29 ABY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "death",
+  "polity": "Galactic Alliance",
+  "summary": "Admiral Ackbar, the Mon Calamari who led the Rebel fleet at Endor and planned the Ebaq 9 trap from retirement, dies of old age on his homeworld, tended by his friend Winter, shortly before the war's final battle. Memorials are held on Mon Calamari and on reclaimed Coruscant.",
+  "wp": "Gial Ackbar/Legends",
+  "places": [
+   "Dac/Legends"
+  ],
+  "people": [
+   "Gial Ackbar/Legends",
+   "Winter Celchu"
+  ],
+  "sources": [
+   "The New Jedi Order: The Unifying Force",
+   "The Essential Reader's Companion"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-battle-of-yuuzhantar",
+  "title": "The Alliance retakes Coruscant and ends the war",
+  "y": 29,
+  "yText": "29 ABY",
+  "frac": 0.52,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Galactic Alliance",
+  "summary": "With the living world Zonama Sekot at their side, Alliance, Chiss and Mandalorian fleets retake Coruscant. Luke kills Supreme Overlord Shimrra, and Jacen kills Onimi, the Shamed One who had secretly ruled through him. The surviving Yuuzhan Vong surrender and settle on Zonama Sekot, ending the war.",
+  "wp": "Battle of Yuuzhan'tar",
+  "places": [
+   "Coruscant/Legends",
+   "Zonama Sekot/Legends"
+  ],
+  "people": [
+   "Luke Skywalker/Legends",
+   "Shimrra Jamaane",
+   "Onimi",
+   "Darth Caedus",
+   "Gilad Pellaeon/Legends"
+  ],
+  "sources": [
+   "The New Jedi Order: The Unifying Force",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-ossus-jedi-academy",
+  "title": "The Jedi build a new academy on Ossus",
+  "y": 30,
+  "yText": "30 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "With Yavin 4 lost, Luke accepts Kam Solusar's proposal to rebuild the Jedi academy on Ossus, the ancient library world scorched in the Great Sith War. Run by Kam and Tionne Solusar, it becomes the Order's school and refuge for more than a century.",
+  "wp": "Jedi Academy (Ossus)",
+  "places": [
+   "Ossus/Legends"
+  ],
+  "people": [
+   "Luke Skywalker/Legends",
+   "Kam Solusar",
+   "Tionne Solusar"
+  ],
+  "sources": [
+   "Dark Nest I: The Joiner King",
+   "Fate of the Jedi: Apocalypse"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-dark-nest-crisis",
+  "title": "Young Jedi are drawn into the Killik hive",
+  "y": 35,
+  "yText": "35 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "force",
+  "polity": "The Colony",
+  "summary": "A Force call from Raynar Thul, thought dead at Myrkr, draws the strike team's survivors to the Killiks, an insect hive people spreading along the Chiss border. They become Joiners of the Colony, secretly steered by Lomi Plo's Dark Nest, and Chiss and Killiks edge toward war.",
+  "wp": "Dark Nest Crisis",
+  "places": [
+   "Qoribu",
+   "Utegetu Nebula/Legends"
+  ],
+  "people": [
+   "Raynar Thul",
+   "Lomi Plo",
+   "Jaina Solo Fel",
+   "Alema Rar",
+   "Luke Skywalker/Legends"
+  ],
+  "sources": [
+   "Dark Nest I: The Joiner King",
+   "Dark Nest II: The Unseen Queen"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-luke-sees-his-parents",
+  "title": "R2-D2 shows Luke his parents' last days",
+  "y": 35,
+  "yText": "35 ABY",
+  "frac": 0.5,
+  "y2": 36,
+  "y2Text": "36 ABY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "discovery",
+  "polity": "Jedi Order",
+  "summary": "Recordings locked in R2-D2's memory give Luke his first sight of his mother, Padmé Amidala. A year later the droid shows him darker ones: Anakin leading the attack on the Jedi Temple, and choking Padmé on Mustafar. Luke learns at last how his mother died.",
+  "wp": "Luke Skywalker/Legends",
+  "places": [],
+  "people": [
+   "Luke Skywalker/Legends",
+   "R2-D2/Legends",
+   "Padmé Amidala/Legends",
+   "Anakin Skywalker/Legends"
+  ],
+  "sources": [
+   "Dark Nest I: The Joiner King",
+   "Dark Nest III: The Swarm War"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-allana-born",
+  "title": "Allana is born to Tenel Ka and Jacen",
+  "y": 36,
+  "yText": "36 ABY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "birth",
+  "polity": "Hapes Consortium",
+  "summary": "Queen Mother Tenel Ka gives birth to Allana, heir to the Hapes Consortium, and keeps the father's identity secret to protect her: he is Jacen Solo. After Jacen's fall, the girl is raised by her grandparents Han and Leia under the name Amelia.",
+  "wp": "Allana Djo Solo",
+  "places": [
+   "Hapes/Legends"
+  ],
+  "people": [
+   "Allana Djo Solo",
+   "Tenel Ka Djo",
+   "Darth Caedus"
+  ],
+  "sources": [
+   "Dark Nest II: The Unseen Queen",
+   "Legacy of the Force: Invincible"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-luke-becomes-grand-master",
+  "title": "Luke takes the title of Grand Master",
+  "y": 36,
+  "yText": "36 ABY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "At the Jedi's first full convocation on Ossus, Luke takes the title of Grand Master and pledges the Order to serve the Galactic Alliance, telling every Jedi to put the Order first or leave it. Tenel Ka and Danni Quee step down; the rest accept his rule.",
+  "wp": "Conclave on Ossus",
+  "places": [
+   "Ossus/Legends"
+  ],
+  "people": [
+   "Luke Skywalker/Legends",
+   "Tenel Ka Djo",
+   "Danni Quee",
+   "Kenth Hamner"
+  ],
+  "sources": [
+   "Dark Nest III: The Swarm War"
+  ],
+  "conflict": "The Conclave on Ossus article dates it to 35 ABY; Wookieepedia's Grand Master article and its Legends timeline put Luke's elevation in 36 ABY, during the Swarm War.",
+  "weight": 2
+ },
+ {
+  "id": "leg-swarm-war",
+  "title": "Luke kills Lomi Plo, ending the Swarm War",
+  "y": 36,
+  "yText": "36 ABY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Galactic Alliance",
+  "summary": "Chiss attacks on the Killik Colony become open war, with Pellaeon's Alliance fleet siding with the Chiss and some young Jedi fighting for the Killiks. Luke kills Lomi Plo and frees Raynar Thul from the hive, breaking the Dark Nest's hold, and the war ends at Tenupe.",
+  "wp": "Swarm War",
+  "places": [
+   "Tenupe"
+  ],
+  "people": [
+   "Lomi Plo",
+   "Raynar Thul",
+   "Luke Skywalker/Legends",
+   "Gilad Pellaeon/Legends",
+   "Jagged Fel"
+  ],
+  "sources": [
+   "Dark Nest III: The Swarm War",
+   "Legacy of the Force: Betrayal"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-second-galactic-civil-war",
+  "title": "Corellia's secession starts a second galactic civil war",
+  "y": 40,
+  "yText": "40 ABY",
+  "frac": 0.2,
+  "y2": 41,
+  "y2Text": "41 ABY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Galactic Alliance",
+  "summary": "Corellia rejects the Galactic Alliance's limits on local fleets and its taxes for postwar rebuilding, and an Alliance show of force in the Corellian system turns into open war. Bothawui, Commenor, Fondor and others join the rebels in a Confederation, and the galaxy is at war with itself again.",
+  "wp": "Second Galactic Civil War",
+  "places": [
+   "Corellia/Legends"
+  ],
+  "people": [
+   "Cal Omas",
+   "Thrackan Sal-Solo",
+   "Darth Caedus",
+   "Han Solo/Legends"
+  ],
+  "sources": [
+   "Legacy of the Force: Betrayal",
+   "Legacy of the Force: Bloodlines",
+   "Legacy of the Force: Invincible",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-jacen-lumiya-apprentice",
+  "title": "Jacen Solo takes Lumiya as his Sith teacher",
+  "y": 40,
+  "yText": "40 ABY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Convinced that only a strong hand can stop the chaos he has foreseen, Jacen Solo accepts the Sith Lady Lumiya as his teacher and takes his young cousin Ben Skywalker as his own apprentice. Cal Omas gives him command of the new Galactic Alliance Guard, a secret police force.",
+  "wp": "Darth Caedus",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Darth Caedus",
+   "Lumiya",
+   "Ben Skywalker",
+   "Cal Omas"
+  ],
+  "sources": [
+   "Legacy of the Force: Betrayal",
+   "Legacy of the Force: Bloodlines",
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-solo-niathal-coup",
+  "title": "Jacen and Niathal depose Cal Omas",
+  "y": 40,
+  "yText": "40 ABY",
+  "frac": 0.55,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Galactic Alliance",
+  "summary": "When Chief of State Cal Omas secretly offers the Corellians peace in return for removing Jacen and Admiral Cha Niathal, Jacen uses a legal loophole to arrest him. He and Niathal declare themselves joint Chiefs of State and promise elections after the war; Jacen privately plans to rule alone.",
+  "wp": "Solo-Niathal coup",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Darth Caedus",
+   "Cha Niathal",
+   "Cal Omas"
+  ],
+  "sources": [
+   "Legacy of the Force: Sacrifice",
+   "The Complete Star Wars Encyclopedia"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-mara-killed-caedus-rises",
+  "title": "Jacen kills Mara and becomes Darth Caedus",
+  "y": 40,
+  "yText": "40 ABY",
+  "frac": 0.65,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Hunting whoever is corrupting her nephew, Mara Jade Skywalker confronts Jacen on Kavan, and he kills her with a poisoned dart. The sacrifice completes his fall, and he takes the name Darth Caedus. Luke, believing Lumiya the killer, cuts her down on Terephon.",
+  "wp": "Skirmish on Kavan",
+  "places": [
+   "Kavan",
+   "Terephon"
+  ],
+  "people": [
+   "Mara Jade Skywalker",
+   "Darth Caedus",
+   "Lumiya",
+   "Luke Skywalker/Legends"
+  ],
+  "sources": [
+   "Legacy of the Force: Sacrifice",
+   "Legacy of the Force: Revelation",
+   "Jedi vs. Sith: The Essential Guide to the Force (real-life book)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-caedus-burns-kashyyyk",
+  "title": "Caedus burns Kashyyyk and the Jedi break away",
+  "y": 40,
+  "yText": "40 ABY",
+  "frac": 0.75,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Galactic Alliance",
+  "summary": "Caedus brings the Fifth Fleet to Kashyyyk to punish the Wookiees for sheltering Jedi and sets its forests ablaze. Jedi, Wookiee and Confederation forces maul his fleet, Tenel Ka pulls Hapes out of the Alliance, and Luke forms the Jedi Coalition to bring Caedus down.",
+  "wp": "Battle of Kashyyyk (Second Galactic Civil War)",
+  "places": [
+   "Kashyyyk/Legends"
+  ],
+  "people": [
+   "Darth Caedus",
+   "Luke Skywalker/Legends",
+   "Tenel Ka Djo",
+   "Lowbacca",
+   "Ben Skywalker"
+  ],
+  "sources": [
+   "Legacy of the Force: Inferno",
+   "Legacy of the Force: Fury"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-centerpoint-destroyed",
+  "title": "Centerpoint Station is destroyed",
+  "y": 40,
+  "yText": "40 ABY",
+  "frac": 0.9,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "technology",
+  "polity": "Jedi Order",
+  "summary": "As the Alliance moves to turn Centerpoint Station against the Confederation, Jedi rescue Caedus's daughter Allana from his flagship and the engineer Toval Seyah rigs the station's weapon to fire into itself. Its destruction also weakens the prison holding the dark entity Abeloth.",
+  "wp": "Battle of Centerpoint Station (Second Galactic Civil War)",
+  "places": [
+   "Centerpoint Station"
+  ],
+  "people": [
+   "Darth Caedus",
+   "Allana Djo Solo",
+   "Toval Seyah",
+   "Kyp Durron"
+  ],
+  "sources": [
+   "Legacy of the Force: Fury",
+   "Fate of the Jedi: Apocalypse"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-pellaeon-killed-at-fondor",
+  "title": "Tahiri Veila kills Pellaeon at Fondor",
+  "y": 41,
+  "yText": "41 ABY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Galactic Alliance",
+  "summary": "Caedus attacks Fondor and refuses to accept its surrender, splitting the Alliance: Admiral Niathal sets up an Alliance-in-exile. When Gilad Pellaeon will not back him, Caedus's new apprentice Tahiri Veila murders the old admiral, and Daala's fleet and Boba Fett's Mandalorians join the Jedi against him.",
+  "wp": "Second Battle of Fondor",
+  "places": [
+   "Fondor/Legends"
+  ],
+  "people": [
+   "Darth Caedus",
+   "Tahiri Veila",
+   "Gilad Pellaeon/Legends",
+   "Cha Niathal",
+   "Natasi Daala"
+  ],
+  "sources": [
+   "Legacy of the Force: Revelation",
+   "Legacy of the Force: Invincible"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-lost-tribe-emerges",
+  "title": "The Lost Tribe of Sith leaves Kesh",
+  "y": 41,
+  "yText": "41 ABY",
+  "frac": null,
+  "y2": 44,
+  "y2Text": "44 ABY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Lost Tribe of Sith",
+  "summary": "Marooned on Kesh for five thousand years, the Lost Tribe of Sith gets off-world when a Sith meditation sphere called Ship finds it. Its lords hunt Luke, ally uneasily with him against Abeloth, and plant agents in the Alliance government; the young Sith Vestara Khai falls in with Ben.",
+  "wp": "Lost Tribe of Sith emergence",
+  "places": [
+   "Kesh/Legends",
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Vestara Khai",
+   "Luke Skywalker/Legends",
+   "Ben Skywalker",
+   "Abeloth"
+  ],
+  "sources": [
+   "Fate of the Jedi: Omen",
+   "Fate of the Jedi: Abyss",
+   "Fate of the Jedi: Ascension",
+   "Fate of the Jedi: Apocalypse"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-jaina-kills-caedus",
+  "title": "Jaina Solo kills Darth Caedus, ending the war",
+  "y": 41,
+  "yText": "41 ABY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Jedi Order",
+  "summary": "Jaina Solo, trained by Boba Fett to fight her twin, duels Caedus aboard his Star Destroyer near Uroro Station and kills him. Luke persuades the Imperial Remnant to switch sides under Jagged Fel, the Confederation surrenders, and Natasi Daala becomes Chief of State of the reunited Alliance.",
+  "wp": "Battle of Uroro Station",
+  "places": [
+   "Uroro Station"
+  ],
+  "people": [
+   "Jaina Solo Fel",
+   "Darth Caedus",
+   "Jagged Fel",
+   "Natasi Daala",
+   "Luke Skywalker/Legends"
+  ],
+  "sources": [
+   "Legacy of the Force: Invincible",
+   "Fate of the Jedi: Outcast"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-luke-exiled",
+  "title": "Daala's government exiles Luke Skywalker",
+  "y": 43,
+  "yText": "43 ABY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Galactic Alliance",
+  "summary": "Chief of State Daala has Luke tried for failing to stop Jacen Solo's fall. He pleads guilty and is exiled from Coruscant and the Order for ten years; Kenth Hamner becomes acting Grand Master, and Luke and Ben set out to retrace Jacen's journey into the dark side.",
+  "wp": "The Galactic Federation of Free Alliances versus Luke Skywalker",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Luke Skywalker/Legends",
+   "Natasi Daala",
+   "Kenth Hamner",
+   "Ben Skywalker"
+  ],
+  "sources": [
+   "Fate of the Jedi: Outcast",
+   "Fate of the Jedi: Abyss"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-force-psychosis",
+  "title": "Young Jedi Knights fall to a strange madness",
+  "y": 43,
+  "yText": "43 ABY",
+  "frac": 0.15,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "force",
+  "polity": "Jedi Order",
+  "summary": "One by one, young Jedi Knights such as Valin Horn go mad, each convinced that the people closest to them have been replaced by impostors. The cause is Abeloth, reaching out from her prison in the Maw, but Daala's government blames the Order and freezes captured Knights in carbonite.",
+  "wp": "Force psychosis",
+  "places": [
+   "Coruscant/Legends",
+   "Maw Cluster/Legends"
+  ],
+  "people": [
+   "Valin Horn",
+   "Abeloth",
+   "Natasi Daala"
+  ],
+  "sources": [
+   "Fate of the Jedi: Outcast",
+   "Fate of the Jedi: Omen",
+   "Fate of the Jedi: Abyss"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-plan-delta-coup",
+  "title": "The Jedi depose Chief of State Daala",
+  "y": 44,
+  "yText": "44 ABY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Jedi Order",
+  "summary": "Slave revolts, secretly stoked by the Freedom Flight network, spread across the galaxy, and Daala answers with brutal force while her quarrel with the Jedi deepens. The Order strikes with Plan Delta, Corran Horn's coup: Daala is arrested, a triumvirate takes her place, and Luke's exile is lifted.",
+  "wp": "Plan Delta",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Natasi Daala",
+   "Corran Horn/Legends",
+   "Luke Skywalker/Legends"
+  ],
+  "sources": [
+   "Fate of the Jedi: Conviction",
+   "Fate of the Jedi: Vortex",
+   "Fate of the Jedi: Allies"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-jedi-retake-coruscant",
+  "title": "The Jedi retake Coruscant from Abeloth",
+  "y": 44,
+  "yText": "44 ABY",
+  "frac": 0.7,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "force",
+  "polity": "Jedi Order",
+  "summary": "Abeloth, wearing the body of Chief of State Rokari Kem, rules Coruscant through the Lost Tribe. The Jedi retake the capital in weeks of fighting that wrack it with quakes and eruptions, and Ben Skywalker and Vestara Khai destroy Abeloth's last body. The Senate then expels the Jedi.",
+  "wp": "Liberation of Coruscant (Lost Tribe of Sith emergence)",
+  "places": [
+   "Coruscant/Legends",
+   "Shedu Maad"
+  ],
+  "people": [
+   "Abeloth",
+   "Rokari Kem",
+   "Ben Skywalker",
+   "Vestara Khai",
+   "Wynn Dorvan"
+  ],
+  "sources": [
+   "Fate of the Jedi: Apocalypse",
+   "Fate of the Jedi: Ascension"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-jag-and-jaina-marry",
+  "title": "Jagged Fel marries Jaina Solo",
+  "y": 44,
+  "yText": "44 ABY",
+  "frac": 0.8,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "culture",
+  "polity": "Jedi Order",
+  "summary": "Weeks after Abeloth's defeat, Jagged Fel, who has handed leadership of the Imperial Remnant to Vitor Reige, marries the newly made Jedi Master Jaina Solo aboard the Hapan Battle Dragon Dragon Queen II, joining the Solo family to the future Fel dynasty.",
+  "wp": "Wedding of Jagged Fel and Jaina Solo",
+  "places": [],
+  "people": [
+   "Jagged Fel",
+   "Jaina Solo Fel"
+  ],
+  "sources": [
+   "Fate of the Jedi: Apocalypse",
+   "Getaway"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-qreph-takeover-fails",
+  "title": "The Qreph brothers' bid for the economy fails",
+  "y": 45,
+  "yText": "45 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "galactic",
+  "summary": "The Columi brothers Marvid and Craitheus Qreph try to seize the galaxy's industries through Galactic Exploitation Technologies, starting in the Chiloon Rift mines. Han, Leia and Luke defeat them at a strange Force monolith, where Luke comes to see light and dark as one Force. Luke then retires.",
+  "wp": "Galactic Exploitation Technologies",
+  "places": [
+   "Chiloon Rift/Legends"
+  ],
+  "people": [
+   "Marvid Qreph",
+   "Craitheus Qreph",
+   "Luke Skywalker/Legends",
+   "Han Solo/Legends",
+   "Leia Organa Solo/Legends"
+  ],
+  "sources": [
+   "Crucible (novel)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-fel-empire-founded",
+  "title": "The Fel dynasty restores the Empire",
+  "y": 45,
+  "yText": "c. 45 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "founding",
+  "polity": "Fel Empire",
+  "summary": "Back at the head of the Imperial Remnant, Jagged Fel spreads its influence peacefully through his Victory Without War program and in time takes the vacant title of Emperor. His heirs rule the Fel Empire from Bastion with a Council of Moffs and a Force order, the Imperial Knights.",
+  "wp": "Fel Empire",
+  "places": [
+   "Bastion/Legends"
+  ],
+  "people": [
+   "Jagged Fel"
+  ],
+  "sources": [
+   "Crucible (novel)",
+   "Star Wars: Legacy (2006) 0",
+   "Legacy Era Campaign Guide"
+  ],
+  "conflict": "Wookieepedia's Legends timeline dates the Fel Empire's founding c. 45 ABY, citing Crucible; the Fel Empire article says only that it arose between 45 and 127 ABY, Jag taking the throne many years after he returned to lead the Remnant.",
+  "weight": 2
+ },
+ {
+  "id": "leg-thrawn-reconsidered",
+  "title": "O'Pali's book recasts Thrawn as a patriot",
+  "y": 55,
+  "yText": "55 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "culture",
+  "polity": "galactic",
+  "summary": "The Imperial polemicist Lenang O'Pali publishes Mitth'raw'nuruodo Reconsidered, recasting Grand Admiral Thrawn as a principled patriot who meant to build an Empire strong enough to face the Yuuzhan Vong, and calling the Empire's fall a disaster that left the galaxy defenseless when the invaders came.",
+  "wp": "Mitth'raw'nuruodo Reconsidered: A Patriot's Perspective",
+  "places": [],
+  "people": [
+   "Lenang O'Pali/Legends",
+   "Mitth'raw'nuruodo/Legends"
+  ],
+  "sources": [
+   "The Essential Guide to Warfare",
+   "Outbound Flight (novel)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-scythe-cruiser-enters-service",
+  "title": "The Scythe-class battle cruiser enters service",
+  "y": 92,
+  "yText": "92 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "technology",
+  "polity": "Galactic Alliance",
+  "summary": "The Mon Calamari Shipyards' MC140 Scythe-class main battle cruiser, a mass-produced, standardized design with a blade-like prow, goes into service. A sharp break from the one-of-a-kind Mon Cal cruisers of old, it becomes the Galactic Alliance fleet's main warship.",
+  "wp": "MC140 Scythe-class main battle cruiser",
+  "places": [],
+  "people": [],
+  "sources": [
+   "The Essential Guide to Warfare",
+   "Legacy Era Campaign Guide"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-r2-d2-tells-the-whills",
+  "title": "R2-D2 tells the Skywalker story to the Whills",
+  "y": 104,
+  "yText": "c. 104 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "culture",
+  "polity": "galactic",
+  "summary": "More than a century after the Clone Wars, the astromech R2-D2 recounts the Skywalker family's story through the Clone Wars and the Galactic Civil War to a Keeper of the Whills, who records it in the Journal of the Whills.",
+  "wp": "Keeper of the Whills",
+  "places": [],
+  "people": [
+   "R2-D2/Legends",
+   "Keeper of the Whills"
+  ],
+  "sources": [
+   "The Making of Star Wars Revenge of the Sith"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-ossus-project-sabotaged",
+  "title": "The One Sith sabotage the Ossus Project",
+  "y": 122,
+  "yText": "122 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "One Sith",
+  "summary": "Kol Skywalker and the Yuuzhan Vong shaper Nei Rin use Vong terraforming to revive barren Ossus, and the project spreads to a hundred war-scarred worlds. The One Sith later sabotage it with a virus that withers plants and deforms people, and the galaxy blames the Vong and the Jedi.",
+  "wp": "Ossus Project",
+  "places": [
+   "Ossus/Legends"
+  ],
+  "people": [
+   "Kol Skywalker",
+   "Nei Rin",
+   "Darth Maladi",
+   "Darth Krayt"
+  ],
+  "sources": [
+   "Star Wars: Legacy (2006) 0",
+   "Legacy (2006) 12",
+   "Legacy (2006) 43"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-sith-imperial-war",
+  "title": "The Fel Empire and Sith crush the Alliance",
+  "y": 127,
+  "yText": "127 ABY",
+  "frac": null,
+  "y2": 130,
+  "y2Text": "130 ABY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Fel Empire",
+  "summary": "Blaming the Vong for the Ossus Project's failure, the Moffs invoke the Treaty of Anaxes and the Fel Empire goes to war with the Galactic Alliance, over Emperor Roan Fel's doubts. The One Sith secretly join the Empire, Alliance worlds defect, and in 130 ABY the Alliance surrenders after Caamas.",
+  "wp": "Sith–Imperial War",
+  "places": [
+   "Caamas/Legends",
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Roan Fel",
+   "Darth Krayt",
+   "Morrigan Corde",
+   "Gar Stazi"
+  ],
+  "sources": [
+   "Star Wars: Legacy (2006) 0",
+   "Legacy (2006) 1",
+   "Legacy (2006) 8"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-massacre-at-ossus",
+  "title": "The Sith massacre the Jedi on Ossus",
+  "y": 130,
+  "yText": "130 ABY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "One Sith",
+  "summary": "Two days after Coruscant falls, the Jedi refuse Emperor Fel's call to submit, and Darth Nihl leads Sith and Imperial forces against their academy on Ossus. Kol Skywalker, head of the Jedi Council, is killed; his son Cade and Wolf Sazen escape, and the survivors go into hiding.",
+  "wp": "Massacre at Ossus",
+  "places": [
+   "Ossus/Legends"
+  ],
+  "people": [
+   "Darth Nihl",
+   "Kol Skywalker",
+   "Cade Skywalker",
+   "Wolf Sazen"
+  ],
+  "sources": [
+   "Legacy (2006) 1",
+   "Legacy (2006) 12",
+   "Legacy Era Campaign Guide"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-krayt-seizes-throne",
+  "title": "Darth Krayt seizes the Imperial throne",
+  "y": 130,
+  "yText": "130 ABY",
+  "frac": 0.45,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "One Sith",
+  "summary": "Before the Moff Council on Coruscant, Darth Krayt claims his reward: his Sith cut down Emperor Roan Fel and his guards, and Krayt declares himself Emperor. The victim is a double; the real Fel escapes to Bastion to lead an Empire-in-exile, and a second Imperial civil war begins.",
+  "wp": "Attack on Emperor Fel",
+  "places": [
+   "Coruscant/Legends",
+   "Bastion/Legends"
+  ],
+  "people": [
+   "Darth Krayt",
+   "Roan Fel"
+  ],
+  "sources": [
+   "Legacy (2006) 1",
+   "Legacy (2006) 8",
+   "Legacy (2006) 2"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-galactic-alliance-remnant",
+  "title": "Gar Stazi keeps the Alliance fleet fighting",
+  "y": 130,
+  "yText": "130 ABY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Galactic Alliance Remnant",
+  "summary": "Admiral Gar Stazi refuses the surrender and takes part of the Alliance fleet into hiding. For seven years his Galactic Alliance Remnant strikes at Imperial space from secret bases, keeping resistance alive and making itself a top target for Krayt.",
+  "wp": "Galactic Alliance Remnant",
+  "places": [],
+  "people": [
+   "Gar Stazi"
+  ],
+  "sources": [
+   "Legacy (2006) 21",
+   "Legacy Era Campaign Guide",
+   "Legacy (2006) 8"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-cade-skywalker-returns",
+  "title": "Cade Skywalker is dragged back into the war",
+  "y": 137,
+  "yText": "137 ABY",
+  "frac": 0.2,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Seven years after Ossus, Kol's son Cade is a bounty hunter who has turned his back on the Jedi and dulls his Force visions with death sticks. When the Sith learn of his rare power to heal, even to revive the dying, Krayt captures him and tempts him; Cade nearly falls, but escapes.",
+  "wp": "Cade Skywalker",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Cade Skywalker",
+   "Darth Krayt",
+   "Wolf Sazen",
+   "Darth Talon"
+  ],
+  "sources": [
+   "Legacy (2006) 1",
+   "Legacy (2006) 11",
+   "Legacy (2006) 15"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-genocide-on-dac",
+  "title": "The Sith poison Dac and its people",
+  "y": 137,
+  "yText": "137 ABY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "One Sith",
+  "summary": "When the Mon Calamari keep aiding Stazi's fleet, Krayt orders their extermination. Sith forces massacre New Coral City and the scientist Vul Isen poisons Dac's oceans. Stazi's fleet, the Jedi and a flotilla of private ships evacuate the survivors, but Dac is left a dead world.",
+  "wp": "Genocide on Dac",
+  "places": [
+   "Dac/Legends"
+  ],
+  "people": [
+   "Darth Krayt",
+   "Darth Wyyrlok (III)",
+   "Vul Isen",
+   "Gar Stazi"
+  ],
+  "sources": [
+   "Legacy (2006) 22",
+   "Legacy (2006) 32",
+   "Legacy (2006) 47"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-krayt-falls-and-rises",
+  "title": "Krayt falls on Had Abbadon and rises again",
+  "y": 137,
+  "yText": "137 ABY",
+  "frac": 0.8,
+  "y2": 138,
+  "y2Text": "138 ABY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "One Sith",
+  "summary": "Jedi, Imperial Knights and Cade, joined by the ancient Jedi Celeste Morne, ambush Darth Krayt on Had Abbadon. Wounded, Krayt is finished off by his own lieutenant, Darth Wyyrlok, who hides the body and rules as regent. Krayt revives on Korriban, healed, and in 138 ABY kills Wyyrlok.",
+  "wp": "Battle on Had Abbadon",
+  "places": [
+   "Had Abbadon",
+   "Korriban/Legends"
+  ],
+  "people": [
+   "Darth Krayt",
+   "Darth Wyyrlok (III)",
+   "Celeste Morne",
+   "Cade Skywalker"
+  ],
+  "sources": [
+   "Legacy (2006) 30",
+   "Legacy (2006) 31",
+   "Legacy (2006) 48",
+   "Legacy — War 1"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-hidden-temple-falls",
+  "title": "Krayt's forces overrun the Hidden Temple",
+  "y": 138,
+  "yText": "138 ABY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "One Sith",
+  "summary": "Krayt, back in command, sends his fleet against the Jedi's Hidden Temple on Taivas. Cade's uncle Nat Skywalker and Master T'ra Saa die covering the retreat, but the Jedi and their Alliance and Imperial allies escape together and turn to strike at Coruscant.",
+  "wp": "Attack on the Hidden Temple",
+  "places": [
+   "Taivas"
+  ],
+  "people": [
+   "Rawk",
+   "T'ra Saa/Legends",
+   "K'Kruhk",
+   "Gar Stazi"
+  ],
+  "sources": [
+   "Legacy — War 2",
+   "Legacy — War 3"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-cade-kills-krayt",
+  "title": "Cade Skywalker kills Darth Krayt at Coruscant",
+  "y": 138,
+  "yText": "138 ABY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Jedi Order",
+  "summary": "The Jedi, Stazi's Alliance Remnant and Roan Fel's Empire-in-exile strike Coruscant together. Cade Skywalker, refusing the dark side, kills Darth Krayt and flies his body toward the sun; Roan Fel, seduced by the dark side in the fighting, is killed by his own Imperial Knights. Krayt's Empire collapses.",
+  "wp": "Battle of Coruscant (Second Imperial Civil War)",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Cade Skywalker",
+   "Darth Krayt",
+   "Roan Fel",
+   "Gar Stazi",
+   "Darth Talon"
+  ],
+  "sources": [
+   "Legacy — War 5",
+   "Legacy — War 6"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-galactic-federation-triumvirate",
+  "title": "Stazi, Marasiah Fel and K'Kruhk form the Triumvirate",
+  "y": 138,
+  "yText": "138 ABY",
+  "frac": 0.8,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "founding",
+  "polity": "Galactic Federation Triumvirate",
+  "summary": "With Krayt and Roan Fel dead, the victors unite the galaxy under the Galactic Federation Triumvirate: Admiral Gar Stazi, Fel's daughter Empress Marasiah Fel, and Jedi Master K'Kruhk. The surviving One Sith go underground and set out to take the galaxy back world by world by infiltrating its governments.",
+  "wp": "Galactic Federation Triumvirate",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Gar Stazi",
+   "Marasiah Fel",
+   "K'Kruhk"
+  ],
+  "sources": [
+   "Legacy — War 6",
+   "Legacy (2013) 1"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-darth-wredd-insurgency",
+  "title": "Ania Solo helps end Darth Wredd's insurgency",
+  "y": 138,
+  "yText": "138 ABY",
+  "frac": 0.9,
+  "y2": 139,
+  "y2Text": "139 ABY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Galactic Federation Triumvirate",
+  "summary": "The renegade Sith Darth Wredd turns on both the hidden One Sith and the Triumvirate. Ania Solo, a junk dealer drawn in when she finds a captive Imperial Knight's lightsaber, joins the hunt; on the floating world Mala the Sith infiltrators are wiped out and Ania and Jao Assam kill Wredd.",
+  "wp": "Darth Wredd's insurgency",
+  "places": [
+   "Mala (planet)"
+  ],
+  "people": [
+   "Darth Wredd",
+   "Ania Solo",
+   "Jao Assam",
+   "Marasiah Fel"
+  ],
+  "sources": [
+   "Legacy (2013) 1",
+   "Legacy (2013) 18",
+   "Star Wars: Legacy Volume 2"
+  ],
+  "conflict": null,
+  "weight": 1
+ }
+]

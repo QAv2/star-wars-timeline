@@ -1,0 +1,2425 @@
+[
+ {
+  "id": "leg-rule-of-two-founded",
+  "title": "Bane's Rule of Two remakes the Sith",
+  "y": -1000,
+  "yText": "1000 BBY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "With Kaan's Brotherhood gone, Bane rebuilds the Sith in hiding under the Rule of Two: one master and one apprentice, who proves worthy by killing the master and then trains a successor. His Order of the Sith Lords will wait a thousand years for revenge.",
+  "wp": "Order of the Sith Lords",
+  "places": [
+   "Ruusan/Legends"
+  ],
+  "people": [
+   "Darth Bane/Legends",
+   "Darth Zannah/Legends"
+  ],
+  "sources": [
+   "Darth Bane: Path of Destruction",
+   "Darth Bane: Rule of Two",
+   "Darth Plagueis (novel)"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-ruusan-reformation",
+  "title": "The Ruusan Reformation disarms the Republic",
+  "y": -1000,
+  "yText": "1000 BBY",
+  "frac": 0.8,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Republic",
+  "summary": "After Ruusan, Chancellor Tarsus Valorum's reforms disband the Republic's standing military, leaving each system to defend itself. The Jedi give up their armies and ranks and answer to the Chancellor, and the Senate's millions of sectors merge into 1,024, each with one Senator.",
+  "wp": "Ruusan Reformations/Legends",
+  "places": [
+   "Ruusan/Legends",
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Tarsus Valorum/Legends",
+   "Valenthyne Farfalla"
+  ],
+  "sources": [
+   "Darth Bane: Rule of Two",
+   "The Essential Atlas",
+   "The New Essential Chronology",
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-valley-of-the-jedi",
+  "title": "Othone raises the Valley of the Jedi",
+  "y": -1000,
+  "yText": "c. 1000 BBY",
+  "frac": 0.95,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Defying the Jedi Council, Lord Hoth's former Padawan Johun Othone, backed by Chancellor Valorum, raises a memorial in the Ruusan cavern where the thought bomb fell. The souls it trapped stay bound there, a nexus of Force power, until Kyle Katarn frees them.",
+  "wp": "Valley of the Jedi",
+  "places": [
+   "Ruusan/Legends"
+  ],
+  "people": [
+   "Johun Othone",
+   "Tarsus Valorum/Legends"
+  ],
+  "sources": [
+   "Darth Bane: Rule of Two",
+   "Dark Forces: Rebel Agent",
+   "Star Wars: Jedi Knight: Dark Forces II",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-sith-believed-extinct",
+  "title": "Jedi slay a decoy, believing the Sith gone",
+  "y": -990,
+  "yText": "990 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Seeking Belia Darzu's holocron on Tython, Bane and Zannah kill a Jedi strike team, but Bane is badly hurt. On Ambria, Zannah breaks her cousin Darovit's mind and leaves him for the Jedi, who kill him as the last Sith Lord and stop looking.",
+  "wp": "Confrontation on Ambria",
+  "places": [
+   "Tython/Legends",
+   "Ambria/Legends"
+  ],
+  "people": [
+   "Darth Bane/Legends",
+   "Darth Zannah/Legends",
+   "Darovit",
+   "Caleb"
+  ],
+  "sources": [
+   "Darth Bane: Rule of Two",
+   "Darth Bane: Dynasty of Evil"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-zannah-defeats-bane",
+  "title": "Zannah defeats Bane and becomes Dark Lord",
+  "y": -980,
+  "yText": "980 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Suspecting Zannah is waiting for his body to fail, Bane seeks Darth Andeddu's secret of moving into a new body. They duel on Ambria; beaten, Bane tries to seize Zannah's body, but her will drives him out. She makes the Iktotchi Cognus her apprentice.",
+  "wp": "Duel on Ambria (980 BBY)",
+  "places": [
+   "Ambria/Legends"
+  ],
+  "people": [
+   "Darth Bane/Legends",
+   "Darth Zannah/Legends",
+   "Darth Cognus"
+  ],
+  "sources": [
+   "Darth Bane: Dynasty of Evil",
+   "The Essential Reader's Companion"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-chiss-defensive-doctrine",
+  "title": "The Chiss outlaw the first strike",
+  "y": -978,
+  "yText": "c. 978 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Worked out by Wookieepedia: Survivor's Quest calls the law a thousand years old, and The Essential Reader's Companion sets that novel in 22 ABY.",
+  "category": "politics",
+  "polity": "Chiss Ascendancy",
+  "summary": "The Chiss Ascendancy makes pre-emptive attack a crime punishable by exile: its forces may fight only once struck. The doctrine governs Chiss policy for more than a thousand years, and breaking it will cost the young commander Thrawn his place among his people.",
+  "wp": "Defensive-only doctrine",
+  "places": [
+   "Csilla/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "Survivor's Quest",
+   "Outbound Flight (novel)",
+   "Vision of the Future"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-mandalorian-excision",
+  "title": "The Republic lays waste to Mandalorian Space",
+  "y": -738,
+  "yText": "738 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Republic",
+  "summary": "Alarmed by the rearmed Mandalorians, who refuse to join the Republic after Ruusan, the Jedi lead Judicial Forces in a pre-emptive strike. Bombardment cripples Mandalore, Concord Dawn and other worlds, leaving deserts for centuries; Mandalorians remember it as the Dral'Han, the Annihilation.",
+  "wp": "Mandalorian Excision",
+  "places": [
+   "Mandalore/Legends",
+   "Concord Dawn/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "The Essential Guide to Warfare",
+   "The Bounty Hunter Code: From the Files of Boba Fett",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-allya-founds-witches",
+  "title": "Exiled Jedi Allya founds Dathomir's witch clans",
+  "y": -600,
+  "yText": "c. 600 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "force",
+  "polity": "Witches of Dathomir",
+  "summary": "Rather than execute the fallen Jedi Knight Allya, the Republic exiles her to Dathomir's prison colony. She teaches the colony's women to draw on the Force, founding the rancor-riding Witches of Dathomir, and late in life writes the Book of Law to temper their magic.",
+  "wp": "Allya/Legends",
+  "places": [
+   "Dathomir/Legends"
+  ],
+  "people": [
+   "Allya/Legends"
+  ],
+  "sources": [
+   "The Courtship of Princess Leia",
+   "The New Essential Chronology",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-alkhara-tusken-feud",
+  "title": "Alkhara's betrayal starts the Tusken blood feud",
+  "y": -550,
+  "yText": "c. 550 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Wookieepedia's timeline sets the massacre in 550 BBY, the year Alkhara reached Tatooine; the Hutt Jabba drove him from the monastery in 516 BBY.",
+  "category": "crime",
+  "polity": "Tatooine",
+  "summary": "Alkhara, a researcher turned bandit, joins Tatooine's Sand People to wipe out a police garrison, then massacres them. The killings start a feud between Tuskens and settlers that lasts centuries; his gang holes up in a B'omarr monastery that later becomes Jabba's palace.",
+  "wp": "Alkhara/Legends",
+  "places": [
+   "Tatooine/Legends",
+   "Jabba's Palace/Legends"
+  ],
+  "people": [
+   "Alkhara/Legends"
+  ],
+  "sources": [
+   "Secrets of Tatooine",
+   "The Illustrated Star Wars Universe",
+   "Star Wars: Outlander"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-gean-kills-gravid",
+  "title": "Darth Gean kills the faltering Darth Gravid",
+  "y": -533,
+  "yText": "c. 533 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "inferred",
+  "note": "Worked out by Wookieepedia: Darth Plagueis says Gravid's reign ended some five centuries before a scene it sets just after Padmé Amidala turns thirteen, in 33 BBY.",
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Drawn toward the Jedi's altruism, Dark Lord Darth Gravid loses his sanity and sets out to destroy the Sith's lore. His apprentice Darth Gean storms his bastion on Jaguada and kills him, but most of the teachings are already gone, a loss felt for generations.",
+  "wp": "Duel in Darth Gravid's bastion",
+  "places": [
+   "Jaguada/Legends"
+  ],
+  "people": [
+   "Darth Gravid",
+   "Darth Gean"
+  ],
+  "sources": [
+   "Darth Plagueis (novel)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-corporate-sector-formed",
+  "title": "The Republic sets aside the Corporate Sector",
+  "y": -490,
+  "yText": "490 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "founding",
+  "polity": "Republic",
+  "summary": "To end feuds between lawmakers and the galaxy's biggest companies, the Republic hands corporations a few hundred lifeless systems in the Tingel Arm to exploit under its supervision. Under the Empire the Corporate Sector swells to some 30,000 systems, run by the Corporate Sector Authority.",
+  "wp": "Corporate Sector/Legends",
+  "places": [
+   "Tingel Arm/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "The Essential Atlas",
+   "The New Jedi Order Sourcebook",
+   "Han Solo and the Corporate Sector Sourcebook"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-corellia-contemplanys-hermi",
+  "title": "Corellia tries to leave the Republic",
+  "y": -470,
+  "yText": "470 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Corellia",
+  "summary": "Corellia bids for independence under Contemplanys Hermi, an obscure constitutional clause that lets the sector recall its Senators and close its borders. The bid fails and the clause is forgotten until Senator Garm Bel Iblis invokes it against the Military Creation Act in 22 BBY.",
+  "wp": "Contemplanys Hermi",
+  "places": [
+   "Corellia/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "The New Essential Chronology",
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-halcyon-breaks-afarathu",
+  "title": "Keiran Halcyon breaks the Afarathu cult",
+  "y": -380,
+  "yText": "380 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "The Corellian Jedi Knight Keiran Halcyon breaks the Afarathu, a sect of Selonian extremists terrorizing the Corellian system. His bloodline of Corellian Jedi runs down to the Clone Wars hero Nejaa Halcyon and the pilot Corran Horn, who will briefly borrow Keiran's name.",
+  "wp": "Afarathu",
+  "places": [
+   "Corellia/Legends",
+   "Selonia/Legends"
+  ],
+  "people": [
+   "Keiran Halcyon"
+  ],
+  "sources": [
+   "I, Jedi",
+   "The New Essential Chronology",
+   "Power of the Jedi Sourcebook"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-trade-federation-chartered",
+  "title": "The Trade Federation is chartered",
+  "y": -350,
+  "yText": "350 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "founding",
+  "polity": "Trade Federation",
+  "summary": "The Republic charters the Trade Federation to referee disputes among shipping firms, as giant haulers lock rivals out of Outer Rim spaceports and hoard navigation data. Within a century it becomes a shipping cartel and Senate lobby, later dominated by the Neimoidians.",
+  "wp": "Trade Federation/Legends",
+  "places": [
+   "Outer Rim Territories/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "The Essential Guide to Warfare",
+   "The Essential Guide to Alien Species (real-world book)",
+   "Star Wars: Episode I Incredible Cross-Sections",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-chuunthor-crash",
+  "title": "Jedi academy ship Chu'unthor crashes on Dathomir",
+  "y": -340,
+  "yText": "340 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "The Chu'unthor, a Jedi academy starship, crashes on Dathomir. Yoda and other Jedi come for its crew but are driven off by the witches and their rancors; after Yoda saves a young witch, Rell, a truce lets them go, leaving the wreck and its library.",
+  "wp": "Chu'unthor",
+  "places": [
+   "Dathomir/Legends"
+  ],
+  "people": [
+   "Yoda/Legends",
+   "Rell (Dathomir)"
+  ],
+  "sources": [
+   "The Courtship of Princess Leia",
+   "The New Essential Chronology",
+   "Power of the Jedi Sourcebook"
+  ],
+  "conflict": "The New Essential Chronology dates the crash to 340 BBY, as Wookieepedia's timeline and its Dathomir article do; the Chu'unthor article itself gives 230 BBY without citing a source.",
+  "weight": 1
+ },
+ {
+  "id": "leg-potentium-expelled",
+  "title": "Jedi Council expels the Potentium heretics",
+  "y": -130,
+  "yText": "c. 130 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "force",
+  "polity": "Jedi Order",
+  "summary": "Leor Hal's Potentium teaches that the Force has no dark side, only a single whole to explore. It draws Padawans from Coruscant's and Alderaan's great families until the Council expels its followers. Some later settle the living world Zonama Sekot, which takes up their creed.",
+  "wp": "Potentium",
+  "places": [
+   "Coruscant/Legends",
+   "Zonama Sekot/Legends"
+  ],
+  "people": [
+   "Leor Hal"
+  ],
+  "sources": [
+   "Jedi vs. Sith: The Essential Guide to the Force (real-life book)",
+   "Rogue Planet",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-corporations-win-senate-seats",
+  "title": "Corporations win their own seats in the Senate",
+  "y": -124,
+  "yText": "124 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Republic",
+  "summary": "Two linked Senate laws make the Outer Rim a tax-free trade zone and count guilds and corporations as functional constituencies entitled to Senators. The Trade Federation gains a seat, and the combines that later back the Separatists win a direct voice in lawmaking.",
+  "wp": "Functional constituency",
+  "places": [
+   "Coruscant/Legends",
+   "Outer Rim Territories/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-c-3po-activated",
+  "title": "The protocol droid C-3PO is activated on Affa",
+  "y": -112,
+  "yText": "112 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "technology",
+  "polity": "galactic",
+  "summary": "Cybot Galactica starts turning out 3PO protocol droids, and one, later known as C-3PO, is activated on Affa. After decades serving diplomats, among them the emissary of the Manakron system, he ends up gutted and dumped on Tatooine, where the slave boy Anakin Skywalker rebuilds him.",
+  "wp": "C-3PO/Legends",
+  "places": [
+   "Affa/Legends"
+  ],
+  "people": [
+   "C-3PO/Legends",
+   "Anakin Skywalker/Legends"
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Thank the Maker",
+   "The New Essential Guide to Droids"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-dowager-queen-crash",
+  "title": "The Dowager Queen crashes on Tatooine",
+  "y": -100,
+  "yText": "c. 100 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "exploration",
+  "polity": "Tatooine",
+  "summary": "Taking Tatooine for an empty world, the colony ship Dowager Queen from Bestine IV tries to land and is wrecked by a sandstorm. Its survivors found Bestine, and the town that later grows up around the stripped hulk becomes Mos Eisley.",
+  "wp": "Dowager Queen/Legends",
+  "places": [
+   "Tatooine/Legends",
+   "Mos Eisley/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "Galaxy Guide 7: Mos Eisley",
+   "Secrets of Tatooine",
+   "Star Wars Encyclopedia"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-plagueis-kills-tenebrous",
+  "title": "Plagueis kills his master, Darth Tenebrous",
+  "y": -67,
+  "yText": "67 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Darth Tenebrous, a Bith known publicly as the starship designer Rugess Nome, contains the blast of a sabotaged mining probe on Bal'demnic. His Muun apprentice Plagueis seizes the moment, breaks his neck and studies his midi-chlorians as he dies, becoming Dark Lord of the Sith.",
+  "wp": "Darth Tenebrous/Legends",
+  "places": [
+   "Bal'demnic"
+  ],
+  "people": [
+   "Darth Tenebrous/Legends",
+   "Darth Plagueis/Legends"
+  ],
+  "sources": [
+   "Darth Plagueis (novel)",
+   "The Essential Reader's Companion"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-palpatine-becomes-sidious",
+  "title": "Palpatine murders his family and becomes Sidious",
+  "y": -65,
+  "yText": "65 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "The Muun financier Hego Damask, secretly Darth Plagueis, takes an interest in Palpatine, a young Naboo noble at odds with his father. When Cosinga Palpatine tries to send him away, Palpatine kills his whole family in a dark-side rage, and Plagueis names him Darth Sidious.",
+  "wp": "Palpatine/Legends",
+  "places": [
+   "Naboo/Legends",
+   "Chandrila/Legends"
+  ],
+  "people": [
+   "Palpatine/Legends",
+   "Darth Plagueis/Legends",
+   "Cosinga Palpatine"
+  ],
+  "sources": [
+   "Darth Plagueis (novel)"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-hutts-take-tatooine",
+  "title": "The Hutts take control of Tatooine",
+  "y": -65,
+  "yText": "65 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Hutts",
+  "summary": "The Hutts take over Tatooine, prizing the backwater desert world as a transfer point for smuggled goods between the Corellian Run and the Triellus Trade Route. Hutt clans, Jabba's Desilijic among them, rule its underworld for the next seventy years.",
+  "wp": "Tatooine/Legends",
+  "places": [
+   "Tatooine/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-true-mandalorian-civil-war",
+  "title": "Jaster Mereel's code splits the Mandalorians",
+  "y": -60,
+  "yText": "c. 60 BBY",
+  "frac": null,
+  "y2": -44,
+  "y2Text": "44 BBY",
+  "confidence": "estimated",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "Jaster Mereel becomes Mandalore and lays down the Supercommando Codex: Mandalorians should fight only as honorable mercenaries. Tor Vizsla's Death Watch breaks away to return to raiding, and civil war follows. In 58 BBY Jaster adopts Jango Fett, a farm boy orphaned by Death Watch.",
+  "wp": "Mandalorian Civil War (True Mandalorians)",
+  "places": [
+   "Concord Dawn/Legends"
+  ],
+  "people": [
+   "Jaster Mereel",
+   "Tor Vizsla",
+   "Jango Fett/Legends"
+  ],
+  "sources": [
+   "Star Wars: Jango Fett: Open Seasons",
+   "Imperial Commando: 501st",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-xanatos-falls",
+  "title": "Qui-Gon's apprentice Xanatos turns to the dark",
+  "y": -53,
+  "yText": "53 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Sent to Telos IV for his final trial, Qui-Gon's Padawan Xanatos falls under his father Crion's sway. When Qui-Gon is forced to kill Crion, Xanatos quits the Order as a Dark Jedi; nine years later, cornered on Telos, he leaps into acid rather than surrender.",
+  "wp": "Xanatos",
+  "places": [
+   "Telos IV"
+  ],
+  "people": [
+   "Xanatos",
+   "Qui-Gon Jinn/Legends",
+   "Crion"
+  ],
+  "sources": [
+   "Star Wars: Jedi — The Dark Side",
+   "Jedi Apprentice: The Dark Rival",
+   "Jedi Apprentice: The Day of Reckoning"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-battle-of-korda-six",
+  "title": "Jaster Mereel falls; Jango Fett becomes Mandalore",
+  "y": -52,
+  "yText": "52 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "mandalore",
+  "polity": "Mandalorians",
+  "summary": "Hired for what looks like easy work on Korda Six, the True Mandalorians walk into a Death Watch ambush. Betrayed by his second-in-command Montross, Jaster Mereel is killed by Tor Vizsla. Jango Fett carries his body back, exposes Montross and succeeds him as Mandalore.",
+  "wp": "Battle of Korda Six",
+  "places": [
+   "Korda Six"
+  ],
+  "people": [
+   "Jaster Mereel",
+   "Jango Fett/Legends",
+   "Montross",
+   "Tor Vizsla"
+  ],
+  "sources": [
+   "Jango Fett: Open Seasons 2",
+   "Star Wars: Jango Fett: Open Seasons"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-arkanian-revolution",
+  "title": "Renegade scientists rise on Arkania",
+  "y": -50,
+  "yText": "50 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Arkanian Dominion",
+  "summary": "Arkanian scientists who object to the Dominion's genetic tinkering with the Yaka rise in revolt, fielding an army of cyborg Assimilators and committing atrocities of their own. Jedi including Mace Windu intervene, and the Dominion crushes the Renegades.",
+  "wp": "Arkanian Revolution",
+  "places": [
+   "Arkania/Legends"
+  ],
+  "people": [
+   "Mace Windu/Legends",
+   "Gorm (cyborg)"
+  ],
+  "sources": [
+   "The New Essential Chronology",
+   "The Essential Guide to Alien Species (real-world book)",
+   "SkyeWalkers: A Clone Wars Story"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-katana-fleet-lost",
+  "title": "The Katana fleet vanishes on its maiden voyage",
+  "y": -46,
+  "yText": "c. 46 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "disaster",
+  "polity": "Republic",
+  "summary": "The Katana fleet, two hundred Dreadnaught cruisers slaved together to run on skeleton crews, sets out on its maiden voyage. A hive virus drives the crews mad, and the linked ships jump blindly into hyperspace and vanish. The smuggler Hoffner finds them in 6 BBY.",
+  "wp": "Katana fleet",
+  "places": [],
+  "people": [
+   "Hoffner"
+  ],
+  "sources": [
+   "Dark Force Rising",
+   "The New Essential Chronology",
+   "The Essential Atlas"
+  ],
+  "conflict": "Pellaeon's 'fifty-five years' in Dark Force Rising and The New Essential Chronology's completion date point to about 46 BBY, and Wookieepedia's timeline lists the loss in 45 BBY. Karrde's 'about ten years before the Clone Wars' would put it nearer 32 BBY.",
+  "weight": 2
+ },
+ {
+  "id": "leg-stark-hyperspace-war",
+  "title": "Iaco Stark's pirates fight the Republic at Troiken",
+  "y": -44,
+  "yText": "44 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Republic",
+  "summary": "Iaco Stark's combine of pirates, secretly backed by the Trade Federation and bacta maker Xucphra, strangles the Republic's bacta supply. Talks at Troiken collapse into five battles that kill Jedi Master Tyvokka and Senator Ranulph Tarkin. The war, stoked by Sidious, helps make Valorum Chancellor.",
+  "wp": "Stark Hyperspace War/Legends",
+  "places": [
+   "Troiken",
+   "Thyferra/Legends"
+  ],
+  "people": [
+   "Iaco Stark",
+   "Tyvokka/Legends",
+   "Ranulph Tarkin/Legends",
+   "Finis Valorum/Legends"
+  ],
+  "sources": [
+   "Star Wars: The Stark Hyperspace War",
+   "The New Essential Chronology",
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-battle-of-galidraan",
+  "title": "Jedi wipe out the True Mandalorians at Galidraan",
+  "y": -44,
+  "yText": "44 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Jedi Order",
+  "summary": "Galidraan's governor, sheltering Death Watch, hires Jango Fett's Mandalorians to crush rebels, then tells the Jedi they are murdering dissidents. Dooku's task force attacks; eleven Jedi and every Mandalorian but Jango die, and Jango is sold into slavery. The deceit shakes Dooku's faith in the Republic.",
+  "wp": "Battle of Galidraan",
+  "places": [
+   "Galidraan/Legends"
+  ],
+  "people": [
+   "Jango Fett/Legends",
+   "Dooku/Legends",
+   "Komari Vosa",
+   "Tor Vizsla"
+  ],
+  "sources": [
+   "Star Wars: Jango Fett: Open Seasons",
+   "Jedi vs. Sith: The Essential Guide to the Force (real-life book)",
+   "The Essential Guide to Warfare",
+   "Star Wars: Bounty Hunter"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-obi-wan-joins-the-young",
+  "title": "Obi-Wan leaves the Order for Melida/Daan's Young",
+  "y": -44,
+  "yText": "44 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Sent with Qui-Gon to rescue Jedi Tahl from the warring Melida and Daan, thirteen-year-old Obi-Wan sides with the Young, an army of war orphans, and quits the Order. They topple the Elders in fourteen days; after his friend Cerasi is killed, Obi-Wan asks to return.",
+  "wp": "Young–Elders War",
+  "places": [
+   "Melida/Daan/Legends"
+  ],
+  "people": [
+   "Obi-Wan Kenobi/Legends",
+   "Qui-Gon Jinn/Legends",
+   "Cerasi",
+   "Nield"
+  ],
+  "sources": [
+   "Jedi Apprentice: The Defenders of the Dead",
+   "Jedi Apprentice: The Uncertain Path",
+   "The Essential Reader's Companion"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-sith-tip-the-force",
+  "title": "Plagueis and Sidious tip the Force toward darkness",
+  "y": -42,
+  "yText": "c. 42 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "force",
+  "polity": "Sith",
+  "summary": "Plagueis and Sidious enter a joint trance and push the Force toward the dark side, even trying to will a being into existence through the galaxy's midi-chlorians. A decade later Plagueis suspects the Force answered by conceiving Anakin Skywalker, the Chosen One.",
+  "wp": "Darth Plagueis/Legends",
+  "places": [
+   "Aborah"
+  ],
+  "people": [
+   "Darth Plagueis/Legends",
+   "Palpatine/Legends"
+  ],
+  "sources": [
+   "Darth Plagueis (novel)"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-great-resynchronization",
+  "title": "The Great ReSynchronization resets the calendar",
+  "y": -35,
+  "yText": "35 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "culture",
+  "polity": "Republic",
+  "summary": "To reconcile the tangle of dating systems across the Republic, the Republic Measures & Standards Bureau adopts a reformed Galactic Standard Calendar with 35 BBY as year zero. Late Republic records count from it: the Stark Hyperspace War falls in 9 BrS, nine years before.",
+  "wp": "Great ReSynchronization",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [],
+  "sources": [
+   "HoloNet News Vol. 531 45",
+   "Galaxywide NewsNets",
+   "A Guide to the Star Wars Universe, Second Edition, Revised and Expanded"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-yinchorri-uprising",
+  "title": "The Yinchorri rise and raid the Jedi Temple",
+  "y": -33,
+  "yText": "33 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Yinchorri",
+  "summary": "Egged on by Sidious through the rogue Vilmarh Grahrk, the Yinchorri seize the Golden Nyss Shipyards, overrun Mayvitch 7 and dump two murdered Jedi on Valorum's doorstep. Twelve Jedi strike at the Yinchorri worlds as commandos raid the Temple; the Republic wins and disarms them.",
+  "wp": "Yinchorri Uprising",
+  "places": [
+   "Yinchorr/Legends",
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Mace Windu/Legends",
+   "Vilmarh Grahrk",
+   "Finis Valorum/Legends"
+  ],
+  "sources": [
+   "Star Wars: Jedi Council: Acts of War",
+   "Star Wars: The Devaronian Version",
+   "Darth Plagueis (novel)",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-maul-kills-black-sun-vigos",
+  "title": "Maul wipes out Black Sun's leadership",
+  "y": -33,
+  "yText": "32.5 BBY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Sith",
+  "summary": "Sidious sends Maul to throw Black Sun into chaos, in part to repay the syndicate's attempt on Plagueis's life. Maul kills Vigos on Coruscant and Dac, then storms the fortress on Ralltiir where the rest have gathered, slaughtering every Vigo and drowning Underlord Alexi Garyn.",
+  "wp": "Mission to Ralltiir",
+  "places": [
+   "Ralltiir/Legends",
+   "Coruscant/Legends",
+   "Dac/Legends"
+  ],
+  "people": [
+   "Darth Maul/Legends",
+   "Alexi Garyn"
+  ],
+  "sources": [
+   "Star Wars: Darth Maul (2000)",
+   "Darth Plagueis (novel)",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-sidious-murders-plagueis",
+  "title": "Sidious murders Plagueis on election night",
+  "y": -32,
+  "yText": "32 BBY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "On the night the Senate elects Palpatine Supreme Chancellor, Sidious kills his master as the Muun sleeps. Plagueis the Wise, who spent decades hunting the secret of cheating death, dies with his work unfinished, and Sidious becomes the sole Dark Lord of the Sith.",
+  "wp": "Darth Plagueis/Legends",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Darth Plagueis/Legends",
+   "Palpatine/Legends"
+  ],
+  "sources": [
+   "Darth Plagueis (novel)",
+   "The Essential Reader's Companion"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-vong-besiege-zonama-sekot",
+  "title": "Yuuzhan Vong scouts besiege Zonama Sekot",
+  "y": -32,
+  "yText": "32 BBY",
+  "frac": null,
+  "y2": -30,
+  "y2Text": "30 BBY",
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Yuuzhan Vong",
+  "summary": "Yuuzhan Vong scouts, invaders from beyond the galaxy whom the settlers call Far Outsiders, try to colonize the living world Zonama Sekot, whose biosphere kills the organisms they bring. Two years of siege end when the Jedi Vergere agrees to leave with them.",
+  "wp": "First Battle of Zonama Sekot",
+  "places": [
+   "Zonama Sekot/Legends"
+  ],
+  "people": [
+   "Vergere"
+  ],
+  "sources": [
+   "Rogue Planet",
+   "The New Jedi Order: Destiny's Way",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-dooku-quits-order",
+  "title": "Dooku quits the Jedi Order after Naboo",
+  "y": -32,
+  "yText": "32 BBY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Shaken by Galidraan and embittered by Qui-Gon Jinn's death on Naboo, Dooku resigns from the Order without explanation, the twentieth Master to walk away; the Archives add his bust to those of the Lost Twenty. He reclaims his title as Count of Serenno.",
+  "wp": "Dooku/Legends",
+  "places": [
+   "Coruscant/Legends",
+   "Serenno/Legends"
+  ],
+  "people": [
+   "Dooku/Legends"
+  ],
+  "sources": [
+   "Jedi vs. Sith: The Essential Guide to the Force (real-life book)",
+   "Star Wars: Episode II Attack of the Clones (novelization)",
+   "The New Essential Guide to Characters"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-second-battle-zonama-sekot",
+  "title": "Zonama Sekot escapes Tarkin into the Unknown Regions",
+  "y": -29,
+  "yText": "29 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "Seeking Vergere's fate, Obi-Wan and Anakin find Zonama Sekot growing living starships. Tarkin and Raith Sienar strike with Trade Federation forces to seize it, but the planet jumps into hyperspace. Tarkin saves face by giving Palpatine Sienar's plans for a giant battle station.",
+  "wp": "Second Battle of Zonama Sekot",
+  "places": [
+   "Zonama Sekot/Legends",
+   "Gardaji Rift/Legends"
+  ],
+  "people": [
+   "Obi-Wan Kenobi/Legends",
+   "Anakin Skywalker/Legends",
+   "Wilhuff Tarkin/Legends",
+   "Raith Sienar/Legends"
+  ],
+  "sources": [
+   "Rogue Planet",
+   "The New Essential Chronology",
+   "The Essential Reader's Companion"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-jamaane-coup",
+  "title": "Shimrra seizes the Yuuzhan Vong throne",
+  "y": -29,
+  "yText": "29 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Yuuzhan Vong",
+  "summary": "News of Zonama Sekot shakes Supreme Overlord Quoreal, who wants the Yuuzhan Vong to seek another galaxy. Backed by the most aggressive domains, the Intendant Shimrra Jamaane has him killed and takes his place, committing the Vong to the invasion that comes decades later.",
+  "wp": "Jamaane coup",
+  "places": [],
+  "people": [
+   "Shimrra Jamaane",
+   "Quoreal"
+  ],
+  "sources": [
+   "The New Jedi Order: The Unifying Force",
+   "The New Jedi Order: The Final Prophecy",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-outbound-flight-destroyed",
+  "title": "Outbound Flight is destroyed in the Unknown Regions",
+  "y": -27,
+  "yText": "27 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "exploration",
+  "polity": "Republic",
+  "summary": "Jedi Master Jorus C'baoth leads Outbound Flight, six Dreadnaughts of colonists and Jedi bound for the Unknown Regions. At Sidious's request the Chiss commander Thrawn cripples it; Sidious's agent Kinman Doriana deals the final blow, and the wreck falls onto a planetoid where survivors hold on.",
+  "wp": "Outbound Flight Project",
+  "places": [
+   "Yaga Minor/Legends",
+   "Unknown Regions/Legends"
+  ],
+  "people": [
+   "Jorus C'baoth",
+   "Mitth'raw'nuruodo/Legends",
+   "Kinman Doriana"
+  ],
+  "sources": [
+   "Outbound Flight (novel)",
+   "Survivor's Quest",
+   "Heir to the Empire",
+   "The Essential Reader's Companion"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-yaddle-dies-on-mawan",
+  "title": "Yaddle dies absorbing a chemical weapon",
+  "y": -26,
+  "yText": "26 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": "Wookieepedia's timeline lists her death under 25 BBY; her own article gives 26 BBY.",
+  "category": "death",
+  "polity": "Jedi Order",
+  "summary": "On a peacekeeping mission to lawless Mawan with Obi-Wan and Anakin, Yaddle uses the Force to pull a deadly chemical weapon released by Granta Omega, Xanatos's son, into her own body, dying to save the city's people. Shaak Ti takes her seat on the Council.",
+  "wp": "Yaddle/Legends",
+  "places": [
+   "Mawan/Legends"
+  ],
+  "people": [
+   "Yaddle/Legends",
+   "Granta Omega",
+   "Obi-Wan Kenobi/Legends",
+   "Anakin Skywalker/Legends"
+  ],
+  "sources": [
+   "Jedi Quest: The Shadow Trap",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-ansion-border-dispute",
+  "title": "Jedi keep Ansion in the Republic",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Jedi Order",
+  "summary": "The Commerce Guild schemes to pull Ansion out of the Republic, and with it dozens of treaty-bound worlds. Luminara Unduli and Obi-Wan, with their Padawans Barriss Offee and Anakin, cross its plains to end the feud between city-dwellers and nomadic Alwari, and Ansion stays.",
+  "wp": "Border dispute on Ansion/Legends",
+  "places": [
+   "Ansion/Legends"
+  ],
+  "people": [
+   "Luminara Unduli/Legends",
+   "Obi-Wan Kenobi/Legends",
+   "Barriss Offee/Legends",
+   "Anakin Skywalker/Legends"
+  ],
+  "sources": [
+   "The Approaching Storm",
+   "The New Essential Chronology",
+   "The Essential Reader's Companion"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-dark-reaper-crisis",
+  "title": "The Jedi stop Dooku's Dark Reaper",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.15,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Republic",
+  "summary": "A Separatist attack on remote Rhen Var opens Dooku's plan to rebuild the Dark Reaper, an ancient Sith weapon that feeds on the life energy of its victims. Mace Windu, Obi-Wan and Anakin fight across Rhen Var, Raxus Prime and Thule to destroy it.",
+  "wp": "Dark Reaper crisis",
+  "places": [
+   "Rhen Var",
+   "Raxus Prime/Legends",
+   "Thule"
+  ],
+  "people": [
+   "Mace Windu/Legends",
+   "Obi-Wan Kenobi/Legends",
+   "Anakin Skywalker/Legends",
+   "Dooku/Legends"
+  ],
+  "sources": [
+   "Star Wars: The Clone Wars (video game)",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-battle-of-muunilinst",
+  "title": "The Republic storms the Banking Clan's Muunilinst",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.2,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "Obi-Wan and Anakin strike Muunilinst, home of the Banking Clan and its droid foundries. ARC troopers crack Harnaidan's defenses, Obi-Wan defeats the bounty hunter Durge, and Dooku's assassin Asajj Ventress lures Anakin to a duel on Yavin 4. The Republic takes the planet.",
+  "wp": "Battle of Muunilinst/Legends",
+  "places": [
+   "Muunilinst/Legends",
+   "Yavin 4/Legends"
+  ],
+  "people": [
+   "Obi-Wan Kenobi/Legends",
+   "Anakin Skywalker/Legends",
+   "Durge/Legends",
+   "Asajj Ventress/Legends"
+  ],
+  "sources": [
+   "Chapter 1 (Star Wars: Clone Wars)",
+   "Chapter 4 (Star Wars: Clone Wars)",
+   "Chapter 10 (Star Wars: Clone Wars)",
+   "Chapter 17 (Star Wars: Clone Wars)",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-shatterpoint-haruun-kal",
+  "title": "Mace Windu seeks his fallen Padawan",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "jedi",
+  "polity": "Jedi Order",
+  "summary": "Mace Windu returns to his jungle homeworld for his former Padawan Depa Billaba, sent to aid a Korun uprising against the Separatists that has turned savage. He finds the jungle's darkness has claimed her; she attacks him, and their struggle leaves her in a coma.",
+  "wp": "Summertime War",
+  "places": [
+   "Haruun Kal/Legends"
+  ],
+  "people": [
+   "Mace Windu/Legends",
+   "Depa Billaba/Legends",
+   "Kar Vastor"
+  ],
+  "sources": [
+   "Shatterpoint (novel)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-battle-of-hypori",
+  "title": "General Grievous makes his debut at Hypori",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Separatists",
+  "summary": "Acting on Daakman Barrek's intelligence, a Republic force raids Hypori's droid foundries and walks into a trap. The Separatists' new Supreme Commander, the cyborg General Grievous, kills Barrek and other Jedi; only Ki-Adi-Mundi, Shaak Ti, Aayla Secura and K'Kruhk survive, pulled out by ARC troopers.",
+  "wp": "Battle of Hypori/Legends",
+  "places": [
+   "Hypori/Legends"
+  ],
+  "people": [
+   "Grievous/Legends",
+   "Daakman Barrek",
+   "Ki-Adi-Mundi/Legends",
+   "Shaak Ti/Legends",
+   "Aayla Secura/Legends"
+  ],
+  "sources": [
+   "Chapter 20 (Star Wars: Clone Wars)",
+   "Chapter 21 (Star Wars: Clone Wars)",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-battle-of-jabiim",
+  "title": "The Republic is ground down on Jabiim",
+  "y": -22,
+  "yText": "22 BBY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "The Republic backs Jabiim's loyalists against Separatist-armed nationalists in a campaign fought through endless rain and mud. Obi-Wan is presumed dead, Anakin obeys Palpatine's order to evacuate while a band of Padawans dies holding the line, and the abandoned loyalists curse the Republic.",
+  "wp": "Battle of Jabiim",
+  "places": [
+   "Jabiim"
+  ],
+  "people": [
+   "Obi-Wan Kenobi/Legends",
+   "Anakin Skywalker/Legends",
+   "Asajj Ventress/Legends",
+   "Alto Stratus"
+  ],
+  "sources": [
+   "Star Wars: Republic: The Battle of Jabiim",
+   "Republic 55",
+   "Republic 58",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-battle-of-boz-pity",
+  "title": "Ventress fakes her death at Boz Pity",
+  "y": -20,
+  "yText": "20 BBY",
+  "frac": 0.57,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": "Wookieepedia dates the battle 19.43 BBY, two years and seven months after the Battle of Geonosis.",
+  "category": "battle",
+  "polity": "Republic",
+  "summary": "Hunting Asajj Ventress, Obi-Wan uncovers a Separatist stronghold at Boz Pity, and a Jedi-led fleet under Mace Windu defeats Dooku and Grievous there. Gravely wounded, Ventress feigns death with Sith meditation, then has her medical transport carry her away from the war and Dooku.",
+  "wp": "Battle of Boz Pity (Clone Wars)",
+  "places": [
+   "Boz Pity/Legends"
+  ],
+  "people": [
+   "Asajj Ventress/Legends",
+   "Obi-Wan Kenobi/Legends",
+   "Mace Windu/Legends",
+   "Grievous/Legends",
+   "Dooku/Legends"
+  ],
+  "sources": [
+   "Star Wars: Obsession",
+   "Obsession 4",
+   "Obsession 5",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-sector-governance-decree",
+  "title": "Palpatine puts Moffs over the sectors",
+  "y": -19,
+  "yText": "c. 19 BBY",
+  "frac": 0.05,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "politics",
+  "polity": "Republic",
+  "summary": "Palpatine decrees that governors of his choosing will oversee every planet and sector, creating the office of Moff, nominally for the war effort. The move sidelines the Senate, spurs the Petition of 2000 and gives the coming Empire its regional chain of command.",
+  "wp": "Sector Governance Decree/Legends",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Palpatine/Legends"
+  ],
+  "sources": [
+   "Star Wars: Revenge of the Sith (novelization)",
+   "The Essential Atlas",
+   "The Essential Guide to Warfare",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-cleansing-of-new-plympto",
+  "title": "The Empire crushes the Nosaurians of New Plympto",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Empire",
+  "summary": "Betrayed by his clones at Order 66, Jedi General Dass Jennir returns to New Plympto and leads its Nosaurian rebels, his former enemies, against the Empire. After a month of guerrilla war, the 501st breaks their last stand at Half-Axe Pass, killing nearly all of them.",
+  "wp": "Cleansing of New Plympto",
+  "places": [
+   "New Plympto"
+  ],
+  "people": [
+   "Dass Jennir",
+   "Bomo Greenbark"
+  ],
+  "sources": [
+   "Star Wars: Dark Times",
+   "Dark Times 1",
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-caamas-firestorm",
+  "title": "The Caamas Firestorm",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "Empire",
+  "summary": "Seeing the free-thinking, Republic-loyal Caamasi as a threat, Palpatine has Bothan agents switch off Caamas's planetary shields, and Star Destroyers set the world ablaze. Only some two hundred Caamasi there survive; the Empire blames stray Separatist bombs, and the Bothans' role stays hidden for decades.",
+  "wp": "Caamas Firestorm",
+  "places": [
+   "Caamas/Legends"
+  ],
+  "people": [
+   "Palpatine/Legends"
+  ],
+  "sources": [
+   "Specter of the Past",
+   "I, Jedi",
+   "Coruscant Nights II: Street of Shadows",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-byss-throne-world",
+  "title": "Palpatine makes Byss his secret throne world",
+  "y": -19,
+  "yText": "c. 19 BBY",
+  "frac": 0.8,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "sith",
+  "polity": "Empire",
+  "summary": "Soon after the Clone Wars, Palpatine claims Byss, a hidden Deep Core paradise, as his secret throne world. Slaves raise his citadel, and he feeds on the Force energy of settlers lured there, turning Byss into a dark side nexus where his spare clone bodies wait.",
+  "wp": "Byss/Legends",
+  "places": [
+   "Byss/Legends"
+  ],
+  "people": [
+   "Palpatine/Legends"
+  ],
+  "sources": [
+   "Dark Empire Sourcebook",
+   "Evasive Action: Recruitment",
+   "Dark Empire 2",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-eye-of-palpatine-sabotaged",
+  "title": "Two Jedi sabotage the Eye of Palpatine",
+  "y": -18,
+  "yText": "18 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "technology",
+  "polity": "Empire",
+  "summary": "Palpatine builds the Eye of Palpatine, a battlemoon disguised as an asteroid, to wipe out Jedi children sheltered by Master Plett on Belsavis. Jedi Knights Geith Eris and Callista Ming sabotage it; Callista traps her spirit in its computer to stop it, and the children escape.",
+  "wp": "Eye of Palpatine",
+  "places": [
+   "Belsavis/Legends",
+   "Moonflower Nebula"
+  ],
+  "people": [
+   "Callista Ming",
+   "Geith Eris",
+   "Plett"
+  ],
+  "sources": [
+   "Children of the Jedi (novel)",
+   "Death Star Owner's Technical Manual",
+   "The Essential Atlas"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-queen-apailana-killed",
+  "title": "The 501st takes Naboo and kills its queen",
+  "y": -18,
+  "yText": "18 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Empire",
+  "summary": "Queen Apailana breaks with the Empire and shelters fugitive Jedi on Naboo. Vader sends the 501st Legion, which crushes the Royal Security Forces, kills the Jedi and assassinates the young queen; the Empire puts the compliant Kylantha on the throne.",
+  "wp": "Battle of Naboo (Imperial Period)",
+  "places": [
+   "Naboo/Legends"
+  ],
+  "people": [
+   "Apailana/Legends",
+   "Anakin Skywalker/Legends",
+   "Kylantha"
+  ],
+  "sources": [
+   "Star Wars: Battlefront II",
+   "Star Wars Insider 82",
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-hett-turns-to-sith",
+  "title": "A'Sharad Hett takes the road to Darth Krayt",
+  "y": -17,
+  "yText": "17 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "The Order 66 survivor A'Sharad Hett leads Tusken raids on Tatooine until Obi-Wan defeats him near the Lars homestead and makes him swear to leave. Hett turns bounty hunter, then on Korriban learns the Sith ways from the spirit of XoXaan; he will become Darth Krayt.",
+  "wp": "Darth Krayt",
+  "places": [
+   "Tatooine/Legends",
+   "Korriban/Legends"
+  ],
+  "people": [
+   "Darth Krayt",
+   "Obi-Wan Kenobi/Legends",
+   "XoXaan"
+  ],
+  "sources": [
+   "Legacy (2006) 16",
+   "Legacy — War 6",
+   "The Life and Legend of Obi-Wan Kenobi"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-kamino-uprising",
+  "title": "The 501st crushes a clone uprising on Kamino",
+  "y": -12,
+  "yText": "12 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Empire",
+  "summary": "Resenting Imperial control, Kaminoan Clone Masters grow an army of Jango Fett clones to turn against the Empire. Guided by Boba Fett, who knows Tipoca City from boyhood, the 501st wipes out the rebel clones and their makers. The Empire turns to other templates and recruits.",
+  "wp": "Kamino uprising",
+  "places": [
+   "Kamino/Legends"
+  ],
+  "people": [
+   "Boba Fett/Legends"
+  ],
+  "sources": [
+   "Star Wars: Battlefront II",
+   "The Essential Atlas",
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-second-great-droid-revolution",
+  "title": "The Second Great Droid Revolution",
+  "y": -10,
+  "yText": "10 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "technology",
+  "polity": "Empire",
+  "summary": "The cyborg Archa Sabis uploads a virus that turns Coruscant's police cruisers and construction droids against their owners. The Empire quickly crushes the short-lived revolt and turns the public's fear of droids to its own advantage.",
+  "wp": "Second Great Droid Revolution",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Archa Sabis"
+  ],
+  "sources": [
+   "Coruscant and the Core Worlds",
+   "The New Essential Guide to Droids"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-palpatine-tedryn-holocron",
+  "title": "Palpatine learns to outlive his own body",
+  "y": -8,
+  "yText": "c. 8 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": null,
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "From the Tedryn Holocron, taken from the captured Jedi archivist Ashka Boda, Palpatine learns how to move his spirit into a cloned body. He stocks secret storehouses such as Mount Tantiss on Wayland with treasures and cloning gear, killing the architect of its maze.",
+  "wp": "Tedryn Holocron",
+  "places": [
+   "Wayland/Legends"
+  ],
+  "people": [
+   "Palpatine/Legends",
+   "Ashka Boda",
+   "Garrbo V'Droz"
+  ],
+  "sources": [
+   "Jedi vs. Sith: The Essential Guide to the Force (real-life book)",
+   "Dark Empire endnotes",
+   "The Last Command Sourcebook",
+   "Heir to the Empire"
+  ],
+  "conflict": "Wookieepedia's timeline sets the discovery and Mount Tantiss's completion in 8 BBY, but the Dark Empire endnotes say Palpatine held the holocron for thirty years, which puts its capture near the start of the Jedi Purge in 19 BBY.",
+  "weight": 2
+ },
+ {
+  "id": "leg-bombardment-of-falleen",
+  "title": "Vader's bombardment kills Xizor's family on Falleen",
+  "y": -7,
+  "yText": "7 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "disaster",
+  "polity": "Empire",
+  "summary": "A flesh-eating bacterium escapes Vader's bioweapons lab on Falleen. Vader has the lab and everything within forty kilometers bombarded from orbit, killing 200,000 Falleen, among them the royal family of Prince Xizor, who has just taken control of Black Sun. Xizor quietly vows revenge.",
+  "wp": "Bombardment of Falleen",
+  "places": [
+   "Falleen (planet)/Legends"
+  ],
+  "people": [
+   "Anakin Skywalker/Legends",
+   "Xizor/Legends"
+  ],
+  "sources": [
+   "Star Wars: Shadows of the Empire (novel)",
+   "Shadows of the Empire Sourcebook",
+   "Star Wars: Empire at War: Forces of Corruption"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-han-saves-chewbacca",
+  "title": "Han Solo saves Chewbacca and loses his commission",
+  "y": -5,
+  "yText": "5 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "independent",
+  "summary": "Top of his class at the Imperial Academy, Lieutenant Han Solo refuses an order to skin a wounded Wookiee slave, Chewbacca, then stops an officer from whipping him. Han is court-martialed and cashiered; Chewbacca swears him a life debt, and the two turn smuggler.",
+  "wp": "Han Solo/Legends",
+  "places": [],
+  "people": [
+   "Han Solo/Legends",
+   "Chewbacca/Legends"
+  ],
+  "sources": [
+   "The Hutt Gambit",
+   "Han Solo and the Corporate Sector Sourcebook"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-lando-defeats-rokur-gepta",
+  "title": "Lando Calrissian defeats the sorcerer Rokur Gepta",
+  "y": -3,
+  "yText": "3 BBY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "independent",
+  "summary": "Rokur Gepta, a Croke illusionist who killed his fellow Sorcerers of Tund and poisoned their world, blames Lando Calrissian for losing him the Mindharp of Sharu and hunts him. In the ThonBoka nebula, Lando saves the space-dwelling Oswaft from Gepta and the Empire, and kills him.",
+  "wp": "Rokur Gepta",
+  "places": [
+   "ThonBoka"
+  ],
+  "people": [
+   "Lando Calrissian/Legends",
+   "Rokur Gepta"
+  ],
+  "sources": [
+   "Lando Calrissian and the Starcave of ThonBoka",
+   "Lando Calrissian and the Mindharp of Sharu",
+   "Lando Calrissian and the Flamewind of Oseon"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-starkiller-hunts-jedi",
+  "title": "Vader's secret apprentice hunts the last Jedi",
+  "y": -3,
+  "yText": "3 BBY",
+  "frac": 0.6,
+  "y2": -2,
+  "y2Text": "2 BBY",
+  "confidence": "explicit",
+  "note": "Wookieepedia's timeline lists the hunt under 2 BBY; the articles on Kazdan Paratus and Shaak Ti date their deaths to 3 BBY.",
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Taken after Vader killed his Jedi father on Kashyyyk, Galen Marek grows up as Vader's secret apprentice, Starkiller. He kills Jedi survivors, Kazdan Paratus on Raxus Prime and Shaak Ti on Felucia, then gathers the Empire's enemies for a supposed plot against the Emperor.",
+  "wp": "Galen Marek",
+  "places": [
+   "Kashyyyk/Legends",
+   "Raxus Prime/Legends",
+   "Felucia/Legends"
+  ],
+  "people": [
+   "Galen Marek",
+   "Anakin Skywalker/Legends",
+   "Kento Marek",
+   "Kazdan Paratus",
+   "Shaak Ti/Legends"
+  ],
+  "sources": [
+   "Star Wars: The Force Unleashed",
+   "Star Wars: The Force Unleashed (novelization)",
+   "The Essential Reader's Companion"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-grand-admirals-named",
+  "title": "Palpatine names twelve Grand Admirals",
+  "y": -2,
+  "yText": "2 BBY",
+  "frac": 0.02,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Empire",
+  "summary": "At the New Year Fete Week celebrations, Palpatine unexpectedly names twelve Grand Admirals, a new rank above even the Grand Moffs that answers only to him. Months before Endor one of them, Demetrius Zaarin, attempts a coup and is replaced by the Chiss Thrawn.",
+  "wp": "Grand Admiral/Legends",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Palpatine/Legends",
+   "Demetrius Zaarin",
+   "Mitth'raw'nuruodo/Legends"
+  ],
+  "sources": [
+   "The Essential Guide to Warfare",
+   "Heir to the Empire",
+   "Star Wars: TIE Fighter (video game)",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-han-wins-the-falcon",
+  "title": "Han Solo wins the Millennium Falcon from Lando",
+  "y": -2,
+  "yText": "2 BBY",
+  "frac": 0.1,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "independent",
+  "summary": "In the final round of a sabacc tournament on Cloud City, Lando Calrissian stakes any ship on his Nar Shaddaa sales lot, forgetting that his own Millennium Falcon is parked there. Han Solo wins and claims the Falcon on the technicality.",
+  "wp": "Millennium Falcon/Legends",
+  "places": [
+   "Cloud City/Legends",
+   "Nar Shaddaa/Legends"
+  ],
+  "people": [
+   "Han Solo/Legends",
+   "Lando Calrissian/Legends"
+  ],
+  "sources": [
+   "Rebel Dawn",
+   "The Hutt Gambit",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-han-at-stars-end",
+  "title": "Han Solo breaks open the Stars' End prison",
+  "y": -2,
+  "yText": "2 BBY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "independent",
+  "summary": "Helping a band searching for relatives who vanished into the Corporate Sector Authority's secret prison, Han loses Chewbacca to its police. He traces the prison, Stars' End, to Mytus VII, frees the prisoners from stasis, and leaves the crippled tower blasted into a suborbital arc.",
+  "wp": "Stars' End/Legends",
+  "places": [
+   "Mytus VII"
+  ],
+  "people": [
+   "Han Solo/Legends",
+   "Chewbacca/Legends",
+   "Mirkovig Hirken"
+  ],
+  "sources": [
+   "Han Solo at Stars' End",
+   "Han Solo and the Corporate Sector Sourcebook",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-corellian-treaty",
+  "title": "The Corellian Treaty founds the Rebel Alliance",
+  "y": -2,
+  "yText": "2 BBY",
+  "frac": 0.7,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "When Vader seizes the dissidents Galen Marek gathered on Corellia, Marek follows them to the Death Star and dies holding off the Emperor while they escape. Mon Mothma, Bail Organa and Garm Bel Iblis sign the Corellian Treaty, founding the Rebel Alliance under Marek's family crest.",
+  "wp": "Corellian Treaty",
+  "places": [
+   "Corellia/Legends",
+   "Kashyyyk/Legends"
+  ],
+  "people": [
+   "Galen Marek",
+   "Mon Mothma/Legends",
+   "Bail Prestor Organa/Legends",
+   "Garm Bel Iblis/Legends",
+   "Palpatine/Legends"
+  ],
+  "sources": [
+   "Star Wars: The Force Unleashed",
+   "Star Wars: The Force Unleashed (novelization)",
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-anti-sith-conspiracy",
+  "title": "Grand Moff Trachta plots against the Sith",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.4,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "politics",
+  "polity": "Empire",
+  "summary": "Grand Moff Trachta and fellow officers plot to kill Palpatine and Vader with a hundred clone stormtroopers bred to obey Trachta alone, and take the Empire for themselves. The plotters turn on each other, the Sith cut down the rest, and only the assassin Gauer survives.",
+  "wp": "Anti-Sith conspiracy",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Trachta",
+   "Palpatine/Legends",
+   "Anakin Skywalker/Legends",
+   "Gauer"
+  ],
+  "sources": [
+   "Star Wars: Empire Volume 1: Betrayal",
+   "Empire 1",
+   "The Official Star Wars Fact File 122"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-assault-on-kamino-rebels",
+  "title": "A Starkiller clone leads the rebels to Kamino",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Rebellion",
+  "summary": "Hoping to recreate his lost apprentice, Vader grows clones of Galen Marek on Kamino. One escapes, frees Rahm Kota and leads a rebel fleet back to Kamino, where the Alliance wrecks Timira City's cloning labs and takes Vader prisoner, its first major victory. He soon escapes.",
+  "wp": "Assault on Kamino",
+  "places": [
+   "Kamino/Legends",
+   "Timira City"
+  ],
+  "people": [
+   "Subject 1138",
+   "Rahm Kota/Legends",
+   "Anakin Skywalker/Legends",
+   "Boba Fett/Legends"
+  ],
+  "sources": [
+   "Star Wars: The Force Unleashed II",
+   "Star Wars: The Force Unleashed II (novelization)",
+   "The Essential Reader's Companion"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-maw-installation",
+  "title": "Tarkin hides a weapons lab inside the Maw",
+  "y": -1,
+  "yText": "0 BBY",
+  "frac": 0.8,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Wookieepedia dates the Installation's construction only to between 19 and 0 BBY; its timeline sets Daala's posting in 0 BBY, just before the Battle of Yavin.",
+  "category": "technology",
+  "polity": "Empire",
+  "summary": "Tarkin builds a hidden weapons laboratory inside the Maw, a cluster of black holes, staffed by prodigies such as Qwi Xux, taken as children from Omwat. It designs the Death Star's prototype, and Admiral Daala's Star Destroyers guard it, cut off, long after the Empire falls.",
+  "wp": "Maw Installation",
+  "places": [
+   "Maw Cluster"
+  ],
+  "people": [
+   "Wilhuff Tarkin/Legends",
+   "Natasi Daala",
+   "Qwi Xux"
+  ],
+  "sources": [
+   "Jedi Search",
+   "The Jedi Academy Sourcebook",
+   "Death Star (novel)",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-destruction-of-despayre",
+  "title": "The Death Star's first shot destroys Despayre",
+  "y": -1,
+  "yText": "0 BBY",
+  "frac": 0.85,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": "Days before the Battle of Yavin; placed just before year zero on the archive's axis.",
+  "category": "disaster",
+  "polity": "Empire",
+  "summary": "With the Death Star's construction site above the prison world Despayre found by the Alliance, Tarkin moves the nearly finished station, first testing its superlaser on the only planet in range. Despayre and every prisoner on it are destroyed, days before the Battle of Yavin.",
+  "wp": "Destruction of Despayre",
+  "places": [
+   "Despayre"
+  ],
+  "people": [
+   "Wilhuff Tarkin/Legends"
+  ],
+  "sources": [
+   "Death Star (novel)",
+   "Star Wars: Lethal Alliance",
+   "Star Wars: X-Wing (video game)"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-battle-of-toprawa",
+  "title": "Rebels seize the Death Star plans at Toprawa",
+  "y": -1,
+  "yText": "0 BBY",
+  "frac": 0.9,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": "Days before the Battle of Yavin; placed just before year zero on the archive's axis.",
+  "category": "battle",
+  "polity": "Rebellion",
+  "summary": "Rebels raid a convoy above Toprawa for Death Star plans, add pieces taken on the surface and by Kyle Katarn on Danuta, and seize a relay to beam them to Leia's Tantive IV. Bria Tharen's Red Hand Squadron dies holding it, and the Empire razes Toprawa.",
+  "wp": "Battle of Toprawa",
+  "places": [
+   "Toprawa/Legends",
+   "Danuta"
+  ],
+  "people": [
+   "Bria Tharen",
+   "Kyle Katarn",
+   "Leia Organa Solo/Legends"
+  ],
+  "sources": [
+   "Star Wars: Episode IV A New Hope",
+   "Star Wars: The National Public Radio Dramatization",
+   "Jedi Dawn",
+   "Rebel Dawn",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 3
+ },
+ {
+  "id": "leg-yavin-blockade",
+  "title": "Vader blockades the rebels at Yavin",
+  "y": 0,
+  "yText": "0 ABY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": "Wookieepedia dates the blockade from 0 to 0.5 ABY, ending six months after the Battle of Yavin.",
+  "category": "war",
+  "polity": "Empire",
+  "summary": "After Yavin, Vader blockades the Yavin system and pins the Alliance down for six months. When the rebels break out, Admiral Griff leaps into hyperspace after them and emerges on top of Vader's waiting flagship, the Executor; three Star Destroyers are lost and the rebels escape.",
+  "wp": "Yavin blockade",
+  "places": [
+   "Yavin 4/Legends"
+  ],
+  "people": [
+   "Anakin Skywalker/Legends",
+   "Amise Griff"
+  ],
+  "sources": [
+   "Darth Vader Strikes",
+   "Iceworld",
+   "Doom Mission",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-dark-trooper-project",
+  "title": "Kyle Katarn destroys the Dark Trooper Project",
+  "y": 1,
+  "yText": "1 ABY",
+  "frac": 0.3,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "technology",
+  "polity": "Rebellion",
+  "summary": "General Rom Mohc wins backing for his dark troopers, armored battle droids that wipe out the rebel base on Talay in minutes. Rebel agent Kyle Katarn, a former Imperial officer, tracks the program and destroys its factory ship, the Arc Hammer, killing Mohc.",
+  "wp": "Dark Trooper Project",
+  "places": [
+   "Talay"
+  ],
+  "people": [
+   "Kyle Katarn",
+   "Rom Mohc",
+   "Jan Ors"
+  ],
+  "sources": [
+   "Star Wars: Dark Forces",
+   "The New Essential Chronology",
+   "The Essential Guide to Warfare"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-crix-madine-defects",
+  "title": "Crix Madine defects after the Dentaal plague",
+  "y": 1,
+  "yText": "c. 1 ABY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "estimated",
+  "note": "Dated by Wookieepedia's timeline; the Crix Madine article gives no year for the defection.",
+  "category": "rebellion",
+  "polity": "Rebellion",
+  "summary": "Crix Madine, who founded the Empire's storm commandos, obeys an order to unleash the Candorian plague on Dentaal, then defects to the Rebel Alliance in disgust, losing his fiancée in the escape. He becomes one of the Alliance's leading commanders of special operations.",
+  "wp": "Crix Madine/Legends",
+  "places": [
+   "Dentaal"
+  ],
+  "people": [
+   "Crix Madine/Legends"
+  ],
+  "sources": [
+   "Darksaber (novel)",
+   "Dark Force Rising Sourcebook",
+   "Star Wars: Imperial Handbook: A Commander's Guide"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-bounty-hunter-wars",
+  "title": "The Bounty Hunter Wars break the Guild",
+  "y": 1,
+  "yText": "1 ABY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": "Wookieepedia's timeline lists the Guild's split under 0 ABY; the Bounty Hunter Wars article dates the war's start to 1 ABY.",
+  "category": "crime",
+  "polity": "Bounty Hunters' Guild",
+  "summary": "At Prince Xizor's urging, Palpatine sends Boba Fett to wreck the Bounty Hunters' Guild from inside. Fett joins under its aging leader Cradossk; the Guild splits into the True Guild and the Guild Reform Committee, whose hunters turn on each other until the Guild is finished.",
+  "wp": "Bounty Hunter Wars",
+  "places": [],
+  "people": [
+   "Boba Fett/Legends",
+   "Xizor/Legends",
+   "Cradossk",
+   "Bossk/Legends"
+  ],
+  "sources": [
+   "The Mandalorian Armor",
+   "Slave Ship",
+   "Hard Merchandise",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-duel-on-mimban",
+  "title": "Luke and Leia find the Kaiburr crystal",
+  "y": 2,
+  "yText": "2 ABY",
+  "frac": null,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "force",
+  "polity": "Rebellion",
+  "summary": "Stranded on swampy Mimban, Luke and Leia join the self-styled seer Halla in hunting the Kaiburr crystal, which magnifies the Force. In its temple Vader cuts Leia down, but Luke severs Vader's arm and the Dark Lord falls into a well; the crystal heals them.",
+  "wp": "Duel on Mimban",
+  "places": [
+   "Mimban/Legends"
+  ],
+  "people": [
+   "Luke Skywalker/Legends",
+   "Leia Organa Solo/Legends",
+   "Anakin Skywalker/Legends",
+   "Halla"
+  ],
+  "sources": [
+   "Splinter of the Mind's Eye",
+   "The Rise and Fall of Darth Vader",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-lumiya-rises",
+  "title": "Shira Brie is reborn as the Sith Lumiya",
+  "y": 3,
+  "yText": "3 ABY",
+  "frac": 0.2,
+  "y2": 4,
+  "y2Text": "4 ABY",
+  "confidence": "estimated",
+  "note": "The shootdown follows the Battle of Hoth; Vader presents Lumiya to Palpatine a few months before Endor, in 4 ABY.",
+  "category": "sith",
+  "polity": "Sith",
+  "summary": "Planted in the Alliance as a pilot, the Imperial spy Shira Brie is shot down by Luke acting on a Force warning. Vader rebuilds her with cybernetics and trains her as Lumiya, Dark Lady of the Sith; in 4 ABY Palpatine makes her an Emperor's Hand.",
+  "wp": "Lumiya",
+  "places": [
+   "Ziost/Legends"
+  ],
+  "people": [
+   "Lumiya",
+   "Luke Skywalker/Legends",
+   "Anakin Skywalker/Legends"
+  ],
+  "sources": [
+   "Star Wars (1977) 62",
+   "Star Wars (1977) 95",
+   "The New Essential Guide to Characters",
+   "Legacy of the Force: Tempest"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-battle-of-kothlis",
+  "title": "Bothans die for the new Death Star's plans",
+  "y": 3,
+  "yText": "3.5 ABY",
+  "frac": 0.45,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "battle",
+  "polity": "Rebellion",
+  "summary": "Rebels seize a computer core holding the second Death Star's plans from the freighter Suprosa and hide it with Bothan spies on Kothlis. Bounty hunters raid the safehouse and take Luke, many Bothans die, and Crix Madine's commandos pull the data from a crashed Star Destroyer.",
+  "wp": "Battle of Kothlis",
+  "places": [
+   "Kothlis/Legends"
+  ],
+  "people": [
+   "Luke Skywalker/Legends",
+   "Crix Madine/Legends",
+   "Koth Melan"
+  ],
+  "sources": [
+   "Star Wars: Shadows of the Empire (novel)",
+   "Star Wars: Rogue Squadron II: Rogue Leader",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-xizor-killed",
+  "title": "Vader kills Xizor and Black Sun falls apart",
+  "y": 3,
+  "yText": "3.5 ABY",
+  "frac": 0.5,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "crime",
+  "polity": "Black Sun",
+  "summary": "Black Sun's Prince Xizor plots to kill Luke and take Vader's place, and holds Leia captive. Rebels break her out and blow up his Coruscant palace; Xizor flees to his skyhook, which Vader's Executor blasts apart with him aboard. Black Sun falls into chaos.",
+  "wp": "Battle over Coruscant",
+  "places": [
+   "Coruscant/Legends"
+  ],
+  "people": [
+   "Xizor/Legends",
+   "Anakin Skywalker/Legends",
+   "Leia Organa Solo/Legends",
+   "Luke Skywalker/Legends"
+  ],
+  "sources": [
+   "Star Wars: Shadows of the Empire (novel)",
+   "Star Wars: Shadows of the Empire (video game)",
+   "The Secrets of Star Wars: Shadows of the Empire",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-mara-jade-emperors-hand",
+  "title": "The Emperor's Hand Mara Jade stalks Luke",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.2,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "force",
+  "polity": "Empire",
+  "summary": "Raised from childhood as Palpatine's secret assassin, the Emperor's Hand Mara Jade waits in Jabba's palace disguised as the dancer Arica to kill Luke, but never gets the chance. As Palpatine dies at Endor, she hears his last command: kill Luke Skywalker.",
+  "wp": "Mara Jade Skywalker",
+  "places": [
+   "Jabba's Palace/Legends",
+   "Tatooine/Legends"
+  ],
+  "people": [
+   "Mara Jade Skywalker",
+   "Palpatine/Legends",
+   "Luke Skywalker/Legends"
+  ],
+  "sources": [
+   "Sleight of Hand: The Tale of Mara Jade",
+   "Star Wars: Mara Jade – By the Emperor's Hand",
+   "Heir to the Empire"
+  ],
+  "conflict": null,
+  "weight": 2
+ },
+ {
+  "id": "leg-ig88-droid-revolution",
+  "title": "IG-88's droid revolution dies with the Death Star",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.45,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "technology",
+  "polity": "IG-88",
+  "summary": "The IG-88 assassin droids, having killed their makers and seized the factory world Mechis III, plot to turn the galaxy's droids against organic life. Their leader IG-88A uploads his mind into the second Death Star's computer and dies with it at Endor before the revolt begins.",
+  "wp": "Droid Revolution",
+  "places": [
+   "Mechis III",
+   "Endor/Legends"
+  ],
+  "people": [
+   "IG-88A/Legends"
+  ],
+  "sources": [
+   "Star Wars: Episode VI Return of the Jedi",
+   "Therefore I Am: The Tale of IG-88",
+   "The New Essential Guide to Droids"
+  ],
+  "conflict": null,
+  "weight": 1
+ },
+ {
+  "id": "leg-truce-at-bakura",
+  "title": "Rebels and Imperials unite against the Ssi-ruuk",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.6,
+  "y2": null,
+  "y2Text": null,
+  "confidence": "explicit",
+  "note": null,
+  "category": "war",
+  "polity": "Rebellion",
+  "summary": "Imperial Bakura begs for help against the Ssi-ruuk, who power their droid fighters with captives' life energy. An Alliance force under Luke, Han and Leia fights beside the Imperials; when Governor Nereus betrays the truce, his commander Pter Thanas defects and Bakura joins the Alliance.",
+  "wp": "Battle of Bakura",
+  "places": [
+   "Bakura/Legends"
+  ],
+  "people": [
+   "Luke Skywalker/Legends",
+   "Leia Organa Solo/Legends",
+   "Han Solo/Legends",
+   "Wilek Nereus",
+   "Pter Thanas"
+  ],
+  "sources": [
+   "The Truce at Bakura",
+   "The Truce at Bakura Sourcebook",
+   "The New Essential Chronology"
+  ],
+  "conflict": null,
+  "weight": 3
+ }
+]
