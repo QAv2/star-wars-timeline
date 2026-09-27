@@ -49,14 +49,15 @@ def canon_rows():
         if not cells:
             continue
         date = p.get("date", "")
-        if not wp.clean(date).strip():
+        inherited = not wp.clean(date).strip()
+        if inherited:
             date = last_date
         else:
             last_date = date
         title, tmpl = cell_title(cells[0][2:])
         rel = cells[1][2:].strip() if len(cells) > 1 else ""
         rows.append({"i": len(rows), "type": p.get("2"), "cls": p.get("3"),
-                     "date": date, "title": title, "tmpl": tmpl,
+                     "date": date, "inh": inherited, "title": title, "tmpl": tmpl,
                      "release": rel if re.match(r"\d{4}-\d\d-\d\d", rel) else "",
                      "dagger": "&dagger;" in cells[0], "adaptation": p.get("adaptation") == "1",
                      "unpublished": p.get("unpublished") == "1"})

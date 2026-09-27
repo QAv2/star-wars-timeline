@@ -14,7 +14,7 @@ vocabulary, gate and voice.
 
 | skin | look | type | gate |
 |---|---|---|---|
-| Jedi Archives (`skins/jedi`) | holocron light and bronze on midnight | Cinzel, Barlow | a holocron opens |
+| Jedi Archives (`skins/jedi`) | holocron light and bronze on midnight; vantage the Temple's fall, 19 BBY | Cinzel, Barlow | a holocron opens |
 | Resistance intelligence (`skins/resistance`) | vector-CRT war room at Ajan Kloss, phosphor green with an amber reticle; vantage 35 ABY | B612, B612 Mono | the trench-run targeting computer locks on |
 | Imperial archive, Scarif (`skins/imperial`) | black vault, graphite racks, white type, signal red; vantage the Citadel's fall | Michroma, Saira | a clearance scan, then the arm pulls a data tape; the proclamation's redactions lift |
 | Journal of the Whills (`skins/whills`) | the void shows through the timeline; starlight, Mortis gold, lanes in stellar colours | Spectral | the World Between Worlds: paths of light and a golden doorway |

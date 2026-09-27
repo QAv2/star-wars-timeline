@@ -7,6 +7,7 @@ export default {
   org: 'Jedi Temple, Coruscant',
   glyph: 'jedi archives',
   title: 'Jedi Archives: a Star Wars timeline',
+  vantage: { event: 'operation-knightfall', t: -18.71, label: 'The Temple falls: Coruscant, 19 BBY' },
   gate: {
     art: `<div class="holo-halo"></div><div class="holo-core"></div><div class="cube">${[1, 2, 3, 4, 5, 6].map(face).join('')}</div>`,
     sub: 'The Jedi Temple, Coruscant',

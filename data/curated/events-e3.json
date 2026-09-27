@@ -669,7 +669,7 @@
    "Kanan 5",
    "Kanan 6"
   ],
-  "conflict": "Wookieepedia's timeline sets the rescue on the planet Lahn, while the event article, citing Kanan 5, places it in space above Kaller.",
+  "conflict": null,
   "weight": 1
  },
  {
@@ -2804,7 +2804,7 @@
   "sources": [
    "Legacy of Mandalore"
   ],
-  "conflict": "Wookieepedia's timeline says Sabine kills Saxon in single combat; the episode, as the Skirmish on Krownest article summarizes it, has her spare him and Ursa Wren shoot him when he tries to fire on her.",
+  "conflict": null,
   "weight": 1
  },
  {
@@ -2983,7 +2983,7 @@
   "sources": [
    "Thrawn: Alliances"
   ],
-  "conflict": "Wookieepedia's timeline lists this mission under 1 BBY, while the mission article follows Star Wars: Timelines in dating Thrawn: Alliances to 2 BBY.",
+  "conflict": null,
   "weight": 1
  },
  {

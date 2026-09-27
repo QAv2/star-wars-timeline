@@ -171,7 +171,7 @@ def main():
     recs = []
     for r in R:
         leg = bool(r.get("leg"))
-        if r["row"] is not None:
+        if r["row"] is not None and r.get("src") != "ib":   # dated by its own infobox: its row's rank no longer applies
             t = (lt if leg else ct).get(r["row"])
         else:
             t = None

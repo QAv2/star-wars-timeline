@@ -192,8 +192,11 @@ def main():
         tl = ib.get("timeline", "")
         ys = mt.years(row["date"]) if row else []
         src = "row" if ys else ""
-        if not ys:
-            ys = mt.years(tl.split("\n")[0]) or mt.years(tl); src = "ib" if ys else ""
+        # a row left undated inherits its neighbour's year; a single year in the record's own infobox is better
+        # (infobox ranges stay behind the inherited order: their first year would misplace the entry)
+        own = mt.years(tl.split("\n")[0]) or mt.years(tl)
+        if not ys or (row and row.get("inh") and len(own) == 1 and own[0] != ys[0]):
+            ys = own; src = "ib" if ys else ""
         out.append({
             "id": rid, "s": code, "ti": ti, "kind": "film" if code == "FLM" else ("short" if short or code == "FOD" else "ep"), "wp": rec["title"], "se": se, "ep": ep, "n": n, "ad": ad,
             "row": row["i"] if row else None, "dag": bool(row and row["dagger"]),

@@ -511,6 +511,40 @@
   "weight": 1
  },
  {
+  "id": "sith-extinct-for-a-millennium",
+  "title": "The Sith, extinct for a millennium",
+  "kind": "unreliable-account",
+  "y": -32,
+  "yText": "32 BBY",
+  "frac": 0.27,
+  "summary": "When Qui-Gon reports a Sith warrior on Tatooine, the Jedi Council answers that the Sith have been gone for a thousand years. They were hiding, not gone. Since Darth Bane's Rule of Two, one master and one apprentice have kept the order alive out of the Jedi's sight, and the master now sits in the Senate.",
+  "accounts": [
+   {
+    "claim": "The Sith have been extinct for a millennium.",
+    "source": "Ki-Adi-Mundi, Star Wars: Episode I The Phantom Menace"
+   },
+   {
+    "claim": "There are always two Sith, a master and an apprentice, so Maul's death leaves one of them still at large.",
+    "source": "Yoda and Mace Windu, Star Wars: Episode I The Phantom Menace"
+   },
+   {
+    "claim": "Darth Bane allowed only two Sith at a time, hidden in the shadows while his plan worked toward the Jedi's ruin.",
+    "source": "Star Wars: Timelines"
+   }
+  ],
+  "resolution": "The Sith were never extinct, only hidden, and the Council's belief was the cover Sidious relied on. The Jedi learn who the master is in 19 BBY, too late.",
+  "events": [
+   "duel-on-tatooine",
+   "rule-of-two"
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Sacrifice (episode)",
+   "Star Wars: Timelines"
+  ],
+  "weight": 2
+ },
+ {
   "id": "kamino-erased-from-archives",
   "title": "Kamino missing from the Jedi Archives",
   "kind": "in-universe-erasure",
@@ -945,6 +979,40 @@
   "weight": 3
  },
  {
+  "id": "two-ghorman-massacres",
+  "title": "Two massacres on Ghorman",
+  "kind": "retcon",
+  "y": -19,
+  "yText": "19 BBY and 2 BBY",
+  "frac": null,
+  "summary": "The old Expanded Universe put the Ghorman Massacre in the first days of the Empire: Tarkin landing his warship on protesters who blocked the pad. Andor makes the Ghorman Massacre the 2 BBY killing in Palmo, a trap the ISB spends years building, and keeps the older story as a separate atrocity, the Tarkin Massacre of 19 BBY.",
+  "accounts": [
+   {
+    "claim": "Shortly after the Empire is declared, Tarkin sets his ship down on Ghorman protesters, killing hundreds; the atrocity turns Bail Organa toward rebellion.",
+    "source": "The Rebel Alliance Sourcebook (Legends)"
+   },
+   {
+    "claim": "The Ghorman Massacre is the Empire's 2 BBY slaughter of protesters in Palmo, provoked by the ISB to justify seizing the planet.",
+    "source": "Who Are You?"
+   },
+   {
+    "claim": "Tarkin's landing on the protesters still happened, as the Tarkin Massacre of 19 BBY.",
+    "source": "Ever Been to Ghorman?"
+   }
+  ],
+  "resolution": "Canon keeps both events: the Tarkin Massacre in 19 BBY and the Ghorman Massacre in 2 BBY. The Legends account now describes the first one, under a new name.",
+  "events": [
+   "tarkin-massacre",
+   "ghorman-massacre"
+  ],
+  "sources": [
+   "Ever Been to Ghorman?",
+   "Who Are You?",
+   "The Rebel Alliance Sourcebook"
+  ],
+  "weight": 2
+ },
+ {
   "id": "tipoca-city-storm-story",
   "title": "The storm that sank Tipoca City",
   "kind": "propaganda",
@@ -983,34 +1051,6 @@
   "weight": 2
  },
  {
-  "id": "caleb-dume-rescue-site",
-  "title": "Where Caleb Dume was rescued",
-  "kind": "contradiction",
-  "y": -18,
-  "yText": "18 BBY",
-  "frac": null,
-  "summary": "After Order 66, the Padawan Caleb Dume is caught by clone officers and then freed by the smuggler Janus Kasmir. Wookieepedia's timeline places the rescue on the planet Lahn. Its article on the rescue, citing the comic, has him captured on Lahn but freed in space above Kaller.",
-  "accounts": [
-   {
-    "claim": "Caleb is rescued on Lahn.",
-    "source": "Wookieepedia's Timeline of galactic history"
-   },
-   {
-    "claim": "Caleb is caught on Lahn; Kasmir and Kleeve free him in space above Kaller.",
-    "source": "Kanan 5"
-   }
-  ],
-  "resolution": "The comic supports the Kaller version; the timeline entry folds capture and rescue into one place. The chronicle follows the event article.",
-  "events": [
-   "caleb-dume-becomes-kanan"
-  ],
-  "sources": [
-   "Kanan 5",
-   "Kanan 6"
-  ],
-  "weight": 1
- },
- {
   "id": "qui-gon-voice-before-kenobi",
   "title": "Did Qui-Gon speak to Obi-Wan before 9 BBY?",
   "kind": "retcon",
@@ -1047,6 +1087,34 @@
   "weight": 2
  },
  {
+  "id": "kessel-run-parsecs",
+  "title": "The Kessel Run in less than twelve parsecs",
+  "kind": "unreliable-account",
+  "y": -10,
+  "yText": "10 BBY",
+  "frac": 0.5,
+  "summary": "Han sells the Falcon to Obi-Wan as the ship that made the Kessel Run in less than twelve parsecs, which measures distance, not time. The run itself, flown years earlier, shows what he meant: a shorter and more dangerous path through the Maelstrom, and a figure he rounds in his own favour.",
+  "accounts": [
+   {
+    "claim": "The Falcon is the ship that made the Kessel Run in less than twelve parsecs.",
+    "source": "Han Solo, Star Wars: Episode IV A New Hope"
+   },
+   {
+    "claim": "Han takes the Falcon through the Akkadese Maelstrom and comes out a little over twelve parsecs; when Chewbacca corrects his boast, Han says it is twelve if you round down.",
+    "source": "Solo: A Star Wars Story"
+   }
+  ],
+  "resolution": "Solo makes the old line a claim about distance: the Kessel Run is a route of about twenty parsecs, and Han's shortcut brings it to a little over twelve. Less than twelve is the salesman's figure.",
+  "events": [
+   "kessel-run"
+  ],
+  "sources": [
+   "Star Wars: Episode IV A New Hope",
+   "Solo: A Star Wars Story"
+  ],
+  "weight": 2
+ },
+ {
   "id": "death-star-construction-site",
   "title": "Where the first Death Star was finished",
   "kind": "contradiction",
@@ -1074,62 +1142,6 @@
    "The Honorable Ones",
    "Tarkin (novel)",
    "Star Wars: Rogue One: The Ultimate Visual Guide"
-  ],
-  "weight": 1
- },
- {
-  "id": "gar-saxon-death",
-  "title": "Who killed Gar Saxon?",
-  "kind": "contradiction",
-  "y": -2,
-  "yText": "2 BBY",
-  "frac": 0.5,
-  "summary": "On Krownest, Sabine Wren beats the Imperial viceroy Gar Saxon in single combat and lets him live. Wookieepedia's timeline says she kills him. The episode, and the article on the fight, show Saxon going for his blaster as she turns away and her mother, Ursa, shooting him first.",
-  "accounts": [
-   {
-    "claim": "Sabine kills Saxon in their duel.",
-    "source": "Wookieepedia's Timeline of galactic history"
-   },
-   {
-    "claim": "Sabine spares Saxon; when he tries to shoot her, Ursa Wren kills him.",
-    "source": "Legacy of Mandalore"
-   }
-  ],
-  "resolution": "Settled by the episode: Ursa fires the fatal shot. The timeline line is a summary slip, and the chronicle follows the screen.",
-  "events": [
-   "skirmish-on-krownest"
-  ],
-  "sources": [
-   "Legacy of Mandalore",
-   "Star Wars: Timelines"
-  ],
-  "weight": 1
- },
- {
-  "id": "thrawn-alliances-date",
-  "title": "Vader and Thrawn on Batuu: which year?",
-  "kind": "dating-conflict",
-  "y": -2,
-  "yText": "2 BBY",
-  "frac": null,
-  "summary": "The Emperor sends Vader and Thrawn together to trace a disturbance in the Force, starting on Batuu. Star Wars: Timelines dates this half of Thrawn: Alliances to 2 BBY, and Wookieepedia's article on the mission follows it. Wookieepedia's own timeline still files the mission under 1 BBY.",
-  "accounts": [
-   {
-    "claim": "The Batuu mission takes place in 2 BBY.",
-    "source": "Star Wars: Timelines"
-   },
-   {
-    "claim": "The mission belongs to 1 BBY.",
-    "source": "Wookieepedia's Timeline of galactic history"
-   }
-  ],
-  "resolution": "Timelines is the only source that dates it, and the mission article follows it. The chronicle uses 2 BBY.",
-  "events": [
-   "vader-and-thrawn-on-batuu"
-  ],
-  "sources": [
-   "Thrawn: Alliances",
-   "Star Wars: Timelines"
   ],
   "weight": 1
  },
@@ -1666,40 +1678,6 @@
    "Star Wars: The Rise of Skywalker: Expanded Edition"
   ],
   "weight": 3
- },
- {
-  "id": "resistance-founding-year",
-  "title": "The Resistance: founded 28 ABY or 29 ABY?",
-  "kind": "dating-conflict",
-  "y": 28,
-  "yText": "28 ABY",
-  "frac": null,
-  "summary": "Bloodline ends with Leia, out of the Senate, starting a private force to watch the First Order; Star Wars: Timelines dates the novel to 28 ABY. The Rise of Skywalker: The Visual Dictionary counts back from the Starkiller strike, and the count has been read as either six years (28 ABY) or five (29 ABY).",
-  "accounts": [
-   {
-    "claim": "Leia begins gathering pilots and old allies into a resistance after leaving the Senate.",
-    "source": "Bloodline (novel)"
-   },
-   {
-    "claim": "Leia formed the Resistance six years before the Starkiller Incident.",
-    "source": "Star Wars: The Rise of Skywalker: The Visual Dictionary, as Wookieepedia's Resistance article reads it"
-   },
-   {
-    "claim": "The Resistance formed five years before the Starkiller Incident.",
-    "source": "Star Wars: The Rise of Skywalker: The Visual Dictionary, as this archive's chronicle reads it"
-   }
-  ],
-  "resolution": "Wookieepedia dates the founding to 28 ABY, which the six-year reading matches. The five-year figure is the one the same book gives for the First Order's secession in 29 ABY, which may be the source of the split. The chronicle uses 28 ABY.",
-  "events": [
-   "resistance-founded",
-   "cold-war-begins"
-  ],
-  "sources": [
-   "Bloodline (novel)",
-   "Star Wars: The Rise of Skywalker: The Visual Dictionary",
-   "Star Wars: Timelines"
-  ],
-  "weight": 1
  },
  {
   "id": "temple-night-three-tellings",
