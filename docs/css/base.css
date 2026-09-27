@@ -241,6 +241,7 @@ body.boot .console { animation: consoleIn .9s ease both; }
 }
 @media (max-width: 520px) {
   .controls #audio { display: none; }
+  .brand h1 { white-space: normal; line-height: 1.08; }
   .brand-org { display: none; }
 }
 @media (prefers-reduced-motion: reduce) {

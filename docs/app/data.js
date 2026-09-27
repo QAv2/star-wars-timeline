@@ -203,16 +203,19 @@ export async function loadArchive() {
   }
   S.artifacts.sort((x, y) => x.t - y.t);
 
-  // contested records
+  // contested records; `events` names the flagged chronicle entries and visions a register entry covers
   for (const x of A.anomalies || []) {
     if (!x || !x.id) continue;
     x.$ = 'x'; x.srcRecs = recs(x.recs);
+    x.covers = (x.events || []).map((id) => S.evById.get(id) || S.visById.get(id)).filter(Boolean);
+    x.covers.forEach((it) => { it.filed = x; });
     if (typeof x.t !== 'number') x.t = x.srcRecs[0] ? x.srcRecs[0].t : 0;
     x.u = tToU(x.t);
     x.srcRecs.forEach((r) => link(r, 'x', x));
     S.anomalies.push(x); S.anById.set(x.id, x);
   }
   S.anomalies.sort((a, b) => a.t - b.t);
+  S.flagged = () => [...S.events, ...(S.legendsOn ? S.levents : []), ...S.visions].filter((x) => x.conflict && !x.filed);
 
   for (const p of S.people) { p.recs.sort((a, b) => a.t - b.t); p.remote.sort((a, b) => a.t - b.t); }
 

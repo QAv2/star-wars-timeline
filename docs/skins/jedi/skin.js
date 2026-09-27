@@ -24,7 +24,7 @@ export default {
     fail: 'The holocron would not open. Reload to try again.',
   },
   words: {
-    continuum: 'The stacks', visions: 'Visions', lineages: 'Lineages', relics: 'Relics', personnel: 'Archive files',
+    continuum: 'The stacks', field: 'the stacks', visions: 'Visions', lineages: 'Lineages', relics: 'Relics', personnel: 'Archive files',
     map: 'Star map', records: 'Entries', anomalies: 'Contested', about: 'About',
     record: 'Holocron entry', event: 'Chronicle entry', history: 'Chronicle', legends: 'Legends',
     inView: 'On the shelves', person: 'Archive file', anomaly: 'Contested record',

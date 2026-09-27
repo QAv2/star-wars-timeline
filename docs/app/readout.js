@@ -23,7 +23,7 @@ export class Readout {
     body.addEventListener('click', (e) => this.onClick(e));
     body.addEventListener('input', (e) => this.onInput(e));
   }
-  get W() { return this.skin.words; }
+  get W() { return { field: 'the timeline', ...this.skin.words }; }
 
   set(kicker, html, toolsHtml = '') {
     this.head.textContent = kicker;
@@ -73,7 +73,11 @@ export class Readout {
       return r ? `<a href="#/r/${enc(r.id)}" data-go="#/r/${enc(r.id)}">${esc(r.ti)}</a>` : `<a href="${WP(s)}" target="_blank" rel="noopener">${esc(s)}</a>`;
     }).join(', ')}</p>`;
   }
-  conflict(c) { return c ? `<div class="anomaly"><div class="k">${esc(this.W.anomaly)}</div>${esc(c)}</div>` : ''; }
+  conflict(c, filed) {
+    if (!c) return '';
+    const go = filed ? `<div class="btnrow"><button class="btn" data-go="#/x/${enc(filed.id)}">${esc(filed.title)} ▸</button></div>` : '';
+    return `<div class="anomaly"><div class="k">${esc(this.W.anomaly)}</div>${esc(c)}${go}</div>`;
+  }
 
   // ── the stacks: what's in the window ──────────────────────────────
   inView(items) {
@@ -96,7 +100,7 @@ export class Readout {
     const recs = items.filter((x) => x.$ === 'r').length;
     let seen = true;
     try { seen = localStorage.getItem('swt-hint') === '1'; } catch (_) { /* storage blocked */ }
-    const hint = seen ? '' : `<div class="statusnote"><div class="k">How to read the stacks</div>${esc(this.W.orient)}
+    const hint = seen ? '' : `<div class="statusnote"><div class="k">How to read ${esc(this.W.field)}</div>${esc(this.W.orient)}
       <div class="btnrow" style="margin:8px 0 2px"><button class="btn primary" data-act="hint-ok">Understood</button></div></div>`;
     this.set(`${this.W.inView}: ${recs} entries, ${items.length - recs} chronicle`, hint + html);
   }
@@ -140,7 +144,7 @@ export class Readout {
       <h3>Before and after, in-universe</h3>
       <ul class="list">${nb(prev)}${nb(next)}</ul>
       ${r.prevAir || r.nextAir ? `<h3>Previous and next ${r.k === 'film' ? 'film' : 'episode'}, by release</h3><ul class="list">${r.prevAir ? this.recRow(r.prevAir, 'Previous') : ''}${r.nextAir ? this.recRow(r.nextAir, 'Next') : ''}</ul>` : ''}
-      <div class="btnrow"><a class="btn" href="${WP(r.wp)}" target="_blank" rel="noopener">Wookieepedia</a><button class="btn" data-act="fit-rec" data-id="${esc(r.id)}">Center on the stacks</button></div>
+      <div class="btnrow"><a class="btn" href="${WP(r.wp)}" target="_blank" rel="noopener">Wookieepedia</a><button class="btn" data-act="fit-rec" data-id="${esc(r.id)}">Center on ${esc(this.W.field)}</button></div>
       <p class="fine">Placement: ${esc(PR[r.pr] || r.pr)}.</p>`;
     this.set(`${this.W.record}, ${this.code(r)}`, html, this.back('#/continuum', this.W.inView));
   }
@@ -153,12 +157,12 @@ export class Readout {
       <div class="cells">${cell('When', span(e.tText, e.y2Text), 'loc')}${cell('Dating', CONF[e.confidence] || e.confidence)}${cell('Kind', e.category)}${cell('Belongs to', e.polity)}</div>
       <p class="lead">${esc(e.summary)}</p>
       ${e.note ? `<p class="note">${esc(e.note)}</p>` : ''}
-      ${this.conflict(e.conflict)}
+      ${this.conflict(e.conflict, e.filed)}
       ${e.srcRecs.length ? `<h3>Seen in</h3><ul class="list">${e.srcRecs.map((r) => this.recRow(r, r.tt)).join('')}</ul>` : ''}
       ${(e.people || []).length ? `<h3>Who</h3><div class="chips">${e.people.map((k) => this.pk(k)).join('')}</div>` : ''}
       ${(e.places || []).length ? `<h3>Where</h3><div class="chips">${e.places.map((k) => this.wk(k)).join('')}</div>` : ''}
       ${this.sources((e.sources || []).filter((s) => !e.srcRecs.some((r) => r.wp === s)))}
-      <div class="btnrow">${e.wp ? `<a class="btn" href="${WP(e.wp)}" target="_blank" rel="noopener">Wookieepedia</a>` : ''}<button class="btn" data-act="fit-t" data-t="${e.t}">Center on the stacks</button></div>`;
+      <div class="btnrow">${e.wp ? `<a class="btn" href="${WP(e.wp)}" target="_blank" rel="noopener">Wookieepedia</a>` : ''}<button class="btn" data-act="fit-t" data-t="${e.t}">Center on ${esc(this.W.field)}</button></div>`;
     this.set(e.leg ? 'Legends chronicle' : this.W.event, html, this.back('#/continuum', this.W.inView));
   }
 
@@ -177,7 +181,7 @@ export class Readout {
       <div class="legs">${legs}</div>
       <p class="lead">${esc(v.summary)}</p>
       ${v.note ? `<p class="note">${esc(v.note)}</p>` : ''}
-      ${this.conflict(v.conflict)}
+      ${this.conflict(v.conflict, v.filed)}
       ${(v.experiencers || []).length ? `<h3>Who sees it</h3><div class="chips">${v.experiencers.map((x) => this.pk(x)).join('')}</div>` : ''}
       ${(v.reached || []).length ? `<h3>Who is reached</h3><div class="chips">${v.reached.map((x) => this.pk(x)).join('')}</div>` : ''}
       ${v.srcRecs.length ? `<h3>Seen in</h3><ul class="list">${v.srcRecs.map((r) => this.recRow(r, r.tt)).join('')}</ul>` : ''}
@@ -220,7 +224,7 @@ export class Readout {
       ${vis.length ? `<h3>Visions</h3><ul class="list">${vis.join('')}</ul>` : ''}
       ${bars ? `<h3>Where they appear</h3><div class="bars">${bars}</div>` : ''}
       ${firstR ? `<h3>First and last entries, in-universe</h3><ul class="list">${this.recRow(firstR, firstR.tt)}${lastR !== firstR ? this.recRow(lastR, lastR.tt) : ''}</ul>` : ''}
-      ${p.remote.length ? `<p class="note">Also seen by hologram, voice or vision in ${p.remote.length} ${p.remote.length === 1 ? 'entry' : 'entries'} (hollow marks on the stacks).</p>` : ''}
+      ${p.remote.length ? `<p class="note">Also seen by hologram, voice or vision in ${p.remote.length} ${p.remote.length === 1 ? 'entry' : 'entries'} (hollow marks on ${esc(this.W.field)}).</p>` : ''}
       <div class="btnrow"><a class="btn" href="${WP(p.k)}" target="_blank" rel="noopener">Wookieepedia</a><button class="btn" data-act="fit-p">Fit their line</button><button class="btn" data-act="list-p">Every entry</button></div>
       <div class="plist" hidden><ul class="list">${recs.map((r) => this.recRow(r, r.tt)).join('')}</ul></div>`;
     this.set(this.W.person, html, this.back('#/personnel', 'All files'));
@@ -237,7 +241,7 @@ export class Readout {
       <div class="cells">${cell('Grid square', w.g, 'loc')}${cell('Sector', w.sec)}${cell('System', w.sys)}${cell('Kind', w.cls)}${cell('Entries', String(recs.length))}</div>
       ${evs.length ? `<h3>Chronicle</h3><ul class="list">${evs.map((e) => this.evRow(e)).join('')}</ul>` : ''}
       ${recs.length ? `<h3>Entries set here</h3><ul class="list">${recs.map((r) => this.recRow(r, r.tt)).join('')}</ul>` : ''}
-      <div class="btnrow"><a class="btn" href="${WP(w.k)}" target="_blank" rel="noopener">Wookieepedia</a><button class="btn" data-act="world-stacks" data-k="${esc(w.k)}">Light it on the stacks</button></div>`;
+      <div class="btnrow"><a class="btn" href="${WP(w.k)}" target="_blank" rel="noopener">Wookieepedia</a><button class="btn" data-act="world-stacks" data-k="${esc(w.k)}">Light it on ${esc(this.W.field)}</button></div>`;
     this.set(this.W.map, html, this.back('#/map', 'Star map'));
   }
 
@@ -249,7 +253,7 @@ export class Readout {
         <span class="t">${esc(p.name)}<small>${e ? esc(`Trained by ${e.mp.name}${e.from && e.from.tText ? ', from ' + e.from.tText : ''}`) : 'No master on record'}</small></span><span class="d"></span></button></li>`;
     }).join('');
     this.set(this.W.lineages, `<div class="series-tag">${esc(t.tradition || 'Lineage')}</div><h2>The line of ${esc(t.root.name)}</h2>
-      <p class="note">${t.size} people, each trained by the one above. Bars on the stacks show each apprenticeship; the dotted line is a life on record.</p>
+      <p class="note">${t.size} people, each trained by the one above. Bars on ${esc(this.W.field)} show each apprenticeship; the dotted line is a life on record.</p>
       <ul class="list">${rows}</ul>`, this.back('#/lineages', 'All lineages'));
   }
   line(ln) {
@@ -286,6 +290,7 @@ export class Readout {
       <p class="lead">${esc(x.summary || '')}</p>
       ${acc ? `<h3>The accounts</h3><ul>${acc}</ul>` : ''}
       ${x.resolution ? `<h3>Where it stands</h3><p>${esc(x.resolution)}</p>` : ''}
+      ${x.covers.length ? `<h3>Flagged in the archive</h3><ul class="list">${x.covers.map((it) => (it.$ === 'e' ? this.evRow(it) : this.visRow(it))).join('')}</ul>` : ''}
       ${x.srcRecs.length ? `<h3>Entries involved</h3><ul class="list">${x.srcRecs.map((r) => this.recRow(r, r.tt)).join('')}</ul>` : ''}
       ${this.sources(x.sources)}`;
     this.set(this.W.anomaly, html, this.back('#/anomalies', 'All contested'));
@@ -305,7 +310,7 @@ export class Readout {
       const offices = S.offices.map((o) => `<li><button class="row" data-go="#/o/${enc(o.id)}">${this.chip('OFFICE', token('--frame-hi'))}<span class="t">${esc(o.title)}<small>${esc(o.holders.map((h) => h.p.name).slice(0, 5).join(', '))}${o.holders.length > 5 ? '…' : ''}</small></span><span class="d">${o.holders.length}</span></button></li>`).join('');
       this.set(`${W.lineages}`, trees || lines || offices ? `${lines ? `<h3>Named lines</h3><ul class="list">${lines}</ul>` : ''}${trees ? `<h3>Master and apprentice</h3><ul class="list">${trees}</ul>` : ''}${offices ? `<h3>Offices and succession</h3><ul class="list">${offices}</ul>` : ''}` : this.pending(W.lineages));
     } else if (mode === 'relics') {
-      this.set(`${W.relics}: ${S.artifacts.length}`, S.artifacts.length ? `<p class="note">Each relic's chain of custody, holder by holder. Marks on the stacks show the entries where it appears on screen.</p><ul class="list">${S.artifacts.map((a) => this.artRow(a)).join('')}</ul>` : this.pending(W.relics));
+      this.set(`${W.relics}: ${S.artifacts.length}`, S.artifacts.length ? `<p class="note">Each relic's chain of custody, holder by holder. Marks on ${esc(this.W.field)} show the entries where it appears on screen.</p><ul class="list">${S.artifacts.map((a) => this.artRow(a)).join('')}</ul>` : this.pending(W.relics));
     } else if (mode === 'personnel') {
       this.set(`${W.personnel}`, `<input class="filter" type="search" placeholder="Filter by name" data-filter="people" value="${esc(this.state.fileQ)}" aria-label="Filter archive files"><div class="plist-body"></div>`);
       this.renderPeople();
@@ -316,9 +321,9 @@ export class Readout {
       const arr = S.bySeries.get(this.state.recTab) || [];
       this.set(`${W.records}: ${S.records.filter((r) => S.legendsOn || !r.leg).length}`, `<div class="tabs">${tabs}</div><p class="note">In release order. Each entry's in-universe year is on the right.</p><ul class="list">${arr.map((r) => this.recRow(r, r.tt)).join('')}</ul>`);
     } else if (mode === 'anomalies') {
-      const conf = [...S.events, ...S.visions].filter((x) => x.conflict);
+      const conf = S.flagged();
       this.set(`${W.anomalies}: ${S.anomalies.length + conf.length}`, `${S.anomalies.length ? `<ul class="list">${S.anomalies.map((x) => this.anRow(x)).join('')}</ul>` : ''}
-        ${conf.length ? `<h3>Disputed dates and details</h3><p class="note">Entries whose sources disagree. The red marks on the stacks.</p><ul class="list">${conf.map((x) => (x.$ === 'e' ? this.evRow(x) : this.visRow(x))).join('')}</ul>` : ''}
+        ${conf.length ? `<h3>Disputed dates and details</h3><p class="note">${S.anomalies.length ? 'Other entries' : 'Entries'} whose sources disagree. Each carries the conflict mark on ${esc(this.W.field)}.</p><ul class="list">${conf.map((x) => (x.$ === 'e' ? this.evRow(x) : this.visRow(x))).join('')}</ul>` : ''}
         ${!S.anomalies.length && !conf.length ? this.pending(W.anomalies) : ''}`);
     } else if (mode === 'map') {
       const top = S.places.filter((w) => w.g).slice(0, 60);
@@ -348,7 +353,7 @@ export class Readout {
       <p>Records follow Wookieepedia's in-universe order of canon media, so entries in the same year keep their true sequence. The chronicle, visions, lineages, relics and contested records are compiled from Wookieepedia's articles and summarized in the archive's own words, with their sources listed.</p>
       <p>The Legends button adds the pre-2014 continuity as its own layer: the 2003 Clone Wars, Droids, Ewoks, the Holiday Special and the Ewok films, and the Legends chronicle, which runs from the Rakatan age to the Legacy era.</p>
       <h3>Four archives</h3>
-      <p>The record can be read through four different archives, each with its own look and voice. The Jedi Archives are open now; the Resistance's intelligence files, the Imperial vault on Scarif and the Journal of the Whills follow.</p>
+      <p>The same record can be read through four archives, each with its own look, words and voice: the Jedi Archives on Coruscant, the Resistance's intelligence files at Ajan Kloss, the Imperial vault on Scarif, and the Journal of the Whills. Switch between them with the Archive button at the top. You are reading the ${esc(this.skin.name)}.</p>
       <h3>Dating</h3>
       <p>Years count from the Battle of Yavin: BBY before it, ABY after. The time axis is compressed where little happens on record and opened out where the saga is dense, so the Clone Wars and the Empire's reign take the most room. Deep time is logarithmic.</p>
       <dl class="kv"><dt>Entries</dt><dd>${S.records.filter((r) => !r.leg).length} canon, ${S.records.filter((r) => r.leg).length} Legends</dd><dt>Names</dt><dd>${S.people.length.toLocaleString('en-US')}</dd><dt>Worlds</dt><dd>${S.places.length} (${S.places.filter((w) => w.g).length} on the grid)</dd><dt>Built</dt><dd>${esc(m.built)}</dd></dl>

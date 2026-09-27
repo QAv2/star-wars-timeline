@@ -34,6 +34,9 @@ const stem = (w) => {
 };
 const tokens = (s) => norm(s).split(' ').filter((w) => w && !STOP.has(w)).map(stem);
 
+// the timeline under its current archive's name (the rail shows the active skin's word)
+const fieldName = () => (document.querySelector('.navbtn[data-mode="continuum"] .lab') || {}).textContent || 'Timeline';
+
 // "19 BBY", "4 aby", "-19", "yavin" → a time
 export function parseYear(raw) {
   const s = raw.trim().toLowerCase().replace(/,/g, '');
@@ -174,7 +177,7 @@ export class Search {
     const yr = parseYear(raw);
     if (yr != null) {
       const lab = yr < 0 ? `${-yr} BBY` : yr === 0 ? 'the Battle of Yavin' : `${yr} ABY`;
-      html = `<div class="grp">Travel</div><button role="option" id="sr-y" data-go="#/t/${yr}" aria-selected="false"><span class="rt">Go to ${esc(lab)}</span><span class="rm">The stacks</span></button>` + html;
+      html = `<div class="grp">Travel</div><button role="option" id="sr-y" data-go="#/t/${yr}" aria-selected="false"><span class="rt">Go to ${esc(lab)}</span><span class="rm">${esc(fieldName())}</span></button>` + html;
     }
     this.results.innerHTML = html || `<div class="empty">Nothing on record for “${esc(raw)}”. Try a title, a name, a world, a year like 19 BBY, or a few words about what happens.</div>`;
     this.results.classList.add('open');

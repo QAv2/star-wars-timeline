@@ -10,19 +10,22 @@ Live: https://qav2.github.io/star-wars-timeline/
 ## Four archives, one record
 
 The console is skinned: the same record can be read through four different archives, each with its own look,
-vocabulary, gate and voice. One arrives per build.
+vocabulary, gate and voice.
 
-| skin | status | look |
-|---|---|---|
-| Jedi Archives (`skins/jedi`) | open | holocron light and bronze on midnight; the Jocasta Nu gate |
-| Resistance intelligence (`skins/resistance`) | sealed | vector-CRT war room, 35 ABY vantage |
-| Imperial archive, Scarif (`skins/imperial`) | sealed | clearance scans, redactions, tape banks |
-| Journal of the Whills (`skins/whills`) | sealed | outside time; every moment a doorway |
+| skin | look | type | gate |
+|---|---|---|---|
+| Jedi Archives (`skins/jedi`) | holocron light and bronze on midnight | Cinzel, Barlow | a holocron opens |
+| Resistance intelligence (`skins/resistance`) | vector-CRT war room at Ajan Kloss, phosphor green with an amber reticle; vantage 35 ABY | B612, B612 Mono | the trench-run targeting computer locks on |
+| Imperial archive, Scarif (`skins/imperial`) | black vault, graphite racks, white type, signal red; vantage the Citadel's fall | Michroma, Saira | a clearance scan, then the arm pulls a data tape; the proclamation's redactions lift |
+| Journal of the Whills (`skins/whills`) | the void shows through the timeline; starlight, Mortis gold, lanes in stellar colours | Spectral | the World Between Worlds: paths of light and a golden doorway |
 
 A skin is `docs/skins/<id>/skin.css` (tokens under `:root[data-skin="<id>"]`, ornament, gate art) plus
 `docs/skins/<id>/skin.js` (vocabulary, gate text and steps, audio voices). Register it in `docs/skins/registry.js`
 (`ready: true`) and in the allow-list at the top of `docs/index.html`. The engine reads every colour from the
-skin's CSS tokens (`--c-*` canvas tokens, `--l-*` lanes, `--v-*` vision kinds), so a skin never touches `app/`.
+skin's CSS tokens (`--c-*` canvas tokens, `--l-*` lanes, `--v-*` vision kinds) and its faces from `--font-*`, so a skin
+never touches `app/`. Optional: `--lane-label-w` widens the lane gutter for a wide face; `vantage` in skin.js
+(`{ event | t, label }`) draws the moment an archive's record was compiled from; `words.field` names the timeline
+mid-sentence ("Center on the board").
 
 ## Build
 
@@ -45,5 +48,6 @@ Legends layer, `?skin=<id>` picks an archive.
 
 Unofficial fan reference, not affiliated with Lucasfilm or Disney. Star Wars and its characters are trademarks
 of Lucasfilm Ltd. Data from Wookieepedia (starwars.fandom.com), CC BY-SA 3.0; portraits are Wookieepedia lead
-images. Fonts: Cinzel, Barlow, Barlow Semi Condensed (SIL OFL 1.1); Aurebesh by SilvinoR (SIL OFL 1.1).
+images. Fonts: Cinzel, Barlow, Barlow Semi Condensed, B612 and B612 Mono (Airbus / Intactile), Michroma, Saira,
+Saira Semi Condensed, Spectral and Spectral SC (all SIL OFL 1.1); Aurebesh by SilvinoR (SIL OFL 1.1).
 d3-zoom (ISC).

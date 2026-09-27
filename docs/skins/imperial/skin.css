@@ -1,0 +1,140 @@
+/* Skin 3 — the Imperial archive (Citadel Tower, Scarif).
+   Black vault, graphite racks, white type. Signal red is the one colour of authority: it marks where you are
+   (the scan cursor, the section you hold, the tape being pulled). Discrepancies carry hazard amber.
+   Type: Michroma for the Empire's extended capitals, Saira for the forms. */
+
+:root[data-skin="imperial"] {
+  --bg: #000000; --panel: #131416; --panel-2: #1c1e21; --line: #292b2f; --line-2: #3b3e44;
+  --ink: #f3f3f1; --dim: #a3a6ab; --faint: #6a6e75;
+  --frame: #8a8e94; --frame-hi: #f3f3f1; --accent: #c9d1d8; --locator: #ff2d20; --conflict: #f5b700;
+  --radius: 0px; --lane-label-w: 104px;
+  --font-display: 'Michroma', 'Eurostile', 'Arial', sans-serif;
+  --font-ui: 'Saira Semi Condensed', 'Arial Narrow', sans-serif;
+  --font-body: 'Saira', 'Segoe UI', sans-serif;
+
+  /* canvas tokens */
+  --c-stage-top: #0b0c0d; --c-stage-bot: #000000;
+  --c-shelf: rgba(255, 255, 255, 0.016); --c-shelf-line: rgba(255, 255, 255, 0.07);
+  --c-grid: #16181a; --c-era-line: #2c2f33; --c-era-text: #70747a;
+  --c-axis-line: #5a5e64; --c-axis-tick: #3a3d42; --c-axis-major: #d9dbde; --c-axis-text: #f3f3f1; --c-axis-dim: #8a8e94;
+  --c-label: #ececea; --c-label-dim: #a9adb2; --c-event: #ffffff; --c-event-text: #c9ccd0; --c-leg-event: #8f9aa6;
+  --c-world-1: #ff2d20; --c-world-2: #ffffff; --c-callout-bg: #000000; --c-glow: rgba(255, 255, 255, 0.3);
+  --c-ribbon-density: #3a3d42; --c-ribbon-window: rgba(255, 45, 32, 0.13);
+  --c-map-bg: #000000; --c-map-ring: rgba(255, 255, 255, 0.08); --c-map-ring-text: #6a6e75; --c-map-grid: rgba(255, 255, 255, 0.05);
+  --c-map-unknown: rgba(0, 0, 0, 0.75); --c-map-planet: #6a6e75; --c-map-lit: #ffffff;
+  --c-map-route: rgba(255, 45, 32, 0.42); --c-map-route-text: #b0443c;
+  --c-era-blocks: #131416 #1c1e21 #131416 #1c1e21;
+
+  /* lanes: filed in greys and steels, told apart by place more than hue; the saga films in red */
+  --l-hist: #ffffff; --l-film: #ff2d20; --l-yja: #a3b8ad; --l-aco: #b8a9c4; --l-tales: #a9b9ca; --l-tcw: #d3dce6;
+  --l-tbb: #a9bab4; --l-msl: #c9a9a9; --l-owk: #bcc6d2; --l-and: #e6e6e4; --l-reb: #c9b9a1; --l-fod: #cfb4c4;
+  --l-man: #d0d4d8; --l-bobf: #baa995; --l-skc: #b1c3a5; --l-ahs: #eef1f4; --l-res: #c9b09a; --l-leg: #7f8791;
+
+  --v-wbw: #ffffff; --v-mortis: #b9a3d9; --v-vision: #9ec3e6; --v-prophecy: #d9a3c4; --v-force-ghost: #c9e6ef; --v-echo: #9fb0d9; --v-return: #ff2d20;
+}
+
+/* ───────── the vault ───────── */
+[data-skin="imperial"] .brand h1 { font-weight: 400; font-size: 21px; letter-spacing: .08em; color: #fff; }
+[data-skin="imperial"] .brand-glyph { color: var(--ink); opacity: .5; }
+[data-skin="imperial"] .brand-org { letter-spacing: .02em; }
+
+/* every panel is a numbered rack face: hairline frame, a red index tab at its top-left corner */
+[data-skin="imperial"] .stage, [data-skin="imperial"] .readout { border: 1px solid #26282c; position: relative; }
+[data-skin="imperial"] .stage { background: #000; }
+[data-skin="imperial"] .stage::before, [data-skin="imperial"] .readout::before {
+  content: ''; position: absolute; left: -1px; top: -1px; width: 44px; height: 3px; background: var(--locator); z-index: 3;
+}
+[data-skin="imperial"] .rhead { border-bottom-color: #26282c; }
+[data-skin="imperial"] .rk { font-weight: 500; letter-spacing: .04em; color: #fff; }
+[data-skin="imperial"] .rbody h2 { font-weight: 400; font-size: 18px; line-height: 1.35; letter-spacing: .02em; color: #fff; }
+[data-skin="imperial"] .rbody h3 { font-weight: 600; letter-spacing: .03em; color: var(--dim); }
+[data-skin="imperial"] .lead { font-size: 15px; }
+
+[data-skin="imperial"] .navbtn { border-left: 2px solid #26282c; border-radius: 0; padding: 8px 12px; font-size: 15.5px; letter-spacing: .01em; }
+[data-skin="imperial"] .navbtn:hover { border-left-color: var(--frame); }
+[data-skin="imperial"] .navbtn[aria-current="true"] { border-left-color: var(--locator); background: #17181b; color: #fff; }
+[data-skin="imperial"] .navbtn[aria-current="true"] .num { color: var(--locator); }
+
+[data-skin="imperial"] .ribbon { border-top: 1px solid #26282c; border-bottom: 1px solid #26282c; padding: 3px 0; height: 60px; }
+[data-skin="imperial"] .toggle, [data-skin="imperial"] .zoom button, [data-skin="imperial"] .back, [data-skin="imperial"] .btn { border-color: #3b3e44; }
+[data-skin="imperial"] .toggle:hover, [data-skin="imperial"] .btn:hover, [data-skin="imperial"] .back:hover { border-color: var(--locator); }
+[data-skin="imperial"] .tabs button { border-radius: 0; }
+[data-skin="imperial"] .lanelabel, [data-skin="imperial"] .chip { color: #000; border-radius: 0; }
+[data-skin="imperial"] .pchip { border-radius: 0; }
+[data-skin="imperial"] .pchip img, [data-skin="imperial"] .dossier img, [data-skin="imperial"] .dossier .ph { border-radius: 0; filter: grayscale(.85) contrast(1.08); }
+[data-skin="imperial"] .yearhead { letter-spacing: .03em; }
+[data-skin="imperial"] .search input:focus, [data-skin="imperial"] .filter:focus { border-color: var(--locator); }
+
+/* a discrepancy notice: hazard stripe, amber bar */
+[data-skin="imperial"] .anomaly { border-radius: 0; background: rgba(245, 183, 0, .06); }
+[data-skin="imperial"] .anomaly .k::before {
+  content: ''; display: inline-block; width: 24px; height: 8px; margin-right: 8px; vertical-align: 0;
+  background: repeating-linear-gradient(-45deg, var(--conflict) 0 3px, #000 3px 6px);
+}
+[data-skin="imperial"] .statusnote { border-radius: 0; }
+[data-skin="imperial"] * { scrollbar-color: #3b3e44 transparent; scrollbar-width: thin; }
+
+/* ───────── the gate: clearance scan, then the arm pulls one tape ───────── */
+[data-skin="imperial"] .gate { background: #000; }
+[data-skin="imperial"] .gate-art { width: min(280px, 60vw); }
+[data-skin="imperial"] .vault { position: absolute; inset: 0; background: #060607; border: 1px solid #26282c; overflow: hidden; }
+[data-skin="imperial"] .vault::before { content: ''; position: absolute; left: -1px; top: -1px; width: 44px; height: 3px; background: var(--locator); z-index: 4; }
+[data-skin="imperial"] .rack {
+  position: absolute; left: 8%; top: 7%; width: 62%; height: 86%;
+  display: grid; grid-template-columns: repeat(6, 1fr); grid-template-rows: repeat(10, 1fr); gap: 3px;
+  transition: opacity .6s;
+}
+[data-skin="imperial"] .rack i { position: relative; background: linear-gradient(#1c1e21, #111214); border-top: 1px solid #3a3d42; }
+[data-skin="imperial"] .rack i::after { content: ''; position: absolute; left: 16%; top: 42%; width: 46%; height: 2px; background: rgba(255, 255, 255, .32); }
+[data-skin="imperial"] .rack i.lit::before {
+  content: ''; position: absolute; right: 12%; top: 34%; width: 3px; height: 3px; background: var(--locator);
+  box-shadow: 0 0 4px var(--locator); animation: impLed 1.7s steps(2, jump-none) infinite;
+}
+[data-skin="imperial"] .rack i.lit:nth-child(3n)::before { background: #fff; box-shadow: 0 0 4px #fff; animation-duration: 2.3s; }
+[data-skin="imperial"] .scan {
+  position: absolute; left: 6%; width: 66%; height: 2px; top: 7%; z-index: 2;
+  background: linear-gradient(90deg, transparent, #fff 18%, #fff 82%, transparent); box-shadow: 0 0 12px rgba(255, 255, 255, .85);
+  animation: impScan 2.1s cubic-bezier(.45, 0, .55, 1) infinite alternate; transition: opacity .3s;
+}
+[data-skin="imperial"] .arm {
+  position: absolute; top: 3%; bottom: 3%; left: 2.5%; width: 2.5%; z-index: 3;
+  background: linear-gradient(90deg, #2a2c30, #4a4d53 50%, #2a2c30); transition: left .75s cubic-bezier(.6, 0, .2, 1), opacity .6s;
+}
+[data-skin="imperial"] .claw {
+  position: absolute; left: -140%; width: 380%; height: 3%; top: 8%; background: #d9dbde;
+  transition: top .5s .7s cubic-bezier(.6, 0, .2, 1);
+}
+[data-skin="imperial"] .tape {
+  position: absolute; left: 39%; top: 50%; width: 10.3%; height: 8.1%; z-index: 3; opacity: 0;
+  background: linear-gradient(#f3f3f1, #cfd1d4); border-left: 3px solid var(--locator);
+  display: grid; place-items: center; overflow: hidden;
+  transition: transform .8s 1.15s cubic-bezier(.3, .9, .3, 1), opacity .2s 1.15s;
+}
+[data-skin="imperial"] .tape span { font-family: var(--font-glyph); font-size: 7px; letter-spacing: .12em; color: #111; white-space: nowrap; }
+[data-skin="imperial"] .gate.ready .scan { opacity: 0; animation-play-state: paused; }
+[data-skin="imperial"] .gate.ready .arm { left: 42.9%; }
+[data-skin="imperial"] .gate.ready .claw { top: 53%; }
+[data-skin="imperial"] .gate.ready .rack i:nth-child(34) { background: #000; box-shadow: inset 0 0 0 1px var(--locator); }
+[data-skin="imperial"] .gate.ready .rack i:nth-child(34)::after { opacity: 0; }
+[data-skin="imperial"] .gate.ready .tape { opacity: 1; transform: translateX(305%) scale(1.3); }
+[data-skin="imperial"] .gate.opening .tape { transform: translateX(260%) translateY(-40%) scale(3.4); opacity: 0; transition: transform .9s cubic-bezier(.5, 0, .8, .4), opacity .9s .1s; }
+[data-skin="imperial"] .gate.opening .rack, [data-skin="imperial"] .gate.opening .arm { opacity: .12; }
+
+[data-skin="imperial"] .gate-title { font-weight: 400; font-size: clamp(24px, 4vw, 38px); letter-spacing: .1em; color: #fff; }
+[data-skin="imperial"] .gate-glyph { color: var(--ink); opacity: .55; }
+[data-skin="imperial"] .gate-quote { font-style: normal; font-size: 15.5px; }
+[data-skin="imperial"] .gate-quote .redact {
+  background-image: linear-gradient(var(--ink), var(--ink)); background-repeat: no-repeat; background-position: right center; background-size: 100% 88%;
+  color: transparent; -webkit-box-decoration-break: clone; box-decoration-break: clone;
+  transition: background-size .5s cubic-bezier(.6, 0, .3, 1) .25s, color .3s .5s;
+}
+[data-skin="imperial"] .gate.ready .gate-quote .redact { background-size: 0% 88%; color: var(--ink); }
+[data-skin="imperial"] .gate-bar span { border-radius: 0; }
+[data-skin="imperial"] .gate-bar span.on { background: var(--locator); }
+[data-skin="imperial"] .gate-go { border-color: #3b3e44; color: #fff; }
+[data-skin="imperial"] .gate.ready .gate-go:hover { background: var(--locator); border-color: var(--locator); color: #fff; }
+
+@keyframes impScan { from { top: 7%; } to { top: 92%; } }
+@keyframes impLed { 0% { opacity: 1; } 50% { opacity: .15; } }
+
+@media (max-width: 520px) { [data-skin="imperial"] .brand h1 { font-size: 16px; letter-spacing: .05em; } }

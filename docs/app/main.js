@@ -34,10 +34,29 @@ function spanForRec(r) {
   return Math.min(spanFor(r.t), 2);
 }
 
+// the moment an archive's record was compiled from, if its skin names one (by chronicle entry or year)
+function vantageOf(s, S) {
+  const v = s && s.vantage;
+  if (!v) return null;
+  const e = v.event && S.evById.get(v.event);
+  return { t: e ? e.t : v.t, label: v.label };
+}
+
+// the canvases draw in the skin's faces, which the page may not have asked for yet
+function skinFonts() {
+  if (!document.fonts) return Promise.resolve();
+  const cs = getComputedStyle(document.documentElement);
+  const loads = ['--font-ui', '--font-display'].map((k) => cs.getPropertyValue(k).trim()).filter(Boolean)
+    .flatMap((f) => ['500 12px', '600 12px'].map((w) => document.fonts.load(`${w} ${f}`).catch(() => null)));
+  return Promise.race([Promise.all(loads), new Promise((r) => setTimeout(r, 1500))]);
+}
+
 function applySkin(s) {
   skin = s;
   setVoices(s);
   document.title = s.title;
+  const tc = document.querySelector('meta[name="theme-color"]');
+  if (tc) tc.setAttribute('content', getComputedStyle(document.documentElement).getPropertyValue('--bg').trim() || '#070b14');
   const W = s.words;
   $('#brand-name').textContent = s.name;
   $('#brand-glyph').textContent = s.glyph;
@@ -111,6 +130,7 @@ async function boot() {
   if (new URLSearchParams(location.search).get('legends') === '1') legendsOn = true;
   S.setLegends(legendsOn);
   say(1, S);
+  await skinFonts();
   await Promise.race([document.fonts && document.fonts.ready, new Promise((r) => setTimeout(r, 1500))]);
 
   let listTimer = 0;
@@ -136,6 +156,7 @@ async function boot() {
     },
   });
   field.hold = !!document.getElementById('gate');
+  field.setVantage(vantageOf(skin, S));
   say(2, S);
   const ribbon = new Ribbon($('#ribbon'), S, field);
   const readout = new Readout({ store: S, head: $('#rk'), tools: $('#rtools'), body: rbody, field, skin });
@@ -148,7 +169,7 @@ async function boot() {
   function counts() {
     const c = { visions: S.visions.length, lineages: S.trees.length + S.lines.length + S.offices.length, relics: S.artifacts.length,
       personnel: S.people.filter((p) => p.dossier).length || '', map: S.places.filter((w) => w.g).length,
-      records: S.records.filter((r) => S.legendsOn || !r.leg).length, anomalies: S.anomalies.length + [...S.events, ...S.visions].filter((x) => x.conflict).length };
+      records: S.records.filter((r) => S.legendsOn || !r.leg).length, anomalies: S.anomalies.length + S.flagged().length };
     document.querySelectorAll('.navbtn[data-mode]').forEach((b) => { b.querySelector('.num').textContent = c[b.dataset.mode] || ''; });
   }
   counts();
@@ -333,7 +354,8 @@ async function boot() {
     await new Promise((res) => { link.onload = res; link.onerror = res; link.href = `skins/${id}/skin.css`; document.documentElement.dataset.skin = id; });
     applySkin(await loadSkin(id));
     readout.skin = skin;
-    resetTokens(); field.reskin(); ribbon.draw(); map.reskin();
+    await skinFonts();
+    resetTokens(); field.reskin(); field.setVantage(vantageOf(skin, S)); ribbon.draw(); map.reskin();
     paintSkinMenu(); skinMenu.hidden = true;
     apply();
   });

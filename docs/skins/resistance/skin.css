@@ -1,0 +1,147 @@
+/* Skin 2 — Resistance intelligence (the war room at Ajan Kloss, 35 ABY).
+   Vector-display screens in a dark room: every panel is a CRT, its lines drawn in phosphor that blooms.
+   Green is the data, amber is the targeting light (it marks where you are), red is an alert.
+   Type is B612, the face Airbus drew for cockpit displays. */
+
+:root[data-skin="resistance"] {
+  --bg: #000000; --panel: #03100a; --panel-2: #072116; --line: #0e3220; --line-2: #1a5234;
+  --ink: #cdffdd; --dim: #72c592; --faint: #3f7d58;
+  --frame: #2c9a5b; --frame-hi: #5dff98; --accent: #62f0ff; --locator: #ffb627; --conflict: #ff5446;
+  --radius: 6px; --lane-label-w: 122px;
+  --font-display: 'B612', 'Arial Narrow', sans-serif;
+  --font-ui: 'B612', 'Arial Narrow', sans-serif;
+  --font-body: 'B612', 'Segoe UI', sans-serif;
+  --font-mono: 'B612 Mono', 'Courier New', monospace;
+
+  /* canvas tokens */
+  --c-stage-top: #04150c; --c-stage-bot: #020a05;
+  --c-shelf: rgba(93, 255, 152, 0.022); --c-shelf-line: rgba(93, 255, 152, 0.09);
+  --c-grid: #0a2416; --c-era-line: #16502e; --c-era-text: #43966a;
+  --c-axis-line: #2c9a5b; --c-axis-tick: #1c5c37; --c-axis-major: #5dff98; --c-axis-text: #a6ffc6; --c-axis-dim: #4f9a6c;
+  --c-label: #cdffdd; --c-label-dim: #84d4a2; --c-event: #dcffb4; --c-event-text: #a9d98c; --c-leg-event: #ff8ce6;
+  --c-world-1: #ffb627; --c-world-2: #62f0ff; --c-callout-bg: #020a05; --c-glow: rgba(93, 255, 152, 0.55);
+  --c-ribbon-density: #1f6b40; --c-ribbon-window: rgba(255, 182, 39, 0.13);
+  --c-map-bg: #010603; --c-map-ring: rgba(93, 255, 152, 0.12); --c-map-ring-text: #43966a; --c-map-grid: rgba(93, 255, 152, 0.07);
+  --c-map-unknown: rgba(0, 0, 0, 0.72); --c-map-planet: #43966a; --c-map-lit: #5dff98;
+  --c-map-route: rgba(255, 182, 39, 0.34); --c-map-route-text: #b98a2e;
+  --c-era-blocks: #092314 #0d301d #092314 #0d301d;
+
+  /* lanes: the colour vector gamut, the saga films in targeting amber */
+  --l-hist: #e4ffc2; --l-film: #ffb627; --l-yja: #86ff6a; --l-aco: #ff8ce6; --l-tales: #74b8ff; --l-tcw: #62f0ff;
+  --l-tbb: #3dffb0; --l-msl: #ff7a9c; --l-owk: #a6c6ff; --l-and: #b9d8c6; --l-reb: #ffd23f; --l-fod: #ff9ce0;
+  --l-man: #d9ffe6; --l-bobf: #e3b070; --l-skc: #a4ff5c; --l-ahs: #f0fff4; --l-res: #ff9148; --l-leg: #c9a0ff;
+
+  --v-wbw: #f2ffe0; --v-mortis: #d49cff; --v-vision: #62f0ff; --v-prophecy: #ff9ce0; --v-force-ghost: #a8fff0; --v-echo: #8fb6ff; --v-return: #ff5446;
+}
+
+/* ───────── the room: dark, with the screens set into it ───────── */
+[data-skin="resistance"] body { background: radial-gradient(120% 90% at 50% 0%, #03140b 0%, #000 60%); }
+[data-skin="resistance"] .brand h1 { font-weight: 700; font-size: 24px; letter-spacing: .02em; text-shadow: 0 0 10px rgba(93, 255, 152, .5), 0 0 1px #5dff98; }
+[data-skin="resistance"] .brand-glyph { color: var(--locator); opacity: .7; }
+[data-skin="resistance"] .brand-org, [data-skin="resistance"] .status .v, [data-skin="resistance"] .navbtn .num,
+[data-skin="resistance"] .row .d, [data-skin="resistance"] .cells .v, [data-skin="resistance"] .results .rm { font-family: var(--font-mono); }
+
+/* screens: rounded glass in a bezel, with a faint bloom inside */
+[data-skin="resistance"] .stage,
+[data-skin="resistance"] .readout {
+  border-radius: 12px; border: 1px solid #0f2e1d;
+  box-shadow: 0 0 0 4px #040705, 0 0 0 5px #123021, inset 0 0 60px rgba(93, 255, 152, .05), inset 0 0 0 1px rgba(93, 255, 152, .05);
+}
+[data-skin="resistance"] .stage { background: var(--c-stage-bot); }
+/* the tube: corners fall off into dark, and an oscilloscope graticule marks the centre lines */
+[data-skin="resistance"] .stage::after {
+  content: ''; position: absolute; inset: 0; pointer-events: none; z-index: 2; border-radius: 12px;
+  background:
+    radial-gradient(130% 110% at 50% 50%, transparent 62%, rgba(0, 0, 0, .55) 100%),
+    repeating-linear-gradient(90deg, rgba(93, 255, 152, .16) 0 1px, transparent 1px 10%) center bottom / 100% 5px no-repeat,
+    repeating-linear-gradient(90deg, rgba(93, 255, 152, .16) 0 1px, transparent 1px 10%) center top / 100% 5px no-repeat;
+}
+[data-skin="resistance"] .rhead { border-bottom-color: #0f3321; }
+[data-skin="resistance"] .rk { font-family: var(--font-mono); font-size: 13px; color: var(--frame-hi); text-shadow: 0 0 6px rgba(93, 255, 152, .45); }
+[data-skin="resistance"] .rbody h2 { font-weight: 700; font-size: 21px; color: #e6ffee; text-shadow: 0 0 12px rgba(93, 255, 152, .35); }
+[data-skin="resistance"] .rbody h3 { color: var(--frame-hi); font-weight: 700; font-size: 14px; }
+[data-skin="resistance"] .lead { font-size: 15px; }
+[data-skin="resistance"] .status .v.loc, [data-skin="resistance"] .cells .c.loc .v { text-shadow: 0 0 8px rgba(255, 182, 39, .55); }
+
+/* rail: the current section sits inside targeting brackets */
+[data-skin="resistance"] .navbtn { font-size: 14.5px; padding: 9px 12px 9px 14px; }
+[data-skin="resistance"] .navbtn[aria-current="true"] {
+  color: #eafff1; text-shadow: 0 0 8px rgba(93, 255, 152, .45);
+  background:
+    linear-gradient(var(--locator), var(--locator)) top left / 8px 1.5px no-repeat,
+    linear-gradient(var(--locator), var(--locator)) top left / 1.5px 8px no-repeat,
+    linear-gradient(var(--locator), var(--locator)) bottom left / 8px 1.5px no-repeat,
+    linear-gradient(var(--locator), var(--locator)) bottom left / 1.5px 8px no-repeat,
+    linear-gradient(var(--locator), var(--locator)) top right / 8px 1.5px no-repeat,
+    linear-gradient(var(--locator), var(--locator)) top right / 1.5px 8px no-repeat,
+    linear-gradient(var(--locator), var(--locator)) bottom right / 8px 1.5px no-repeat,
+    linear-gradient(var(--locator), var(--locator)) bottom right / 1.5px 8px no-repeat,
+    rgba(93, 255, 152, .06);
+}
+[data-skin="resistance"] .navbtn[aria-current="true"] .num { color: var(--locator); }
+
+[data-skin="resistance"] .ribbon { border: 1px solid #0f2e1d; border-radius: 8px; padding: 3px; background: #020a05; height: 62px; }
+[data-skin="resistance"] .toggle, [data-skin="resistance"] .zoom button, [data-skin="resistance"] .back, [data-skin="resistance"] .btn { border-color: #1d5a38; }
+[data-skin="resistance"] .toggle[aria-pressed="true"], [data-skin="resistance"] .tabs button[aria-pressed="true"] { box-shadow: 0 0 10px rgba(93, 255, 152, .35); }
+[data-skin="resistance"] .lanelabel, [data-skin="resistance"] .chip { color: #00160a; }
+[data-skin="resistance"] .lanelabel { font-size: 11px; letter-spacing: 0; }
+[data-skin="resistance"] .yearhead { font-family: var(--font-mono); font-size: 13.5px; }
+[data-skin="resistance"] .anomaly { border-left-width: 2px; background: rgba(255, 84, 70, .07); }
+[data-skin="resistance"] * { scrollbar-color: #1d5a38 transparent; scrollbar-width: thin; }
+
+@media (max-width: 900px) {
+  [data-skin="resistance"] .brand h1 { font-size: 20px; }
+  [data-skin="resistance"] .stage, [data-skin="resistance"] .readout { box-shadow: 0 0 0 3px #040705, 0 0 0 4px #123021, inset 0 0 40px rgba(93, 255, 152, .05); }
+}
+
+/* ───────── the gate: the targeting computer locks on ───────── */
+[data-skin="resistance"] .gate { background: radial-gradient(60% 50% at 50% 36%, #06200f 0%, #000 72%); }
+[data-skin="resistance"] .gate-art { width: min(280px, 60vw); }
+[data-skin="resistance"] .tc {
+  position: absolute; inset: 0; border-radius: 16px; overflow: hidden; background: #020a05;
+  box-shadow: 0 0 0 5px #040705, 0 0 0 6px #1a4a30, inset 0 0 50px rgba(93, 255, 152, .08);
+}
+[data-skin="resistance"] .trench { position: absolute; inset: 0; width: 100%; height: 100%; filter: drop-shadow(0 0 2.5px rgba(93, 255, 152, .9)); }
+[data-skin="resistance"] .trench path, [data-skin="resistance"] .trench rect { fill: none; stroke: #5dff98; stroke-width: 1.2; vector-effect: non-scaling-stroke; }
+[data-skin="resistance"] .trench .walls { opacity: .75; }
+[data-skin="resistance"] .trench .far { opacity: .5; }
+[data-skin="resistance"] .trench .sec { transform-origin: 100px 100px; opacity: 0; animation: tcFly 1.8s cubic-bezier(.55, 0, 1, .45) infinite; }
+[data-skin="resistance"] .reticle { position: absolute; inset: 0; }
+[data-skin="resistance"] .reticle i {
+  position: absolute; top: 36%; height: 28%; width: 9%; border: 2px solid var(--locator);
+  filter: drop-shadow(0 0 4px rgba(255, 182, 39, .8)); transition: left .45s cubic-bezier(.3, 1.4, .5, 1), right .45s cubic-bezier(.3, 1.4, .5, 1);
+}
+[data-skin="resistance"] .reticle .l { left: 8%; border-right: 0; animation: tcHuntL 2.2s ease-in-out infinite alternate; }
+[data-skin="resistance"] .reticle .r { right: 8%; border-left: 0; animation: tcHuntR 2.2s ease-in-out infinite alternate; }
+[data-skin="resistance"] .reticle b { position: absolute; left: 22%; right: 22%; top: 50%; height: 1px; background: rgba(255, 182, 39, .55); }
+[data-skin="resistance"] .range, [data-skin="resistance"] .lock {
+  position: absolute; left: 0; right: 0; font-family: var(--font-mono); font-size: 12px; text-align: center; color: var(--locator);
+  text-shadow: 0 0 6px rgba(255, 182, 39, .7);
+}
+@property --rng { syntax: '<integer>'; inherits: false; initial-value: 0; }
+[data-skin="resistance"] .range { bottom: 9%; counter-reset: rng var(--rng); animation: tcRange 3.2s cubic-bezier(.2, .6, .3, 1) infinite; }
+[data-skin="resistance"] .range::after { content: 'range ' counter(rng); }
+[data-skin="resistance"] .lock { top: 12%; font-weight: 700; letter-spacing: .08em; opacity: 0; }
+[data-skin="resistance"] .gate.ready .reticle .l { animation: none; left: 34%; }
+[data-skin="resistance"] .gate.ready .reticle .r { animation: none; right: 34%; }
+[data-skin="resistance"] .gate.ready .range { animation: none; --rng: 0; }
+[data-skin="resistance"] .gate.ready .lock { opacity: 1; animation: tcBlink 1.1s steps(2, jump-none) infinite; }
+[data-skin="resistance"] .gate.ready .trench .sec { animation-duration: 1.1s; }
+[data-skin="resistance"] .gate.opening .tc { animation: tcFire .9s ease-in forwards; }
+[data-skin="resistance"] .gate-title { font-weight: 700; font-size: clamp(26px, 4.4vw, 40px); letter-spacing: .02em; text-shadow: 0 0 16px rgba(93, 255, 152, .5); }
+[data-skin="resistance"] .gate-glyph { color: var(--locator); }
+[data-skin="resistance"] .gate-quote { font-style: normal; font-size: 15px; }
+[data-skin="resistance"] .gate-bar span.on { background: var(--frame-hi); box-shadow: 0 0 6px rgba(93, 255, 152, .7); }
+[data-skin="resistance"] .gate-status, [data-skin="resistance"] .gate-sub { font-family: var(--font-mono); font-size: 13px; }
+
+@keyframes tcFly { 0% { transform: scale(.15); opacity: 0; } 18% { opacity: .95; } 100% { transform: scale(1.02); opacity: .2; } }
+@keyframes tcHuntL { from { left: 8%; } to { left: 24%; } }
+@keyframes tcHuntR { from { right: 8%; } to { right: 24%; } }
+@keyframes tcRange { from { --rng: 9400; } to { --rng: 120; } }
+@keyframes tcBlink { 0% { opacity: 1; } 50% { opacity: .25; } }
+@keyframes tcFire { 0% { filter: brightness(1); } 25% { filter: brightness(2.6); } 100% { transform: scale(2.4); opacity: 0; filter: brightness(3); } }
+@media (prefers-reduced-motion: reduce) {
+  [data-skin="resistance"] .trench .sec { animation: none; opacity: .5; transform: scale(.5); }
+}
+
+@media (max-width: 520px) { [data-skin="resistance"] .brand h1 { font-size: 18px; } }

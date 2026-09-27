@@ -145,6 +145,7 @@ export class GalaxyMap {
     if (!this.on || !this.w) return;
     const { ctx, w, h, dpr } = this;
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    ctx.clearRect(0, 0, w, h);
     ctx.fillStyle = token('--c-map-bg', '#060a12'); ctx.fillRect(0, 0, w, h);
     const k = this.zt.k, cx = this.sx(CX), cy = this.sy(CY), unit = this.cell * k;
     const ui = getComputedStyle(document.documentElement).getPropertyValue('--font-ui').trim();

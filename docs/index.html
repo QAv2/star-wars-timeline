@@ -17,7 +17,7 @@
   (function () {
     var s = null;
     try { s = new URLSearchParams(location.search).get('skin') || localStorage.getItem('swt-skin'); } catch (_) {}
-    var ok = { jedi: 1 };
+    var ok = { jedi: 1, resistance: 1, imperial: 1, whills: 1 };
     if (s && ok[s] && s !== 'jedi') {
       document.documentElement.setAttribute('data-skin', s);
       document.getElementById('skin-css').setAttribute('href', 'skins/' + s + '/skin.css');

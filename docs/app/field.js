@@ -55,7 +55,7 @@ export class Field {
     };
     return this._pal;
   }
-  reskin() { this._pal = null; this.fonts(); this.S.recolor(); this.renderLaneLabels(); this.requestDraw(); }
+  reskin() { this._pal = null; this.fonts(); this.S.recolor(); this.w = 0; this.resize(); this.renderLaneLabels(); this.requestDraw(); }
 
   // ── data prep ─────────────────────────────────────────────────────
   prepare() {
@@ -87,7 +87,8 @@ export class Field {
     this.dpr = Math.min(2, window.devicePixelRatio || 1);
     this.canvas.width = Math.round(w * this.dpr); this.canvas.height = Math.round(h * this.dpr);
     this.narrow = w < 640;
-    this.labelW = this.narrow ? 70 : 96;
+    const lw = parseFloat(token('--lane-label-w', '96')) || 96;   // a skin with a wide face widens the lane gutter
+    this.labelW = this.narrow ? Math.round(lw * 0.73) : lw;
     this.px0 = this.labelW + 10; this.px1 = w - 12; this.pw = this.px1 - this.px0;
     this.layout();
     if (this.zoom) {
@@ -236,6 +237,7 @@ export class Field {
   setWorlds(people) { const p = this.pal(); this.worlds = people.map((x, i) => ({ p: x, color: i % 2 ? p.world2 : p.world1 })); this.requestDraw(); }
   setWorld(w) { this.world = w; this.requestDraw(); }
   setLegends() { this.layout(); this.requestDraw(); }
+  setVantage(v) { this.vantage = v || null; this.requestDraw(); }
   setOverlay(ov) {
     this.overlay = ov ? this.buildOverlay(ov) : null;
     this.renderLaneLabels();
@@ -413,6 +415,7 @@ export class Field {
     const P = this.pal();
     const bg = ctx.createLinearGradient(0, 0, 0, h);
     bg.addColorStop(0, P.bgTop); bg.addColorStop(1, P.bgBot);
+    ctx.clearRect(0, 0, w, h);   // a skin may leave the stage translucent to show its own backdrop
     ctx.fillStyle = bg; ctx.fillRect(0, 0, w, h);
     if (this.reveal < 1) this.reveal = Math.min(1, Math.max(0, (performance.now() - this.revealStart) / 1300));
     const [ua, ub] = this.visibleU();
@@ -430,12 +433,29 @@ export class Field {
     layer('worlds', () => this.drawWorlds());
     layer('labels', () => this.drawLabels(ua, ub));
     layer('overlay', () => this.drawOverlay());
+    layer('vantage', () => this.drawVantage());
     layer('selection', () => this.drawSelection());
     layer('hover', () => this.drawHoverLine());
     ctx.restore();
     layer('axis', () => this.drawAxis());
     if (this.reveal < 1) this.requestDraw();
     else if (this.animating() && !this.flowTimer) this.flowTimer = setTimeout(() => { this.flowTimer = 0; this.requestDraw(); }, 40);
+  }
+
+  // an archive's vantage: the moment its record was compiled from (the skin names it; the Whills have none)
+  drawVantage() {
+    const v = this.vantage;
+    if (!v || typeof v.t !== 'number') return;
+    const x = Math.round(this.X(tToU(v.t))) + 0.5;
+    if (x < this.px0 || x > this.px1) return;
+    const ctx = this.ctx, P = this.pal(), bot = this.h - this.axisH;
+    ctx.strokeStyle = P.frameHi; ctx.globalAlpha = 0.7; ctx.lineWidth = 1; ctx.setLineDash([7, 3, 1, 3]);
+    ctx.beginPath(); ctx.moveTo(x, this.lanesTop); ctx.lineTo(x, bot); ctx.stroke();
+    ctx.setLineDash([]);
+    ctx.font = this.F.small; ctx.textBaseline = 'middle';
+    const w = this.textW(v.label, this.F.small), lx = x + 7 + w < this.px1 - 4 ? x + 7 : x - 7 - w;
+    ctx.globalAlpha = 0.85; ctx.fillStyle = P.bgBot; ctx.fillRect(lx - 4, bot - 21, w + 8, 16);
+    ctx.globalAlpha = 1; ctx.fillStyle = P.frameHi; ctx.fillText(v.label, lx, bot - 13);
   }
 
   animating() {
