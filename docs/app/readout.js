@@ -74,9 +74,9 @@ export class Readout {
     }).join(', ')}</p>`;
   }
   conflict(c, filed) {
-    if (!c) return '';
+    if (!c && !filed) return '';
     const go = filed ? `<div class="btnrow"><button class="btn" data-go="#/x/${enc(filed.id)}">${esc(filed.title)} ▸</button></div>` : '';
-    return `<div class="anomaly"><div class="k">${esc(this.W.anomaly)}</div>${esc(c)}${go}</div>`;
+    return `<div class="anomaly"><div class="k">${esc(this.W.anomaly)}</div>${c ? esc(c) : 'Part of a contested record.'}${go}</div>`;
   }
 
   // ── the stacks: what's in the window ──────────────────────────────

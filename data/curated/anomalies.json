@@ -1,0 +1,1821 @@
+[
+ {
+  "id": "republic-founding-window",
+  "title": "The Republic's founding: 25,000 or 20,000 BBY",
+  "kind": "dating-conflict",
+  "y": -25000,
+  "yText": "c. 25,000–20,000 BBY",
+  "frac": null,
+  "summary": "The reference works put the Republic's birth five thousand years apart. The Star Wars Book counts back about 25,000 years, Star Wars: Timelines gives about 20,000, and Palpatine speaks of a Republic a thousand years old. Wookieepedia's timeline and its Republic article do not settle on the same answer.",
+  "accounts": [
+   {
+    "claim": "The Republic forms about 25,000 years before the Battle of Yavin.",
+    "source": "The Star Wars Book"
+   },
+   {
+    "claim": "The founding falls around 20,000 BBY.",
+    "source": "Star Wars: Timelines, as Wookieepedia's Republic article cites it"
+   },
+   {
+    "claim": "The Republic has stood for a thousand years and must not be split in two.",
+    "source": "Palpatine, Star Wars: Episode II Attack of the Clones"
+   }
+  ],
+  "resolution": "Wookieepedia's timeline uses c. 25,000 BBY; its Republic article gives the whole 25,000–20,000 window. Palpatine's thousand years is read as the age of the modern Republic, rebuilt after the Jedi–Sith war around 1032 BBY. No source fixes one year.",
+  "events": [
+   "galactic-republic-founded",
+   "republic-reformed"
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "The Star Wars Book",
+   "Star Wars: Timelines"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "revan-council-version",
+  "title": "The Council rewrites Revan",
+  "kind": "in-universe-erasure",
+  "y": -3957,
+  "yText": "3957 BBY (Legends)",
+  "frac": null,
+  "summary": "In the Legends continuity, the Sith Lord Revan is betrayed by his apprentice Malak and captured by Jedi, near death. The Council does not try him. It erases his memory and sends him out believing he is a Republic trooper, hoping he will lead them to the Star Forge. The Jedi's own explanations of why he fell also disagree.",
+  "accounts": [
+   {
+    "claim": "Revan's mind is wiped, and he wakes as an ordinary soldier aboard the Endar Spire.",
+    "source": "Star Wars: Knights of the Old Republic"
+   },
+   {
+    "claim": "Revan and Malak turned after exploring the ancient ruins on Dantooine.",
+    "source": "The Jedi Council, Star Wars: Knights of the Old Republic"
+   },
+   {
+    "claim": "Revan's fall began before the Mandalorian Wars.",
+    "source": "Vrook Lamar, Star Wars: Knights of the Old Republic"
+   },
+   {
+    "claim": "The Sith Emperor broke both men in the Unknown Regions and sent them back as his servants.",
+    "source": "The Old Republic: Revan"
+   }
+  ],
+  "resolution": "The novel's answer became the Legends record of why they fell. The Council never undoes the wipe; Revan learns who he was during the war and recovers the rest of his memory years later.",
+  "events": [
+   "leg-revan-captured",
+   "leg-jedi-civil-war",
+   "leg-battle-of-rakata-prime"
+  ],
+  "sources": [
+   "Star Wars: Knights of the Old Republic",
+   "The Old Republic: Revan"
+  ],
+  "weight": 2
+ },
+ {
+  "id": "darksaber-forging-date",
+  "title": "The Darksaber's date, read two ways",
+  "kind": "dating-conflict",
+  "y": -1050,
+  "yText": "c. 1050 BBY",
+  "frac": null,
+  "summary": "Star Wars: Timelines gives a single date for Tarre Vizsla, about 1050 BBY. Wookieepedia's Darksaber article reads it as the year he made the black blade; its Tarre Vizsla article reads it as the year he joined the Jedi Order as a boy. If the second is right, the saber came years later, once he was a Knight.",
+  "accounts": [
+   {
+    "claim": "Tarre Vizsla creates the Darksaber around 1050 BBY.",
+    "source": "Wookieepedia's Darksaber article, reading Star Wars: Timelines"
+   },
+   {
+    "claim": "Around 1050 BBY the boy Tarre joins the Jedi Order; he builds the saber later, as a Knight.",
+    "source": "Wookieepedia's Tarre Vizsla article, reading Star Wars: Timelines"
+   },
+   {
+    "claim": "By legend the blade was made more than a thousand years ago by the first Mandalorian Jedi.",
+    "source": "Fenn Rau, Trials of the Darksaber"
+   }
+  ],
+  "resolution": "Open. One circa date is pinned to two different moments, and Fenn Rau's 'more than a thousand years' fits either. The chronicle dates the forging to c. 1050 BBY and carries the other reading as a flag.",
+  "events": [
+   "darksaber-forged"
+  ],
+  "sources": [
+   "Trials of the Darksaber",
+   "The Mandalore Plot",
+   "Star Wars: Timelines"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "jedi-temple-age",
+  "title": "How old is the Jedi Temple?",
+  "kind": "dating-conflict",
+  "y": -1032,
+  "yText": "c. 1032 BBY",
+  "frac": null,
+  "summary": "Star Wars: Timelines dates the modern Temple on Coruscant to about 1032 BBY, when the Four Masters raise it after the Jedi–Sith war. Star Wars: Complete Locations says it was rebuilt some two thousand years before the Empire, with pieces of an earlier temple set into its base. The two dates sit about a millennium apart.",
+  "accounts": [
+   {
+    "claim": "The Four Masters build the modern Temple around 1032 BBY.",
+    "source": "Star Wars: Timelines"
+   },
+   {
+    "claim": "The Temple was rebuilt about two thousand years before the Empire, over remnants of an older one.",
+    "source": "Star Wars: Complete Locations (2016)"
+   },
+   {
+    "claim": "The Temple takes shape slowly, over centuries, on top of a buried Sith shrine.",
+    "source": "Nexus of Power"
+   }
+  ],
+  "resolution": "Both dates stand in Wookieepedia's article, which describes a Temple rebuilt and expanded many times. A long building history can hold both, but no source says which rebuilding each date means. The chronicle uses c. 1032 BBY.",
+  "events": [
+   "modern-jedi-temple-coruscant"
+  ],
+  "sources": [
+   "Star Wars: Timelines",
+   "Star Wars: Complete Locations (2016)",
+   "Nexus of Power"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "massassi-extinction-date",
+  "title": "When the Massassi died out",
+  "kind": "dating-conflict",
+  "y": -1000,
+  "yText": "c. 1000 BBY",
+  "frac": null,
+  "summary": "The builders of Yavin 4's temples are long gone when the Rebellion moves in, but the sources disagree on how long. Star Wars: Timelines places their extinction around 1000 BBY. In Doctor Aphra, set around the Battle of Yavin, Aphra says they have been extinct for millennia.",
+  "accounts": [
+   {
+    "claim": "The Massassi die out around 1000 BBY.",
+    "source": "Star Wars: Timelines"
+   },
+   {
+    "claim": "The Massassi died out thousands of years ago.",
+    "source": "Chelli Aphra, Doctor Aphra (2016) 3"
+   }
+  ],
+  "resolution": "Unresolved. Wookieepedia's Massassi article carries a conflict notice and follows the comic's 'millennia'; the chronicle keeps Timelines' c. 1000 BBY. A single millennium is the most the two can share.",
+  "events": [
+   "massassi-extinct"
+  ],
+  "sources": [
+   "Star Wars: Timelines",
+   "Doctor Aphra (2016) 3"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "kijimi-founding-date",
+  "title": "Two thousand-year counts for Kijimi",
+  "kind": "dating-conflict",
+  "y": -982,
+  "yText": "c. 982 BBY or c. 965 BBY",
+  "frac": null,
+  "summary": "Two sources say the Dai Bendu came to Kijimi about a thousand years ago, but they count from different moments. Poe Dameron: Free Fall speaks from 18 ABY, which gives about 982 BBY for the city. The Rise of Skywalker: The Visual Dictionary counts back from Kijimi's destruction in 35 ABY, which gives about 965 BBY for the monastery.",
+  "accounts": [
+   {
+    "claim": "Kijimi City has stood for a thousand years when Poe arrives with the Spice Runners.",
+    "source": "Poe Dameron: Free Fall"
+   },
+   {
+    "claim": "The Dai Bendu monastery was built a thousand years before the planet was destroyed.",
+    "source": "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+   }
+  ],
+  "resolution": "Both are round numbers, seventeen years apart. Wookieepedia's monastery article uses c. 965 BBY; the chronicle keeps c. 982 BBY for the first settlement.",
+  "events": [
+   "kijimi-dai-bendu-monastery"
+  ],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Poe Dameron: Free Fall",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "maz-thousand-years",
+  "title": "Maz Kanata's thousand years",
+  "kind": "dating-conflict",
+  "y": -873,
+  "yText": "c. 873 BBY",
+  "frac": null,
+  "summary": "Han Solo tells Rey and Finn that Maz has run her Takodana watering hole for a thousand years, which would put her arrival near 966 BBY. Star Wars: Timelines dates her settling there to about 873 BBY, close to a century later.",
+  "accounts": [
+   {
+    "claim": "Maz has kept her watering hole on Takodana for a thousand years.",
+    "source": "Han Solo, Star Wars: Episode VII The Force Awakens"
+   },
+   {
+    "claim": "Maz makes Takodana her home around 873 BBY.",
+    "source": "Star Wars: Timelines"
+   }
+  ],
+  "resolution": "The chronicle follows Timelines. Han's figure reads as a round number, but no source reconciles the two.",
+  "events": [
+   "maz-settles-takodana"
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens",
+   "Star Wars: Timelines"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "dagan-gera-stasis-count",
+  "title": "Dagan Gera's two hundred twenty-four years",
+  "kind": "dating-conflict",
+  "y": -232,
+  "yText": "232 BBY",
+  "frac": null,
+  "summary": "Dagan Gera is sealed in a bacta tank on Koboh after the Nihil overrun Tanalorr, and Cal Kestis frees him in 9 BBY, 224 years later by Wookieepedia's count. That count puts his sealing in 233 BBY, a year before the attack that led to it, which is dated 232 BBY.",
+  "accounts": [
+   {
+    "claim": "The Nihil overrun Tanalorr some time after the Great Hyperspace Disaster; the attack is dated 232 BBY.",
+    "source": "Wookieepedia's Attack on Tanalorr article, from Lucasfilm Publishing's 2023 panel"
+   },
+   {
+    "claim": "Gera is freed in 9 BBY after 224 years in stasis.",
+    "source": "Wookieepedia's Dagan Gera article"
+   },
+   {
+    "claim": "Gera is sealed away only after Tanalorr falls and he turns on his fellow Jedi.",
+    "source": "Star Wars Jedi: Survivor"
+   }
+  ],
+  "resolution": "An arithmetic mismatch between two articles, off by a year. The game gives no exact figure that forces either. The chronicle keeps 232 BBY for the attack.",
+  "events": [
+   "cal-sees-the-high-republic-on-koboh",
+   "attack-on-tanalorr",
+   "santari-khris-message-to-dagan"
+  ],
+  "sources": [
+   "Star Wars Jedi: Survivor",
+   "Star Wars: The High Republic: Chronicles of the Jedi"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "brendok-night-accounts",
+  "title": "The Brendok fire, told from each side",
+  "kind": "unreliable-account",
+  "y": -148,
+  "yText": "148 BBY",
+  "frac": null,
+  "summary": "Four Jedi come to Brendok to test twin girls raised by a coven of witches, and by morning the coven is dead and its fortress burned. Mae grows up sure the Jedi murdered her family. Osha believes Mae set the fire and died in it. The Jedi agree to report the night from a certain point of view.",
+  "accounts": [
+   {
+    "claim": "The four Jedi invaded their home, and everyone died because of them.",
+    "source": "Mae, The Acolyte (episode)"
+   },
+   {
+    "claim": "Mae started the fire, and the deaths that night are on her.",
+    "source": "Osha, Destiny (The Acolyte); The Acolyte (episode)"
+   },
+   {
+    "claim": "Mae's fire was an accident; Sol killed Aniseya mistaking her magic for an attack; the witches died when Indara broke their hold on Kelnacca.",
+    "source": "Choice"
+   },
+   {
+    "claim": "The four Jedi agree to leave out whatever reflects badly on them or harms Osha's chances.",
+    "source": "Choice"
+   }
+  ],
+  "resolution": "Choice gives the fullest picture, and in 132 BBY Sol finally admits killing Aniseya. The report the four Jedi agreed on had left that out; Vernestra's account after his death becomes the next official version.",
+  "events": [
+   "brendok-coven-destroyed",
+   "aniseya-twins-born",
+   "duel-on-brendok"
+  ],
+  "sources": [
+   "Destiny (The Acolyte)",
+   "Choice",
+   "The Acolyte (episode)"
+  ],
+  "weight": 2
+ },
+ {
+  "id": "vernestra-report-on-sol",
+  "title": "Vernestra's report: blame the dead Master",
+  "kind": "propaganda",
+  "y": -132,
+  "yText": "132 BBY",
+  "frac": 0.8,
+  "summary": "With Master Sol dead on Brendok and a senator pressing for an outside review of the Jedi, Vernestra Rwoh tells the Chancellor the deaths were the work of one flawed Master, who took his own life at the scene. The dark-side killer behind the Khofar massacre goes unmentioned. Osha has left with him, and he has wiped Mae's memory.",
+  "accounts": [
+   {
+    "claim": "The Brendok deaths were one flawed man's doing, and he killed himself where it happened.",
+    "source": "Vernestra Rwoh, The Acolyte (episode)"
+   },
+   {
+    "claim": "Vernestra is running a murder inquiry inside the Order without reporting it to the Senate.",
+    "source": "Senator Rayencourt, The Acolyte (episode)"
+   },
+   {
+    "claim": "The Stranger kills the Jedi on Khofar; Osha kills Sol and leaves as the Stranger's apprentice.",
+    "source": "Night; The Acolyte (episode)"
+   },
+   {
+    "claim": "Mae's memory is wiped; she recalls only a fire and a man who killed her mother.",
+    "source": "The Acolyte (episode)"
+   }
+  ],
+  "resolution": "The Senate hears the Order's version, and the series ends before anyone tests it. No later work has returned to the report.",
+  "events": [
+   "duel-on-brendok",
+   "khofar-massacre"
+  ],
+  "sources": [
+   "Night",
+   "The Acolyte (episode)"
+  ],
+  "weight": 2
+ },
+ {
+  "id": "theed-generator-senator",
+  "title": "A senator thirteen years early",
+  "kind": "contradiction",
+  "y": -65,
+  "yText": "65 BBY",
+  "frac": null,
+  "summary": "Complete Locations says Naboo's senator, Palpatine, attended the opening of Theed's plasma generator, and Nexus of Power dates the plant to 65 BBY. But Star Wars: Timelines has Palpatine elected senator only in 52 BBY. Either he attended in some other role, or one of the dates is wrong.",
+  "accounts": [
+   {
+    "claim": "The generator is built in 65 BBY by a Naboo venture with Damask Holdings.",
+    "source": "Nexus of Power"
+   },
+   {
+    "claim": "Senator Palpatine attends the opening and takes an interest in its deep-pit design.",
+    "source": "Star Wars: Complete Locations (2016)"
+   },
+   {
+    "claim": "Palpatine is elected Senator of Naboo in 52 BBY.",
+    "source": "Star Wars: Timelines"
+   }
+  ],
+  "resolution": "Unreconciled. Wookieepedia keeps all three statements and marks none as wrong. The chronicle keeps 65 BBY for the plant and 52 BBY for the election.",
+  "events": [
+   "theed-power-generator-built",
+   "palpatine-senator-of-naboo"
+  ],
+  "sources": [
+   "Nexus of Power",
+   "Star Wars: Complete Locations (2016)",
+   "Star Wars: Timelines"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "anakin-birthplace",
+  "title": "Was Anakin born on Tatooine?",
+  "kind": "contradiction",
+  "y": -41,
+  "yText": "41 BBY",
+  "frac": null,
+  "summary": "Tatooine is Anakin's home, but the record of his birth is thin: an enslaved mother, no father, owners who trade them away. The Star Wars Book names Tatooine as his birthplace. Darth Vader: Sith Lord says the records disagree, and that some have him brought to Tatooine as a small child.",
+  "accounts": [
+   {
+    "claim": "Anakin is born on Tatooine.",
+    "source": "The Star Wars Book"
+   },
+   {
+    "claim": "Records differ; some say he came to Tatooine with his mother when very young.",
+    "source": "Darth Vader: Sith Lord"
+   },
+   {
+    "claim": "Shmi bears him with no father, and the two are slaves on Tatooine when the Jedi find them.",
+    "source": "Star Wars: Episode I The Phantom Menace"
+   }
+  ],
+  "resolution": "Wookieepedia lists Tatooine as his birthplace but marks it disputed. The chronicle follows The Star Wars Book; Tatooine is his homeworld either way.",
+  "events": [
+   "anakin-skywalker-born"
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "The Star Wars Book",
+   "Darth Vader: Sith Lord",
+   "Star Wars: Timelines"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "maul-taken-from-dathomir",
+  "title": "How Sidious took Maul",
+  "kind": "unreliable-account",
+  "y": -40,
+  "yText": "c. 40 BBY",
+  "frac": null,
+  "summary": "All accounts agree Sidious took the Zabrak boy from Dathomir around 40 BBY. How depends on the teller. Talzin calls it theft. A legend in Myths & Fables has her give him up under pressure before Sidious picks him at a Selection. Maul's own memories, shown decades later, match neither, and his voice actor hints that is deliberate.",
+  "accounts": [
+   {
+    "claim": "Sidious broke his promise to Talzin and stole her son.",
+    "source": "Talzin, Darth Maul — Son of Dathomir 3"
+   },
+   {
+    "claim": "Sidious makes Talzin hand Maul to a keeper; after months of abuse, Maul wins Sidious's eye at a Selection.",
+    "source": "An Unwilling Apprentice, a legend in Myths & Fables"
+   },
+   {
+    "claim": "Maul leaves with Sidious believing he has no choice, while Savage Opress pleads with him to stay.",
+    "source": "Maul's memories, Chapter 8: The Creeping Fear"
+   },
+   {
+    "claim": "Nothing in that vision matches the earlier shows, and viewers should ask why.",
+    "source": "Sam Witwer, Maul's voice actor (2026)"
+   }
+  ],
+  "resolution": "Open by design. Talzin's version comes from a canon comic, the Selection story is told as a legend, and Maul's memory is framed as unreliable. Wookieepedia presents all three without choosing.",
+  "events": [
+   "maul-taken-by-sidious"
+  ],
+  "sources": [
+   "Chapter 8: The Creeping Fear",
+   "Darth Maul — Son of Dathomir 3",
+   "An Unwilling Apprentice",
+   "Star Wars: Timelines"
+  ],
+  "weight": 2
+ },
+ {
+  "id": "tragedy-of-darth-plagueis",
+  "title": "Palpatine's tale of Darth Plagueis",
+  "kind": "unreliable-account",
+  "y": -40,
+  "yText": "between c. 40 and 32 BBY",
+  "frac": null,
+  "summary": "At the opera, Palpatine tells Anakin of a Sith Lord who could bend midi-chlorians into making life and could spare loved ones from dying, until his apprentice murdered him as he slept. The teller is that apprentice; the tale is bait. How much is true, when Plagueis died, and whether he made Anakin all stay disputed.",
+  "accounts": [
+   {
+    "claim": "Plagueis could make midi-chlorians create life and could save others from death; his apprentice killed him as he slept.",
+    "source": "Palpatine, Star Wars: Episode III Revenge of the Sith"
+   },
+   {
+    "claim": "There was no father; Shmi carried and bore Anakin and cannot explain it.",
+    "source": "Shmi Skywalker, Star Wars: Episode I The Phantom Menace"
+   },
+   {
+    "claim": "Palpatine's story of Plagueis's powers was a lie; Anakin was made by the will of the Force.",
+    "source": "George Lucas, The Star Wars Archives: Episodes I–III, 1999–2005"
+   },
+   {
+    "claim": "An early story treatment had Sidious claim he willed Anakin's conception himself; Lucas cut it.",
+    "source": "The Making of Star Wars Revenge of the Sith"
+   }
+  ],
+  "resolution": "Later canon treats Plagueis's powers as real, and a Databank entry and a reference book disagree on whether he died before or after Sidious took Maul. The films never answer the Anakin question; Lucas's own answer is the Force itself.",
+  "events": [
+   "sidious-kills-plagueis",
+   "anakin-skywalker-born"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith",
+   "Star Wars: Episode I The Phantom Menace",
+   "The Star Wars Archives: Episodes I–III, 1999–2005",
+   "The Making of Star Wars Revenge of the Sith",
+   "Star Wars: The Rise of Skywalker: Expanded Edition",
+   "Ultimate Star Wars, New Edition"
+  ],
+  "weight": 3
+ },
+ {
+  "id": "clone-army-order-date",
+  "title": "When Sifo-Dyas ordered the clones",
+  "kind": "dating-conflict",
+  "y": -33,
+  "yText": "33 BBY",
+  "frac": null,
+  "summary": "On Kamino in 22 BBY, the Kaminoans tell Obi-Wan the army was ordered almost ten years before, which points to about 32 BBY, the year of the Naboo crisis. Star Wars: Timelines and Star Wars Insider 206 put the order in 33 BBY. The gap decides whether the order came a year before the Naboo crisis or during it.",
+  "accounts": [
+   {
+    "claim": "Sifo-Dyas placed the order almost ten years ago.",
+    "source": "Lama Su, Star Wars: Episode II Attack of the Clones"
+   },
+   {
+    "claim": "Sifo-Dyas secretly commissions the army from Kamino in 33 BBY, without the Council knowing.",
+    "source": "Star Wars: Timelines; Star Wars Insider 206"
+   }
+  ],
+  "resolution": "The chronicle and Wookieepedia follow 33 BBY. The film's 'almost ten years' points to 32 BBY and is left unreconciled.",
+  "events": [
+   "clone-army-ordered",
+   "clone-army-discovered"
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "The Lost One",
+   "Star Wars: Timelines",
+   "Star Wars Insider 206"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "kamino-erased-from-archives",
+  "title": "Kamino missing from the Jedi Archives",
+  "kind": "in-universe-erasure",
+  "y": -32,
+  "yText": "c. 32 BBY; found missing in 22 BBY",
+  "frac": 0.33,
+  "summary": "Tracing a bounty hunter in 22 BBY, Obi-Wan searches the Jedi Archives for Kamino and finds empty space where gravity says a planet must be. Jocasta Nu insists the records are complete; one of Yoda's younglings sees that someone erased it. The film never says who; Tales of the Jedi answers twenty years later: Dooku, turning to Sidious.",
+  "accounts": [
+   {
+    "claim": "If a planet is not in the Archives, it does not exist.",
+    "source": "Jocasta Nu, Star Wars: Episode II Attack of the Clones"
+   },
+   {
+    "claim": "Gravity pulls the nearby stars toward an empty spot, so someone must have erased the planet from the Archives.",
+    "source": "Obi-Wan and a youngling, with Yoda agreeing, Star Wars: Episode II Attack of the Clones"
+   },
+   {
+    "claim": "Dooku deletes Kamino's records from the Archives.",
+    "source": "The Sith Lord"
+   },
+   {
+    "claim": "Lucas meant to solve the mystery in Revenge of the Sith but cut it to keep the story on Anakin.",
+    "source": "George Lucas, Revenge of the Sith DVD commentary"
+   }
+  ],
+  "resolution": "Answered on screen in 2022: Dooku did it, around the time of the Naboo crisis. The Jedi later uncover Tyranus's part in the clone army, but no work shows them learning who emptied the file.",
+  "events": [
+   "dooku-erases-kamino",
+   "clone-army-discovered",
+   "tyranus-role-in-clone-army-revealed"
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "The Sith Lord",
+   "The Lost One",
+   "Star Wars: Episode III Revenge of the Sith"
+  ],
+  "weight": 3
+ },
+ {
+  "id": "maul-survives-naboo",
+  "title": "Maul, cut in half, lives on",
+  "kind": "retcon",
+  "y": -32,
+  "yText": "32 BBY (survives); 20 BBY (found)",
+  "frac": 0.41,
+  "summary": "The Phantom Menace ends with Obi-Wan slicing Maul in half and the halves falling down a reactor shaft, and for thirteen years that was his end. In 2012 The Clone Wars revealed he had survived on hatred, living as a maddened scavenger on a junk world until his brother Savage found him. Rebels, Solo and his own series followed.",
+  "accounts": [
+   {
+    "claim": "Obi-Wan cuts Maul in two, and his body drops down the shaft.",
+    "source": "Star Wars: Episode I The Phantom Menace"
+   },
+   {
+    "claim": "Maul lives, his legs replaced by a scrap-metal body, raving in a cave on the junk world Lotho Minor.",
+    "source": "Brothers (episode)"
+   },
+   {
+    "claim": "Talzin restores his mind and gives him new legs.",
+    "source": "Revenge (episode)"
+   },
+   {
+    "claim": "Maul finally dies at Obi-Wan's hand on Tatooine in 2 BBY.",
+    "source": "Twin Suns (episode)"
+   }
+  ],
+  "resolution": "Settled in canon: Maul lives from Naboo until Obi-Wan kills him on Tatooine in 2 BBY. Nothing in the films contradicts it, and the films never mention it either.",
+  "events": [
+   "qui-gon-jinn-killed",
+   "maul-found-alive",
+   "maul-dies-on-tatooine"
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Brothers (episode)",
+   "Revenge (episode)",
+   "Twin Suns (episode)",
+   "Solo: A Star Wars Story"
+  ],
+  "weight": 3
+ },
+ {
+  "id": "confederacy-founding-date",
+  "title": "Two founding years for the Separatists",
+  "kind": "dating-conflict",
+  "y": -24,
+  "yText": "24 BBY",
+  "frac": 0.1,
+  "summary": "Dooku's Raxus Address in 24 BBY starts the secession, and Rise of the Separatists treats it as the Confederacy's creation. Attack of the Clones shows the trade guilds and corporations joining at Geonosis in 22 BBY, which other works treat as the formal founding. Wookieepedia's timeline lists both as the start.",
+  "accounts": [
+   {
+    "claim": "Dooku's address from Raxus launches the Confederacy two years before the war.",
+    "source": "Rise of the Separatists"
+   },
+   {
+    "claim": "The commerce guilds and corporations pledge their armies to Dooku at Geonosis on the eve of war.",
+    "source": "Star Wars: Episode II Attack of the Clones"
+   },
+   {
+    "claim": "The Confederacy is created in 24 BBY and officially founded in 22 BBY.",
+    "source": "Wookieepedia's Confederacy article"
+   }
+  ],
+  "resolution": "Read as stages: 24 BBY for the political secession, 22 BBY for the formal pact with the corporate backers. The chronicle anchors the founding to the Raxus Address.",
+  "events": [
+   "raxus-address",
+   "first-battle-of-geonosis"
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Rise of the Separatists",
+   "Star Wars: Timelines"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "qui-gon-on-mortis",
+  "title": "Was it Qui-Gon on Mortis?",
+  "kind": "unreliable-account",
+  "y": -20,
+  "yText": "c. 20 BBY",
+  "frac": null,
+  "summary": "On Mortis, Obi-Wan and then Anakin meet a figure of the late Qui-Gon, who talks with them about the Chosen One. Back at the Temple, Obi-Wan tells the Council it was an illusion drawn from their memories. The reference works disagree with each other, and with him, about what it was.",
+  "accounts": [
+   {
+    "claim": "It truly was Qui-Gon who appeared to them.",
+    "source": "Star Wars: The Complete Visual Dictionary, New Edition"
+   },
+   {
+    "claim": "It was a vision that they wrongly took for a real manifestation.",
+    "source": "Qui-Gon Jinn Biography Gallery, Databank"
+   },
+   {
+    "claim": "The figure was an illusion the Mortis beings built from our memories.",
+    "source": "Obi-Wan Kenobi, Voices"
+   },
+   {
+    "claim": "Anakin is not so sure, and doubts the teaching that no one keeps their identity after death.",
+    "source": "Voices"
+   }
+  ],
+  "resolution": "Unsettled. Wookieepedia's Qui-Gon article follows the Visual Dictionary; its Force spirit article follows the Databank's vision. Qui-Gon's voice later reaching Yoda favors a real presence, but not on Mortis itself.",
+  "events": [
+   "qui-gon-appears-on-mortis",
+   "mission-to-mortis"
+  ],
+  "sources": [
+   "Overlords",
+   "Ghosts of Mortis",
+   "Voices",
+   "Star Wars: The Complete Visual Dictionary, New Edition"
+  ],
+  "weight": 2
+ },
+ {
+  "id": "fives-chip-findings-buried",
+  "title": "The chip Fives found, filed away",
+  "kind": "in-universe-erasure",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.07,
+  "summary": "When the clone Tup kills his Jedi general, the Kaminoans blame a virus. His friend Fives digs deeper, learns every clone carries a chip that will make him kill Jedi, and is framed for attacking the Chancellor and shot. The Council accepts a finding of one defective chip, and the file sits until Order 66.",
+  "accounts": [
+   {
+    "claim": "Tup's breakdown may be a virus, so Fives must be kept in quarantine.",
+    "source": "Nala Se, Conspiracy"
+   },
+   {
+    "claim": "Every clone carries a chip that will turn him on the Jedi, and the Chancellor is behind it.",
+    "source": "Fives, Orders (episode)"
+   },
+   {
+    "claim": "Fives tried to assassinate the Chancellor and had to be stopped.",
+    "source": "The Republic's account, Orders (episode)"
+   },
+   {
+    "claim": "One trooper's chip was found defective, and both the Council and a Senate panel signed off on that finding.",
+    "source": "Nala Se's recorded report, Shattered"
+   }
+  ],
+  "resolution": "The record survives, filed as a single faulty chip. During Order 66 Ahsoka pulls Fives's file and Rex's report from the Republic's computer and uses them to free Rex, too late for anyone else.",
+  "events": [
+   "fives-uncovers-inhibitor-chips",
+   "order-66",
+   "ahsoka-and-rex-survive"
+  ],
+  "sources": [
+   "Conspiracy",
+   "Fugitive",
+   "Orders (episode)",
+   "Shattered"
+  ],
+  "weight": 2
+ },
+ {
+  "id": "obi-wan-certain-point-of-view",
+  "title": "Obi-Wan's certain point of view",
+  "kind": "unreliable-account",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.27,
+  "summary": "Luke grows up with two false stories about his father. Owen says he was a navigator on a spice freighter; Obi-Wan says Vader betrayed and murdered him. Vader tells Luke the truth at Cloud City. Obi-Wan's spirit then defends his version: Anakin was destroyed when he became Vader, so it was true from a certain point of view.",
+  "accounts": [
+   {
+    "claim": "Luke's father was a navigator on a spice freighter.",
+    "source": "Owen Lars, Star Wars: Episode IV A New Hope"
+   },
+   {
+    "claim": "Vader, a pupil turned to evil, betrayed and murdered Luke's father.",
+    "source": "Obi-Wan Kenobi, Star Wars: Episode IV A New Hope"
+   },
+   {
+    "claim": "Vader is Luke's father.",
+    "source": "Darth Vader, Star Wars: Episode V The Empire Strikes Back"
+   },
+   {
+    "claim": "Anakin ceased to be when he became Vader, so the story was true from a certain point of view.",
+    "source": "Obi-Wan Kenobi's spirit, Star Wars: Episode VI Return of the Jedi"
+   }
+  ],
+  "resolution": "Vader's account is the fact, and Yoda confirms it before he dies. Obi-Wan's defense rests on what counts as the man: in his telling, Anakin died when Vader was born.",
+  "events": [
+   "anakin-becomes-darth-vader",
+   "vader-reveals-he-is-lukes-father",
+   "death-of-yoda"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith",
+   "Star Wars: Episode IV A New Hope",
+   "Star Wars: Episode V The Empire Strikes Back",
+   "Star Wars: Episode VI Return of the Jedi"
+  ],
+  "weight": 3
+ },
+ {
+  "id": "order-66-jedi-rebellion",
+  "title": "Order 66 recast as a Jedi rebellion",
+  "kind": "propaganda",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.28,
+  "summary": "When four Jedi Masters try to arrest him, Palpatine survives, calls it an attempted coup, and orders the clones to execute every Jedi. Before the Senate he names it the Jedi rebellion and proclaims the Empire to applause. Later Imperial accounts say the Jedi caused the war, and Empire Day celebrates the galaxy's salvation.",
+  "accounts": [
+   {
+    "claim": "The Jedi tried to overthrow the Senate and kill him; the survivors will be hunted down.",
+    "source": "Palpatine, Star Wars: Episode III Revenge of the Sith"
+   },
+   {
+    "claim": "The Jedi were behind the Separatists and plotted to take the Republic from within.",
+    "source": "Imperial claims, Darth Vader (2017) 1; Crimson Reign 3"
+   },
+   {
+    "claim": "Empire Day marks the day the Emperor ended the Clone Wars and saved the galaxy.",
+    "source": "Imperial HoloNet, Ezra's Duel with Danger"
+   },
+   {
+    "claim": "The clones kill their generals on Palpatine's word, and Vader leads the killing in the Temple.",
+    "source": "Star Wars: Episode III Revenge of the Sith"
+   }
+  ],
+  "resolution": "The lie holds inside the story for a generation. The works leave no doubt that Order 66 was built into the clones from the start and waited only for Palpatine's command.",
+  "events": [
+   "windu-confronts-sidious",
+   "order-66",
+   "operation-knightfall",
+   "empire-proclaimed",
+   "jedi-temple-beacon-reversed"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith",
+   "Empire Day (episode)",
+   "Darth Vader (2017) 1",
+   "Crimson Reign 3",
+   "Ezra's Duel with Danger"
+  ],
+  "weight": 3
+ },
+ {
+  "id": "padme-death-accounts",
+  "title": "How Padmé died, and who was told",
+  "kind": "unreliable-account",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.34,
+  "summary": "On Polis Massa the medical droids find Padmé physically sound but losing the will to live; she dies after the twins are born. Palpatine tells the newly armored Vader that he killed her in his anger. At her funeral her body is made to look still pregnant, so the galaxy never learns the children lived.",
+  "accounts": [
+   {
+    "claim": "Medically she is healthy but has lost the will to live; she dies after giving birth to twins.",
+    "source": "Medical droid, Star Wars: Episode III Revenge of the Sith"
+   },
+   {
+    "claim": "Vader killed her himself, in his anger on Mustafar.",
+    "source": "Palpatine, Star Wars: Episode III Revenge of the Sith"
+   },
+   {
+    "claim": "The mortician makes her body appear still pregnant, hiding that the twins survived.",
+    "source": "Darth Vader (2015) 10"
+   },
+   {
+    "claim": "A record on Polis Massa holds her last words: that good remained in him.",
+    "source": "Darth Vader (2020) 5"
+   }
+  ],
+  "resolution": "The film leaves room for both the droid and Palpatine: Vader's attack and her despair together bring her death. Palpatine's version is the one Vader lives with, and the twins' secret holds until Aphra's droid tortures the mortician.",
+  "events": [
+   "skywalker-twins-born",
+   "duel-on-mustafar",
+   "jedi-exiles-begin",
+   "vader-seeks-truth-of-padme"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith",
+   "Darth Vader (2015) 10",
+   "Darth Vader (2020) 1",
+   "Darth Vader (2020) 5"
+  ],
+  "weight": 2
+ },
+ {
+  "id": "leia-remembers-her-mother",
+  "title": "What Leia remembers of her mother",
+  "kind": "contradiction",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.34,
+  "summary": "On Endor, Leia tells Luke she remembers her real mother a little: very beautiful, kind, but sad. Revenge of the Sith, made twenty-two years later, has Padmé die minutes after the twins are born. Since then readers have argued whether Leia meant Padmé or her adoptive mother Breha, and how a newborn could remember either.",
+  "accounts": [
+   {
+    "claim": "Leia recalls her real mother as beautiful, kind but sad; she died when Leia was very young.",
+    "source": "Leia Organa, Star Wars: Episode VI Return of the Jedi"
+   },
+   {
+    "claim": "Padmé dies on Polis Massa moments after giving birth.",
+    "source": "Star Wars: Episode III Revenge of the Sith"
+   },
+   {
+    "claim": "He wanted one twin to remember their mother and went back and forth over whether it should be Leia.",
+    "source": "George Lucas"
+   },
+   {
+    "claim": "Leia is remembering Padmé.",
+    "source": "StarWars.com Q&A, of uncertain standing"
+   }
+  ],
+  "resolution": "Wookieepedia reads it as images and feelings of Padmé that Leia carried through the Force and Luke did not. The line was never changed, and no film explains it.",
+  "events": [
+   "skywalker-twins-born"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith",
+   "Star Wars: Episode VI Return of the Jedi"
+  ],
+  "weight": 3
+ },
+ {
+  "id": "threepio-memory-wipes",
+  "title": "Threepio forgets; Artoo remembers",
+  "kind": "in-universe-erasure",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.35,
+  "summary": "As the Clone Wars end, Bail Organa has C-3PO's mind wiped so he cannot give away the twins or their parents; R2-D2 is left as he is. Nineteen years later Obi-Wan tells Luke he doesn't recall owning a droid. In 35 ABY Threepio is wiped again to read a Sith inscription, and Artoo restores him from a backup.",
+  "accounts": [
+   {
+    "claim": "Bail orders the protocol droid's mind wiped and leaves the astromech alone.",
+    "source": "Star Wars: Episode III Revenge of the Sith"
+   },
+   {
+    "claim": "Obi-Wan says he can't recall ever owning a droid.",
+    "source": "Obi-Wan Kenobi, Star Wars: Episode IV A New Hope"
+   },
+   {
+    "claim": "Bypassing his programming erases Threepio's memory; Artoo restores it from a copy he kept.",
+    "source": "Star Wars: Episode IX The Rise of Skywalker"
+   },
+   {
+    "claim": "Cad Bane has both droids wiped after scanning them for the Senate's layout.",
+    "source": "Evil Plans"
+   }
+  ],
+  "resolution": "After the 19 BBY wipe, Threepio meets Obi-Wan and Vader in A New Hope as strangers. Artoo, spared that day, keeps the whole record, and the films never show him telling it.",
+  "events": [
+   "skywalker-twins-born",
+   "jedi-exiles-begin"
+  ],
+  "sources": [
+   "Star Wars: Episode III Revenge of the Sith",
+   "Star Wars: Episode IV A New Hope",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Evil Plans"
+  ],
+  "weight": 2
+ },
+ {
+  "id": "jedi-erased-from-history",
+  "title": "The Empire writes the Jedi out",
+  "kind": "in-universe-erasure",
+  "y": -19,
+  "yText": "19 BBY onward",
+  "frac": 0.4,
+  "summary": "After Order 66 the Empire hunts more than the survivors. Inquisitors destroy what Jedi records and relics they find, the Temple is stripped of its art and made the Emperor's palace, and the Order is taught as traitors. Two decades on, the Jedi way is called a hokey religion; by 34 ABY, Luke is thought a myth.",
+  "accounts": [
+   {
+    "claim": "Every mosaic, tapestry and statue of the Order is removed from the Temple, now the Imperial Palace.",
+    "source": "Tarkin (novel)"
+   },
+   {
+    "claim": "Palpatine called the Jedi traitors who used their powers to undermine democracy and cause the war.",
+    "source": "The Archivist, Crimson Reign 3"
+   },
+   {
+    "claim": "The Force is a hokey religion; an admiral mocks Vader's sad devotion to it.",
+    "source": "Han Solo and Admiral Motti, Star Wars: Episode IV A New Hope"
+   },
+   {
+    "claim": "Rey thought Luke Skywalker was a myth; Han tells her the Jedi were real.",
+    "source": "Star Wars: Episode VII The Force Awakens"
+   }
+  ],
+  "resolution": "Broad but incomplete. Jocasta Nu's hidden cache, Obi-Wan's journal and scattered holocrons survive, and Luke spends years recovering what he can. How much ordinary people remember differs from one work to the next.",
+  "events": [
+   "jocasta-nu-killed",
+   "jocasta-nu-cache-found",
+   "luke-seeks-jedi-lore"
+  ],
+  "sources": [
+   "Star Wars: Episode IV A New Hope",
+   "Star Wars: Episode VII The Force Awakens",
+   "Tarkin (novel)",
+   "Crimson Reign 3",
+   "The Rise of Kylo Ren 2"
+  ],
+  "weight": 3
+ },
+ {
+  "id": "tipoca-city-storm-story",
+  "title": "The storm that sank Tipoca City",
+  "kind": "propaganda",
+  "y": -19,
+  "yText": "19 BBY",
+  "frac": 0.9,
+  "summary": "Imperial Venators bombard Tipoca City to end Kaminoan cloning, and Vice Admiral Rampart tells the Senate a cataclysmic storm sank it. A year later Senator Chuchi plays his own ships' logs to the chamber. Mas Amedda then condemns Rampart as a lone war criminal, though Rampart protests he followed orders; Tarkin had authorized the attack.",
+  "accounts": [
+   {
+    "claim": "A cataclysmic storm devastated Kamino, so the Empire needs a new, recruited army.",
+    "source": "Rampart and his Senate allies, The Clone Conspiracy"
+   },
+   {
+    "claim": "Rampart's own Venators destroyed the city, as his command log shows.",
+    "source": "Senator Riyo Chuchi, Truth and Consequences"
+   },
+   {
+    "claim": "Rampart acted alone, for his own ends, and is arrested for war crimes.",
+    "source": "Mas Amedda, Truth and Consequences"
+   },
+   {
+    "claim": "He was only following orders.",
+    "source": "Rampart, Truth and Consequences"
+   }
+  ],
+  "resolution": "The storm story collapses, but a second story takes its place: Rampart alone is blamed, and the orders above him are never aired. The recruitment bill he championed goes forward.",
+  "events": [
+   "tipoca-city-destroyed",
+   "imperial-defense-recruitment-bill"
+  ],
+  "sources": [
+   "Kamino Lost",
+   "The Clone Conspiracy",
+   "Truth and Consequences"
+  ],
+  "weight": 2
+ },
+ {
+  "id": "caleb-dume-rescue-site",
+  "title": "Where Caleb Dume was rescued",
+  "kind": "contradiction",
+  "y": -18,
+  "yText": "18 BBY",
+  "frac": null,
+  "summary": "After Order 66, the Padawan Caleb Dume is caught by clone officers and then freed by the smuggler Janus Kasmir. Wookieepedia's timeline places the rescue on the planet Lahn. Its article on the rescue, citing the comic, has him captured on Lahn but freed in space above Kaller.",
+  "accounts": [
+   {
+    "claim": "Caleb is rescued on Lahn.",
+    "source": "Wookieepedia's Timeline of galactic history"
+   },
+   {
+    "claim": "Caleb is caught on Lahn; Kasmir and Kleeve free him in space above Kaller.",
+    "source": "Kanan 5"
+   }
+  ],
+  "resolution": "The comic supports the Kaller version; the timeline entry folds capture and rescue into one place. The chronicle follows the event article.",
+  "events": [
+   "caleb-dume-becomes-kanan"
+  ],
+  "sources": [
+   "Kanan 5",
+   "Kanan 6"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "qui-gon-voice-before-kenobi",
+  "title": "Did Qui-Gon speak to Obi-Wan before 9 BBY?",
+  "kind": "retcon",
+  "y": -16,
+  "yText": "c. 16 BBY",
+  "frac": null,
+  "summary": "In the short story Time of Death, the dying Obi-Wan remembers Qui-Gon's voice waking him on Tatooine to warn that young Luke is in danger, during the raid on the Lars farm. The Obi-Wan Kenobi series, made later, has Obi-Wan calling for his old master without answer until Qui-Gon finally appears in 9 BBY.",
+  "accounts": [
+   {
+    "claim": "Qui-Gon's voice rouses Obi-Wan in the night to say Luke is in danger.",
+    "source": "Time of Death"
+   },
+   {
+    "claim": "Obi-Wan's pleas to Qui-Gon go unanswered until he appears after the rematch with Vader.",
+    "source": "Part VI"
+   },
+   {
+    "claim": "He doesn't know whether the story was retconned or will be changed, and doesn't worry about it.",
+    "source": "Cavan Scott, author of Time of Death (2026)"
+   }
+  ],
+  "resolution": "The series is the later and more prominent work, and the archive follows it for 9 BBY. Time of Death has not been revised, and its author leaves its status open.",
+  "events": [
+   "obi-wans-dying-visions",
+   "qui-gon-appears-to-obi-wan",
+   "kenobi-defends-lars-farm"
+  ],
+  "sources": [
+   "Part I",
+   "Part VI",
+   "Time of Death",
+   "From a Certain Point of View"
+  ],
+  "weight": 2
+ },
+ {
+  "id": "death-star-construction-site",
+  "title": "Where the first Death Star was finished",
+  "kind": "contradiction",
+  "y": -9,
+  "yText": "c. 9 BBY",
+  "frac": null,
+  "summary": "The battle station begins in orbit over Geonosis and ends at Scarif, but the sources disagree on when it moves. Wookieepedia's timeline, summarizing the novel Tarkin, has it leave Geonosis for deep space by 14 BBY. Rogue One reference material keeps it over Geonosis until Saw Gerrera gets too close, around 9 BBY.",
+  "accounts": [
+   {
+    "claim": "The station leaves Geonosis orbit for deep space in 14 BBY.",
+    "source": "Wookieepedia's timeline, summarizing Tarkin (novel)"
+   },
+   {
+    "claim": "After Saw Gerrera nearly finds it, the Empire moves the station from Geonosis to Scarif for its final stages.",
+    "source": "Star Wars: Rogue One: The Ultimate Visual Guide"
+   }
+  ],
+  "resolution": "Wookieepedia's Death Star article follows the Rogue One material, with the move near 9 BBY; the timeline entry is the outlier. The chronicle follows the article.",
+  "events": [
+   "death-star-moves-to-scarif",
+   "death-star-project-begins"
+  ],
+  "sources": [
+   "Rogue One: A Star Wars Story",
+   "The Honorable Ones",
+   "Tarkin (novel)",
+   "Star Wars: Rogue One: The Ultimate Visual Guide"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "gar-saxon-death",
+  "title": "Who killed Gar Saxon?",
+  "kind": "contradiction",
+  "y": -2,
+  "yText": "2 BBY",
+  "frac": 0.5,
+  "summary": "On Krownest, Sabine Wren beats the Imperial viceroy Gar Saxon in single combat and lets him live. Wookieepedia's timeline says she kills him. The episode, and the article on the fight, show Saxon going for his blaster as she turns away and her mother, Ursa, shooting him first.",
+  "accounts": [
+   {
+    "claim": "Sabine kills Saxon in their duel.",
+    "source": "Wookieepedia's Timeline of galactic history"
+   },
+   {
+    "claim": "Sabine spares Saxon; when he tries to shoot her, Ursa Wren kills him.",
+    "source": "Legacy of Mandalore"
+   }
+  ],
+  "resolution": "Settled by the episode: Ursa fires the fatal shot. The timeline line is a summary slip, and the chronicle follows the screen.",
+  "events": [
+   "skirmish-on-krownest"
+  ],
+  "sources": [
+   "Legacy of Mandalore",
+   "Star Wars: Timelines"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "thrawn-alliances-date",
+  "title": "Vader and Thrawn on Batuu: which year?",
+  "kind": "dating-conflict",
+  "y": -2,
+  "yText": "2 BBY",
+  "frac": null,
+  "summary": "The Emperor sends Vader and Thrawn together to trace a disturbance in the Force, starting on Batuu. Star Wars: Timelines dates this half of Thrawn: Alliances to 2 BBY, and Wookieepedia's article on the mission follows it. Wookieepedia's own timeline still files the mission under 1 BBY.",
+  "accounts": [
+   {
+    "claim": "The Batuu mission takes place in 2 BBY.",
+    "source": "Star Wars: Timelines"
+   },
+   {
+    "claim": "The mission belongs to 1 BBY.",
+    "source": "Wookieepedia's Timeline of galactic history"
+   }
+  ],
+  "resolution": "Timelines is the only source that dates it, and the mission article follows it. The chronicle uses 2 BBY.",
+  "events": [
+   "vader-and-thrawn-on-batuu"
+  ],
+  "sources": [
+   "Thrawn: Alliances",
+   "Star Wars: Timelines"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "ghorman-imperial-narrative",
+  "title": "Ghorman: the Empire's story and Mon Mothma's",
+  "kind": "propaganda",
+  "y": -2,
+  "yText": "2 BBY",
+  "frac": 0.6,
+  "summary": "The Empire wants Ghorman's kalkite for the Death Star. The ISB spends years painting the Ghor as dangerous, arms their resistance through an informer, and provokes troops into firing on a peaceful crowd in Palmo Plaza. In the Senate the slaughter is spun as a savage uprising and Ghorman's senator is arrested. Mon Mothma calls it genocide.",
+  "accounts": [
+   {
+    "claim": "Ghorman's kalkite is needed, and a campaign against the Ghor will justify seizing it.",
+    "source": "Director Krennic, One Year Later"
+   },
+   {
+    "claim": "Ghorman's provocations brought on a savage attack that had to be put down.",
+    "source": "Senator Den Gane, Welcome to the Rebellion"
+   },
+   {
+    "claim": "The massacre was genocide, and the Emperor is a lying executioner.",
+    "source": "Mon Mothma, Welcome to the Rebellion"
+   },
+   {
+    "claim": "Krennic uses the event to justify crushing radicals; Luthen uses it to wake the uncommitted.",
+    "source": "Dan Gilroy, Andor writer"
+   }
+  ],
+  "resolution": "The Imperial version rules the Senate floor, and dissent means arrest. But Mothma's speech and the massacre itself help pull the rebel cells together into the Alliance.",
+  "events": [
+   "maltheen-divide-conference",
+   "ghorman-infiltrated",
+   "ghorman-massacre",
+   "mothma-denounces-emperor",
+   "declaration-of-the-rebel-alliance"
+  ],
+  "sources": [
+   "One Year Later",
+   "Ever Been to Ghorman?",
+   "Who Are You?",
+   "Welcome to the Rebellion",
+   "Secret Cargo"
+  ],
+  "weight": 3
+ },
+ {
+  "id": "barriss-offee-fate",
+  "title": "Does Barriss Offee die?",
+  "kind": "contradiction",
+  "y": -1,
+  "yText": "between 9 BBY and 0 ABY",
+  "frac": null,
+  "summary": "Years after leaving the Inquisitorius, Barriss tends travelers from a camp on an icy world until the Fourth Sister finds her. The Way Out ends with the Inquisitor carrying her, gravely wounded, out of a cave. A Darth Vader magazine twice says she dies; Star Wars Insider calls her wounded; the Story Group wants it left open.",
+  "accounts": [
+   {
+    "claim": "The Fourth Sister impales her by accident, promises to save her, and carries her out; the episode stops there.",
+    "source": "The Way Out"
+   },
+   {
+    "claim": "Barriss dies in these events.",
+    "source": "Star Wars: Darth Vader 68 and 78"
+   },
+   {
+    "claim": "She is seriously wounded, and the Fourth Sister sets out to save her.",
+    "source": "Star Wars Insider 229 and 236"
+   },
+   {
+    "claim": "The Story Group asked for the magazine's death line to be cut and has not settled her fate.",
+    "source": "Emily Shkoukani, Lucasfilm Story Group"
+   }
+  ],
+  "resolution": "Open by the Story Group's choice. Wookieepedia sets aside the magazine's claim and gives no death date; the personnel file records her as gravely wounded.",
+  "events": [],
+  "sources": [
+   "The Way Out",
+   "Star Wars: Darth Vader 68",
+   "Star Wars: Darth Vader 78",
+   "Star Wars Insider 229",
+   "Star Wars Insider 236"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "death-star-cover-stories",
+  "title": "The Empire's stories for Jedha and Alderaan",
+  "kind": "propaganda",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.83,
+  "summary": "The Death Star's first shot levels Jedha City, and Vader tells Krennic the station does not exist; the Senate will hear of a mining disaster. Days later Alderaan is destroyed in the open, after years in which the Empire warned that the world threatened the peace. Decades on, some still believe Jedha's official story.",
+  "accounts": [
+   {
+    "claim": "There is no Death Star; the Senate is told Jedha was lost in a mining disaster.",
+    "source": "Darth Vader, Rogue One: A Star Wars Story"
+   },
+   {
+    "claim": "By the Cold War, some say the city died in a real mining accident and the Empire only claimed it.",
+    "source": "The Legends of Luke Skywalker"
+   },
+   {
+    "claim": "Alderaan is a dangerous world, set against the security the Empire provides.",
+    "source": "Imperial warnings, The Rebellion Begins"
+   },
+   {
+    "claim": "Alderaan was probably chosen in advance for its pacifism, to show where even peaceful resistance leads.",
+    "source": "Historian Beaumont Kin, Star Wars: The Rise and Fall of the Galactic Empire"
+   }
+  ],
+  "resolution": "Jedha's cover story outlives the Empire; Alderaan's end is known within days through official statements and pirated news. Tarkin's stated reason, to make Leia talk, is only part of the explanation in later histories.",
+  "events": [
+   "destruction-of-jedha-city",
+   "destruction-of-alderaan",
+   "imperial-senate-dissolved"
+  ],
+  "sources": [
+   "Rogue One: A Star Wars Story",
+   "Star Wars: Episode IV A New Hope",
+   "The Legends of Luke Skywalker",
+   "The Rebellion Begins",
+   "Star Wars: The Rise and Fall of the Galactic Empire"
+  ],
+  "weight": 2
+ },
+ {
+  "id": "death-star-flaw-deliberate",
+  "title": "The Death Star's flaw was built in",
+  "kind": "retcon",
+  "y": -1,
+  "yText": "1 BBY",
+  "frac": 0.85,
+  "summary": "A New Hope presents the exhaust port as a weakness the rebels find by studying the stolen plans: a small shaft straight to the reactor. Rogue One, made thirty-nine years later, reveals that the engineer Galen Erso put it there on purpose, a trap hidden in the station he was forced to design, and told the Rebellion.",
+  "accounts": [
+   {
+    "claim": "Analysis of the plans shows a small port leading straight to the reactor; one precise hit could destroy the station.",
+    "source": "General Dodonna, Star Wars: Episode IV A New Hope"
+   },
+   {
+    "claim": "Galen has hidden a weakness in the reactor that one shot can trigger, and tells Jyn where the plans are.",
+    "source": "Galen Erso's message, Rogue One: A Star Wars Story"
+   },
+   {
+    "claim": "Galen designed the exhaust port as an act of sabotage.",
+    "source": "Star Wars: Rogue One: The Ultimate Visual Guide"
+   }
+  ],
+  "resolution": "Rogue One's answer is canon. A New Hope's scenes still stand, now read as the rebels finding a flaw that was meant to be found.",
+  "events": [
+   "mission-to-eadu",
+   "battle-of-yavin",
+   "galen-erso-taken"
+  ],
+  "sources": [
+   "Star Wars: Episode IV A New Hope",
+   "Rogue One: A Star Wars Story",
+   "Rogue One: A Star Wars Story (novelization)",
+   "Star Wars: Rogue One: The Ultimate Visual Guide"
+  ],
+  "weight": 3
+ },
+ {
+  "id": "han-greedo-who-shot-first",
+  "title": "Who shot first in the cantina?",
+  "kind": "retcon",
+  "y": -1,
+  "yText": "1 BBY (formerly 0 BBY)",
+  "frac": 0.93,
+  "summary": "In the 1977 film, Han shoots the bounty hunter Greedo across a cantina table and Greedo never fires. The 1997 Special Edition adds a shot from Greedo that misses at point-blank range; the 2004 release makes the shots almost simultaneous; the 2019 Disney+ release gives Greedo a last word. It is the saga's best-known revision of itself.",
+  "accounts": [
+   {
+    "claim": "Han fires, and Greedo never gets a shot off.",
+    "source": "Star Wars: Episode IV A New Hope, 1977 release"
+   },
+   {
+    "claim": "Greedo fires first and misses; then Han kills him.",
+    "source": "Star Wars: Episode IV A New Hope, 1997 Special Edition"
+   },
+   {
+    "claim": "He wanted Han to read as a cowboy defending himself, not a cold killer.",
+    "source": "George Lucas"
+   },
+   {
+    "claim": "Han fires before Greedo can shoot.",
+    "source": "Alexandra Bracken, author of A New Hope: The Princess, the Scoundrel, and the Farm Boy"
+   }
+  ],
+  "resolution": "Later releases keep a Greedo shot a split second ahead of Han's. The author of the 2015 junior novelization sides with the 1977 cut, where Han alone fires.",
+  "events": [],
+  "sources": [
+   "Star Wars: Episode IV A New Hope",
+   "A New Hope: The Princess, the Scoundrel, and the Farm Boy"
+  ],
+  "weight": 3
+ },
+ {
+  "id": "year-zero-shift",
+  "title": "The months before Yavin change year",
+  "kind": "dating-conflict",
+  "y": -1,
+  "yText": "1 BBY (formerly 0 BBY)",
+  "frac": 0.95,
+  "summary": "The archive counts from the Battle of Yavin, yet the sources have moved the months just before it. Star Wars: Galactic Atlas put Rogue One and the first part of A New Hope in 0 BBY. Star Wars: Timelines and the Story Group now say no 0 BBY exists: all of that is 1 BBY, and the battle is 0.",
+  "accounts": [
+   {
+    "claim": "Rogue One and the events of A New Hope before the battle fall in 0 BBY.",
+    "source": "Star Wars: Galactic Atlas"
+   },
+   {
+    "claim": "There is no 0 BBY; those events are 1 BBY, the battle is 0, and the next year is 0 ABY.",
+    "source": "Emily Shkoukani, Lucasfilm Story Group"
+   },
+   {
+    "claim": "Rogue One is dated 1 BBY and A New Hope 0.",
+    "source": "Star Wars: Timelines"
+   },
+   {
+    "claim": "Yavin itself is year zero; nothing is dated 0 BBY.",
+    "source": "Pablo Hidalgo, Lucasfilm Story Group (2025)"
+   }
+  ],
+  "resolution": "The newer reckoning holds. Wookieepedia and this archive put Scarif, Alderaan and the months before Yavin in 1 BBY and the battle at 0. Star Wars 100 Objects still uses 0 BBY on one page and 1 BBY on another.",
+  "events": [
+   "battle-of-scarif",
+   "destruction-of-alderaan",
+   "battle-of-yavin",
+   "galactic-atlas-compiled"
+  ],
+  "sources": [
+   "Rogue One: A Star Wars Story",
+   "Star Wars: Episode IV A New Hope",
+   "Star Wars: Galactic Atlas",
+   "Star Wars: Timelines",
+   "Star Wars: Galactic Atlas: Updated Edition",
+   "Star Wars 100 Objects"
+  ],
+  "weight": 2
+ },
+ {
+  "id": "echo-base-construction-date",
+  "title": "How long Echo Base took to build",
+  "kind": "dating-conflict",
+  "y": 1,
+  "yText": "c. 1 ABY to 3 ABY",
+  "frac": 0.7,
+  "summary": "The rebels' ice base on Hoth falls in 3 ABY, but the sources disagree on when it went up. Star Wars: Complete Locations says building took about two years. Star Wars: Galactic Atlas says it was built in 3 ABY, and The Rebel Files says it was finished only weeks before the Empire found it.",
+  "accounts": [
+   {
+    "claim": "Building runs for roughly two years, ending at the Battle of Hoth.",
+    "source": "Star Wars: Complete Locations (2016)"
+   },
+   {
+    "claim": "Echo Base is built in 3 ABY.",
+    "source": "Star Wars: Galactic Atlas"
+   },
+   {
+    "claim": "The base is completed less than a month before an Imperial probe droid finds it.",
+    "source": "Star Wars: The Rebel Files"
+   }
+  ],
+  "resolution": "Wookieepedia reads them together: work begins around 1 ABY and ends in 3 ABY, weeks before the battle, with the Atlas year taken as the year of completion. The chronicle uses the same span.",
+  "events": [
+   "echo-base-built",
+   "battle-of-hoth"
+  ],
+  "sources": [
+   "Star Wars: Episode V The Empire Strikes Back",
+   "Star Wars (2015) 75",
+   "Star Wars: Complete Locations (2016)",
+   "Star Wars: Galactic Atlas",
+   "Star Wars: The Rebel Files"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "second-death-star-news",
+  "title": "Was the second Death Star news?",
+  "kind": "contradiction",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.45,
+  "summary": "In Moving Target, rebel commanders react with disbelief when Ackbar shows them Bothan footage of a new Death Star at Endor, as if hearing of it for the first time. But in the Star Wars comic, around 3 ABY, Luke has already told Mon Mothma and Ackbar that the Empire is building another one.",
+  "accounts": [
+   {
+    "claim": "Madine and Massa doubt the footage until Ackbar says Bothan agents took it less than a week ago.",
+    "source": "Moving Target: A Princess Leia Adventure"
+   },
+   {
+    "claim": "Luke tells Mon Mothma a second Death Star is under way, and she resolves that they will destroy it again.",
+    "source": "Star Wars (2020) 28"
+   },
+   {
+    "claim": "Bothan spies locate the station and its shield generator on Endor; many die for the information.",
+    "source": "Star Wars: Episode VI Return of the Jedi"
+   }
+  ],
+  "resolution": "Unreconciled. The chronicle keeps both: the rebels learn of a second station in 3 ABY, and the Bothans locate it in 4 ABY. Nothing explains the commanders' surprise in Moving Target.",
+  "events": [
+   "bothans-find-second-death-star",
+   "rebels-learn-of-second-death-star"
+  ],
+  "sources": [
+   "Star Wars: Episode VI Return of the Jedi",
+   "Moving Target: A Princess Leia Adventure",
+   "Star Wars (2020) 28"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "chosen-one-fulfilled",
+  "title": "Who fulfilled the Chosen One prophecy?",
+  "kind": "unreliable-account",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.6,
+  "summary": "The Jedi prophecy promises one who will bring balance by destroying the Sith. Most sources credit Anakin, who kills the Emperor at Endor. But Sidious returns in 35 ABY and Rey ends him, and the people closest to the story have named Luke, Rey and even Leia instead.",
+  "accounts": [
+   {
+    "claim": "Anakin completed the Chosen One's destiny when he ended the rule of the Sith.",
+    "source": "George Lucas; Darth Vader: Sith Lord"
+   },
+   {
+    "claim": "Obi-Wan believes Vader's son is the Chosen One.",
+    "source": "Obi-Wan Kenobi, Twin Suns (episode)"
+   },
+   {
+    "claim": "Rey fulfils the prophecy; the one need not be a Skywalker by blood.",
+    "source": "Rick Carter, The Art of Star Wars: The Rise of Skywalker"
+   },
+   {
+    "claim": "In Lucas's own plans for a sequel trilogy, Leia ends up being the Chosen One.",
+    "source": "George Lucas"
+   }
+  ],
+  "resolution": "Anakin remains the Chosen One in most sources. The Rise of Skywalker has his spirit ask Rey to restore balance as he once did, and Abrams and Terrio describe balance as something restored again and again.",
+  "events": [
+   "the-chosen-one-prophecy",
+   "anakin-redeemed-palpatine-killed",
+   "battle-of-exegol"
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Twin Suns (episode)",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Darth Vader: Sith Lord",
+   "The Art of Star Wars: The Rise of Skywalker",
+   "Star Wars: The Secrets of the Sith"
+  ],
+  "weight": 3
+ },
+ {
+  "id": "palpatine-return-mechanism",
+  "title": "Palpatine's return from Endor",
+  "kind": "retcon",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.6,
+  "summary": "Return of the Jedi ends with the Emperor thrown down a reactor shaft and the station destroyed. The Rise of Skywalker brings him back on Exegol in a failing cloned body, the maker of Snoke and the voice in Kylo Ren's head. The film gives no mechanism, and later books and Wookieepedia's articles disagree on the timing.",
+  "accounts": [
+   {
+    "claim": "Vader hurls the Emperor down the reactor shaft, and he dies.",
+    "source": "Star Wars: Episode VI Return of the Jedi"
+   },
+   {
+    "claim": "He lives on Exegol, made Snoke, and has been every voice Kylo Ren heard.",
+    "source": "Star Wars: Episode IX The Rise of Skywalker"
+   },
+   {
+    "claim": "Falling, he sends his consciousness into a cloned body his cultists prepared on Exegol.",
+    "source": "Star Wars: The Rise of Skywalker: Expanded Edition"
+   },
+   {
+    "claim": "Some Wookieepedia articles place the transfer just before his body's destruction, others just after its death.",
+    "source": "Wookieepedia, Darth Sidious and related articles"
+   }
+  ],
+  "resolution": "The return is canon, and the novelization's transfer into a clone is the accepted mechanism. Whether his spirit left before or after death stays open.",
+  "events": [
+   "palpatine-returns-from-death",
+   "anakin-redeemed-palpatine-killed",
+   "sidious-returns-in-clone-body",
+   "exegol-broadcast",
+   "kylo-finds-sidious"
+  ],
+  "sources": [
+   "Star Wars: Episode VI Return of the Jedi",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: The Rise of Skywalker: Expanded Edition",
+   "Shadow of the Sith",
+   "Star Wars: The Secrets of the Sith"
+  ],
+  "weight": 3
+ },
+ {
+  "id": "new-republic-founding-year",
+  "title": "The New Republic: 4 ABY or 5 ABY",
+  "kind": "dating-conflict",
+  "y": 4,
+  "yText": "4 ABY",
+  "frac": 0.67,
+  "summary": "Mon Mothma proclaims the New Republic in the months after Endor. Star Wars: On the Front Lines and Star Wars: Galactic Atlas put the founding in 4 ABY. The Rise of Skywalker: The Visual Dictionary says it was officially founded twenty-nine years before the Starkiller strike, a year after Endor, in 5 ABY.",
+  "accounts": [
+   {
+    "claim": "The New Republic is declared in 4 ABY, soon after the Battle of Endor.",
+    "source": "Star Wars: On the Front Lines; Star Wars: Galactic Atlas"
+   },
+   {
+    "claim": "The New Republic is officially founded a year after Endor.",
+    "source": "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+   }
+  ],
+  "resolution": "Wookieepedia reads them as two steps: the declaration in 4 ABY, the formal founding in 5 ABY. The chronicle dates the declaration to 4 ABY.",
+  "events": [
+   "new-republic-declared",
+   "galactic-concordance"
+  ],
+  "sources": [
+   "Aftermath (novel)",
+   "Star Wars: On the Front Lines",
+   "Star Wars: Galactic Atlas",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "expanded-universe-becomes-legends",
+  "title": "The Expanded Universe becomes Legends",
+  "kind": "retcon",
+  "y": 4,
+  "yText": "after 4 ABY",
+  "frac": 0.99,
+  "summary": "For decades, novels, comics and games carried the story past Return of the Jedi: Thrawn's campaign, Han and Leia's children, the Yuuzhan Vong war. On April 25, 2014, Lucasfilm set that material aside, kept only the six films and The Clone Wars, and began a new continuity. The old books stayed in print as Legends.",
+  "accounts": [
+   {
+    "claim": "The Expanded Universe is rebranded Legends and no longer followed; canon is the six films, The Clone Wars, and all new work.",
+    "source": "Lucasfilm announcement, April 25, 2014"
+   },
+   {
+    "claim": "Years after Endor, Grand Admiral Thrawn rallies the Empire's remnants against the New Republic.",
+    "source": "Heir to the Empire"
+   },
+   {
+    "claim": "Luke's attempt to rebuild the Jedi ends when his nephew Ben burns his academy.",
+    "source": "Star Wars: Episode VIII The Last Jedi"
+   },
+   {
+    "claim": "Legends stays a resource new stories can draw on; Thrawn returns in canon with a new history.",
+    "source": "Thrawn (novel)"
+   }
+  ],
+  "resolution": "Canon is what Lucasfilm publishes now; Legends is a closed continuity, shown in this archive as its own layer. The two share the six films and The Clone Wars, and canon borrows Legends names and events freely.",
+  "events": [],
+  "sources": [
+   "Star Wars: Episode VI Return of the Jedi",
+   "Star Wars: Episode VIII The Last Jedi",
+   "Heir to the Empire",
+   "Star Wars: The New Jedi Order",
+   "Thrawn (novel)"
+  ],
+  "weight": 3
+ },
+ {
+  "id": "poe-spice-runner-years",
+  "title": "When Poe left the Spice Runners",
+  "kind": "dating-conflict",
+  "y": 19,
+  "yText": "19 ABY",
+  "frac": null,
+  "summary": "Poe runs spice with Zorii's crew as a teenager before joining the New Republic Navy. Poe Dameron: Free Fall, which Star Wars: Timelines dates to 18–19 ABY, has him quit after a summit on Kijimi. The Rise of Skywalker: The Visual Dictionary says he left eleven years before the Starkiller strike, in 23 ABY.",
+  "accounts": [
+   {
+    "claim": "Poe breaks with the Spice Runners after defying Zeva Bliss at the Kijimi summit.",
+    "source": "Poe Dameron: Free Fall"
+   },
+   {
+    "claim": "The novel's events run from 18 to 19 ABY.",
+    "source": "Star Wars: Timelines"
+   },
+   {
+    "claim": "Poe left the Spice Runners eleven years before the Starkiller Incident.",
+    "source": "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+   }
+  ],
+  "resolution": "Unresolved: four years separate the two. The chronicle follows the novel's dating, 19 ABY.",
+  "events": [
+   "kijimi-summit",
+   "poe-joins-spice-runners"
+  ],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Poe Dameron: Free Fall",
+   "Star Wars: Timelines",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "rey-parents-junk-traders",
+  "title": "Rey's parents: nobodies, then Palpatines",
+  "kind": "retcon",
+  "y": 21,
+  "yText": "21 ABY",
+  "frac": null,
+  "summary": "In The Last Jedi, Kylo Ren tells Rey her parents were junk traders who sold her for drink and lie in a pauper's grave, and she admits she knew. The Rise of Skywalker makes her father a clone son of Palpatine, and has her parents hide her on Jakku to protect her and die refusing to give her up.",
+  "accounts": [
+   {
+    "claim": "Her parents were nobodies: junk traders who sold her off and died on Jakku.",
+    "source": "Kylo Ren, Star Wars: Episode VIII The Last Jedi"
+   },
+   {
+    "claim": "She is Palpatine's granddaughter; her parents hid her from him and were killed for it.",
+    "source": "Star Wars: Episode IX The Rise of Skywalker"
+   },
+   {
+    "claim": "The Last Jedi's answer was the hardest thing she could hear: her parents were no one special.",
+    "source": "Rian Johnson, director of The Last Jedi"
+   },
+   {
+    "claim": "They were junk traders, and the new film did not contradict that; it made the news worse.",
+    "source": "Chris Terrio, co-writer of The Rise of Skywalker"
+   }
+  ],
+  "resolution": "The later film governs. Shadow of the Sith names them Dathan and Miramir, who chose to live as junk traders to stay hidden. Kylo's 'sold her for drinking money' is Rey's fear, not what happened.",
+  "events": [
+   "rey-and-kylo-touch-hands",
+   "rey-left-on-jakku",
+   "rey-sees-her-parents-killed"
+  ],
+  "sources": [
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: The Last Jedi: Expanded Edition",
+   "Shadow of the Sith",
+   "Star Wars: The Rise of Skywalker: Expanded Edition"
+  ],
+  "weight": 3
+ },
+ {
+  "id": "resistance-founding-year",
+  "title": "The Resistance: founded 28 ABY or 29 ABY?",
+  "kind": "dating-conflict",
+  "y": 28,
+  "yText": "28 ABY",
+  "frac": null,
+  "summary": "Bloodline ends with Leia, out of the Senate, starting a private force to watch the First Order; Star Wars: Timelines dates the novel to 28 ABY. The Rise of Skywalker: The Visual Dictionary counts back from the Starkiller strike, and the count has been read as either six years (28 ABY) or five (29 ABY).",
+  "accounts": [
+   {
+    "claim": "Leia begins gathering pilots and old allies into a resistance after leaving the Senate.",
+    "source": "Bloodline (novel)"
+   },
+   {
+    "claim": "Leia formed the Resistance six years before the Starkiller Incident.",
+    "source": "Star Wars: The Rise of Skywalker: The Visual Dictionary, as Wookieepedia's Resistance article reads it"
+   },
+   {
+    "claim": "The Resistance formed five years before the Starkiller Incident.",
+    "source": "Star Wars: The Rise of Skywalker: The Visual Dictionary, as this archive's chronicle reads it"
+   }
+  ],
+  "resolution": "Wookieepedia dates the founding to 28 ABY, which the six-year reading matches. The five-year figure is the one the same book gives for the First Order's secession in 29 ABY, which may be the source of the split. The chronicle uses 28 ABY.",
+  "events": [
+   "resistance-founded",
+   "cold-war-begins"
+  ],
+  "sources": [
+   "Bloodline (novel)",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary",
+   "Star Wars: Timelines"
+  ],
+  "weight": 1
+ },
+ {
+  "id": "temple-night-three-tellings",
+  "title": "The night Luke's temple burned",
+  "kind": "unreliable-account",
+  "y": 28,
+  "yText": "28 ABY",
+  "frac": null,
+  "summary": "The Last Jedi tells the fall of Luke's academy three times. Luke first says Ben simply turned on him. Ben says he woke with his uncle's lit saber above him. Luke then admits he did ignite it, for a moment, over his sleeping nephew, before shame caught up with him.",
+  "accounts": [
+   {
+    "claim": "Luke saw darkness growing in Ben, and Ben turned on him and destroyed it all.",
+    "source": "Luke Skywalker, first telling, Star Wars: Episode VIII The Last Jedi"
+   },
+   {
+    "claim": "His uncle sensed his power, feared it, and came to kill him in his sleep.",
+    "source": "Ben Solo, Star Wars: Episode VIII The Last Jedi"
+   },
+   {
+    "claim": "For one instinctive moment Luke drew his saber to stop what he saw coming, then was ashamed; Ben woke.",
+    "source": "Luke Skywalker, second telling, Star Wars: Episode VIII The Last Jedi"
+   },
+   {
+    "claim": "Ben tells the surviving students that Luke tried to murder him and is now dead.",
+    "source": "The Rise of Kylo Ren 1"
+   }
+  ],
+  "resolution": "Luke's second telling stands as the true one. Ben's account is how it looked to him, and The Rise of Kylo Ren shows him repeating it to the students who survived.",
+  "events": [
+   "jedi-temple-destroyed",
+   "luke-glimpses-bens-future"
+  ],
+  "sources": [
+   "Star Wars: Episode VIII The Last Jedi",
+   "The Rise of Kylo Ren 1",
+   "The Rise of Kylo Ren 4",
+   "Star Wars: The Last Jedi: A Junior Novel",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "weight": 3
+ },
+ {
+  "id": "first-order-official-story",
+  "title": "The First Order's version of events",
+  "kind": "propaganda",
+  "y": 34,
+  "yText": "34 ABY",
+  "frac": 0.45,
+  "summary": "The First Order presents itself as the Empire's rightful heir and the New Republic as illegitimate, and raises its stormtroopers on a slanted history. Before Starkiller fires, Hux tells the troops the Republic deceives the galaxy and quietly backs the Resistance. On the Colossus it pays pirates to raid the station until its captain accepts protection.",
+  "accounts": [
+   {
+    "claim": "The Republic lies to the galaxy and secretly supports the treacherous Resistance; today it ends.",
+    "source": "General Hux, Star Wars: Episode VII The Force Awakens"
+   },
+   {
+    "claim": "Stormtroopers learn a pro-Imperial history, which FN-2187 doubts.",
+    "source": "Star Wars: The Force Awakens: The Visual Dictionary"
+   },
+   {
+    "claim": "The First Order is the Empire's lawful successor, and the New Republic is not a legitimate government.",
+    "source": "First Order propaganda, Star Wars Propaganda: A History of Persuasive Art in the Galaxy"
+   },
+   {
+    "claim": "The pirates raiding the Colossus are hired by the First Order to make the station need its protection.",
+    "source": "The High Tower"
+   }
+  ],
+  "resolution": "Other works show a Republic that let the Resistance operate but refused to go to war with the Order, so Hux's charge holds only in part. The First Order's history lessons are never shown in full.",
+  "events": [
+   "hosnian-cataclysm",
+   "colossus-occupied",
+   "cold-war-begins",
+   "first-order-child-abductions"
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens",
+   "The Triple Dark",
+   "The High Tower",
+   "The Doza Dilemma",
+   "Star Wars: The Force Awakens: The Visual Dictionary",
+   "Star Wars Propaganda: A History of Persuasive Art in the Galaxy"
+  ],
+  "weight": 2
+ },
+ {
+  "id": "ahsoka-voice-on-exegol",
+  "title": "Ahsoka's voice among the dead Jedi",
+  "kind": "contradiction",
+  "y": 35,
+  "yText": "35 ABY",
+  "frac": null,
+  "summary": "When Rey faces Palpatine on Exegol, the voices of past Jedi rise to support her, and Ahsoka Tano's is among them. No work shows Ahsoka dead by then; the last on record, she is alive in 9 ABY. Some of the other speakers, such as Mace Windu, never learned to return as spirits at all.",
+  "accounts": [
+   {
+    "claim": "Ahsoka's voice joins the Jedi who tell Rey to rise.",
+    "source": "Star Wars: Episode IX The Rise of Skywalker"
+   },
+   {
+    "claim": "Ahsoka is alive in 9 ABY, stranded on Peridea with Anakin's spirit watching over her.",
+    "source": "Part Eight: The Jedi, the Witch, and the Warlord"
+   },
+   {
+    "claim": "Jedi who never learned the technique, like Mace Windu, can still be heard as voices after death.",
+    "source": "Wookieepedia's Force spirit article, reading The Rise of Skywalker"
+   }
+  ],
+  "resolution": "Unexplained. Wookieepedia lists her voice without dating her death, and no source says whether she had died by 35 ABY or spoke to Rey some other way.",
+  "events": [
+   "jedi-voices-rise-on-exegol",
+   "battle-of-exegol"
+  ],
+  "sources": [
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Part Eight: The Jedi, the Witch, and the Warlord",
+   "Star Wars: The Rise of Skywalker: Expanded Edition"
+  ],
+  "weight": 2
+ }
+]

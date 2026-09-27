@@ -547,16 +547,17 @@ export class Field {
         const e = list[i];
         const x = this.X(e.u), y = L.yc + (e.row - 1) * rowOff;
         const wf = this.world && (e.places || []).includes(this.world.k);
-        let al = this.mode === 'anomalies' && !e.conflict ? 0.25 : a;
+        const flag = e.conflict || (this.mode === 'anomalies' && e.filed);   // in contested mode, the register's entries light too
+        let al = this.mode === 'anomalies' && !flag ? 0.25 : a;
         if (wf) al = 1;
         // a war or an age: a thin bar behind the diamond
         if (e.u2 != null && this.X(e.u2) - x > 6) {
-          ctx.globalAlpha = al * 0.35; ctx.fillStyle = e.conflict ? P.conflict : color;
+          ctx.globalAlpha = al * 0.35; ctx.fillStyle = flag ? P.conflict : color;
           ctx.fillRect(x, y - 1, Math.min(this.X(e.u2), this.px1 + 5) - x, 2);
         }
         const s = e.w >= 3 ? 5.5 : e.w === 2 ? 4.2 : 3.2;
         ctx.globalAlpha = al;
-        ctx.fillStyle = wf ? P.locator : e.conflict ? P.conflict : color;
+        ctx.fillStyle = wf ? P.locator : flag ? P.conflict : color;
         ctx.beginPath(); ctx.moveTo(x, y - s); ctx.lineTo(x + s, y); ctx.lineTo(x, y + s); ctx.lineTo(x - s, y); ctx.closePath(); ctx.fill();
       }
     };

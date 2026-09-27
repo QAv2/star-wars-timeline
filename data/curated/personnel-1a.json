@@ -1,0 +1,3558 @@
+[
+ {
+  "wp": "Luke Skywalker",
+  "name": "Luke Skywalker",
+  "short": "Luke",
+  "aliases": [
+   "Red Five",
+   "Rogue Leader",
+   "Master Skywalker"
+  ],
+  "species": "Human",
+  "homeworld": "Tatooine",
+  "affiliation": "Alliance to Restore the Republic (Red Squadron, Rogue Squadron) → Jedi Order",
+  "born": {
+   "y": -19,
+   "yText": "19 BBY",
+   "confidence": "explicit"
+  },
+  "died": {
+   "y": 34,
+   "yText": "34 ABY",
+   "confidence": "explicit"
+  },
+  "summary": "Raised on a Tatooine farm, Luke joins the Rebellion after the Empire kills his family, destroys the first Death Star and trains under Obi-Wan and Yoda. At Endor he turns his father, Darth Vader, back to the light. His Jedi temple falls when Ben Solo turns; exiled on Ahch-To, he trains Rey and dies projecting himself to Crait.",
+  "posts": [
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Born on Polis Massa; hidden with the Lars family on Tatooine"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Leaves Tatooine with Obi-Wan Kenobi and joins the Rebellion"
+   },
+   {
+    "from": 0,
+    "to": 0,
+    "fromText": "0 BBY",
+    "toText": "0 BBY",
+    "text": "Destroys the Death Star at the Battle of Yavin"
+   },
+   {
+    "from": 3,
+    "to": 3,
+    "fromText": "3 ABY",
+    "toText": "3 ABY",
+    "text": "Rogue Squadron commander at Hoth; trains with Yoda on Dagobah"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "4 ABY",
+    "toText": "4 ABY",
+    "text": "Jedi Knight; redeems his father at Endor"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Rescues Grogu from Moff Gideon and takes him to train"
+   },
+   {
+    "from": 15,
+    "to": 28,
+    "fromText": "by 15 ABY",
+    "toText": "28 ABY",
+    "text": "Master of a new Jedi temple until Ben Solo destroys it"
+   },
+   {
+    "from": 28,
+    "to": 34,
+    "fromText": "28 ABY",
+    "toText": "34 ABY",
+    "text": "Exiled on Ahch-To; trains Rey and dies after Crait"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode IV A New Hope",
+   "Star Wars: Episode V The Empire Strikes Back",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Chapter 16: The Rescue",
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Leia Skywalker Organa Solo",
+  "name": "Leia Organa",
+  "short": "Leia",
+  "aliases": [
+   "Princess Leia",
+   "General Organa",
+   "Leia Skywalker Organa Solo",
+   "Leia Amidala Skywalker"
+  ],
+  "species": "Human (Alderaanian)",
+  "homeworld": "Alderaan",
+  "affiliation": "Galactic Empire (Imperial Senate) → Alliance to Restore the Republic → New Republic (Senate) → Resistance",
+  "born": {
+   "y": -19,
+   "yText": "19 BBY",
+   "confidence": "explicit"
+  },
+  "died": {
+   "y": 35,
+   "yText": "35 ABY",
+   "confidence": "explicit"
+  },
+  "summary": "Born a Skywalker and raised as Alderaan's princess, Leia follows Bail Organa into the Senate while feeding the Rebellion. Captured with the Death Star plans, she sees Alderaan destroyed and becomes a rebel leader through Endor. She serves the New Republic, loses her son Ben to the dark side, founds the Resistance, and spends her last strength calling him home.",
+  "posts": [
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Born on Polis Massa; adopted by Bail and Breha Organa"
+   },
+   {
+    "from": -9,
+    "to": -9,
+    "fromText": "9 BBY",
+    "toText": "9 BBY",
+    "text": "Kidnapped as a child; rescued by Obi-Wan Kenobi"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "by 1 BBY",
+    "toText": "1 BBY",
+    "text": "Alderaan's Imperial senator, secretly aiding the Rebellion"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Captured with the Death Star plans; loses Alderaan"
+   },
+   {
+    "from": 3,
+    "to": 4,
+    "fromText": "3 ABY",
+    "toText": "4 ABY",
+    "text": "Rebel leader at Hoth, Jabba's palace and Endor"
+   },
+   {
+    "from": 4,
+    "to": 28,
+    "fromText": "4 ABY",
+    "toText": "28 ABY",
+    "text": "Marries Han; New Republic senator until exposed as Vader's daughter"
+   },
+   {
+    "from": 28,
+    "to": 35,
+    "fromText": "28 ABY",
+    "toText": "35 ABY",
+    "text": "Founds and leads the Resistance as its general"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Dies on Ajan Kloss calling Ben back to the light"
+   }
+  ],
+  "sources": [
+   "Part I",
+   "A Princess on Lothal",
+   "Star Wars: Episode IV A New Hope",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Star Wars: Episode VII The Force Awakens",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Bloodline (novel)",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Han Solo",
+  "name": "Han Solo",
+  "short": "Han",
+  "aliases": [
+   "Cadet 124-329",
+   "Captain Solo",
+   "General Solo"
+  ],
+  "species": "Human (Corellian)",
+  "homeworld": "Corellia",
+  "affiliation": "White Worms → Galactic Empire → Jabba's criminal empire → Alliance to Restore the Republic → Resistance",
+  "born": {
+   "y": -32,
+   "yText": "32 BBY",
+   "confidence": "explicit"
+  },
+  "died": {
+   "y": 34,
+   "yText": "34 ABY",
+   "confidence": "explicit"
+  },
+  "summary": "A Corellian street thief who deserts the Imperial army, Han wins the Millennium Falcon from Lando and flies it for Jabba with Chewbacca. Hired to carry Luke and Kenobi, he stays to save Luke at Yavin, becomes a rebel general and marries Leia. After Ben falls he drifts back to smuggling, until his son kills him on Starkiller Base.",
+  "posts": [
+   {
+    "from": -13,
+    "to": -13,
+    "fromText": "13 BBY",
+    "toText": "13 BBY",
+    "text": "Escapes the White Worms on Corellia by enlisting with the Empire"
+   },
+   {
+    "from": -10,
+    "to": -10,
+    "fromText": "10 BBY",
+    "toText": "10 BBY",
+    "text": "Deserts the army on Mimban; flies the Kessel Run with Beckett's crew"
+   },
+   {
+    "from": -10,
+    "to": -1,
+    "fromText": "10 BBY",
+    "toText": "1 BBY",
+    "text": "Captain of the Millennium Falcon, smuggling for Jabba the Hutt"
+   },
+   {
+    "from": -1,
+    "to": 0,
+    "fromText": "1 BBY",
+    "toText": "0 BBY",
+    "text": "Flies Luke and Kenobi to the Death Star; saves Luke at Yavin"
+   },
+   {
+    "from": 3,
+    "to": 4,
+    "fromText": "3 ABY",
+    "toText": "4 ABY",
+    "text": "Frozen in carbonite at Cloud City; freed from Jabba's palace"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "4 ABY",
+    "toText": "4 ABY",
+    "text": "Rebel general leading the strike team on Endor"
+   },
+   {
+    "from": 4,
+    "to": 28,
+    "fromText": "4 ABY",
+    "toText": "28 ABY",
+    "text": "Marries Leia and raises Ben; returns to smuggling after Ben's fall"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Killed by his son, Kylo Ren, on Starkiller Base"
+   }
+  ],
+  "sources": [
+   "Solo: A Star Wars Story",
+   "Star Wars: Episode IV A New Hope",
+   "Star Wars: Episode V The Empire Strikes Back",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Star Wars: Episode VII The Force Awakens",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Chewbacca",
+  "name": "Chewbacca",
+  "short": "Chewbacca",
+  "aliases": [
+   "Chewie"
+  ],
+  "species": "Wookiee",
+  "homeworld": "Kashyyyk",
+  "affiliation": "Kachirho Wookiee Militia → Beckett's gang → Alliance to Restore the Republic → New Republic → Resistance",
+  "born": {
+   "y": -200,
+   "yText": "200 BBY",
+   "confidence": "explicit"
+  },
+  "died": null,
+  "summary": "A Wookiee warrior born two centuries before Yavin, Chewbacca escapes Trandoshan hunters with Ahsoka Tano and helps Yoda flee Kashyyyk after Order 66. Freed from Imperial captivity by Han Solo, he becomes his co-pilot on the Falcon for four decades and fights through the Civil War; after Han's death he flies with Rey and the Resistance to Exegol.",
+  "posts": [
+   {
+    "from": -20,
+    "to": -20,
+    "fromText": "20 BBY",
+    "toText": "20 BBY",
+    "text": "Escapes Trandoshan hunters on Wasskah with Ahsoka Tano"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Fights at Kashyyyk; helps Yoda escape Order 66"
+   },
+   {
+    "from": -10,
+    "to": -10,
+    "fromText": "10 BBY",
+    "toText": "10 BBY",
+    "text": "Freed on Mimban by Han; joins Beckett's coaxium heist"
+   },
+   {
+    "from": -10,
+    "to": 34,
+    "fromText": "10 BBY",
+    "toText": "34 ABY",
+    "text": "Co-pilot of the Millennium Falcon"
+   },
+   {
+    "from": 0,
+    "to": 0,
+    "fromText": "0 BBY",
+    "toText": "0 BBY",
+    "text": "Flies with Han to save Luke at the Battle of Yavin"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "4 ABY",
+    "toText": "4 ABY",
+    "text": "Helps free Han from Jabba; fights beside the Ewoks on Endor"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Sees Han killed on Starkiller Base; flies Rey to Luke"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Survives capture; flies the Falcon at the Battle of Exegol"
+   }
+  ],
+  "sources": [
+   "Wookiee Hunt",
+   "Star Wars: Episode III Revenge of the Sith",
+   "Solo: A Star Wars Story",
+   "Star Wars: Episode IV A New Hope",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: Episode IX The Rise of Skywalker"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Anakin Skywalker",
+  "name": "Anakin Skywalker",
+  "short": "Anakin",
+  "aliases": [
+   "Darth Vader",
+   "Ani",
+   "Skyguy",
+   "Hero With No Fear",
+   "the Chosen One"
+  ],
+  "species": "Human",
+  "homeworld": "Tatooine",
+  "affiliation": "Jedi Order → Galactic Republic (501st Legion) → Sith → Galactic Empire",
+  "born": {
+   "y": -41,
+   "yText": "41 BBY",
+   "confidence": "explicit"
+  },
+  "died": {
+   "y": 4,
+   "yText": "4 ABY",
+   "confidence": "explicit"
+  },
+  "summary": "Born a slave on Tatooine, Anakin is freed by Qui-Gon Jinn and trained by Obi-Wan Kenobi. A Clone Wars general who secretly marries Padmé, he falls to Palpatine's promise of saving her and becomes Darth Vader, who helps destroy the Jedi and enforces the Emperor's rule. At Endor he kills the Emperor to save his son, and dies redeemed.",
+  "posts": [
+   {
+    "from": -41,
+    "to": -41,
+    "fromText": "41 BBY",
+    "toText": "41 BBY",
+    "text": "Born into slavery to Shmi Skywalker, with no father"
+   },
+   {
+    "from": -32,
+    "to": -32,
+    "fromText": "32 BBY",
+    "toText": "32 BBY",
+    "text": "Freed by Qui-Gon Jinn; apprenticed to Obi-Wan Kenobi"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "22 BBY",
+    "toText": "22 BBY",
+    "text": "Slaughters the Tuskens who took his mother; marries Padmé"
+   },
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "22 BBY",
+    "toText": "19 BBY",
+    "text": "Jedi general of the 501st Legion; master to Ahsoka Tano"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Turns to Sidious as Darth Vader; burned on Mustafar"
+   },
+   {
+    "from": -19,
+    "to": 4,
+    "fromText": "19 BBY",
+    "toText": "4 ABY",
+    "text": "The Emperor's enforcer, hunting Jedi and rebels"
+   },
+   {
+    "from": 3,
+    "to": 3,
+    "fromText": "3 ABY",
+    "toText": "3 ABY",
+    "text": "Reveals to Luke on Cloud City that he is his father"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "4 ABY",
+    "toText": "4 ABY",
+    "text": "Kills the Emperor to save Luke; dies redeemed"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Star Wars: Episode II Attack of the Clones",
+   "Star Wars: The Clone Wars (film)",
+   "Star Wars: Episode III Revenge of the Sith",
+   "Part VI",
+   "Star Wars: Episode V The Empire Strikes Back",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Darth Sidious",
+  "name": "Palpatine",
+  "short": "Palpatine",
+  "aliases": [
+   "Darth Sidious",
+   "Sheev Palpatine",
+   "the Emperor",
+   "Supreme Chancellor"
+  ],
+  "species": "Human (Naboo)",
+  "homeworld": "Naboo",
+  "affiliation": "Sith → Galactic Republic (Senate, Supreme Chancellor) → Galactic Empire → Sith Eternal",
+  "born": {
+   "y": -84,
+   "yText": "84 BBY",
+   "confidence": "explicit"
+  },
+  "died": {
+   "y": 35,
+   "yText": "35 ABY",
+   "confidence": "explicit"
+  },
+  "summary": "A Naboo politician secretly trained as a Sith by Darth Plagueis, Palpatine engineers the Naboo crisis to become Chancellor, runs both sides of the Clone Wars, wipes out the Jedi with Order 66 and crowns himself Emperor. Thrown down a reactor shaft by Vader at Endor, he returns in a clone body on Exegol until his granddaughter Rey destroys him.",
+  "posts": [
+   {
+    "from": -84,
+    "to": -84,
+    "fromText": "84 BBY",
+    "toText": "84 BBY",
+    "text": "Born on Naboo; later trained in secret by Darth Plagueis"
+   },
+   {
+    "from": -52,
+    "to": -32,
+    "fromText": "52 BBY",
+    "toText": "32 BBY",
+    "text": "Senator of Naboo in the Galactic Senate"
+   },
+   {
+    "from": -32,
+    "to": -19,
+    "fromText": "32 BBY",
+    "toText": "19 BBY",
+    "text": "Supreme Chancellor after engineering the Naboo crisis"
+   },
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "22 BBY",
+    "toText": "19 BBY",
+    "text": "Runs both sides of the Clone Wars through Count Dooku"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Issues Order 66, turns Anakin, and proclaims the Empire"
+   },
+   {
+    "from": -19,
+    "to": 4,
+    "fromText": "19 BBY",
+    "toText": "4 ABY",
+    "text": "Galactic Emperor, with Darth Vader as his enforcer"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "4 ABY",
+    "toText": "4 ABY",
+    "text": "Thrown into the second Death Star's reactor by Vader"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Returns in a clone body on Exegol; destroyed by Rey"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "The Lawless",
+   "Star Wars: Episode III Revenge of the Sith",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: The Rise of Skywalker: Expanded Edition",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Obi-Wan Kenobi",
+  "name": "Obi-Wan Kenobi",
+  "short": "Obi-Wan",
+  "aliases": [
+   "Ben Kenobi",
+   "Old Ben",
+   "the Negotiator"
+  ],
+  "species": "Human",
+  "homeworld": "Stewjon",
+  "affiliation": "Jedi Order (High Council) → Galactic Republic (7th Sky Corps) → Hidden Path",
+  "born": {
+   "y": -57,
+   "yText": "57 BBY",
+   "confidence": "explicit"
+  },
+  "died": {
+   "y": -1,
+   "yText": "1 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "Qui-Gon Jinn's Padawan, Obi-Wan wins his knighthood by defeating Maul at Naboo and trains Anakin Skywalker. A Council member and general through the Clone Wars, he survives Order 66, defeats Anakin on Mustafar and guards Luke from Tatooine exile. He rescues young Leia, kills Maul, and falls to Vader aboard the Death Star, guiding Luke afterward as a spirit.",
+  "posts": [
+   {
+    "from": -32,
+    "to": -32,
+    "fromText": "32 BBY",
+    "toText": "32 BBY",
+    "text": "Knighted after defeating Maul at Naboo; takes Anakin as Padawan"
+   },
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "22 BBY",
+    "toText": "19 BBY",
+    "text": "Jedi High General commanding the 7th Sky Corps"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Kills Grievous on Utapau; defeats Anakin on Mustafar"
+   },
+   {
+    "from": -19,
+    "to": -1,
+    "fromText": "19 BBY",
+    "toText": "1 BBY",
+    "text": "Exiled on Tatooine as Ben, watching over Luke"
+   },
+   {
+    "from": -9,
+    "to": -9,
+    "fromText": "9 BBY",
+    "toText": "9 BBY",
+    "text": "Leaves exile to rescue Leia; duels Vader again"
+   },
+   {
+    "from": -2,
+    "to": -2,
+    "fromText": "2 BBY",
+    "toText": "2 BBY",
+    "text": "Kills Maul in the Tatooine desert"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Joins Luke; struck down by Vader aboard the Death Star"
+   },
+   {
+    "from": 0,
+    "to": 4,
+    "fromText": "0 BBY",
+    "toText": "4 ABY",
+    "text": "Guides Luke as a Force spirit through Endor"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "The Lawless",
+   "Star Wars: Episode III Revenge of the Sith",
+   "Part I",
+   "Part VI",
+   "Twin Suns (episode)",
+   "Star Wars: Episode IV A New Hope",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Yoda",
+  "name": "Yoda",
+  "short": "Yoda",
+  "aliases": [
+   "Master Yoda",
+   "Grand Master"
+  ],
+  "species": "Yoda's species",
+  "homeworld": null,
+  "affiliation": "Jedi Order (Grand Master, High Council) → Galactic Republic (Grand Army)",
+  "born": {
+   "y": -896,
+   "yText": "896 BBY",
+   "confidence": "explicit"
+  },
+  "died": {
+   "y": 4,
+   "yText": "4 ABY",
+   "confidence": "explicit"
+  },
+  "summary": "Nearly nine hundred years old when the Republic falls, Yoda has taught generations of Jedi and leads the Order as Grand Master. He doubts Anakin, commands clone armies through the Clone Wars, and fails to defeat Sidious after Order 66. Exiled on Dagobah, he trains Luke Skywalker, dies of age before Endor, and returns as a spirit to counsel him.",
+  "posts": [
+   {
+    "from": -233,
+    "to": -233,
+    "fromText": "c. 233 BBY",
+    "toText": "c. 233 BBY",
+    "text": "Assigns younglings, Kai Brightstar among them, to Jedi outposts"
+   },
+   {
+    "from": -32,
+    "to": -19,
+    "fromText": "by 32 BBY",
+    "toText": "19 BBY",
+    "text": "Grand Master of the Jedi Order, seated on the High Council"
+   },
+   {
+    "from": -32,
+    "to": -32,
+    "fromText": "32 BBY",
+    "toText": "32 BBY",
+    "text": "Opposes training the boy Anakin Skywalker"
+   },
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "22 BBY",
+    "toText": "19 BBY",
+    "text": "Jedi general; leads the clone army at Geonosis"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Survives Order 66; duels Sidious in the Senate and withdraws"
+   },
+   {
+    "from": -19,
+    "to": 4,
+    "fromText": "19 BBY",
+    "toText": "4 ABY",
+    "text": "Lives in exile on Dagobah"
+   },
+   {
+    "from": 3,
+    "to": 4,
+    "fromText": "3 ABY",
+    "toText": "4 ABY",
+    "text": "Trains Luke Skywalker; dies of old age"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "As a spirit, calls down lightning on Ahch-To's Jedi tree"
+   }
+  ],
+  "sources": [
+   "The Young Jedi",
+   "Star Wars: Episode I The Phantom Menace",
+   "Star Wars: Episode II Attack of the Clones",
+   "Star Wars: Episode III Revenge of the Sith",
+   "Star Wars: Episode V The Empire Strikes Back",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Padmé Amidala Naberrie",
+  "name": "Padmé Amidala",
+  "short": "Padmé",
+  "aliases": [
+   "Queen Amidala",
+   "Padmé Naberrie",
+   "Senator Amidala"
+  ],
+  "species": "Human (Naboo)",
+  "homeworld": "Naboo",
+  "affiliation": "Royal House of Naboo → Galactic Republic (Senate, Loyalist Committee) → Delegation of 2,000",
+  "born": {
+   "y": -46,
+   "yText": "46 BBY",
+   "confidence": "explicit"
+  },
+  "died": {
+   "y": -19,
+   "yText": "19 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "Elected Queen of Naboo as Amidala, Padmé frees her world from the Trade Federation and topples Chancellor Valorum, opening the way for Palpatine. As Naboo's senator she argues for peace through the Clone Wars and secretly marries Anakin Skywalker. When he turns to the dark side she confronts him on Mustafar and dies after giving birth to Luke and Leia.",
+  "posts": [
+   {
+    "from": -32,
+    "to": -32,
+    "fromText": "32 BBY",
+    "toText": "32 BBY",
+    "text": "Elected Queen of Naboo, taking the name Amidala"
+   },
+   {
+    "from": -32,
+    "to": -32,
+    "fromText": "32 BBY",
+    "toText": "32 BBY",
+    "text": "Moves to oust Valorum; retakes Theed from the Trade Federation"
+   },
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "by 22 BBY",
+    "toText": "19 BBY",
+    "text": "Senator for Naboo and a leader of the Loyalist Committee"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "22 BBY",
+    "toText": "22 BBY",
+    "text": "Survives assassins; secretly marries Anakin Skywalker"
+   },
+   {
+    "from": -21,
+    "to": -21,
+    "fromText": "21 BBY",
+    "toText": "21 BBY",
+    "text": "Seeks peace talks with Separatist senators on Raxus"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Signs the Delegation of 2,000's challenge to Palpatine"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Choked by Anakin on Mustafar; dies bearing Luke and Leia"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode I The Phantom Menace",
+   "Star Wars: Episode II Attack of the Clones",
+   "Heroes on Both Sides",
+   "Star Wars: Episode III Revenge of the Sith",
+   "Queen's Shadow",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Qui-Gon Jinn",
+  "name": "Qui-Gon Jinn",
+  "short": "Qui-Gon",
+  "aliases": [],
+  "species": "Human (Coruscanti)",
+  "homeworld": "Coruscant",
+  "affiliation": "Jedi Order",
+  "born": {
+   "y": -80,
+   "yText": "c. 80 BBY",
+   "confidence": "estimated"
+  },
+  "died": {
+   "y": -32,
+   "yText": "32 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A maverick Jedi Master who follows the Living Force over the Council's wishes, Qui-Gon trains under Dooku and takes Obi-Wan Kenobi as his Padawan. Sent to end the Naboo blockade, he frees young Anakin Skywalker on Tatooine and names him the Chosen One. Maul kills him at Naboo; as a voice in the Force he later guides Yoda.",
+  "posts": [
+   {
+    "from": -68,
+    "to": -58,
+    "fromText": "by c. 68 BBY",
+    "toText": "c. 58 BBY",
+    "text": "Padawan of Dooku until knighted around 58 BBY"
+   },
+   {
+    "from": -44,
+    "to": -32,
+    "fromText": "44 BBY",
+    "toText": "32 BBY",
+    "text": "Master of the Padawan Obi-Wan Kenobi"
+   },
+   {
+    "from": -32,
+    "to": -32,
+    "fromText": "32 BBY",
+    "toText": "32 BBY",
+    "text": "Frees Anakin Skywalker on Tatooine; calls him the Chosen One"
+   },
+   {
+    "from": -32,
+    "to": -32,
+    "fromText": "32 BBY",
+    "toText": "32 BBY",
+    "text": "Killed by Maul in the Battle of Naboo"
+   },
+   {
+    "from": -20,
+    "to": -19,
+    "fromText": "20 BBY",
+    "toText": "19 BBY",
+    "text": "As a voice in the Force, guides Yoda toward life after death"
+   }
+  ],
+  "sources": [
+   "Justice (episode)",
+   "Star Wars: Episode I The Phantom Menace",
+   "The Sith Lord",
+   "Voices",
+   "Master & Apprentice",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Rey Skywalker",
+  "name": "Rey",
+  "short": "Rey",
+  "aliases": [
+   "Rey Skywalker"
+  ],
+  "species": "Human",
+  "homeworld": "Jakku",
+  "affiliation": "Resistance → Jedi Order",
+  "born": {
+   "y": 15,
+   "yText": "15 ABY",
+   "confidence": "explicit"
+  },
+  "died": null,
+  "summary": "Hidden on Jakku as a child by parents who die shielding her, Rey scavenges alone until BB-8 and Finn pull her into the war. She awakens to the Force, seeks out Luke on Ahch-To, and trains under him and Leia. Learning she is Palpatine's granddaughter, she destroys him on Exegol with Ben Solo's help and takes the Skywalker name.",
+  "posts": [
+   {
+    "from": 15,
+    "to": 15,
+    "fromText": "15 ABY",
+    "toText": "15 ABY",
+    "text": "Born on Hyperkarn to Dathan and Miramir"
+   },
+   {
+    "from": 15,
+    "to": 34,
+    "fromText": "after 15 ABY",
+    "toText": "34 ABY",
+    "text": "Left on Jakku as a child; scavenges for Unkar Plutt"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Joins Finn and Han Solo; awakens to the Force"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Seeks out Luke on Ahch-To; turns down Kylo Ren"
+   },
+   {
+    "from": 34,
+    "to": 35,
+    "fromText": "34 ABY",
+    "toText": "35 ABY",
+    "text": "Jedi of the Resistance, trained by Leia"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Destroys Palpatine on Exegol; dies and is revived by Ben"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Buries the Skywalker sabers on Tatooine and takes the name"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens",
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: The Rise of Skywalker: Expanded Edition",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Finn",
+  "name": "Finn",
+  "short": "Finn",
+  "aliases": [
+   "FN-2187",
+   "Eight-Seven"
+  ],
+  "species": "Human",
+  "homeworld": null,
+  "affiliation": "First Order (FN Corps) → Resistance",
+  "born": {
+   "y": 11,
+   "yText": "11 ABY",
+   "confidence": "explicit"
+  },
+  "died": null,
+  "summary": "Taken as a child to be a First Order stormtrooper, FN-2187 refuses to fire on villagers at Tuanul and deserts, freeing Poe Dameron, who names him Finn. He helps the Resistance destroy Starkiller Base, nearly dies to Kylo Ren's blade, and with Rose Tico commits to the fight. A general by the end, he leads the ground assault at Exegol.",
+  "posts": [
+   {
+    "from": 11,
+    "to": 11,
+    "fromText": "11 ABY",
+    "toText": "11 ABY",
+    "text": "Born; taken as a child into the First Order's trooper program"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "34 ABY",
+    "text": "Stormtrooper FN-2187 of Batch Eight, in the FN Corps"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Deserts after the Tuanul massacre; frees Poe Dameron"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Helps destroy Starkiller Base; wounded dueling Kylo Ren"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Boards the Supremacy with Rose Tico to disable its tracker"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Nearly sacrifices himself at the Battle of Crait"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Resistance general; leads the ground forces at Exegol"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens",
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: The Last Jedi: Expanded Edition",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Poe Dameron",
+  "name": "Poe Dameron",
+  "short": "Poe",
+  "aliases": [
+   "Black Leader"
+  ],
+  "species": "Human",
+  "homeworld": "Yavin 4",
+  "affiliation": "Spice Runners of Kijimi → New Republic (Rapier Squadron) → Resistance (Black Squadron)",
+  "born": {
+   "y": 2,
+   "yText": "2 ABY",
+   "confidence": "explicit"
+  },
+  "died": null,
+  "summary": "Son of two rebel veterans, Poe runs spice with a Kijimi gang as a teenager, then flies for the New Republic navy before joining Leia's Resistance. Captured on Jakku and freed by Finn, he destroys Starkiller's weapon, loses his rank over a costly attack at D'Qar and mutinies against Holdo. Made a general, he leads the fleet at Exegol.",
+  "posts": [
+   {
+    "from": 18,
+    "to": 18,
+    "fromText": "18 ABY",
+    "toText": "18 ABY",
+    "text": "Flies for the Spice Runners of Kijimi as a teenager"
+   },
+   {
+    "from": 18,
+    "to": 34,
+    "fromText": "after 18 ABY",
+    "toText": "by 34 ABY",
+    "text": "New Republic navy commander leading Rapier Squadron"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "34 ABY",
+    "text": "Resistance commander flying Black One at the head of Black Squadron"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Captured on Jakku; escapes with Finn"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Fires the shots that destroy Starkiller Base's weapon"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Demoted after D'Qar; leads a mutiny against Admiral Holdo"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Made general after Leia's death; leads the attack at Exegol"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens",
+   "The Recruit",
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Poe Dameron: Free Fall",
+   "Before the Awakening",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Ben Solo",
+  "name": "Ben Solo",
+  "short": "Ben",
+  "aliases": [
+   "Kylo Ren",
+   "Supreme Leader Kylo Ren",
+   "Jedi Killer"
+  ],
+  "species": "Human (Chandrilan)",
+  "homeworld": "Chandrila",
+  "affiliation": "Jedi Order → Knights of Ren → First Order (Supreme Leader)",
+  "born": {
+   "y": 5,
+   "yText": "5 ABY",
+   "confidence": "explicit"
+  },
+  "died": {
+   "y": 35,
+   "yText": "35 ABY",
+   "confidence": "explicit"
+  },
+  "summary": "The son of Han Solo and Leia Organa, Ben trains under his uncle Luke until Luke's doubt drives him to Snoke and the dark side. As Kylo Ren he leads the Knights of Ren, kills his father, then kills Snoke to become Supreme Leader. Called back by his mother, he turns on Palpatine at Exegol and dies reviving Rey.",
+  "posts": [
+   {
+    "from": 5,
+    "to": 5,
+    "fromText": "5 ABY",
+    "toText": "5 ABY",
+    "text": "Born to Leia Organa and Han Solo on Chandrila"
+   },
+   {
+    "from": 15,
+    "to": 28,
+    "fromText": "15 ABY",
+    "toText": "28 ABY",
+    "text": "Padawan of his uncle, Luke Skywalker"
+   },
+   {
+    "from": 28,
+    "to": 28,
+    "fromText": "28 ABY",
+    "toText": "28 ABY",
+    "text": "Turns on Luke's temple; joins Snoke and the Knights of Ren"
+   },
+   {
+    "from": 28,
+    "to": 34,
+    "fromText": "28 ABY",
+    "toText": "34 ABY",
+    "text": "Master of the Knights of Ren, serving Snoke's First Order"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Kills his father, Han Solo, on Starkiller Base"
+   },
+   {
+    "from": 34,
+    "to": 35,
+    "fromText": "34 ABY",
+    "toText": "35 ABY",
+    "text": "Kills Snoke and takes his place as Supreme Leader"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Returns to the light; dies saving Rey on Exegol"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens",
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "The Rise of Kylo Ren 1",
+   "Aftermath: Empire's End",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Landonis Balthazar Calrissian",
+  "name": "Lando Calrissian",
+  "short": "Lando",
+  "aliases": [
+   "Landonis Balthazar Calrissian",
+   "Baron Administrator",
+   "General Calrissian",
+   "the Hermit"
+  ],
+  "species": "Human",
+  "homeworld": "Socorro",
+  "affiliation": "Cloud City (Baron Administrator) → Alliance to Restore the Republic → New Republic → Resistance (Citizens' Fleet)",
+  "born": {
+   "y": -43,
+   "yText": "c. 43 BBY",
+   "confidence": "estimated"
+  },
+  "died": null,
+  "summary": "A smooth-talking gambler and smuggler, Lando loses the Millennium Falcon to Han Solo at sabacc and later runs Cloud City as its Baron Administrator. Forced to betray Han to Vader, he turns on the Empire, joins the Rebellion as a general and flies the Falcon into the second Death Star. Years later he brings the Citizens' Fleet to Exegol.",
+  "posts": [
+   {
+    "from": -10,
+    "to": -10,
+    "fromText": "10 BBY",
+    "toText": "10 BBY",
+    "text": "Owner of the Falcon; loses it to Han Solo at sabacc"
+   },
+   {
+    "from": -4,
+    "to": -4,
+    "fromText": "4 BBY",
+    "toText": "4 BBY",
+    "text": "Sets up a Lothal mining venture; deals with the Ghost crew"
+   },
+   {
+    "from": 1,
+    "to": 3,
+    "fromText": "c. 1 ABY",
+    "toText": "3 ABY",
+    "text": "Baron Administrator of Cloud City"
+   },
+   {
+    "from": 3,
+    "to": 3,
+    "fromText": "3 ABY",
+    "toText": "3 ABY",
+    "text": "Hands Han to Vader, then evacuates the city and turns rebel"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "4 ABY",
+    "toText": "4 ABY",
+    "text": "Rebel general; flies the Falcon to destroy the second Death Star"
+   },
+   {
+    "from": 21,
+    "to": 35,
+    "fromText": "21 ABY",
+    "toText": "35 ABY",
+    "text": "Hunts for Ochi with Luke; stays on Pasaana as a hermit"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Rejoins the Resistance; brings the Citizens' Fleet to Exegol"
+   }
+  ],
+  "sources": [
+   "Solo: A Star Wars Story",
+   "Idiot's Array (episode)",
+   "Star Wars: Episode V The Empire Strikes Back",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": "Star Wars Rebels: Visual Guide: Epic Battles makes him twenty-six at the time of \"Idiot's Array,\" which would put his birth around 30 BBY; The Rise of Skywalker: The Visual Dictionary puts it around 43 BBY, which Wookieepedia follows."
+ },
+ {
+  "wp": "Jyn Erso",
+  "name": "Jyn Erso",
+  "short": "Jyn",
+  "aliases": [
+   "Stardust",
+   "Kestrel Dawn",
+   "Liana Hallik",
+   "Tanith Ponta"
+  ],
+  "species": "Human",
+  "homeworld": "Vallt",
+  "affiliation": "Partisans → Alliance to Restore the Republic (Rogue One)",
+  "born": {
+   "y": -21,
+   "yText": "21 BBY",
+   "confidence": "explicit"
+  },
+  "died": {
+   "y": -1,
+   "yText": "1 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "Hidden when Krennic seizes her father and kills her mother, Jyn is raised by Saw Gerrera as a Partisan soldier until he abandons her at sixteen. Freed from an Imperial labor camp by the rebels, she finds her father's message about the Death Star's flaw, leads Rogue One to steal the plans on Scarif and dies there with Cassian.",
+  "posts": [
+   {
+    "from": -13,
+    "to": -13,
+    "fromText": "13 BBY",
+    "toText": "13 BBY",
+    "text": "Hides on Lah'mu as Krennic takes her father; her mother is killed"
+   },
+   {
+    "from": -13,
+    "to": -5,
+    "fromText": "13 BBY",
+    "toText": "c. 5 BBY",
+    "text": "Raised by Saw Gerrera as a Partisan child soldier"
+   },
+   {
+    "from": -5,
+    "to": -1,
+    "fromText": "c. 5 BBY",
+    "toText": "1 BBY",
+    "text": "Abandoned by Saw; lives by crime under false names"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Freed from the Wobani labor camp by the Rebel Alliance"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Receives Galen's message on Jedha; sees him die on Eadu"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Leads Rogue One to steal the Death Star plans; dies on Scarif"
+   }
+  ],
+  "sources": [
+   "The Stranger (episode)",
+   "Rogue One: A Star Wars Story",
+   "Catalyst: A Rogue One Novel",
+   "Rebel Rising",
+   "Star Wars: Rogue One: The Ultimate Visual Guide",
+   "Star Wars: Timelines"
+  ],
+  "conflict": "Rogue One: The Ultimate Visual Guide mostly dates her birth to 22 BBY, though once to 21 BBY; Star Wars: Timelines and Catalyst support 21 BBY, which Wookieepedia follows."
+ },
+ {
+  "wp": "Cassian Jeron Andor",
+  "name": "Cassian Andor",
+  "short": "Cassian",
+  "aliases": [
+   "Kassa",
+   "Keef Girgo",
+   "Fulcrum",
+   "Willix"
+  ],
+  "species": "Human (Kenari)",
+  "homeworld": "Kenari",
+  "affiliation": "Axis network → Alliance to Restore the Republic (Alliance Intelligence, Rogue One)",
+  "born": {
+   "y": -33,
+   "yText": "33 BBY",
+   "confidence": "explicit"
+  },
+  "died": {
+   "y": -1,
+   "yText": "1 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A Kenari boy adopted by smugglers who raise him on Ferrix, Cassian drifts through petty theft until Luthen Rael recruits him for the Aldhani heist. Jailed on Narkina 5, he breaks out committed to the fight and becomes a rebel intelligence captain. In 1 BBY he helps Jyn Erso steal the Death Star plans and dies on Scarif.",
+  "posts": [
+   {
+    "from": -24,
+    "to": -24,
+    "fromText": "c. 24 BBY",
+    "toText": "c. 24 BBY",
+    "text": "Taken from Kenari by Maarva and Clem Andor"
+   },
+   {
+    "from": -5,
+    "to": -5,
+    "fromText": "5 BBY",
+    "toText": "5 BBY",
+    "text": "Recruited by Luthen Rael for the Aldhani heist"
+   },
+   {
+    "from": -5,
+    "to": -5,
+    "fromText": "5 BBY",
+    "toText": "5 BBY",
+    "text": "Imprisoned on Narkina 5; helps lead the breakout"
+   },
+   {
+    "from": -5,
+    "to": -2,
+    "fromText": "5 BBY",
+    "toText": "2 BBY",
+    "text": "Rebel operative on missions from Yavin 4 to Ghorman"
+   },
+   {
+    "from": -2,
+    "to": -1,
+    "fromText": "2 BBY",
+    "toText": "1 BBY",
+    "text": "Alliance Intelligence captain under Draven, with K-2SO"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Spares Galen Erso on Eadu; gathers the Rogue One team"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Dies on Scarif with Jyn after the plans are sent"
+   }
+  ],
+  "sources": [
+   "Kassa (episode)",
+   "Aldhani (episode)",
+   "One Way Out",
+   "Welcome to the Rebellion",
+   "Rogue One: A Star Wars Story",
+   "Star Wars: Dawn of Rebellion: The Visual Guide",
+   "Star Wars: Rogue One: The Ultimate Visual Guide"
+  ],
+  "conflict": "Star Wars: Dawn of Rebellion: The Visual Guide puts his birth on Kenari in 33 BBY, matching Andor; earlier works such as Rogue One: The Ultimate Visual Guide had him born on Fest in 26 BBY. Wookieepedia follows 33 BBY."
+ },
+ {
+  "wp": "K-2SO",
+  "name": "K-2SO",
+  "short": "K-2SO",
+  "aliases": [
+   "K-2"
+  ],
+  "species": "KX-series security droid",
+  "homeworld": "Vulpter",
+  "affiliation": "Galactic Empire (Imperial Army) → Alliance to Restore the Republic (Rogue One)",
+  "born": {
+   "y": -12,
+   "yText": "12 BBY",
+   "confidence": "explicit"
+  },
+  "died": {
+   "y": -1,
+   "yText": "1 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "An Imperial KX-series security droid sent to put down the Ghorman protests, K-2SO is disabled in the massacre and salvaged by Cassian Andor, who has him reprogrammed for the Rebellion. Blunt and tactless, he becomes Cassian's partner, helps free Jyn Erso and joins Rogue One, and is destroyed holding off stormtroopers at the Scarif vault.",
+  "posts": [
+   {
+    "from": -12,
+    "to": -12,
+    "fromText": "12 BBY",
+    "toText": "12 BBY",
+    "text": "Built as a KX-series security droid for the Empire"
+   },
+   {
+    "from": -2,
+    "to": -2,
+    "fromText": "2 BBY",
+    "toText": "2 BBY",
+    "text": "Deployed to Ghorman; disabled in the massacre"
+   },
+   {
+    "from": -2,
+    "to": -2,
+    "fromText": "2 BBY",
+    "toText": "2 BBY",
+    "text": "Salvaged by Cassian Andor and reprogrammed on Yavin 4"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Helps rescue Kleya Marki with Cassian and Melshi"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Frees Jyn Erso on Wobani; flies with Rogue One to Scarif"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Destroyed guarding the Scarif vault for Jyn and Cassian"
+   }
+  ],
+  "sources": [
+   "Who Are You?",
+   "Welcome to the Rebellion",
+   "Jedha, Kyber, Erso",
+   "Rogue One: A Star Wars Story",
+   "Star Wars: Rogue One: The Ultimate Visual Guide"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Saw Gerrera",
+  "name": "Saw Gerrera",
+  "short": "Saw",
+  "aliases": [
+   "Stoneface"
+  ],
+  "species": "Human (Onderonian)",
+  "homeworld": "Onderon",
+  "affiliation": "Onderon rebels → Royal Onderon Militia → Partisans",
+  "born": null,
+  "died": {
+   "y": -1,
+   "yText": "1 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "Trained by Jedi advisers to free Onderon from the Separatists, Saw loses his sister Steela in the victory and turns his war on the Empire. His Partisans take up extreme methods; he raises young Jyn Erso, later abandons her, and breaks with the rebel leaders. On Jedha he gives Jyn her father's message and dies when the Death Star fires.",
+  "posts": [
+   {
+    "from": -20,
+    "to": -20,
+    "fromText": "20 BBY",
+    "toText": "20 BBY",
+    "text": "Trained by Jedi advisers to fight for Onderon's rebels"
+   },
+   {
+    "from": -20,
+    "to": -20,
+    "fromText": "20 BBY",
+    "toText": "20 BBY",
+    "text": "Helps free Onderon from the Separatists; loses Steela"
+   },
+   {
+    "from": -19,
+    "to": -1,
+    "fromText": "after 19 BBY",
+    "toText": "1 BBY",
+    "text": "Leads the Partisans against the Empire"
+   },
+   {
+    "from": -13,
+    "to": -5,
+    "fromText": "13 BBY",
+    "toText": "c. 5 BBY",
+    "text": "Takes in young Jyn Erso and raises her as a soldier"
+   },
+   {
+    "from": -2,
+    "to": -2,
+    "fromText": "2 BBY",
+    "toText": "2 BBY",
+    "text": "Searches Geonosis for the Empire's secret project"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Holds Bodhi Rook on Jedha; dies as the Death Star fires"
+   }
+  ],
+  "sources": [
+   "A War on Two Fronts",
+   "Tipping Points",
+   "Narkina 5 (episode)",
+   "Ghosts of Geonosis",
+   "Rogue One: A Star Wars Story",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Orson Callan Krennic",
+  "name": "Orson Krennic",
+  "short": "Krennic",
+  "aliases": [
+   "Director Krennic"
+  ],
+  "species": "Human",
+  "homeworld": "Lexrul",
+  "affiliation": "Galactic Republic (Corps of Engineers) → Galactic Empire (Advanced Weapons Research)",
+  "born": {
+   "y": -52,
+   "yText": "c. 52 BBY",
+   "confidence": "inferred"
+  },
+  "died": {
+   "y": -1,
+   "yText": "1 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "An ambitious officer from Lexrul, Krennic rises through the Republic's engineering corps and manipulates his old friend Galen Erso into the kyber research that powers the Death Star's superlaser. As the Empire's director of advanced weapons he drives the station's construction for two decades, feuding with Tarkin, until the rebel raid on Scarif ends with his own weapon killing him.",
+  "posts": [
+   {
+    "from": -23,
+    "to": -23,
+    "fromText": "23 BBY",
+    "toText": "23 BBY",
+    "text": "Republic engineering officer on the secret battle station project"
+   },
+   {
+    "from": -19,
+    "to": -1,
+    "fromText": "after 19 BBY",
+    "toText": "1 BBY",
+    "text": "Director of Advanced Weapons Research, building the Death Star"
+   },
+   {
+    "from": -13,
+    "to": -13,
+    "fromText": "13 BBY",
+    "toText": "13 BBY",
+    "text": "Seizes Galen Erso on Lah'mu; Lyra Erso is killed"
+   },
+   {
+    "from": -4,
+    "to": -2,
+    "fromText": "4 BBY",
+    "toText": "2 BBY",
+    "text": "Plots the Ghorman takeover that ends in massacre"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Test-fires the Death Star on Jedha City"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Dies on Scarif when Tarkin fires the Death Star"
+   }
+  ],
+  "sources": [
+   "The Summit",
+   "One Year Later",
+   "What a Festive Evening",
+   "Rogue One: A Star Wars Story",
+   "Catalyst: A Rogue One Novel",
+   "Star Wars: Rogue One: The Ultimate Visual Guide"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Wilhuff Tarkin",
+  "name": "Wilhuff Tarkin",
+  "short": "Tarkin",
+  "aliases": [
+   "Grand Moff Tarkin",
+   "Governor Tarkin"
+  ],
+  "species": "Human",
+  "homeworld": "Eriadu",
+  "affiliation": "Galactic Republic (Navy, Strategic Advisory Cell) → Galactic Empire (Grand Moff)",
+  "born": {
+   "y": -64,
+   "yText": "c. 64 BBY",
+   "confidence": "inferred"
+  },
+  "died": {
+   "y": 0,
+   "yText": "0 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A governor from Eriadu's ruling family, Tarkin joins the Republic Navy in the Clone Wars, is rescued from the Citadel by Jedi, and prosecutes Ahsoka Tano. Under the Empire he becomes the first Grand Moff, oversees the Outer Rim and backs rule through fear. He orders Alderaan destroyed with the Death Star and dies aboard it at Yavin.",
+  "posts": [
+   {
+    "from": -36,
+    "to": -22,
+    "fromText": "36 BBY",
+    "toText": "22 BBY",
+    "text": "Leaves the Judicial Forces for politics; becomes Eriadu's governor"
+   },
+   {
+    "from": -22,
+    "to": -20,
+    "fromText": "22 BBY",
+    "toText": "20 BBY",
+    "text": "Republic Navy captain; freed by Jedi from the Citadel prison"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Admiral on the Strategic Advisory Cell; prosecutes Ahsoka Tano"
+   },
+   {
+    "from": -19,
+    "to": -18,
+    "fromText": "19 BBY",
+    "toText": "18 BBY",
+    "text": "Regional governor helping replace the clone army with recruits"
+   },
+   {
+    "from": -14,
+    "to": 0,
+    "fromText": "14 BBY",
+    "toText": "0 BBY",
+    "text": "Grand Moff of the Outer Rim, overseeing the Death Star"
+   },
+   {
+    "from": -4,
+    "to": -4,
+    "fromText": "4 BBY",
+    "toText": "4 BBY",
+    "text": "Arrives on Lothal to crush its rebel cell"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Takes the Death Star from Krennic; destroys Alderaan"
+   },
+   {
+    "from": 0,
+    "to": 0,
+    "fromText": "0 BBY",
+    "toText": "0 BBY",
+    "text": "Killed when the Death Star is destroyed at Yavin"
+   }
+  ],
+  "sources": [
+   "The Citadel (episode)",
+   "The Wrong Jedi",
+   "The Cavalry Has Arrived",
+   "Call to Action",
+   "Rogue One: A Star Wars Story",
+   "Star Wars: Episode IV A New Hope",
+   "Tarkin (novel)",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Snoke",
+  "name": "Snoke",
+  "short": "Snoke",
+  "aliases": [
+   "Supreme Leader Snoke"
+  ],
+  "species": "Strand-Cast humanoid",
+  "homeworld": "Exegol",
+  "affiliation": "Sith Eternal (proxy) → First Order (Supreme Leader)",
+  "born": {
+   "y": -12,
+   "yText": "by 12 BBY",
+   "confidence": "inferred"
+  },
+  "died": {
+   "y": 34,
+   "yText": "34 ABY",
+   "confidence": "explicit"
+  },
+  "summary": "A Strand-Cast grown on Exegol by Palpatine's cultists, Snoke serves as the Emperor's hidden puppet and takes control of the First Order as Supreme Leader. He seduces Ben Solo to the dark side and trains him as Kylo Ren, orders Starkiller Base to destroy the Republic's capital, and dies aboard the Supremacy when Kylo cuts him in half.",
+  "posts": [
+   {
+    "from": -12,
+    "to": -12,
+    "fromText": "by 12 BBY",
+    "toText": "by 12 BBY",
+    "text": "Grown on Exegol by the Sith Eternal as a Strand-Cast"
+   },
+   {
+    "from": 19,
+    "to": 28,
+    "fromText": "by 19 ABY",
+    "toText": "28 ABY",
+    "text": "Secretly grooms Ben Solo during his Jedi training"
+   },
+   {
+    "from": 28,
+    "to": 28,
+    "fromText": "28 ABY",
+    "toText": "28 ABY",
+    "text": "Takes Ben Solo as his apprentice, Kylo Ren"
+   },
+   {
+    "from": 29,
+    "to": 34,
+    "fromText": "by 29 ABY",
+    "toText": "34 ABY",
+    "text": "Supreme Leader of the First Order"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Orders Starkiller Base to destroy the Hosnian system"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Cut down by Kylo Ren aboard the Supremacy"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens",
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: The Rise of Skywalker: Expanded Edition",
+   "Star Wars: The Secrets of the Sith",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Armitage Hux",
+  "name": "Armitage Hux",
+  "short": "Hux",
+  "aliases": [
+   "General Hux"
+  ],
+  "species": "Human",
+  "homeworld": "Arkanis",
+  "affiliation": "Galactic Empire → First Order (Supreme Council) → Resistance (spy)",
+  "born": {
+   "y": -1,
+   "yText": "1 BBY",
+   "confidence": "explicit"
+  },
+  "died": {
+   "y": 35,
+   "yText": "35 ABY",
+   "confidence": "explicit"
+  },
+  "summary": "Born to an Imperial academy's commandant and a kitchen worker, Hux flees into the Unknown Regions as the Empire falls and grows up in the First Order. As its general he trains stormtroopers, arranges his father's death and fires Starkiller Base on the Hosnian system. Sidelined under Kylo Ren, he spies for the Resistance until Allegiant General Pryde executes him.",
+  "posts": [
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Born on Arkanis, son of Commandant Brendol Hux"
+   },
+   {
+    "from": 5,
+    "to": 5,
+    "fromText": "5 ABY",
+    "toText": "5 ABY",
+    "text": "Flees into the Unknown Regions with the Imperial remnant"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "34 ABY",
+    "text": "First Order general commanding the Finalizer and Starkiller Base"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Fires Starkiller Base on the Hosnian system"
+   },
+   {
+    "from": 34,
+    "to": 35,
+    "fromText": "34 ABY",
+    "toText": "35 ABY",
+    "text": "Loses standing when Kylo Ren becomes Supreme Leader"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Spies for the Resistance; executed by Allegiant General Pryde"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens",
+   "No Escape: Part 1",
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Aftermath: Empire's End",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Phasma",
+  "name": "Phasma",
+  "short": "Phasma",
+  "aliases": [
+   "Captain Phasma"
+  ],
+  "species": "Human",
+  "homeworld": "Parnassos",
+  "affiliation": "Scyre clan → First Order (stormtrooper command)",
+  "born": {
+   "y": 6,
+   "yText": "6 ABY",
+   "confidence": "explicit"
+  },
+  "died": {
+   "y": 34,
+   "yText": "34 ABY",
+   "confidence": "explicit"
+  },
+  "summary": "A warrior of the Scyre clan on ruined Parnassos, Phasma betrays her brother and her people to win passage offworld with Brendol Hux. Rising to command the First Order's stormtrooper training, she oversees FN-2187 and leads troops at Tuanul. Forced by Finn to lower Starkiller's shields, she later fights him on the burning Supremacy and falls into the flames.",
+  "posts": [
+   {
+    "from": 6,
+    "to": 6,
+    "fromText": "6 ABY",
+    "toText": "6 ABY",
+    "text": "Born on Parnassos into the Scyre clan"
+   },
+   {
+    "from": 22,
+    "to": 22,
+    "fromText": "after 22 ABY",
+    "toText": "after 22 ABY",
+    "text": "Betrays her clan and brother to leave with Brendol Hux"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "34 ABY",
+    "text": "Captain overseeing the First Order's stormtrooper training"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Commands troops in the Tuanul massacre on Jakku"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Forced by Finn and Han to lower Starkiller Base's shields"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Frames Lieutenant Sol Rivas for the loss and hunts him"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Falls into the flames after dueling Finn on the Supremacy"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode VII The Force Awakens",
+   "The Triple Dark",
+   "Star Wars: Episode VIII The Last Jedi",
+   "Phasma (novel)",
+   "Captain Phasma 1",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Rose Tico",
+  "name": "Rose Tico",
+  "short": "Rose",
+  "aliases": [],
+  "species": "Human",
+  "homeworld": "Hays Minor",
+  "affiliation": "Resistance (Cobalt Squadron ground crew, Engineering Corps)",
+  "born": {
+   "y": 11,
+   "yText": "c. 11 ABY",
+   "confidence": "inferred"
+  },
+  "died": null,
+  "summary": "A Resistance maintenance tech from Hays Minor, a world the First Order ravaged, Rose loses her sister Paige at D'Qar. She catches Finn deserting, then goes with him to Canto Bight and aboard the Supremacy to disable its tracker, and saves his life at Crait. A year later she runs the Resistance's engineers and fights at Exegol.",
+  "posts": [
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "by 34 ABY",
+    "toText": "34 ABY",
+    "text": "Maintenance technician with the Resistance's Cobalt Squadron"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Loses her sister Paige in the Battle of D'Qar"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Seeks a codebreaker on Canto Bight; boards the Supremacy with Finn"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Saves Finn's life at the Battle of Crait"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Commander of the Resistance Engineering Corps"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Lands on the Steadfast with the Exegol assault team"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode VIII The Last Jedi",
+   "Shuttle Shock",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "The Last Jedi: Cobalt Squadron",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Maz Kanata",
+  "name": "Maz Kanata",
+  "short": "Maz",
+  "aliases": [
+   "Kanata the Despoiler",
+   "Kanata the Benevolent",
+   "Maz Kanata the Usurper",
+   "Kanata of the Free Fleet"
+  ],
+  "species": "Maz Kanata's species",
+  "homeworld": "Takodana",
+  "affiliation": "Maz Kanata's pirate crew → Free Fleet → Resistance",
+  "born": {
+   "y": -973,
+   "yText": "973 BBY",
+   "confidence": "inferred"
+  },
+  "died": null,
+  "summary": "A small, sharp-eyed Force-sensitive who has lived more than a thousand years, Maz keeps a castle on Takodana as a haven for smugglers who leave their wars at the door. She offers Rey the Skywalker lightsaber she has kept for decades and, when the First Order razes her castle, entrusts it to Finn. Later she joins the Resistance.",
+  "posts": [
+   {
+    "from": -232,
+    "to": -232,
+    "fromText": "c. 232 BBY",
+    "toText": "c. 232 BBY",
+    "text": "Travels the galaxy in the High Republic era; visits Tenoo"
+   },
+   {
+    "from": -19,
+    "to": 4,
+    "fromText": "after 19 BBY",
+    "toText": "4 ABY",
+    "text": "Hides her Force-sensitivity under the Empire"
+   },
+   {
+    "from": 4,
+    "to": 34,
+    "fromText": "by 4 ABY",
+    "toText": "34 ABY",
+    "text": "Pirate queen keeping her Takodana castle as neutral ground"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Offers Rey the Skywalker lightsaber; her castle is destroyed"
+   },
+   {
+    "from": 34,
+    "to": 34,
+    "fromText": "34 ABY",
+    "toText": "34 ABY",
+    "text": "Sends Finn and Rose to a codebreaker on Canto Bight"
+   },
+   {
+    "from": 35,
+    "to": 35,
+    "fromText": "35 ABY",
+    "toText": "35 ABY",
+    "text": "Serves the Resistance through the victory at Exegol"
+   }
+  ],
+  "sources": [
+   "The Jumping Jetpack",
+   "Star Wars: Episode VII The Force Awakens",
+   "Star Wars: Episode VIII The Last Jedi",
+   "Star Wars: Episode IX The Rise of Skywalker",
+   "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Jango Fett",
+  "name": "Jango Fett",
+  "short": "Jango",
+  "aliases": [],
+  "species": "Human",
+  "homeworld": "Concord Dawn",
+  "affiliation": "Mandalorians → Bounty Hunters' Guild → Kaminoan government (clone template)",
+  "born": {
+   "y": -66,
+   "yText": "66 BBY",
+   "confidence": "explicit"
+  },
+  "died": {
+   "y": -22,
+   "yText": "22 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "A Mandalorian foundling from Concord Dawn who becomes the galaxy's top bounty hunter, Jango is hired by Dooku to be the template for the Republic's clone army on Kamino, taking an unaltered clone, Boba, as his son. Exposed by Obi-Wan after a botched plot on Padmé's life, he dies on Geonosis when Mace Windu beheads him.",
+  "posts": [
+   {
+    "from": -66,
+    "to": -66,
+    "fromText": "66 BBY",
+    "toText": "66 BBY",
+    "text": "Born; orphaned and taken in as a Mandalorian foundling"
+   },
+   {
+    "from": -32,
+    "to": -32,
+    "fromText": "c. 32 BBY",
+    "toText": "c. 32 BBY",
+    "text": "Hired by Dooku as the template for a clone army"
+   },
+   {
+    "from": -32,
+    "to": -22,
+    "fromText": "32 BBY",
+    "toText": "22 BBY",
+    "text": "Lives on Kamino raising Boba, his unaltered clone"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "22 BBY",
+    "toText": "22 BBY",
+    "text": "Hires Zam Wesell to kill Padmé, then silences her"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "22 BBY",
+    "toText": "22 BBY",
+    "text": "Beheaded by Mace Windu in the Battle of Geonosis"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Death Trap",
+   "Chapter 14: The Tragedy",
+   "Star Wars Jedi Master Magazine 2",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Boba Fett",
+  "name": "Boba Fett",
+  "short": "Boba",
+  "aliases": [
+   "Alpha",
+   "Daimyo of Mos Espa"
+  ],
+  "species": "Human (clone)",
+  "homeworld": "Kamino",
+  "affiliation": "Krayt's Claw → Jabba's criminal empire → Tusken Raider tribe → Fett gotra",
+  "born": {
+   "y": -32,
+   "yText": "32 BBY",
+   "confidence": "explicit"
+  },
+  "died": null,
+  "summary": "An unaltered clone raised by Jango Fett as his son, Boba watches Mace Windu kill his father and grows into a feared bounty hunter, delivering the frozen Han Solo to Jabba. He survives the sarlacc, lives among Tuskens, reclaims his armor from Din Djarin, and seizes Jabba's throne as Daimyo of Mos Espa, defeating the Pykes and Cad Bane.",
+  "posts": [
+   {
+    "from": -32,
+    "to": -32,
+    "fromText": "32 BBY",
+    "toText": "32 BBY",
+    "text": "Grown on Kamino as Jango Fett's unaltered clone and son"
+   },
+   {
+    "from": -22,
+    "to": -22,
+    "fromText": "22 BBY",
+    "toText": "22 BBY",
+    "text": "Sees Mace Windu kill his father on Geonosis"
+   },
+   {
+    "from": -21,
+    "to": -21,
+    "fromText": "21 BBY",
+    "toText": "21 BBY",
+    "text": "Tries to kill Windu; jailed when the plot fails"
+   },
+   {
+    "from": -20,
+    "to": 4,
+    "fromText": "20 BBY",
+    "toText": "4 ABY",
+    "text": "Bounty hunter, later working for Jabba and Darth Vader"
+   },
+   {
+    "from": 3,
+    "to": 3,
+    "fromText": "3 ABY",
+    "toText": "3 ABY",
+    "text": "Tracks Han Solo to Bespin and delivers him to Jabba"
+   },
+   {
+    "from": 4,
+    "to": 4,
+    "fromText": "4 ABY",
+    "toText": "4 ABY",
+    "text": "Falls into the sarlacc at the Great Pit of Carkoon"
+   },
+   {
+    "from": 4,
+    "to": 9,
+    "fromText": "after 4 ABY",
+    "toText": "9 ABY",
+    "text": "Survives and lives among a Tusken Raider tribe"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Reclaims his armor; rules Mos Espa as Daimyo"
+   }
+  ],
+  "sources": [
+   "Star Wars: Episode II Attack of the Clones",
+   "Death Trap",
+   "Star Wars: Episode V The Empire Strikes Back",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Chapter 14: The Tragedy",
+   "Chapter 1: Stranger in a Strange Land",
+   "Chapter 7: In the Name of Honor",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Din Djarin",
+  "name": "Din Djarin",
+  "short": "Din",
+  "aliases": [
+   "the Mandalorian",
+   "Mando"
+  ],
+  "species": "Human",
+  "homeworld": "Aq Vetina",
+  "affiliation": "Mandalorians (Children of the Watch) → Bounty Hunters' Guild → New Republic (independent contractor)",
+  "born": {
+   "y": -19,
+   "yText": "before 19 BBY",
+   "confidence": "inferred"
+  },
+  "died": null,
+  "summary": "A war orphan from Aq Vetina raised by the Children of the Watch, Din hunts bounties for the Guild until a job hands him the infant Grogu, whom he refuses to give up. Hunted by Moff Gideon, he guards the child, sees him to Luke Skywalker, helps Bo-Katan retake Mandalore, and then hunts Imperial warlords for the New Republic.",
+  "posts": [
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "before 19 BBY",
+    "toText": "before 19 BBY",
+    "text": "Orphaned on Aq Vetina; taken in by the Children of the Watch"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "by 9 ABY",
+    "toText": "9 ABY",
+    "text": "Guild bounty hunter taking jobs from Greef Karga on Nevarro"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Rescues Grogu instead of delivering him; they become a clan"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Defeats Moff Gideon, winning the Darksaber; hands Grogu to Luke"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Branded an apostate; fights for Boba Fett at Mos Espa"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Redeemed in the Living Waters; helps retake Mandalore"
+   },
+   {
+    "from": 9,
+    "to": 14,
+    "fromText": "9 ABY",
+    "toText": "c. 14 ABY",
+    "text": "Adopts Grogu as his apprentice; takes New Republic contracts"
+   },
+   {
+    "from": 14,
+    "to": 14,
+    "fromText": "c. 14 ABY",
+    "toText": "c. 14 ABY",
+    "text": "Captures Commander Coin; rescues Rotta the Hutt on Nal Hutta"
+   }
+  ],
+  "sources": [
+   "Chapter 1: The Mandalorian",
+   "Chapter 8: Redemption",
+   "Chapter 16: The Rescue",
+   "Chapter 5: Return of the Mandalorian",
+   "Chapter 18: The Mines of Mandalore",
+   "Chapter 24: The Return",
+   "Star Wars: The Mandalorian and Grogu"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Din Grogu",
+  "name": "Grogu",
+  "short": "Grogu",
+  "aliases": [
+   "Din Grogu",
+   "the Child"
+  ],
+  "species": "Yoda's species",
+  "homeworld": null,
+  "affiliation": "Jedi Order → Mandalorians (Din Djarin's clan)",
+  "born": {
+   "y": -41,
+   "yText": "c. 41 BBY",
+   "confidence": "inferred"
+  },
+  "died": null,
+  "summary": "A youngling of Yoda's species raised in the Jedi Temple, Grogu is spirited away during Order 66 and hides for decades until a remnant of the Empire hunts him for his blood. Din Djarin rescues him and takes him in as a foundling. He trains briefly with Luke Skywalker, then chooses the Mandalorian path and becomes Din's son and apprentice.",
+  "posts": [
+   {
+    "from": -41,
+    "to": -41,
+    "fromText": "c. 41 BBY",
+    "toText": "c. 41 BBY",
+    "text": "Born; raised as an initiate in the Coruscant Jedi Temple"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Carried out of the Temple purge by Kelleran Beq"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Held on Arvala-7 for Moff Gideon; freed by Din Djarin"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Foundling of Din Djarin's clan of two"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Seized by Gideon's troops; rescued and handed to Luke Skywalker"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Trains with Luke, then chooses to return to Din"
+   },
+   {
+    "from": 9,
+    "to": null,
+    "fromText": "9 ABY",
+    "toText": null,
+    "text": "Adopted as Din Grogu, a Mandalorian apprentice"
+   },
+   {
+    "from": 14,
+    "to": 14,
+    "fromText": "c. 14 ABY",
+    "toText": "c. 14 ABY",
+    "text": "Helps free Din from the Hutt Twins on Nal Hutta"
+   }
+  ],
+  "sources": [
+   "Chapter 1: The Mandalorian",
+   "Chapter 13: The Jedi",
+   "Chapter 16: The Rescue",
+   "Chapter 6: From the Desert Comes a Stranger",
+   "Chapter 20: The Foundling",
+   "Chapter 24: The Return",
+   "Star Wars: The Mandalorian and Grogu",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Gideon",
+  "name": "Moff Gideon",
+  "short": "Gideon",
+  "aliases": [],
+  "species": "Human",
+  "homeworld": null,
+  "affiliation": "Galactic Empire (Imperial Security Bureau) → Imperial Remnant (Shadow Council)",
+  "born": null,
+  "died": {
+   "y": 9,
+   "yText": "9 ABY",
+   "confidence": "explicit"
+  },
+  "summary": "An Imperial Security Bureau officer who takes part in the Great Purge of Mandalore and tricks Bo-Katan out of the Darksaber, Gideon outlives the Empire as a remnant warlord. He hunts Grogu for blood to feed his cloning work, loses the child and the blade to Din Djarin, escapes Republic custody, and dies when the Mandalorians retake their homeworld.",
+  "posts": [
+   {
+    "from": 4,
+    "to": 5,
+    "fromText": "4 ABY",
+    "toText": "5 ABY",
+    "text": "Carries out the Great Purge; takes the Darksaber from Bo-Katan"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "by 9 ABY",
+    "toText": "9 ABY",
+    "text": "Moff at the head of an Imperial remnant, hunting Grogu"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Seizes Grogu on Tython; defeated and captured by Din Djarin"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Freed from Republic custody; sits on the Shadow Council"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Killed as the Mandalorians retake their homeworld"
+   }
+  ],
+  "sources": [
+   "Chapter 7: The Reckoning",
+   "Chapter 8: Redemption",
+   "Chapter 16: The Rescue",
+   "Chapter 23: The Spies",
+   "Chapter 24: The Return"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Greef Karga",
+  "name": "Greef Karga",
+  "short": "Karga",
+  "aliases": [
+   "High Magistrate of Nevarro"
+  ],
+  "species": "Human",
+  "homeworld": "Nevarro",
+  "affiliation": "Bounty Hunters' Guild (Nevarro Hunters) → Nevarro (High Magistrate)",
+  "born": null,
+  "died": null,
+  "summary": "A disgraced former magistrate turned Guild agent, Karga hands Din Djarin the job that leads him to Grogu, then heads the hunters sent to take the child back. Healed by Grogu after a night attack, he fights beside Din to free Nevarro from Gideon's remnant, and as its magistrate turns the planet into a thriving independent trade port.",
+  "posts": [
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "by 9 ABY",
+    "toText": "9 ABY",
+    "text": "Former magistrate; Guild agent running the Nevarro Hunters"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Sends Din Djarin after the Client's asset, Grogu"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Turns on Din, then joins him against the Imperial garrison"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Magistrate of Nevarro, with Cara Dune as marshal"
+   },
+   {
+    "from": 9,
+    "to": null,
+    "fromText": "9 ABY",
+    "toText": null,
+    "text": "High Magistrate of Nevarro, now an independent trade port"
+   }
+  ],
+  "sources": [
+   "Chapter 1: The Mandalorian",
+   "Chapter 3: The Sin",
+   "Chapter 7: The Reckoning",
+   "Chapter 8: Redemption",
+   "Chapter 17: The Apostate",
+   "Chapter 24: The Return"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Carasynthia Dune",
+  "name": "Cara Dune",
+  "short": "Cara",
+  "aliases": [
+   "Carasynthia Dune"
+  ],
+  "species": "Human (Alderaanian)",
+  "homeworld": "Alderaan",
+  "affiliation": "Alliance to Restore the Republic (shock trooper) → New Republic (Marshal, Special Forces)",
+  "born": null,
+  "died": null,
+  "summary": "An Alderaanian who was offworld when the Death Star destroyed her home, Cara joins the rebels as a shock trooper and hunts warlords after Endor, then resigns when reassigned to escort and riot duty. A mercenary on Sorgan, she helps Din Djarin defend a village and free Nevarro, becomes the planet's marshal, and later joins New Republic Special Forces.",
+  "posts": [
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Offworld when the Death Star destroys Alderaan"
+   },
+   {
+    "from": 4,
+    "to": 5,
+    "fromText": "4 ABY",
+    "toText": "5 ABY",
+    "text": "Rebel shock trooper hunting Imperial warlords after Endor"
+   },
+   {
+    "from": 5,
+    "to": 9,
+    "fromText": "after 5 ABY",
+    "toText": "9 ABY",
+    "text": "Quits New Republic service; works as a mercenary"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Helps Din Djarin defend Sorgan and free Nevarro"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Marshal of Nevarro under Magistrate Karga"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Helps rescue Grogu and capture Moff Gideon"
+   },
+   {
+    "from": 9,
+    "to": null,
+    "fromText": "9 ABY",
+    "toText": null,
+    "text": "Recruited into New Republic Special Forces"
+   }
+  ],
+  "sources": [
+   "Chapter 4: Sanctuary",
+   "Chapter 7: The Reckoning",
+   "Chapter 8: Redemption",
+   "Chapter 12: The Siege",
+   "Chapter 16: The Rescue",
+   "Chapter 17: The Apostate"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Bo-Katan Kryze",
+  "name": "Bo-Katan Kryze",
+  "short": "Bo-Katan",
+  "aliases": [
+   "Mand'alor",
+   "Lady Kryze",
+   "Regent of Mandalore"
+  ],
+  "species": "Human",
+  "homeworld": "Kalevala",
+  "affiliation": "Death Watch (Nite Owls) → Mandalore resistance → Mandalorian resistance → Mandalorians (Mand'alor)",
+  "born": null,
+  "died": null,
+  "summary": "Duchess Satine's sister, Bo-Katan fights for Death Watch until Maul kills its leader and seizes Mandalore, then turns on him and helps the Republic drive him out. She briefly rules as regent, rallies the clans against the Empire with the Darksaber, and loses it to Gideon in the Great Purge. Years later she unites the Mandalorians and retakes their homeworld.",
+  "posts": [
+   {
+    "from": -20,
+    "to": -19,
+    "fromText": "by 20 BBY",
+    "toText": "19 BBY",
+    "text": "Death Watch lieutenant commanding its Nite Owls"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Turns on Maul after he kills Pre Vizsla and seizes Mandalore"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Leads the resistance as the Republic's siege drives Maul out"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Regent of Mandalore until she defies the new Emperor"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Takes up the Darksaber and unites clans against the Empire"
+   },
+   {
+    "from": 4,
+    "to": 5,
+    "fromText": "4 ABY",
+    "toText": "5 ABY",
+    "text": "Surrenders the Darksaber to Gideon in the Great Purge"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Allies with Din Djarin; bathes in the Living Waters"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Unites the Mandalorians and retakes Mandalore"
+   }
+  ],
+  "sources": [
+   "A Friend in Need",
+   "Shades of Reason",
+   "The Phantom Apprentice",
+   "Heroes of Mandalore",
+   "Chapter 11: The Heiress",
+   "Chapter 18: The Mines of Mandalore",
+   "Chapter 24: The Return"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Fennec Shand",
+  "name": "Fennec Shand",
+  "short": "Fennec",
+  "aliases": [],
+  "species": "Human",
+  "homeworld": null,
+  "affiliation": "Hutt Clan (assassin) → Fett gotra",
+  "born": null,
+  "died": null,
+  "summary": "A top assassin for the Hutts and other syndicates, Fennec begins by hunting the clone girl Omega against Cad Bane. With her employers jailed after the Empire's fall, she hides on Tatooine until Din Djarin and Toro Calican catch her and Calican shoots her. Boba Fett saves her with cybernetics, and she becomes his partner and enforcer.",
+  "posts": [
+   {
+    "from": -19,
+    "to": -18,
+    "fromText": "19 BBY",
+    "toText": "18 BBY",
+    "text": "Hunts the clone Omega, clashing with Cad Bane"
+   },
+   {
+    "from": -18,
+    "to": 5,
+    "fromText": "after 18 BBY",
+    "toText": "5 ABY",
+    "text": "Elite assassin for the Hutts and other syndicates"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Hiding on Tatooine; caught by Din Djarin and shot by Toro Calican"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Saved by Boba Fett; helps rescue Grogu from Gideon's cruiser"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "9 ABY",
+    "toText": "9 ABY",
+    "text": "Boba Fett's partner as he rules Mos Espa as Daimyo"
+   }
+  ],
+  "sources": [
+   "Bounty Lost",
+   "Bad Territory",
+   "Chapter 5: The Gunslinger",
+   "Chapter 14: The Tragedy",
+   "Chapter 1: Stranger in a Strange Land",
+   "Chapter 7: In the Name of Honor"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Mitth'raw'nuruodo",
+  "name": "Thrawn",
+  "short": "Thrawn",
+  "aliases": [
+   "Grand Admiral Thrawn",
+   "Mitth'raw'nuruodo",
+   "Mitth'raw'nuru",
+   "Kivu'raw'nuru"
+  ],
+  "species": "Chiss",
+  "homeworld": "Rentor",
+  "affiliation": "Chiss Ascendancy (Expansionary Defense Fleet) → Galactic Empire (Seventh Fleet) → Imperial Remnant",
+  "born": {
+   "y": -59,
+   "yText": "c. 59 BBY",
+   "confidence": "estimated"
+  },
+  "died": null,
+  "summary": "A Chiss officer adopted by the Mitth family, Thrawn defends the Ascendancy against the Grysks, then is exiled and joins the Empire to study it. Rising to Grand Admiral, he hunts the Lothal rebels with the Seventh Fleet until purrgil drag his flagship and Ezra Bridger to Peridea. A decade later he escapes to lead the Empire's remnants.",
+  "posts": [
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "c. 19 BBY",
+    "toText": "c. 19 BBY",
+    "text": "Chiss officer fighting the Nikardun and Grysk threats"
+   },
+   {
+    "from": -15,
+    "to": -15,
+    "fromText": "c. 15 BBY",
+    "toText": "c. 15 BBY",
+    "text": "Exiled by the Chiss; offers his service to the Empire"
+   },
+   {
+    "from": -15,
+    "to": -2,
+    "fromText": "c. 15 BBY",
+    "toText": "2 BBY",
+    "text": "Rises through the Imperial Navy from cadet to admiral"
+   },
+   {
+    "from": -9,
+    "to": -2,
+    "fromText": "c. 9 BBY",
+    "toText": "c. 2 BBY",
+    "text": "Takes Morgan Elsbeth into his service"
+   },
+   {
+    "from": -2,
+    "to": -2,
+    "fromText": "2 BBY",
+    "toText": "2 BBY",
+    "text": "Made Grand Admiral after crushing the Batonn insurgency"
+   },
+   {
+    "from": -2,
+    "to": -1,
+    "fromText": "2 BBY",
+    "toText": "1 BBY",
+    "text": "Commands the Seventh Fleet against the Lothal rebels"
+   },
+   {
+    "from": -1,
+    "to": 9,
+    "fromText": "1 BBY",
+    "toText": "c. 9 ABY",
+    "text": "Carried to Peridea by purrgil with Ezra Bridger"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "c. 9 ABY",
+    "toText": "c. 9 ABY",
+    "text": "Escapes Peridea to lead the Imperial remnant"
+   }
+  ],
+  "sources": [
+   "The Path of Anger",
+   "Steps Into Shadow",
+   "Zero Hour",
+   "Family Reunion – and Farewell",
+   "Part Eight: The Jedi, the Witch, and the Warlord",
+   "Thrawn (novel)",
+   "Thrawn Ascendancy: Chaos Rising",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Hera Syndulla",
+  "name": "Hera Syndulla",
+  "short": "Hera",
+  "aliases": [
+   "Phoenix Leader",
+   "Spectre-2",
+   "General Syndulla"
+  ],
+  "species": "Twi'lek",
+  "homeworld": "Ryloth",
+  "affiliation": "Spectres → Alliance to Restore the Republic (Phoenix Cell) → New Republic",
+  "born": {
+   "y": -29,
+   "yText": "29 BBY",
+   "confidence": "explicit"
+  },
+  "died": null,
+  "summary": "A Twi'lek from war-torn Ryloth, Hera flies the Ghost and builds her own rebel cell, the Spectres, with Kanan Jarrus. She rises to lead Phoenix Squadron, helps free Lothal from Thrawn after Kanan's death and bears their son, Jacen. A general through Endor and the New Republic years, she later backs Ahsoka's hunt for Thrawn and Ezra.",
+  "posts": [
+   {
+    "from": -12,
+    "to": -5,
+    "fromText": "12 BBY",
+    "toText": "5 BBY",
+    "text": "Leaves Ryloth; captains the Ghost with Kanan Jarrus"
+   },
+   {
+    "from": -5,
+    "to": -2,
+    "fromText": "5 BBY",
+    "toText": "2 BBY",
+    "text": "Leads the Spectres' insurgency on Lothal"
+   },
+   {
+    "from": -3,
+    "to": -1,
+    "fromText": "3 BBY",
+    "toText": "1 BBY",
+    "text": "Phoenix Leader of the rebel fleet"
+   },
+   {
+    "from": -2,
+    "to": -2,
+    "fromText": "2 BBY",
+    "toText": "2 BBY",
+    "text": "Escapes Thrawn's assault on the rebel base at Atollon"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Rebel general; frees Lothal after Kanan's death"
+   },
+   {
+    "from": -1,
+    "to": 4,
+    "fromText": "1 BBY",
+    "toText": "4 ABY",
+    "text": "Fights at Scarif, Hoth and Endor"
+   },
+   {
+    "from": 4,
+    "to": 5,
+    "fromText": "4 ABY",
+    "toText": "5 ABY",
+    "text": "New Republic general; leads the Barma Battle Group at Jakku"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "c. 9 ABY",
+    "toText": "c. 9 ABY",
+    "text": "Defies the Senate to back Ahsoka against Thrawn's return"
+   }
+  ],
+  "sources": [
+   "Star Wars Rebels: Spark of Rebellion",
+   "Zero Hour",
+   "Family Reunion – and Farewell",
+   "Rogue One: A Star Wars Story",
+   "Part Two: Toil and Trouble",
+   "A New Dawn",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Kanan Jarrus",
+  "name": "Kanan Jarrus",
+  "short": "Kanan",
+  "aliases": [
+   "Caleb Dume",
+   "Spectre-1"
+  ],
+  "species": "Human",
+  "homeworld": "Coruscant",
+  "affiliation": "Jedi Order → Spectres → Alliance to Restore the Republic (Phoenix Cell)",
+  "born": {
+   "y": -33,
+   "yText": "33 BBY",
+   "confidence": "explicit"
+  },
+  "died": {
+   "y": -1,
+   "yText": "1 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "Born Caleb Dume, a Padawan who escapes Order 66 when his master Depa Billaba dies covering him, Kanan drifts for years before joining Hera Syndulla's Ghost crew, and the two fall in love. He trains Ezra Bridger, defeats the Grand Inquisitor, is blinded by Maul on Malachor, and dies on Lothal shielding Hera and his friends from a blast.",
+  "posts": [
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "by 19 BBY",
+    "toText": "19 BBY",
+    "text": "Padawan Caleb Dume under Depa Billaba"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Survives Order 66 on Kaller as Billaba falls"
+   },
+   {
+    "from": -19,
+    "to": -11,
+    "fromText": "19 BBY",
+    "toText": "c. 11 BBY",
+    "text": "Hides as a drifter under the name Kanan Jarrus"
+   },
+   {
+    "from": -11,
+    "to": -1,
+    "fromText": "c. 11 BBY",
+    "toText": "1 BBY",
+    "text": "Joins Hera Syndulla's Ghost crew as her partner"
+   },
+   {
+    "from": -5,
+    "to": -1,
+    "fromText": "5 BBY",
+    "toText": "1 BBY",
+    "text": "Trains Ezra Bridger as his Padawan"
+   },
+   {
+    "from": -3,
+    "to": -3,
+    "fromText": "3 BBY",
+    "toText": "3 BBY",
+    "text": "Knighted in the Lothal Jedi Temple; blinded by Maul on Malachor"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Dies on Lothal saving Hera and the Spectres"
+   }
+  ],
+  "sources": [
+   "Aftermath (episode)",
+   "Star Wars Rebels: Spark of Rebellion",
+   "Shroud of Darkness",
+   "Twilight of the Apprentice",
+   "Jedi Night",
+   "A New Dawn",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Ezra Bridger",
+  "name": "Ezra Bridger",
+  "short": "Ezra",
+  "aliases": [
+   "Spectre-6",
+   "Dev Morgan"
+  ],
+  "species": "Human (Lothalite)",
+  "homeworld": "Lothal",
+  "affiliation": "Spectres → Alliance to Restore the Republic (Phoenix Cell) → Lothal resistance",
+  "born": {
+   "y": -19,
+   "yText": "19 BBY",
+   "confidence": "explicit"
+  },
+  "died": null,
+  "summary": "Born on Lothal on the first Empire Day and orphaned when his parents are seized, Ezra grows up a thief until he joins the Ghost crew and trains as Kanan's Padawan. He wrestles with the dark side after Malachor, clashes with Thrawn, and frees Lothal by vanishing into hyperspace with Thrawn's flagship. Stranded on Peridea, he returns a decade later.",
+  "posts": [
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Born on Lothal on the first Empire Day"
+   },
+   {
+    "from": -12,
+    "to": -5,
+    "fromText": "by 12 BBY",
+    "toText": "5 BBY",
+    "text": "Left alone when the Empire takes his parents; lives by theft"
+   },
+   {
+    "from": -5,
+    "to": -1,
+    "fromText": "5 BBY",
+    "toText": "1 BBY",
+    "text": "Joins the Ghost crew; Padawan to Kanan Jarrus"
+   },
+   {
+    "from": -3,
+    "to": -3,
+    "fromText": "3 BBY",
+    "toText": "3 BBY",
+    "text": "Takes up a Sith holocron on Malachor"
+   },
+   {
+    "from": -2,
+    "to": -2,
+    "fromText": "2 BBY",
+    "toText": "2 BBY",
+    "text": "Finds Obi-Wan on Tatooine as Maul hunts him"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Frees Lothal, vanishing into hyperspace with Thrawn"
+   },
+   {
+    "from": -1,
+    "to": 9,
+    "fromText": "1 BBY",
+    "toText": "c. 9 ABY",
+    "text": "Stranded on Peridea"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "c. 9 ABY",
+    "toText": "c. 9 ABY",
+    "text": "Returns to the galaxy aboard Thrawn's Chimaera"
+   }
+  ],
+  "sources": [
+   "Star Wars Rebels: Spark of Rebellion",
+   "Twilight of the Apprentice",
+   "Twin Suns (episode)",
+   "Family Reunion – and Farewell",
+   "Part Six: Far, Far Away",
+   "Part Eight: The Jedi, the Witch, and the Warlord",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Sabine Wren",
+  "name": "Sabine Wren",
+  "short": "Sabine",
+  "aliases": [
+   "Spectre-5"
+  ],
+  "species": "Human",
+  "homeworld": "Mandalore",
+  "affiliation": "Galactic Empire (Imperial Academy of Mandalore) → Alliance to Restore the Republic (Spectres) → Mandalorian resistance → New Republic",
+  "born": {
+   "y": -21,
+   "yText": "21 BBY",
+   "confidence": "explicit"
+  },
+  "died": null,
+  "summary": "A Mandalorian cadet whose weapons are turned on her own people, Sabine deserts the Imperial academy, hunts bounties, then joins the Ghost crew as its explosives expert and artist. She wields the Darksaber to unite the clans, hands it to Bo-Katan, and helps free Lothal. After training under Ahsoka, she follows the search for Ezra to Peridea.",
+  "posts": [
+   {
+    "from": -5,
+    "to": -5,
+    "fromText": "before 5 BBY",
+    "toText": "before 5 BBY",
+    "text": "Imperial cadet who deserts after her Duchess weapon is used on Mandalorians"
+   },
+   {
+    "from": -5,
+    "to": -1,
+    "fromText": "5 BBY",
+    "toText": "1 BBY",
+    "text": "Spectre of the Ghost crew, its artist and explosives expert"
+   },
+   {
+    "from": -2,
+    "to": -2,
+    "fromText": "2 BBY",
+    "toText": "2 BBY",
+    "text": "Finds the Darksaber on Dathomir; learns it under Kanan"
+   },
+   {
+    "from": -2,
+    "to": -1,
+    "fromText": "2 BBY",
+    "toText": "1 BBY",
+    "text": "Wins Clan Wren to the rebels; passes the Darksaber to Bo-Katan"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Fights in the liberation of Lothal"
+   },
+   {
+    "from": -1,
+    "to": 5,
+    "fromText": "after 1 BBY",
+    "toText": "by 5 ABY",
+    "text": "Trains under Ahsoka Tano until they part ways"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "c. 9 ABY",
+    "toText": "c. 9 ABY",
+    "text": "Rejoins Ahsoka; finds Ezra on Peridea and is stranded there"
+   }
+  ],
+  "sources": [
+   "Star Wars Rebels: Spark of Rebellion",
+   "Trials of the Darksaber",
+   "Legacy of Mandalore",
+   "Heroes of Mandalore",
+   "Family Reunion – and Farewell",
+   "Part One: Master and Apprentice",
+   "Part Six: Far, Far Away",
+   "Star Wars: Timelines"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Garazeb Orrelios",
+  "name": "Zeb Orrelios",
+  "short": "Zeb",
+  "aliases": [
+   "Garazeb Orrelios",
+   "Spectre-4"
+  ],
+  "species": "Lasat",
+  "homeworld": "Lasan",
+  "affiliation": "Lasan High Honor Guard → Spectres → Alliance to Restore the Republic → New Republic (Adelphi Rangers)",
+  "born": null,
+  "died": null,
+  "summary": "A captain of the Lasan High Honor Guard who survives the Empire's destruction of his world, Zeb joins the Ghost crew. He leads Lasat refugees to their lost home, Lira San, befriends Kallus, the agent who helped slaughter his people, and fights to free Lothal. He later serves with the New Republic's Adelphi Rangers and hunts warlords with Din Djarin.",
+  "posts": [
+   {
+    "from": -7,
+    "to": -7,
+    "fromText": "7 BBY",
+    "toText": "7 BBY",
+    "text": "Captain of the Lasan High Honor Guard; survives the Siege of Lasan"
+   },
+   {
+    "from": -5,
+    "to": -1,
+    "fromText": "by 5 BBY",
+    "toText": "1 BBY",
+    "text": "Spectre of the Ghost crew and its strongest brawler"
+   },
+   {
+    "from": -3,
+    "to": -3,
+    "fromText": "3 BBY",
+    "toText": "3 BBY",
+    "text": "Guides the Ghost to the Lasat's lost homeworld, Lira San"
+   },
+   {
+    "from": -3,
+    "to": -3,
+    "fromText": "3 BBY",
+    "toText": "3 BBY",
+    "text": "Stranded on Bahryn with Agent Kallus; the two become friends"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Fights in the liberation of Lothal"
+   },
+   {
+    "from": 5,
+    "to": 5,
+    "fromText": "after 5 ABY",
+    "toText": "after 5 ABY",
+    "text": "Brings Kallus to live among the Lasat on Lira San"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "c. 9 ABY",
+    "toText": "c. 9 ABY",
+    "text": "Serves with the New Republic's Adelphi Rangers"
+   },
+   {
+    "from": 14,
+    "to": 14,
+    "fromText": "c. 14 ABY",
+    "toText": "c. 14 ABY",
+    "text": "Hunts Imperial warlords with Din Djarin; joins the Nal Hutta raid"
+   }
+  ],
+  "sources": [
+   "Star Wars Rebels: Spark of Rebellion",
+   "Legends of the Lasat",
+   "The Honorable Ones",
+   "Family Reunion – and Farewell",
+   "Chapter 21: The Pirate",
+   "Part Two: Toil and Trouble",
+   "Star Wars: The Mandalorian and Grogu",
+   "Star Wars Rebels: The Visual Guide"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "C1-10P",
+  "name": "Chopper",
+  "short": "Chopper",
+  "aliases": [
+   "C1-10P",
+   "Chop",
+   "Spectre-3"
+  ],
+  "species": "C1-series astromech droid",
+  "homeworld": "Lasan",
+  "affiliation": "Galactic Republic (Navy) → Syndulla clan → Spectres → Alliance to Restore the Republic → New Republic",
+  "born": null,
+  "died": null,
+  "summary": "An aging C1-series astromech who flew in the Republic Navy until his fighter crashed on Ryloth, Chopper is taken in by young Hera Syndulla and keeps her Ghost running for decades. Cranky and mischievous but loyal, he fights through the Lothal insurgency, helps find the rebels a base on Atollon, and stays at Hera's side into the New Republic years.",
+  "posts": [
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "22 BBY",
+    "toText": "19 BBY",
+    "text": "Republic Navy astromech until shot down over Ryloth"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Helps young Hera and Clone Force 99 rescue her parents"
+   },
+   {
+    "from": -12,
+    "to": -5,
+    "fromText": "12 BBY",
+    "toText": "5 BBY",
+    "text": "Leaves Ryloth with Hera; keeps the Ghost flying"
+   },
+   {
+    "from": -5,
+    "to": -1,
+    "fromText": "5 BBY",
+    "toText": "1 BBY",
+    "text": "Spectre of the Ghost crew in the Lothal insurgency"
+   },
+   {
+    "from": -3,
+    "to": -3,
+    "fromText": "3 BBY",
+    "toText": "3 BBY",
+    "text": "Befriends AP-5 and finds the rebels a base on Atollon"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Fights in the liberation of Lothal"
+   },
+   {
+    "from": 9,
+    "to": 9,
+    "fromText": "c. 9 ABY",
+    "toText": "c. 9 ABY",
+    "text": "Flies with Hera in the New Republic's search for Ezra"
+   }
+  ],
+  "sources": [
+   "Rescue on Ryloth (episode)",
+   "Star Wars Rebels: Spark of Rebellion",
+   "The Forgotten Droid",
+   "Hera's Heroes",
+   "Family Reunion – and Farewell",
+   "Part Three: Time to Fly",
+   "Part Eight: The Jedi, the Witch, and the Warlord"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Luthen Rael",
+  "name": "Luthen Rael",
+  "short": "Luthen",
+  "aliases": [
+   "Lear",
+   "Axis"
+  ],
+  "species": "Human",
+  "homeworld": "Fondor",
+  "affiliation": "Galactic Empire (Imperial Army) → Axis network → Alliance to Restore the Republic",
+  "born": null,
+  "died": {
+   "y": -1,
+   "yText": "1 BBY",
+   "confidence": "explicit"
+  },
+  "summary": "Born Lear, an Imperial Army sergeant who deserts in disgust and rescues the orphan Kleya, Luthen builds a secret rebel network behind a Coruscant antiques gallery. As Axis he plans the Aldhani heist, recruits Cassian Andor, and sacrifices allies to protect his sources. Cornered by the ISB, he tries to take his own life, and Kleya finishes it.",
+  "posts": [
+   {
+    "from": -19,
+    "to": -18,
+    "fromText": "19 BBY",
+    "toText": "c. 18 BBY",
+    "text": "Imperial Army sergeant made to commit atrocities"
+   },
+   {
+    "from": -18,
+    "to": -18,
+    "fromText": "c. 18 BBY",
+    "toText": "c. 18 BBY",
+    "text": "Deserts and saves the orphan Kleya Marki"
+   },
+   {
+    "from": -15,
+    "to": -1,
+    "fromText": "c. 15 BBY",
+    "toText": "1 BBY",
+    "text": "Runs the Axis network behind a Coruscant antiques gallery"
+   },
+   {
+    "from": -5,
+    "to": -5,
+    "fromText": "5 BBY",
+    "toText": "5 BBY",
+    "text": "Recruits Cassian Andor; stages the Aldhani heist"
+   },
+   {
+    "from": -5,
+    "to": -5,
+    "fromText": "5 BBY",
+    "toText": "5 BBY",
+    "text": "Lets Kreegyr's rebels die at Spellhaus to shield his ISB mole"
+   },
+   {
+    "from": -2,
+    "to": -2,
+    "fromText": "2 BBY",
+    "toText": "2 BBY",
+    "text": "Stays on Coruscant as Mon Mothma forms the Rebel Alliance"
+   },
+   {
+    "from": -1,
+    "to": -1,
+    "fromText": "1 BBY",
+    "toText": "1 BBY",
+    "text": "Tracked down by Dedra Meero; his life ended by Kleya"
+   }
+  ],
+  "sources": [
+   "That Would Be Me",
+   "Aldhani (episode)",
+   "One Way Out",
+   "Harvest",
+   "Make It Stop",
+   "Who Else Knows?",
+   "Star Wars: Dawn of Rebellion: The Visual Guide"
+  ],
+  "conflict": null
+ },
+ {
+  "wp": "Mon Mothma",
+  "name": "Mon Mothma",
+  "short": "Mothma",
+  "aliases": [
+   "Double-M",
+   "Chancellor Mothma"
+  ],
+  "species": "Human (Chandrilan)",
+  "homeworld": "Chandrila",
+  "affiliation": "Galactic Republic (Senate) → Galactic Empire (Imperial Senate) → Alliance to Restore the Republic (Chancellor) → New Republic (Chancellor)",
+  "born": {
+   "y": -48,
+   "yText": "c. 48 BBY",
+   "confidence": "inferred"
+  },
+  "died": null,
+  "summary": "Elected Chandrila's senator at sixteen, Mothma argues for peace through the Clone Wars and stays in the Imperial Senate while secretly bankrolling Luthen Rael's rebel network. After the Ghorman massacre she denounces the Emperor, flees, and leads the unified Rebel Alliance as its chancellor. After Endor she becomes the New Republic's first Chancellor and cuts back its military.",
+  "posts": [
+   {
+    "from": -32,
+    "to": -19,
+    "fromText": "c. 32 BBY",
+    "toText": "19 BBY",
+    "text": "Senator for Chandrila, elected at sixteen"
+   },
+   {
+    "from": -22,
+    "to": -19,
+    "fromText": "22 BBY",
+    "toText": "19 BBY",
+    "text": "Anti-war voice of the Senate through the Clone Wars"
+   },
+   {
+    "from": -19,
+    "to": -19,
+    "fromText": "19 BBY",
+    "toText": "19 BBY",
+    "text": "Joins the Delegation of 2,000 against Palpatine's powers"
+   },
+   {
+    "from": -19,
+    "to": -2,
+    "fromText": "19 BBY",
+    "toText": "2 BBY",
+    "text": "Imperial senator secretly funding the rebel underground"
+   },
+   {
+    "from": -4,
+    "to": -4,
+    "fromText": "4 BBY",
+    "toText": "4 BBY",
+    "text": "Marries her daughter to a Sculdun to cover her rebel funding"
+   },
+   {
+    "from": -2,
+    "to": -2,
+    "fromText": "2 BBY",
+    "toText": "2 BBY",
+    "text": "Denounces the Ghorman massacre; resigns and flees Coruscant"
+   },
+   {
+    "from": -2,
+    "to": 4,
+    "fromText": "2 BBY",
+    "toText": "4 ABY",
+    "text": "Chancellor of the Rebel Alliance"
+   },
+   {
+    "from": 4,
+    "to": null,
+    "fromText": "4 ABY",
+    "toText": null,
+    "text": "First Chancellor of the New Republic"
+   }
+  ],
+  "sources": [
+   "Senate Murders",
+   "Star Wars: Episode III Revenge of the Sith",
+   "The Axe Forgets",
+   "Harvest",
+   "Welcome to the Rebellion",
+   "Secret Cargo",
+   "Star Wars: Episode VI Return of the Jedi",
+   "Queen's Shadow"
+  ],
+  "conflict": "Star Wars: The Rebel Files dates her election to the Senate to 27 BBY; Queen's Shadow and Reign of the Empire: The Mask of Fear place it around 32 BBY, which Wookieepedia follows and from which her birth year is worked out."
+ }
+]
