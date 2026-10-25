@@ -1,0 +1,3 @@
+# Python 3.10+ for tools/. Pillow is only needed by fetch_portraits.py; playwright only by smoke_test.py --browser.
+requests>=2.32
+Pillow>=10

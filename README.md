@@ -30,12 +30,21 @@ mid-sentence ("Center on the board").
 ## Build
 
 ```
+pip install -r tools/requirements.txt
 python3 tools/fetch_records.py        # canon films + episodes, Legends screen media → cache/wp (Wookieepedia API)
 python3 tools/parse_records.py        # infoboxes, App sections (who / where / what), in-universe order → build/records.json
 python3 tools/places.py               # every location → planets with region / sector / system / grid square
+python3 tools/routes.py               # the great hyperspace lanes for the star map → build/routes.json
 python3 tools/build.py                # + data/curated/* → docs/data/archive.json
 python3 tools/fetch_portraits.py resolve && python3 tools/fetch_portraits.py download
+python3 tools/build.py                # again, so new portraits (data/portraits.json) reach the archive
 ```
+
+`cache/` and `build/` are not committed; a fresh clone refetches from Wookieepedia (a few minutes). A rebuild picks
+up whatever Wookieepedia says today, so `docs/data/archive.json` can change even when nothing in the repo did.
+
+Check the result with `python3 tools/smoke_test.py` (data and file checks) or `python3 tools/smoke_test.py --browser`
+(also opens every skin in headless Chromium; needs `pip install playwright && playwright install chromium`).
 
 Placement follows Wookieepedia's "Timeline of canon media" (in-universe order of every canon work) and
 "Timeline of Legends media". Curated overlays in `data/curated/` are compiled by research passes over
