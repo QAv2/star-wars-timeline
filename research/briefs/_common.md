@@ -4,7 +4,7 @@ Every curated overlay in `data/curated/` is compiled by a research pass over Woo
 archive's own words. These rules apply to every brief in this folder.
 
 ## Where things are
-- Repo: `/home/joseph/star-wars-timeline`. Run commands from the repo root.
+- Run commands from the repo root.
 - Wookieepedia goes through `python3 tools/wp.py` only (cached on disk under `cache/wp/`, so repeat calls are free):
   - `get "Title" [--grep REGEX] [--head N]`: raw wikitext (resolved title on line 1)
   - `lead "Title" ...`: infobox fields and the first paragraph, cleaned
